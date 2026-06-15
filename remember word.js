@@ -15,7 +15,7 @@
 // @match        *://github.com/*
 // @grant        GM_setValue
 // @grant        GM_getValue
-// @require      https://cdn.jsdelivr.net/gh/Link2000s/remember-words-box@main/CET4_T_2607.js
+// @require      https://raw.githubusercontent.com/Link2000s/remember-words-box/main/CET4_T_2607.js
 // ==/UserScript==
 
 (function() {
