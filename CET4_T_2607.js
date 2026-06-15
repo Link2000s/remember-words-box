@@ -1,10 +1,10 @@
-window.moyu_cet4_data =
-[
+// 1. 文件的最开头：直接显式挂载到 window，确保穿透沙箱
+window.moyu_cet4_data = [
     {
          "en": "cancel",
          "zh": [
             "取消， 撤销； 删去"
-        ],
+         ],
         "usphone": "'kænsl",
         "ukphone": "'kænsl"
     },
@@ -21609,5 +21609,5 @@ window.moyu_cet4_data =
         ],
         "usphone": "snæp",
         "ukphone": "snæp"
-    }
-]
+   }
+]; 
