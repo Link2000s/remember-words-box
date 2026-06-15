@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         强制背单词解锁网站
-// @version      12.0
+// @version      12.5
 // @description  纯净单词版：优化远程词库加载时序，增加延迟异步唤醒，彻底解决时序差导致的本地兜底问题。
 // @author       linkgp
 // @license      MIT
@@ -15,7 +15,8 @@
 // @match        *://github.com/*
 // @grant        GM_setValue
 // @grant        GM_getValue
-// @require      https://raw.githubusercontent.com/Link2000s/remember-words-box/main/CET4_T_2607.js
+// ⭕ 完美替换为 GreasyFork 官方白名单词库直链：
+// @require      https://update.greasyfork.org/scripts/582772/code.js
 // ==/UserScript==
 
 (function() {
