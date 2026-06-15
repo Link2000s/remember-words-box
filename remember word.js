@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         强制背单词解锁网站
-// @version      11.2
+// @version      11.3
 // @description  纯净单词版：优化远程词库加载时序，增加延迟异步唤醒，彻底解决时序差导致的本地兜底问题。
 // @author       linkgp
 // @license      MIT
