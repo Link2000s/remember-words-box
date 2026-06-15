@@ -1,15 +1,16 @@
+window.moyu_cet4_data =
 [
     {
-        "name": "cancel",
-        "trans": [
+         "en": "cancel",
+         "zh": [
             "取消， 撤销； 删去"
         ],
         "usphone": "'kænsl",
         "ukphone": "'kænsl"
     },
     {
-        "name": "explosive",
-        "trans": [
+         "en": "explosive",
+         "zh": [
             "爆炸的； 极易引起争论的",
             "炸药"
         ],
@@ -17,16 +18,16 @@
         "ukphone": "ɪk'spləusɪv"
     },
     {
-        "name": "numerous",
-        "trans": [
+         "en": "numerous",
+         "zh": [
             "众多的"
         ],
         "usphone": "'numərəs",
         "ukphone": "'njuːmərəs"
     },
     {
-        "name": "govern",
-        "trans": [
+         "en": "govern",
+         "zh": [
             "居支配地位， 占优势",
             "统治，治理，支配"
         ],
@@ -34,72 +35,72 @@
         "ukphone": "'gʌvn"
     },
     {
-        "name": "analyse",
-        "trans": [
+         "en": "analyse",
+         "zh": [
             "分析； 分解； 解析"
         ],
         "usphone": "'æn(ə)laɪz",
         "ukphone": "'ænəlaɪz"
     },
     {
-        "name": "discourage",
-        "trans": [
+         "en": "discourage",
+         "zh": [
             "使泄气， 使灰心； 阻止， 劝阻"
         ],
         "usphone": "dɪs'kɝɪdʒ",
         "ukphone": "dɪs'kʌrɪdʒ"
     },
     {
-        "name": "resemble",
-        "trans": [
+         "en": "resemble",
+         "zh": [
             "像， 类似于"
         ],
         "usphone": "rɪ'zɛmbl",
         "ukphone": "rɪ'zembl"
     },
     {
-        "name": "remote",
-        "trans": [
+         "en": "remote",
+         "zh": [
             "遥远的； 偏僻的； 关系疏远的； 脱离的； 微乎其微的； 孤高的， 冷淡的； 遥控的"
         ],
         "usphone": "rɪ'mot",
         "ukphone": "rɪ'məut"
     },
     {
-        "name": "salary",
-        "trans": [
+         "en": "salary",
+         "zh": [
             "薪金， 薪水"
         ],
         "usphone": "'sæləri",
         "ukphone": "'sæləri"
     },
     {
-        "name": "pollution",
-        "trans": [
+         "en": "pollution",
+         "zh": [
             "污染， 污染物"
         ],
         "usphone": "pə'luʃən",
         "ukphone": "pə'luːʃn"
     },
     {
-        "name": "pretend",
-        "trans": [
+         "en": "pretend",
+         "zh": [
             "装作， 假装"
         ],
         "usphone": "prɪ'tɛnd",
         "ukphone": "prɪ'tend"
     },
     {
-        "name": "kettle",
-        "trans": [
+         "en": "kettle",
+         "zh": [
             "水壶"
         ],
         "usphone": "'kɛtl",
         "ukphone": "'ketl"
     },
     {
-        "name": "wreck",
-        "trans": [
+         "en": "wreck",
+         "zh": [
             "失事；残骸；精神或身体已垮的人",
             "破坏"
         ],
@@ -107,96 +108,96 @@
         "ukphone": "rek"
     },
     {
-        "name": "drunk",
-        "trans": [
+         "en": "drunk",
+         "zh": [
             "醉的； 陶醉的"
         ],
         "usphone": "drʌŋk",
         "ukphone": "drʌŋk"
     },
     {
-        "name": "calculate",
-        "trans": [
+         "en": "calculate",
+         "zh": [
             "计算； 估计； 计划"
         ],
         "usphone": "'kælkjulet",
         "ukphone": "'kælkjuleɪt"
     },
     {
-        "name": "persistent",
-        "trans": [
+         "en": "persistent",
+         "zh": [
             "坚持的， 不屈不挠的； 持续不断的； 反复出现的"
         ],
         "usphone": "pə'zɪstənt",
         "ukphone": "pə'sɪstənt"
     },
     {
-        "name": "sake",
-        "trans": [
+         "en": "sake",
+         "zh": [
             "缘故， 理由"
         ],
         "usphone": "sek",
         "ukphone": "seɪk"
     },
     {
-        "name": "conceal",
-        "trans": [
+         "en": "conceal",
+         "zh": [
             "把…隐藏起来， 掩盖， 隐瞒"
         ],
         "usphone": "kən'sil",
         "ukphone": "kən'siːl"
     },
     {
-        "name": "audience",
-        "trans": [
+         "en": "audience",
+         "zh": [
             "听众， 观众， 读者"
         ],
         "usphone": "'ɔdɪəns",
         "ukphone": "'ɔːdiəns"
     },
     {
-        "name": "meanwhile",
-        "trans": [
+         "en": "meanwhile",
+         "zh": [
             "与此同时"
         ],
         "usphone": "'minwaɪl",
         "ukphone": "'miːnwaɪl"
     },
     {
-        "name": "possess",
-        "trans": [
+         "en": "possess",
+         "zh": [
             "占用， 拥有"
         ],
         "usphone": "pə'zɛs",
         "ukphone": "pə'zes"
     },
     {
-        "name": "competent",
-        "trans": [
+         "en": "competent",
+         "zh": [
             "有能力的， 能胜任的"
         ],
         "usphone": "'kɑmpɪtənt",
         "ukphone": "'kɒmpɪtənt"
     },
     {
-        "name": "investment",
-        "trans": [
+         "en": "investment",
+         "zh": [
             "投资， 投资额； 投入"
         ],
         "usphone": "ɪn'vɛstmənt",
         "ukphone": "ɪn'vestmənt"
     },
     {
-        "name": "neutral",
-        "trans": [
+         "en": "neutral",
+         "zh": [
             "中立的； 中性的"
         ],
         "usphone": "'nʊtrəl",
         "ukphone": "'njuːtrəl"
     },
     {
-        "name": "scratch",
-        "trans": [
+         "en": "scratch",
+         "zh": [
             "抓，搔，扒；刮，擦；刻出",
             "抓痕， 划痕； 抓， 搔， 刮"
         ],
@@ -204,24 +205,24 @@
         "ukphone": "skrætʃ"
     },
     {
-        "name": "optional",
-        "trans": [
+         "en": "optional",
+         "zh": [
             "可以任选的"
         ],
         "usphone": "'ɑpʃənl",
         "ukphone": "'ɒpʃənl"
     },
     {
-        "name": "require",
-        "trans": [
+         "en": "require",
+         "zh": [
             "需要； 要求； 命令"
         ],
         "usphone": "rɪ'kwaɪr",
         "ukphone": "rɪ'kwaɪə"
     },
     {
-        "name": "circular",
-        "trans": [
+         "en": "circular",
+         "zh": [
             "圆的；循环的；兜圈子的",
             "通知， 通告"
         ],
@@ -229,16 +230,16 @@
         "ukphone": "'sɜːkjələ"
     },
     {
-        "name": "analysis",
-        "trans": [
+         "en": "analysis",
+         "zh": [
             "分析， 分析报告； 分解； 解析"
         ],
         "usphone": "ə'næləsɪs",
         "ukphone": "ə'næləsɪs"
     },
     {
-        "name": "click",
-        "trans": [
+         "en": "click",
+         "zh": [
             "发出咔嗒声；点击",
             "咔嗒声"
         ],
@@ -246,48 +247,48 @@
         "ukphone": "klɪk"
     },
     {
-        "name": "fashionable",
-        "trans": [
+         "en": "fashionable",
+         "zh": [
             "流行的， 时髦的"
         ],
         "usphone": "'fæʃnəbl",
         "ukphone": "'fæʃnəbl"
     },
     {
-        "name": "devise",
-        "trans": [
+         "en": "devise",
+         "zh": [
             "设计， 发明"
         ],
         "usphone": "dɪ'vaɪz",
         "ukphone": "dɪ'vaɪz"
     },
     {
-        "name": "apparent",
-        "trans": [
+         "en": "apparent",
+         "zh": [
             "表面上的， 明显的"
         ],
         "usphone": "ə'pærənt",
         "ukphone": "ə'pærənt"
     },
     {
-        "name": "journalist",
-        "trans": [
+         "en": "journalist",
+         "zh": [
             "新闻工作者， 新闻记者"
         ],
         "usphone": "ˈdʒɝ​nlɪst",
         "ukphone": "'dʒɜːnəlɪst"
     },
     {
-        "name": "exposure",
-        "trans": [
+         "en": "exposure",
+         "zh": [
             "暴露， 揭露； 曝光"
         ],
         "usphone": "ɪk'spoʒɚ",
         "ukphone": "ɪk'spəuʒə"
     },
     {
-        "name": "temper",
-        "trans": [
+         "en": "temper",
+         "zh": [
             "韧度；心情，情绪",
             "调和， 使缓和； 【冶】使回火"
         ],
@@ -295,32 +296,32 @@
         "ukphone": "'tempə"
     },
     {
-        "name": "protective",
-        "trans": [
+         "en": "protective",
+         "zh": [
             "保护的， 防护的"
         ],
         "usphone": "prə'tɛktɪv",
         "ukphone": "prə'tektɪv"
     },
     {
-        "name": "sideways",
-        "trans": [
+         "en": "sideways",
+         "zh": [
             "从一边， 向一边； 在一边； 斜着， 侧身"
         ],
         "usphone": "'saɪdwez",
         "ukphone": "'saɪdweɪz"
     },
     {
-        "name": "multicultural",
-        "trans": [
+         "en": "multicultural",
+         "zh": [
             "融合多种文化的"
         ],
         "usphone": "'mʌltɪ'kʌltʃərəl",
         "ukphone": "ˌmʌlti'kʌltʃərəl"
     },
     {
-        "name": "object",
-        "trans": [
+         "en": "object",
+         "zh": [
             "反对， 不赞成",
             "实物， 物体； 目的， 目标； 对象， 客体； 宾语"
         ],
@@ -328,24 +329,24 @@
         "ukphone": "'ɒbdʒɪkt; -dʒekt"
     },
     {
-        "name": "humble",
-        "trans": [
+         "en": "humble",
+         "zh": [
             "谦逊的； 地位低下的； 简陋的"
         ],
         "usphone": "'hʌmbl",
         "ukphone": "'hʌmbl"
     },
     {
-        "name": "chapter",
-        "trans": [
+         "en": "chapter",
+         "zh": [
             "章， 回， 篇"
         ],
         "usphone": "'tʃæptɚ",
         "ukphone": "'tʃæptə"
     },
     {
-        "name": "harbour",
-        "trans": [
+         "en": "harbour",
+         "zh": [
             "海港，港口",
             "庇护； 心怀"
         ],
@@ -353,56 +354,56 @@
         "ukphone": "'hɑːbə"
     },
     {
-        "name": "independent",
-        "trans": [
+         "en": "independent",
+         "zh": [
             "独立的， 自主的； 无偏见的； 不相关联的"
         ],
         "usphone": "'ɪndɪ'pɛndənt",
         "ukphone": "ˌɪndɪ'pendənt"
     },
     {
-        "name": "carriage",
-        "trans": [
+         "en": "carriage",
+         "zh": [
             "客车厢， 四轮马车"
         ],
         "usphone": "'kærɪdʒ",
         "ukphone": "'kærɪdʒ"
     },
     {
-        "name": "cliff",
-        "trans": [
+         "en": "cliff",
+         "zh": [
             "悬崖， 峭壁"
         ],
         "usphone": "klɪf",
         "ukphone": "klɪf"
     },
     {
-        "name": "infinite",
-        "trans": [
+         "en": "infinite",
+         "zh": [
             "无限的； 无穷的"
         ],
         "usphone": "'ɪnfɪnət",
         "ukphone": "'ɪnfɪnət"
     },
     {
-        "name": "concede",
-        "trans": [
+         "en": "concede",
+         "zh": [
             "承认， 承认…为真； 承认失败； 允许， 让予； 让步， 认输"
         ],
         "usphone": "kən'sid",
         "ukphone": "kən'siːd"
     },
     {
-        "name": "elect",
-        "trans": [
+         "en": "elect",
+         "zh": [
             "选举， 推选； 选择"
         ],
         "usphone": "ɪ'lɛkt",
         "ukphone": "ɪ'lekt"
     },
     {
-        "name": "weekly",
-        "trans": [
+         "en": "weekly",
+         "zh": [
             "每周",
             "每周的"
         ],
@@ -410,8 +411,8 @@
         "ukphone": "'wiːkli"
     },
     {
-        "name": "result",
-        "trans": [
+         "en": "result",
+         "zh": [
             "发生； 结果",
             "结果；成果；比分"
         ],
@@ -419,32 +420,32 @@
         "ukphone": "rɪ'zʌlt"
     },
     {
-        "name": "golf",
-        "trans": [
+         "en": "golf",
+         "zh": [
             "高尔夫球运动"
         ],
         "usphone": "gɔlf",
         "ukphone": "gɒlf"
     },
     {
-        "name": "selfish",
-        "trans": [
+         "en": "selfish",
+         "zh": [
             "自私的， 利己的"
         ],
         "usphone": "'sɛlfɪʃ",
         "ukphone": "'selfɪʃ"
     },
     {
-        "name": "sexism",
-        "trans": [
+         "en": "sexism",
+         "zh": [
             "性别偏见， 性别歧视"
         ],
         "usphone": "'sɛk'sɪzəm",
         "ukphone": "'seksɪzəm"
     },
     {
-        "name": "commission",
-        "trans": [
+         "en": "commission",
+         "zh": [
             "委任状；委员会；佣金，回扣；授权，委托",
             "委任， 委托"
         ],
@@ -452,40 +453,40 @@
         "ukphone": "kə'mɪʃn"
     },
     {
-        "name": "headline",
-        "trans": [
+         "en": "headline",
+         "zh": [
             "大字标题； 新闻提要"
         ],
         "usphone": "'hɛdlaɪn",
         "ukphone": "'hedlaɪn"
     },
     {
-        "name": "connect",
-        "trans": [
+         "en": "connect",
+         "zh": [
             "连接， 结合， 联系； 给…接通电话"
         ],
         "usphone": "kə'nɛkt",
         "ukphone": "kə'nekt"
     },
     {
-        "name": "rational",
-        "trans": [
+         "en": "rational",
+         "zh": [
             "理性的， 理智的； 合理的"
         ],
         "usphone": "'ræʃnəl",
         "ukphone": "'ræʃnəl"
     },
     {
-        "name": "policy",
-        "trans": [
+         "en": "policy",
+         "zh": [
             "政策， 方针； 保险单"
         ],
         "usphone": "'pɑləsi",
         "ukphone": "'pɒləsi"
     },
     {
-        "name": "editorial",
-        "trans": [
+         "en": "editorial",
+         "zh": [
             "编辑的，主笔的，编者的；社论的，社论式的",
             "社论， 重要评论"
         ],
@@ -493,8 +494,8 @@
         "ukphone": "ˌedɪ'tɔːriəl"
     },
     {
-        "name": "resume",
-        "trans": [
+         "en": "resume",
+         "zh": [
             "重新开始， 继续， 恢复",
             "摘要， 概要； 简历"
         ],
@@ -502,56 +503,56 @@
         "ukphone": "rɪˈzjuːm; ˈrɛzjʊmeɪ"
     },
     {
-        "name": "rebuild",
-        "trans": [
+         "en": "rebuild",
+         "zh": [
             "重建， 改造； 复原"
         ],
         "usphone": ",ri'bɪld",
         "ukphone": "ˌriː'bɪld"
     },
     {
-        "name": "committee",
-        "trans": [
+         "en": "committee",
+         "zh": [
             "委员会， 全体委员"
         ],
         "usphone": "kə'mɪti",
         "ukphone": "kə'mɪti"
     },
     {
-        "name": "namely",
-        "trans": [
+         "en": "namely",
+         "zh": [
             "即， 也就是"
         ],
         "usphone": "'nemli",
         "ukphone": "'neɪmli"
     },
     {
-        "name": "artistic",
-        "trans": [
+         "en": "artistic",
+         "zh": [
             "艺术的， 艺术家的； 富有艺术性的， 精美的； 精彩的"
         ],
         "usphone": "ɑr'tɪstɪk",
         "ukphone": "ɑː'tɪstɪk"
     },
     {
-        "name": "union",
-        "trans": [
+         "en": "union",
+         "zh": [
             "工会， 联盟； 联合， 团结； 一致"
         ],
         "usphone": "'junɪən",
         "ukphone": "'juːnɪən"
     },
     {
-        "name": "plentiful",
-        "trans": [
+         "en": "plentiful",
+         "zh": [
             "丰富的， 充足的； 大量的"
         ],
         "usphone": "'plɛntɪfəl",
         "ukphone": "'plentɪfl"
     },
     {
-        "name": "halt",
-        "trans": [
+         "en": "halt",
+         "zh": [
             "停止，立定",
             "停住"
         ],
@@ -559,8 +560,8 @@
         "ukphone": "hɔːlt"
     },
     {
-        "name": "component",
-        "trans": [
+         "en": "component",
+         "zh": [
             "组成的， 构成的",
             "组成部分，部件，组件"
         ],
@@ -568,40 +569,40 @@
         "ukphone": "kəm'pəunənt"
     },
     {
-        "name": "consultant",
-        "trans": [
+         "en": "consultant",
+         "zh": [
             "顾问； 会诊医师， 专科医生"
         ],
         "usphone": "kən'sʌltənt",
         "ukphone": "kən'sʌltənt"
     },
     {
-        "name": "sunset",
-        "trans": [
+         "en": "sunset",
+         "zh": [
             "日落； 晚霞"
         ],
         "usphone": "'sʌnsɛt",
         "ukphone": "'sʌnset"
     },
     {
-        "name": "obvious",
-        "trans": [
+         "en": "obvious",
+         "zh": [
             "明显的"
         ],
         "usphone": "'ɑbvɪəs",
         "ukphone": "'ɒbviəs"
     },
     {
-        "name": "illustration",
-        "trans": [
+         "en": "illustration",
+         "zh": [
             "说明， 图解， 例证"
         ],
         "usphone": ",ɪlə'streʃən",
         "ukphone": "ˌɪlə'streɪʃn"
     },
     {
-        "name": "disguise",
-        "trans": [
+         "en": "disguise",
+         "zh": [
             "假扮，化装，伪装；掩盖，掩饰",
             "用来伪装的东西； 伪装， 掩饰"
         ],
@@ -609,8 +610,8 @@
         "ukphone": "dɪs'gaɪz"
     },
     {
-        "name": "wrap",
-        "trans": [
+         "en": "wrap",
+         "zh": [
             "裹，包，捆",
             "披肩"
         ],
@@ -618,48 +619,48 @@
         "ukphone": "ræp"
     },
     {
-        "name": "surgery",
-        "trans": [
+         "en": "surgery",
+         "zh": [
             "外科， 外科手术； 手术室"
         ],
         "usphone": "'sɝdʒəri",
         "ukphone": "'sɜːdʒəri"
     },
     {
-        "name": "liberal",
-        "trans": [
+         "en": "liberal",
+         "zh": [
             "心胸宽大的， 慷慨的； 自由的， 自由主义的"
         ],
         "usphone": "'lɪbərəl",
         "ukphone": "'lɪbərəl"
     },
     {
-        "name": "violent",
-        "trans": [
+         "en": "violent",
+         "zh": [
             "暴力引起的， 暴力的； 猛烈的， 剧烈的"
         ],
         "usphone": "'vaɪələnt",
         "ukphone": "'vaɪələnt"
     },
     {
-        "name": "harmony",
-        "trans": [
+         "en": "harmony",
+         "zh": [
             "调和， 协调， 和谐"
         ],
         "usphone": "'hɑrməni",
         "ukphone": "'hɑːməni"
     },
     {
-        "name": "resolve",
-        "trans": [
+         "en": "resolve",
+         "zh": [
             "解决， 解答； 决定， 决意"
         ],
         "usphone": "rɪ'zɑlv",
         "ukphone": "rɪ'zɒlv"
     },
     {
-        "name": "chill",
-        "trans": [
+         "en": "chill",
+         "zh": [
             "变冷，感到冷",
             "寒冷， 寒气； 风寒， 寒战"
         ],
@@ -667,16 +668,16 @@
         "ukphone": "tʃɪl"
     },
     {
-        "name": "confront",
-        "trans": [
+         "en": "confront",
+         "zh": [
             "迎面遇到， 遭遇； 勇敢地面对， 正视； 使对质， 使当面对证"
         ],
         "usphone": "kən'frʌnt",
         "ukphone": "kən'frʌnt"
     },
     {
-        "name": "dominate",
-        "trans": [
+         "en": "dominate",
+         "zh": [
             "拥有优势",
             "在…中占首要地位；支配，统治，控制；耸立于，俯视"
         ],
@@ -684,40 +685,40 @@
         "ukphone": "'dɒmɪneɪt"
     },
     {
-        "name": "imitate",
-        "trans": [
+         "en": "imitate",
+         "zh": [
             "模仿， 仿效， 仿制"
         ],
         "usphone": "'ɪmɪtet",
         "ukphone": "'ɪmɪteɪt"
     },
     {
-        "name": "faithful",
-        "trans": [
+         "en": "faithful",
+         "zh": [
             "忠诚的； 如实的； 尽职的"
         ],
         "usphone": "'feθfəl",
         "ukphone": "'feɪθfl"
     },
     {
-        "name": "reproduce",
-        "trans": [
+         "en": "reproduce",
+         "zh": [
             "复制， 再现； 繁殖， 生殖"
         ],
         "usphone": ",riprə'dus",
         "ukphone": "ˌriːprə'djuːs"
     },
     {
-        "name": "institution",
-        "trans": [
+         "en": "institution",
+         "zh": [
             "协会； 制度， 习俗"
         ],
         "usphone": ",ɪnstɪ'tuʃən",
         "ukphone": "ˌɪnstɪ'tjuːʃn"
     },
     {
-        "name": "pad",
-        "trans": [
+         "en": "pad",
+         "zh": [
             "垫，衬垫；便笺本；发射台，直升机起落场",
             "填塞"
         ],
@@ -725,40 +726,40 @@
         "ukphone": "pæd"
     },
     {
-        "name": "provocation",
-        "trans": [
+         "en": "provocation",
+         "zh": [
             "激怒， 刺激； 挑衅， 挑拨"
         ],
         "usphone": ",prɑvə'keʃən",
         "ukphone": "ˌprɒvə'keɪʃn"
     },
     {
-        "name": "ambition",
-        "trans": [
+         "en": "ambition",
+         "zh": [
             "雄心， 抱负； 野心； 期望得到的东西"
         ],
         "usphone": "æm'bɪʃən",
         "ukphone": "æm'bɪʃn"
     },
     {
-        "name": "scholarship",
-        "trans": [
+         "en": "scholarship",
+         "zh": [
             "奖学金； 学问， 学识"
         ],
         "usphone": "'skɑlɚʃɪp",
         "ukphone": "'skɒləʃɪp"
     },
     {
-        "name": "exceed",
-        "trans": [
+         "en": "exceed",
+         "zh": [
             "超过， 胜过， 超出"
         ],
         "usphone": "ɪk'sid",
         "ukphone": "ɪk'siːd"
     },
     {
-        "name": "besides",
-        "trans": [
+         "en": "besides",
+         "zh": [
             "而且",
             "除…之外"
         ],
@@ -766,24 +767,24 @@
         "ukphone": "bɪ'saɪdz"
     },
     {
-        "name": "preposition",
-        "trans": [
+         "en": "preposition",
+         "zh": [
             "介词"
         ],
         "usphone": ",prɛpə'zɪʃən",
         "ukphone": "ˌprepə'zɪʃn"
     },
     {
-        "name": "enlarge",
-        "trans": [
+         "en": "enlarge",
+         "zh": [
             "扩大， 扩展， 放大"
         ],
         "usphone": "ɪn'lɑrdʒ",
         "ukphone": "ɪn'lɑːdʒ"
     },
     {
-        "name": "implement",
-        "trans": [
+         "en": "implement",
+         "zh": [
             "工具， 器具， 用具",
             "使生效， 履行， 实施"
         ],
@@ -791,8 +792,8 @@
         "ukphone": "'ɪmplɪm(ə)nt"
     },
     {
-        "name": "export",
-        "trans": [
+         "en": "export",
+         "zh": [
             "输出， 出口",
             "输出， 出口； 输出品， 出口额"
         ],
@@ -800,16 +801,16 @@
         "ukphone": "ˈekspɔːt；ɪkˈ-"
     },
     {
-        "name": "Christ",
-        "trans": [
+         "en": "Christ",
+         "zh": [
             "基督， 救世主"
         ],
         "usphone": "kraist",
         "ukphone": "kraɪst"
     },
     {
-        "name": "murder",
-        "trans": [
+         "en": "murder",
+         "zh": [
             "谋杀，凶杀；谋杀罪",
             "谋杀；杀害"
         ],
@@ -817,8 +818,8 @@
         "ukphone": "'mɜːdə"
     },
     {
-        "name": "pat",
-        "trans": [
+         "en": "pat",
+         "zh": [
             "非常恰当的， 适时的",
             "轻拍"
         ],
@@ -826,40 +827,40 @@
         "ukphone": "pæt"
     },
     {
-        "name": "fantasy",
-        "trans": [
+         "en": "fantasy",
+         "zh": [
             "想象， 幻想； 想象的产物"
         ],
         "usphone": "'fæntəsi",
         "ukphone": "'fæntəsi"
     },
     {
-        "name": "horsepower",
-        "trans": [
+         "en": "horsepower",
+         "zh": [
             "马力"
         ],
         "usphone": "'hɔrs'paʊɚ",
         "ukphone": "'hɔːspauə"
     },
     {
-        "name": "visibility",
-        "trans": [
+         "en": "visibility",
+         "zh": [
             "可见度， 能见度； 可见性， 明显性"
         ],
         "usphone": "'vɪzə'bɪləti",
         "ukphone": "ˌvɪzə'bɪləti"
     },
     {
-        "name": "invitation",
-        "trans": [
+         "en": "invitation",
+         "zh": [
             "邀请， 招待； 请柬； 吸引， 诱惑"
         ],
         "usphone": "ˌɪnvɪˈteɪʃn",
         "ukphone": "ˌɪnvɪ'teɪʃn"
     },
     {
-        "name": "paw",
-        "trans": [
+         "en": "paw",
+         "zh": [
             "用爪子抓， 用蹄扒； 翻找",
             "爪子"
         ],
@@ -867,24 +868,24 @@
         "ukphone": "pɔː"
     },
     {
-        "name": "enormous",
-        "trans": [
+         "en": "enormous",
+         "zh": [
             "巨大的， 庞大的"
         ],
         "usphone": "ɪ'nɔrməs",
         "ukphone": "ɪ'nɔːməs"
     },
     {
-        "name": "moisture",
-        "trans": [
+         "en": "moisture",
+         "zh": [
             "潮湿， 湿气"
         ],
         "usphone": "'mɔɪstʃɚ",
         "ukphone": "'mɔɪstʃə"
     },
     {
-        "name": "toast",
-        "trans": [
+         "en": "toast",
+         "zh": [
             "烤面包；祝酒，祝酒词",
             "烘， 烤； 向…祝酒， 为…干杯"
         ],
@@ -892,80 +893,80 @@
         "ukphone": "təust"
     },
     {
-        "name": "frustrate",
-        "trans": [
+         "en": "frustrate",
+         "zh": [
             "使沮丧， 使灰心； 挫败， 使受挫折"
         ],
         "usphone": "'frʌstret",
         "ukphone": "frʌ'streɪt"
     },
     {
-        "name": "external",
-        "trans": [
+         "en": "external",
+         "zh": [
             "外部的， 外面的"
         ],
         "usphone": "ɪk'stɝnl",
         "ukphone": "ɪk'stɜːnl"
     },
     {
-        "name": "aside",
-        "trans": [
+         "en": "aside",
+         "zh": [
             "在旁边， 到旁边"
         ],
         "usphone": "ə'saɪd",
         "ukphone": "ə'saɪd"
     },
     {
-        "name": "circumstance",
-        "trans": [
+         "en": "circumstance",
+         "zh": [
             "情况， 条件； 境遇， 境况； 经济情况"
         ],
         "usphone": "ˈsɝ​kəmˌstəns",
         "ukphone": "'sɜːkəmstəns"
     },
     {
-        "name": "revise",
-        "trans": [
+         "en": "revise",
+         "zh": [
             "修订， 修改； 复习"
         ],
         "usphone": "rɪ'vaɪz",
         "ukphone": "rɪ'vaɪz"
     },
     {
-        "name": "authority",
-        "trans": [
+         "en": "authority",
+         "zh": [
             "官方； 权力； 当权者， 行政管理机构； 权威， 专家"
         ],
         "usphone": "ə'θɔrəti",
         "ukphone": "ɔː'θɒrəti"
     },
     {
-        "name": "creature",
-        "trans": [
+         "en": "creature",
+         "zh": [
             "创造物， 产物； 生物， 动物， 家畜"
         ],
         "usphone": "'kritʃɚ",
         "ukphone": "'kriːtʃə"
     },
     {
-        "name": "harm",
-        "trans": [
+         "en": "harm",
+         "zh": [
             "伤害， 损害"
         ],
         "usphone": "hɑrm",
         "ukphone": "hɑːm"
     },
     {
-        "name": "semiconductor",
-        "trans": [
+         "en": "semiconductor",
+         "zh": [
             "半导体"
         ],
         "usphone": ",sɛmɪkən'dʌktɚ",
         "ukphone": "ˌsemikən'dʌktə"
     },
     {
-        "name": "rope",
-        "trans": [
+         "en": "rope",
+         "zh": [
             "绳，索",
             "用绳捆"
         ],
@@ -973,40 +974,40 @@
         "ukphone": "rəup"
     },
     {
-        "name": "provided",
-        "trans": [
+         "en": "provided",
+         "zh": [
             "假如， 若是"
         ],
         "usphone": "prə'vaɪdɪd",
         "ukphone": "prə'vaɪdɪd"
     },
     {
-        "name": "instrument",
-        "trans": [
+         "en": "instrument",
+         "zh": [
             "仪器， 工具； 乐器"
         ],
         "usphone": "'ɪnstrəmənt",
         "ukphone": "'ɪnstrəmənt"
     },
     {
-        "name": "gasoline",
-        "trans": [
+         "en": "gasoline",
+         "zh": [
             "汽油"
         ],
         "usphone": "'gæsəlin",
         "ukphone": "'gæsəliːn"
     },
     {
-        "name": "indispensable",
-        "trans": [
+         "en": "indispensable",
+         "zh": [
             "必不可少的， 必需的"
         ],
         "usphone": "'ɪndɪ'spɛnsəbl",
         "ukphone": "ˌɪndɪ'spensəbl"
     },
     {
-        "name": "medium",
-        "trans": [
+         "en": "medium",
+         "zh": [
             "中等的",
             "媒体；媒介物，传导体"
         ],
@@ -1014,64 +1015,64 @@
         "ukphone": "'miːdiəm"
     },
     {
-        "name": "lens",
-        "trans": [
+         "en": "lens",
+         "zh": [
             "透镜， 镜片， 镜头"
         ],
         "usphone": "lɛnz",
         "ukphone": "lenz"
     },
     {
-        "name": "wisdom",
-        "trans": [
+         "en": "wisdom",
+         "zh": [
             "智慧， 才智； 名言"
         ],
         "usphone": "'wɪzdəm",
         "ukphone": "'wɪzdəm"
     },
     {
-        "name": "fatal",
-        "trans": [
+         "en": "fatal",
+         "zh": [
             "致命的， 命运的； 重大的， 决定性的"
         ],
         "usphone": "'fetl",
         "ukphone": "'feɪtl"
     },
     {
-        "name": "nowhere",
-        "trans": [
+         "en": "nowhere",
+         "zh": [
             "任何地方都不"
         ],
         "usphone": "'no'wɛr",
         "ukphone": "'nəuhweə"
     },
     {
-        "name": "motive",
-        "trans": [
+         "en": "motive",
+         "zh": [
             "动机， 目的"
         ],
         "usphone": "'motɪv",
         "ukphone": "'məutɪv"
     },
     {
-        "name": "romantic",
-        "trans": [
+         "en": "romantic",
+         "zh": [
             "浪漫的； 多情的； 有浪漫色彩的， 传奇性的； 不切实际的， 空想的"
         ],
         "usphone": "ro'mæntɪk",
         "ukphone": "rəu'mæntɪk"
     },
     {
-        "name": "motivate",
-        "trans": [
+         "en": "motivate",
+         "zh": [
             "作为…的动机； 激励， 激发"
         ],
         "usphone": "'motə'vet",
         "ukphone": "'məutɪveɪt"
     },
     {
-        "name": "spoil",
-        "trans": [
+         "en": "spoil",
+         "zh": [
             "损坏，糟蹋；宠坏，溺爱；变质",
             "战利品， 掠夺物"
         ],
@@ -1079,32 +1080,32 @@
         "ukphone": "spɔɪl"
     },
     {
-        "name": "airline",
-        "trans": [
+         "en": "airline",
+         "zh": [
             "航空公司； 航线"
         ],
         "usphone": "'ɛrlaɪn",
         "ukphone": "'eəlaɪn"
     },
     {
-        "name": "multiply",
-        "trans": [
+         "en": "multiply",
+         "zh": [
             "增加， 繁殖； 乘"
         ],
         "usphone": "'mʌltɪplaɪ",
         "ukphone": "'mʌltɪplaɪ"
     },
     {
-        "name": "ridge",
-        "trans": [
+         "en": "ridge",
+         "zh": [
             "脊， 山脊； 垄， 埂， 脊状突起"
         ],
         "usphone": "rɪdʒ",
         "ukphone": "rɪdʒ"
     },
     {
-        "name": "pilot",
-        "trans": [
+         "en": "pilot",
+         "zh": [
             "试验性的， 试点的",
             "引航员；飞行员",
             "驾驶；为引航；试验，试用"
@@ -1113,40 +1114,40 @@
         "ukphone": "'paɪlət"
     },
     {
-        "name": "umbrella",
-        "trans": [
+         "en": "umbrella",
+         "zh": [
             "伞， 雨伞"
         ],
         "usphone": "ʌm'brɛlə",
         "ukphone": "ʌm'brelə"
     },
     {
-        "name": "approval",
-        "trans": [
+         "en": "approval",
+         "zh": [
             "赞成， 同意， 批准"
         ],
         "usphone": "əˈpruvl",
         "ukphone": "ə'pruːvl"
     },
     {
-        "name": "mobile",
-        "trans": [
+         "en": "mobile",
+         "zh": [
             "运动的； 流动的； 多变的"
         ],
         "usphone": "ˈməʊbl;mobil",
         "ukphone": "'məubaɪl"
     },
     {
-        "name": "perform",
-        "trans": [
+         "en": "perform",
+         "zh": [
             "做， 履行， 完成； 表演， 演出； 工作情况， 表现"
         ],
         "usphone": "pɚ'fɔrm",
         "ukphone": "pə'fɔːm"
     },
     {
-        "name": "multiple",
-        "trans": [
+         "en": "multiple",
+         "zh": [
             "复合的，多重的，多样的",
             "倍数"
         ],
@@ -1154,8 +1155,8 @@
         "ukphone": "'mʌltɪpl"
     },
     {
-        "name": "peak",
-        "trans": [
+         "en": "peak",
+         "zh": [
             "达到高峰， 达到最大值",
             "最大值的，高峰的",
             "山顶，顶点"
@@ -1164,24 +1165,24 @@
         "ukphone": "piːk"
     },
     {
-        "name": "evolution",
-        "trans": [
+         "en": "evolution",
+         "zh": [
             "进化， 演化， 发展"
         ],
         "usphone": "ˌɛvəˈluʃən; (occas.) ˌ ivəˈluʃən",
         "ukphone": "ˌiːvə'luːʃn; ˌevə'luːʃn"
     },
     {
-        "name": "portrait",
-        "trans": [
+         "en": "portrait",
+         "zh": [
             "肖像， 画像"
         ],
         "usphone": "'pɔrtrɪt",
         "ukphone": "'pɔːtrət; 'pɔːtreɪt"
     },
     {
-        "name": "halfway",
-        "trans": [
+         "en": "halfway",
+         "zh": [
             "半路地； 在中途， 在半途",
             "中途的；部分的；不彻底的"
         ],
@@ -1189,16 +1190,16 @@
         "ukphone": "ˌhɑːf'weɪ"
     },
     {
-        "name": "expose",
-        "trans": [
+         "en": "expose",
+         "zh": [
             "使接触； 揭露"
         ],
         "usphone": "ɪk'spoz；ek-",
         "ukphone": "ɪk'spəuz"
     },
     {
-        "name": "concentrate",
-        "trans": [
+         "en": "concentrate",
+         "zh": [
             "全神贯注，全力以赴；集中，聚集；浓缩",
             "浓缩物， 浓缩液"
         ],
@@ -1206,112 +1207,112 @@
         "ukphone": "'kɒnsntreɪt"
     },
     {
-        "name": "magnet",
-        "trans": [
+         "en": "magnet",
+         "zh": [
             "磁铁， 磁体； 有吸引力的人或事物"
         ],
         "usphone": "'mægnɪt",
         "ukphone": "'mægnət"
     },
     {
-        "name": "explosion",
-        "trans": [
+         "en": "explosion",
+         "zh": [
             "爆炸， 爆发， 炸裂； 激增， 扩大"
         ],
         "usphone": "ɪk'sploʒən",
         "ukphone": "ɪk'spləuʒn"
     },
     {
-        "name": "weld",
-        "trans": [
+         "en": "weld",
+         "zh": [
             "焊接， 熔接"
         ],
         "usphone": "wɛld",
         "ukphone": "weld"
     },
     {
-        "name": "up-to-date",
-        "trans": [
+         "en": "up-to-date",
+         "zh": [
             "直到最近的， 现代的； 跟上时代的"
         ],
         "usphone": "'ʌptə 'det",
         "ukphone": "ˌʌptə'deɪt"
     },
     {
-        "name": "complaint",
-        "trans": [
+         "en": "complaint",
+         "zh": [
             "抱怨， 怨言； 控告"
         ],
         "usphone": "kəm'plent",
         "ukphone": "kəm'pleɪnt"
     },
     {
-        "name": "translation",
-        "trans": [
+         "en": "translation",
+         "zh": [
             "翻译； 译文， 译本"
         ],
         "usphone": "træns'leʃən",
         "ukphone": "træns'leɪʃn; trænz'leɪʃn"
     },
     {
-        "name": "cancer",
-        "trans": [
+         "en": "cancer",
+         "zh": [
             "癌， 癌症； 肿瘤"
         ],
         "usphone": "'kænsɚ",
         "ukphone": "'kænsə"
     },
     {
-        "name": "personnel",
-        "trans": [
+         "en": "personnel",
+         "zh": [
             "人员， 员工"
         ],
         "usphone": ",pɝsə'nɛl",
         "ukphone": "ˌpɜːsə'nel"
     },
     {
-        "name": "hopeless",
-        "trans": [
+         "en": "hopeless",
+         "zh": [
             "没有希望的， 绝望的"
         ],
         "usphone": "ˈhoʊpləs",
         "ukphone": "'həupləs"
     },
     {
-        "name": "outlook",
-        "trans": [
+         "en": "outlook",
+         "zh": [
             "观点， 看法； 展望， 前景"
         ],
         "usphone": "'aʊtlʊk",
         "ukphone": "'autluk"
     },
     {
-        "name": "fountain",
-        "trans": [
+         "en": "fountain",
+         "zh": [
             "泉水； 喷泉； 源泉"
         ],
         "usphone": "'faʊntn",
         "ukphone": "'fauntən"
     },
     {
-        "name": "offense",
-        "trans": [
+         "en": "offense",
+         "zh": [
             "犯规， 违法行为； 冒犯， 得罪"
         ],
         "usphone": "ə'fɛns",
         "ukphone": "ə'fens"
     },
     {
-        "name": "breadth",
-        "trans": [
+         "en": "breadth",
+         "zh": [
             "宽度； 幅度， 幅面"
         ],
         "usphone": "brɛdθ",
         "ukphone": "bredθ"
     },
     {
-        "name": "catalog",
-        "trans": [
+         "en": "catalog",
+         "zh": [
             "目录，目录册；一系列",
             "将…编入目录， 将编目"
         ],
@@ -1319,16 +1320,16 @@
         "ukphone": "'kætəlɒg"
     },
     {
-        "name": "channel",
-        "trans": [
+         "en": "channel",
+         "zh": [
             "海峡， 水道， 航道； 渠道， 途径； 频道"
         ],
         "usphone": "'tʃænl",
         "ukphone": "'tʃænl"
     },
     {
-        "name": "focus",
-        "trans": [
+         "en": "focus",
+         "zh": [
             "聚焦；集中",
             "焦点； 中心"
         ],
@@ -1336,48 +1337,48 @@
         "ukphone": "'fəukəs"
     },
     {
-        "name": "invisible",
-        "trans": [
+         "en": "invisible",
+         "zh": [
             "看不见的， 无形的"
         ],
         "usphone": "ɪn'vɪzəbl",
         "ukphone": "ɪn'vɪzəbl"
     },
     {
-        "name": "entire",
-        "trans": [
+         "en": "entire",
+         "zh": [
             "全部的， 整个的"
         ],
         "usphone": "ɪn'taɪɚ",
         "ukphone": "ɪn'taɪə"
     },
     {
-        "name": "pea",
-        "trans": [
+         "en": "pea",
+         "zh": [
             "豌豆"
         ],
         "usphone": "pi",
         "ukphone": "piː"
     },
     {
-        "name": "pill",
-        "trans": [
+         "en": "pill",
+         "zh": [
             "药丸"
         ],
         "usphone": "pɪl",
         "ukphone": "pɪl"
     },
     {
-        "name": "wrist",
-        "trans": [
+         "en": "wrist",
+         "zh": [
             "腕， 腕关节"
         ],
         "usphone": "rɪst",
         "ukphone": "rɪst"
     },
     {
-        "name": "approach",
-        "trans": [
+         "en": "approach",
+         "zh": [
             "向…靠近",
             "靠近"
         ],
@@ -1385,48 +1386,48 @@
         "ukphone": "ə'prəutʃ"
     },
     {
-        "name": "myth",
-        "trans": [
+         "en": "myth",
+         "zh": [
             "杜撰出来的人； 神话"
         ],
         "usphone": "mɪθ",
         "ukphone": "mɪθ"
     },
     {
-        "name": "flour",
-        "trans": [
+         "en": "flour",
+         "zh": [
             "面粉； 粉， 粉状物质"
         ],
         "usphone": "'flaʊr",
         "ukphone": "'flauə"
     },
     {
-        "name": "implication",
-        "trans": [
+         "en": "implication",
+         "zh": [
             "含意， 暗示， 暗指； 卷入， 牵连"
         ],
         "usphone": "'ɪmplɪ'keʃən",
         "ukphone": "ˌɪmplɪ'keɪʃn"
     },
     {
-        "name": "camel",
-        "trans": [
+         "en": "camel",
+         "zh": [
             "骆驼"
         ],
         "usphone": "'kæml",
         "ukphone": "'kæml"
     },
     {
-        "name": "fierce",
-        "trans": [
+         "en": "fierce",
+         "zh": [
             "凶猛的； 狂热的"
         ],
         "usphone": "fɪrs",
         "ukphone": "fɪəs"
     },
     {
-        "name": "bump",
-        "trans": [
+         "en": "bump",
+         "zh": [
             "碰，撞；颠簸着前进",
             "碰撞， 猛撞； 肿块； 隆起物"
         ],
@@ -1434,96 +1435,96 @@
         "ukphone": "bʌmp"
     },
     {
-        "name": "reservation",
-        "trans": [
+         "en": "reservation",
+         "zh": [
             "预订； 保留； 犹豫； 保留地"
         ],
         "usphone": ",rɛzɚ'veʃən",
         "ukphone": "ˌrezə'veɪʃn"
     },
     {
-        "name": "per",
-        "trans": [
+         "en": "per",
+         "zh": [
             "每， 每一"
         ],
         "usphone": "pɚ",
         "ukphone": "pə"
     },
     {
-        "name": "proceed",
-        "trans": [
+         "en": "proceed",
+         "zh": [
             "继续进行； 行进， 前进"
         ],
         "usphone": "pro'sid",
         "ukphone": "prə'siːd"
     },
     {
-        "name": "considering",
-        "trans": [
+         "en": "considering",
+         "zh": [
             "鉴于， 考虑到， 顾及"
         ],
         "usphone": "kən'sɪdərɪŋ",
         "ukphone": "kən'sɪdərɪŋ"
     },
     {
-        "name": "corporation",
-        "trans": [
+         "en": "corporation",
+         "zh": [
             "公司， 企业， 社团"
         ],
         "usphone": ",kɔrpə'reʃən",
         "ukphone": "ˌkɔːpə'reɪʃn"
     },
     {
-        "name": "loyalty",
-        "trans": [
+         "en": "loyalty",
+         "zh": [
             "忠诚， 忠心"
         ],
         "usphone": "'lɔɪəlti",
         "ukphone": "'lɔɪəlti"
     },
     {
-        "name": "bulb",
-        "trans": [
+         "en": "bulb",
+         "zh": [
             "电灯泡， 球状物"
         ],
         "usphone": "bʌlb",
         "ukphone": "bʌlb"
     },
     {
-        "name": "dismiss",
-        "trans": [
+         "en": "dismiss",
+         "zh": [
             "不再考虑； 解雇， 解散； 驳回"
         ],
         "usphone": "dɪs'mɪs",
         "ukphone": "dɪs'mɪs"
     },
     {
-        "name": "propose",
-        "trans": [
+         "en": "propose",
+         "zh": [
             "提议， 建议， 提出； 提名， 推荐； 打算， 计划； 求婚"
         ],
         "usphone": "prə'poz",
         "ukphone": "prə'pəuz"
     },
     {
-        "name": "intelligence",
-        "trans": [
+         "en": "intelligence",
+         "zh": [
             "智力； 理解力； 情报"
         ],
         "usphone": "ɪn'tɛlɪdʒəns",
         "ukphone": "ɪn'telɪdʒəns"
     },
     {
-        "name": "reform",
-        "trans": [
+         "en": "reform",
+         "zh": [
             "改革， 改良， 改造； 改正， 改过自新"
         ],
         "usphone": "rɪ'fɔrm",
         "ukphone": "rɪ'fɔːm"
     },
     {
-        "name": "draught",
-        "trans": [
+         "en": "draught",
+         "zh": [
             "穿堂风，冷风",
             "〔啤酒〕桶装的，散装的"
         ],
@@ -1531,40 +1532,40 @@
         "ukphone": "drɑːft"
     },
     {
-        "name": "daylight",
-        "trans": [
+         "en": "daylight",
+         "zh": [
             "白昼， 日光， 黎明"
         ],
         "usphone": "'delaɪt",
         "ukphone": "'deɪlaɪt"
     },
     {
-        "name": "install",
-        "trans": [
+         "en": "install",
+         "zh": [
             "安装， 设置； 使就职， 任命"
         ],
         "usphone": "ɪn'stɔl",
         "ukphone": "ɪn'stɔːl"
     },
     {
-        "name": "integration",
-        "trans": [
+         "en": "integration",
+         "zh": [
             "综合"
         ],
         "usphone": "'ɪntə'greʃən",
         "ukphone": "ˌɪntɪ'greɪʃn"
     },
     {
-        "name": "indication",
-        "trans": [
+         "en": "indication",
+         "zh": [
             "指示， 表示， 表明； 象征， 迹象"
         ],
         "usphone": ",ɪndɪ'keʃən",
         "ukphone": "ˌɪndɪ'keɪʃn"
     },
     {
-        "name": "bulk",
-        "trans": [
+         "en": "bulk",
+         "zh": [
             "变得越来越大； 使更大",
             "物体；体积；大批"
         ],
@@ -1572,8 +1573,8 @@
         "ukphone": "bʌlk"
     },
     {
-        "name": "coach",
-        "trans": [
+         "en": "coach",
+         "zh": [
             "长途公共汽车；教练，指导；旅客车厢",
             "训练， 指导， 辅导"
         ],
@@ -1581,8 +1582,8 @@
         "ukphone": "kəutʃ"
     },
     {
-        "name": "despair",
-        "trans": [
+         "en": "despair",
+         "zh": [
             "绝望",
             "绝望，感到无望"
         ],
@@ -1590,32 +1591,32 @@
         "ukphone": "dɪ'speə"
     },
     {
-        "name": "champion",
-        "trans": [
+         "en": "champion",
+         "zh": [
             "冠军， 得胜者； 捍卫者， 拥护者"
         ],
         "usphone": "'tʃæmpɪən",
         "ukphone": "'tʃæmpiən"
     },
     {
-        "name": "gum",
-        "trans": [
+         "en": "gum",
+         "zh": [
             "口香糖； 树胶"
         ],
         "usphone": "ɡʌm",
         "ukphone": "gʌm"
     },
     {
-        "name": "circuit",
-        "trans": [
+         "en": "circuit",
+         "zh": [
             "电路， 线路； 环行， 巡行"
         ],
         "usphone": "'sɝkɪt",
         "ukphone": "'sɜːkɪt"
     },
     {
-        "name": "pine",
-        "trans": [
+         "en": "pine",
+         "zh": [
             "消瘦， 衰弱； 痛苦， 悲哀； 渴望",
             "松树，松木"
         ],
@@ -1623,56 +1624,56 @@
         "ukphone": "paɪn"
     },
     {
-        "name": "magnificent",
-        "trans": [
+         "en": "magnificent",
+         "zh": [
             "宏伟的， 壮丽的； 华丽的； 极好的"
         ],
         "usphone": "mæg'nɪfəsnt",
         "ukphone": "mæg'nɪfɪsnt"
     },
     {
-        "name": "guy",
-        "trans": [
+         "en": "guy",
+         "zh": [
             "家伙， 伙计"
         ],
         "usphone": "ɡai",
         "ukphone": "gaɪ"
     },
     {
-        "name": "respectively",
-        "trans": [
+         "en": "respectively",
+         "zh": [
             "各自地， 各个地， 分别地"
         ],
         "usphone": "rɪ'spɛktɪvli",
         "ukphone": "rɪ'spektɪvli"
     },
     {
-        "name": "protection",
-        "trans": [
+         "en": "protection",
+         "zh": [
             "保护， 防护"
         ],
         "usphone": "prə'tɛkʃən",
         "ukphone": "prə'tekʃn"
     },
     {
-        "name": "pint",
-        "trans": [
+         "en": "pint",
+         "zh": [
             "品脱"
         ],
         "usphone": "paɪnt",
         "ukphone": "paɪnt"
     },
     {
-        "name": "restrict",
-        "trans": [
+         "en": "restrict",
+         "zh": [
             "限制， 约束， 限定"
         ],
         "usphone": "rɪ'strɪkt",
         "ukphone": "rɪ'strɪkt"
     },
     {
-        "name": "instant",
-        "trans": [
+         "en": "instant",
+         "zh": [
             "立即的； 紧急的； 可以速食的",
             "瞬间"
         ],
@@ -1680,16 +1681,16 @@
         "ukphone": "'ɪnstənt"
     },
     {
-        "name": "conjunction",
-        "trans": [
+         "en": "conjunction",
+         "zh": [
             "接合， 连接， 联合； 连词"
         ],
         "usphone": "kən'dʒʌŋkʃən",
         "ukphone": "kən'dʒʌŋkʃn"
     },
     {
-        "name": "peer",
-        "trans": [
+         "en": "peer",
+         "zh": [
             "仔细看， 费力地看",
             "同龄人，同等地位的人；贵族"
         ],
@@ -1697,24 +1698,24 @@
         "ukphone": "pɪə"
     },
     {
-        "name": "orderly",
-        "trans": [
+         "en": "orderly",
+         "zh": [
             "整洁的； 有秩序的"
         ],
         "usphone": "'ɔrdɚli",
         "ukphone": "'ɔːdəli"
     },
     {
-        "name": "costly",
-        "trans": [
+         "en": "costly",
+         "zh": [
             "昂贵的， 价值高的"
         ],
         "usphone": "'kɔstli",
         "ukphone": "'kɒstli"
     },
     {
-        "name": "roast",
-        "trans": [
+         "en": "roast",
+         "zh": [
             "烤，炙，烘",
             "烤过的， 烘过的",
             "烤肉"
@@ -1723,88 +1724,88 @@
         "ukphone": "rəust"
     },
     {
-        "name": "violence",
-        "trans": [
+         "en": "violence",
+         "zh": [
             "猛烈， 激烈； 暴力"
         ],
         "usphone": "'vaɪələns",
         "ukphone": "'vaɪələns"
     },
     {
-        "name": "succession",
-        "trans": [
+         "en": "succession",
+         "zh": [
             "连续； 一连串； 接替， 继任， 继承"
         ],
         "usphone": "sək'sɛʃən",
         "ukphone": "sək'seʃn"
     },
     {
-        "name": "accordingly",
-        "trans": [
+         "en": "accordingly",
+         "zh": [
             "因此， 所以； 照着"
         ],
         "usphone": "ə'kɔrdɪŋli",
         "ukphone": "ə'kɔːdɪŋli"
     },
     {
-        "name": "consequence",
-        "trans": [
+         "en": "consequence",
+         "zh": [
             "结果， 后果； 重要， 重大"
         ],
         "usphone": "'kɑnsəkwɛns",
         "ukphone": "'kɒnsɪkwəns"
     },
     {
-        "name": "product",
-        "trans": [
+         "en": "product",
+         "zh": [
             "产品， 产物； 乘积"
         ],
         "usphone": "'prɑdʌkt",
         "ukphone": "'prɔdʌkt; 'prɔdəkt"
     },
     {
-        "name": "particularly",
-        "trans": [
+         "en": "particularly",
+         "zh": [
             "特别， 尤其"
         ],
         "usphone": "pɚ'tɪkjəlɚlɪ",
         "ukphone": "pə'tɪkjələli"
     },
     {
-        "name": "dominant",
-        "trans": [
+         "en": "dominant",
+         "zh": [
             "占优势的， 支配的， 统治的； 居高临下的， 高耸的"
         ],
         "usphone": "'dɑmɪnənt",
         "ukphone": "'dɒmɪnənt"
     },
     {
-        "name": "heading",
-        "trans": [
+         "en": "heading",
+         "zh": [
             "标题， 题词， 题名； 新闻提要"
         ],
         "usphone": "'hɛdɪŋ",
         "ukphone": "'hedɪŋ"
     },
     {
-        "name": "lover",
-        "trans": [
+         "en": "lover",
+         "zh": [
             "爱好者； 情人"
         ],
         "usphone": "'lʌvɚ",
         "ukphone": "'lʌvə"
     },
     {
-        "name": "vinegar",
-        "trans": [
+         "en": "vinegar",
+         "zh": [
             "醋"
         ],
         "usphone": "'vɪnɪɡɚ",
         "ukphone": "'vɪnɪgə"
     },
     {
-        "name": "intellectual",
-        "trans": [
+         "en": "intellectual",
+         "zh": [
             "智力的",
             "知识分子"
         ],
@@ -1812,8 +1813,8 @@
         "ukphone": "ˌɪntə'lektʃuəl"
     },
     {
-        "name": "cheat",
-        "trans": [
+         "en": "cheat",
+         "zh": [
             "欺骗；作弊；哄，行骗",
             "欺骗， 欺骗行为； 骗子"
         ],
@@ -1821,56 +1822,56 @@
         "ukphone": "tʃiːt"
     },
     {
-        "name": "framework",
-        "trans": [
+         "en": "framework",
+         "zh": [
             "框架， 结构； 准则； 体系"
         ],
         "usphone": "'fremwɝk",
         "ukphone": "'freɪmwɜːk"
     },
     {
-        "name": "undoubtedly",
-        "trans": [
+         "en": "undoubtedly",
+         "zh": [
             "毋庸置疑地， 肯定地"
         ],
         "usphone": "ʌn'daʊtɪdli",
         "ukphone": "ˌʌn'dautɪdli"
     },
     {
-        "name": "infect",
-        "trans": [
+         "en": "infect",
+         "zh": [
             "传染， 感染； 影响"
         ],
         "usphone": "ɪn'fɛkt",
         "ukphone": "ɪn'fekt"
     },
     {
-        "name": "tide",
-        "trans": [
+         "en": "tide",
+         "zh": [
             "潮， 潮汐； 潮流， 趋势"
         ],
         "usphone": "taɪd",
         "ukphone": "taɪd"
     },
     {
-        "name": "prohibit",
-        "trans": [
+         "en": "prohibit",
+         "zh": [
             "禁止， 不准"
         ],
         "usphone": "prə'hɪbɪt",
         "ukphone": "prə'hɪbɪt"
     },
     {
-        "name": "bacteria",
-        "trans": [
+         "en": "bacteria",
+         "zh": [
             "细菌"
         ],
         "usphone": "bæk'tɪrɪə",
         "ukphone": "bæk'tɪəriə"
     },
     {
-        "name": "minor",
-        "trans": [
+         "en": "minor",
+         "zh": [
             "辅修",
             "较小的，较少的；次要的",
             "未成年人；辅修科目"
@@ -1879,24 +1880,24 @@
         "ukphone": "'maɪnə"
     },
     {
-        "name": "arrow",
-        "trans": [
+         "en": "arrow",
+         "zh": [
             "箭， 箭状物； 箭头符号"
         ],
         "usphone": "'æro",
         "ukphone": "'ærəu"
     },
     {
-        "name": "cop",
-        "trans": [
+         "en": "cop",
+         "zh": [
             "警察"
         ],
         "usphone": "kɑp",
         "ukphone": "kɒp"
     },
     {
-        "name": "fuel",
-        "trans": [
+         "en": "fuel",
+         "zh": [
             "加燃料； 加油",
             "燃料，燃料剂",
             "给…加燃料；刺激"
@@ -1905,40 +1906,40 @@
         "ukphone": "'fjuːəl"
     },
     {
-        "name": "hostile",
-        "trans": [
+         "en": "hostile",
+         "zh": [
             "敌方的； 不友善的"
         ],
         "usphone": "ˈhɑstl",
         "ukphone": "'hɒstaɪl"
     },
     {
-        "name": "aeroplane",
-        "trans": [
+         "en": "aeroplane",
+         "zh": [
             "飞机"
         ],
         "usphone": "ˈɛrəˌplen",
         "ukphone": "'eərəpleɪn"
     },
     {
-        "name": "manner",
-        "trans": [
+         "en": "manner",
+         "zh": [
             "方式； 态度； 风度； 礼貌， 规矩"
         ],
         "usphone": "'mænɚ",
         "ukphone": "'mænə"
     },
     {
-        "name": "employee",
-        "trans": [
+         "en": "employee",
+         "zh": [
             "受雇者， 雇员， 雇工"
         ],
         "usphone": "ɪmˈplɔɪi;ɛmplɔɪˈi",
         "ukphone": "ɪm'plɔɪɪː"
     },
     {
-        "name": "associate",
-        "trans": [
+         "en": "associate",
+         "zh": [
             "结合； 交往",
             "副的",
             "把…联系在一起；使联合",
@@ -1948,40 +1949,40 @@
         "ukphone": "ə'səʊʃɪeɪt; -sɪeɪt"
     },
     {
-        "name": "pray",
-        "trans": [
+         "en": "pray",
+         "zh": [
             "祈祷， 祈求； 请求， 恳求"
         ],
         "usphone": "pre",
         "ukphone": "preɪ"
     },
     {
-        "name": "lad",
-        "trans": [
+         "en": "lad",
+         "zh": [
             "男孩， 小伙子"
         ],
         "usphone": "læd",
         "ukphone": "læd"
     },
     {
-        "name": "crawl",
-        "trans": [
+         "en": "crawl",
+         "zh": [
             "爬， 爬行； 缓慢地行进"
         ],
         "usphone": "krɔl",
         "ukphone": "krɔːl"
     },
     {
-        "name": "identical",
-        "trans": [
+         "en": "identical",
+         "zh": [
             "完全相同的， 同一的"
         ],
         "usphone": "aɪ'dɛntɪkl",
         "ukphone": "aɪ'dentɪkl"
     },
     {
-        "name": "lag",
-        "trans": [
+         "en": "lag",
+         "zh": [
             "走得慢",
             "落后"
         ],
@@ -1989,32 +1990,32 @@
         "ukphone": "læg"
     },
     {
-        "name": "towel",
-        "trans": [
+         "en": "towel",
+         "zh": [
             "毛巾， 手巾"
         ],
         "usphone": "'taʊəl",
         "ukphone": "'tauəl"
     },
     {
-        "name": "charity",
-        "trans": [
+         "en": "charity",
+         "zh": [
             "救济金， 施舍物； 慈善团体， 慈善事业； 宽大， 宽容"
         ],
         "usphone": "'tʃærəti",
         "ukphone": "'tʃærəti"
     },
     {
-        "name": "academic",
-        "trans": [
+         "en": "academic",
+         "zh": [
             "学院的； 学术的； 纯理论的， 不切实际的"
         ],
         "usphone": ",ækə'dɛmɪk",
         "ukphone": "ˌækə'demɪk"
     },
     {
-        "name": "function",
-        "trans": [
+         "en": "function",
+         "zh": [
             "运作， 运行",
             "功能；职务，职责"
         ],
@@ -2022,16 +2023,16 @@
         "ukphone": "'fʌŋkʃn"
     },
     {
-        "name": "employer",
-        "trans": [
+         "en": "employer",
+         "zh": [
             "雇佣者， 雇主"
         ],
         "usphone": "ɪm'plɔɪɚ",
         "ukphone": "ɪm'plɔɪə"
     },
     {
-        "name": "pit",
-        "trans": [
+         "en": "pit",
+         "zh": [
             "地洞，坑；煤矿，矿井",
             "使有坑"
         ],
@@ -2039,8 +2040,8 @@
         "ukphone": "pɪt"
     },
     {
-        "name": "lap",
-        "trans": [
+         "en": "lap",
+         "zh": [
             "舔； 拍打",
             "膝部；一圈，一段"
         ],
@@ -2048,16 +2049,16 @@
         "ukphone": "læp"
     },
     {
-        "name": "mineral",
-        "trans": [
+         "en": "mineral",
+         "zh": [
             "矿物， 矿石， 矿物质"
         ],
         "usphone": "'mɪnərəl",
         "ukphone": "'mɪnərəl"
     },
     {
-        "name": "stock",
-        "trans": [
+         "en": "stock",
+         "zh": [
             "常用的， 常备的",
             "原料，库存品；股本，公债；世系，血统；汤汁；家畜，牲畜",
             "储备"
@@ -2066,8 +2067,8 @@
         "ukphone": "stɒk"
     },
     {
-        "name": "representative",
-        "trans": [
+         "en": "representative",
+         "zh": [
             "有代表性的， 典型的",
             "代表，代理人"
         ],
@@ -2075,32 +2076,32 @@
         "ukphone": "ˌreprɪ'zentətɪv"
     },
     {
-        "name": "suspend",
-        "trans": [
+         "en": "suspend",
+         "zh": [
             "暂停， 终止； 吊， 悬"
         ],
         "usphone": "sə'spɛnd",
         "ukphone": "sə'spend"
     },
     {
-        "name": "pigeon",
-        "trans": [
+         "en": "pigeon",
+         "zh": [
             "鸽子"
         ],
         "usphone": "'pɪdʒɪn",
         "ukphone": "'pɪdʒɪn"
     },
     {
-        "name": "well-known",
-        "trans": [
+         "en": "well-known",
+         "zh": [
             "众所周知的， 著名的"
         ],
         "usphone": ",wɛl'non",
         "ukphone": "ˌwel'nəun"
     },
     {
-        "name": "beneath",
-        "trans": [
+         "en": "beneath",
+         "zh": [
             "在下方， 在底下",
             "在…下方；低于，次于；在…掩盖下；连…也不值得，有失…的身份"
         ],
@@ -2108,24 +2109,24 @@
         "ukphone": "bɪ'niːθ"
     },
     {
-        "name": "terror",
-        "trans": [
+         "en": "terror",
+         "zh": [
             "恐怖， 惊骇； 引起恐怖的人或事"
         ],
         "usphone": "'tɛrɚ",
         "ukphone": "'terə"
     },
     {
-        "name": "comparison",
-        "trans": [
+         "en": "comparison",
+         "zh": [
             "比较， 对照； 比拟， 比喻"
         ],
         "usphone": "kəm'pærɪsn",
         "ukphone": "kəm'pærɪsn"
     },
     {
-        "name": "surge",
-        "trans": [
+         "en": "surge",
+         "zh": [
             "蜂拥而出；洋溢，奔放；汹涌，奔腾",
             "大浪， 波涛； 高涨； 汹涌"
         ],
@@ -2133,24 +2134,24 @@
         "ukphone": "sɜːdʒ"
     },
     {
-        "name": "lest",
-        "trans": [
+         "en": "lest",
+         "zh": [
             "唯恐， 以免"
         ],
         "usphone": "lɛst",
         "ukphone": "lest"
     },
     {
-        "name": "heroic",
-        "trans": [
+         "en": "heroic",
+         "zh": [
             "英雄的； 英勇的"
         ],
         "usphone": "hə'roɪk",
         "ukphone": "hə'rəuik"
     },
     {
-        "name": "sway",
-        "trans": [
+         "en": "sway",
+         "zh": [
             "摇，摇动；动摇",
             "摇摆， 摇动； 起支配作用的影响"
         ],
@@ -2158,16 +2159,16 @@
         "ukphone": "sweɪ"
     },
     {
-        "name": "basis",
-        "trans": [
+         "en": "basis",
+         "zh": [
             "基础， 根据； 原则"
         ],
         "usphone": "'besɪs",
         "ukphone": "'beɪsɪs"
     },
     {
-        "name": "tutor",
-        "trans": [
+         "en": "tutor",
+         "zh": [
             "当…导师， 当…家庭教师",
             "导师；家庭教师，私人教师"
         ],
@@ -2175,88 +2176,88 @@
         "ukphone": "'tjuːtə"
     },
     {
-        "name": "senator",
-        "trans": [
+         "en": "senator",
+         "zh": [
             "参议员"
         ],
         "usphone": "'sɛnətɚ",
         "ukphone": "'senətə"
     },
     {
-        "name": "adventure",
-        "trans": [
+         "en": "adventure",
+         "zh": [
             "奇遇； 冒险， 冒险活动"
         ],
         "usphone": "əd'vɛntʃɚ",
         "ukphone": "əd'ventʃə"
     },
     {
-        "name": "successive",
-        "trans": [
+         "en": "successive",
+         "zh": [
             "连续的， 接连的"
         ],
         "usphone": "sək'sɛsɪv",
         "ukphone": "sək'sesɪv"
     },
     {
-        "name": "condition",
-        "trans": [
+         "en": "condition",
+         "zh": [
             "状况， 状态； 环境"
         ],
         "usphone": "kən'dɪʃən",
         "ukphone": "kən'dɪʃn"
     },
     {
-        "name": "thirsty",
-        "trans": [
+         "en": "thirsty",
+         "zh": [
             "渴的； 渴望的"
         ],
         "usphone": "'θɝsti",
         "ukphone": "'θɜːsti"
     },
     {
-        "name": "ceremony",
-        "trans": [
+         "en": "ceremony",
+         "zh": [
             "典礼， 仪式， 礼节"
         ],
         "usphone": "ˈsɛrəˌmoʊni",
         "ukphone": "'serəməni"
     },
     {
-        "name": "obligation",
-        "trans": [
+         "en": "obligation",
+         "zh": [
             "义务， 责任"
         ],
         "usphone": ",ɑblɪ'ɡeʃən",
         "ukphone": "ˌɒblɪ'geɪʃn"
     },
     {
-        "name": "improve",
-        "trans": [
+         "en": "improve",
+         "zh": [
             "变得更好； 改善； 提高"
         ],
         "usphone": "ɪm'pruv",
         "ukphone": "ɪm'pruːv"
     },
     {
-        "name": "gym",
-        "trans": [
+         "en": "gym",
+         "zh": [
             "体育馆； 健身房"
         ],
         "usphone": "dʒɪm",
         "ukphone": "dʒɪm"
     },
     {
-        "name": "rarely",
-        "trans": [
+         "en": "rarely",
+         "zh": [
             "很少， 难得"
         ],
         "usphone": "'rɛrli",
         "ukphone": "'reəli"
     },
     {
-        "name": "evil",
-        "trans": [
+         "en": "evil",
+         "zh": [
             "坏的",
             "邪恶，祸害"
         ],
@@ -2264,16 +2265,16 @@
         "ukphone": "'iːvl"
     },
     {
-        "name": "governor",
-        "trans": [
+         "en": "governor",
+         "zh": [
             "州长； 主管人员； 理事， 董事"
         ],
         "usphone": "'ɡʌvɚnɚ",
         "ukphone": "'gʌvənə"
     },
     {
-        "name": "twist",
-        "trans": [
+         "en": "twist",
+         "zh": [
             "缠绕，盘绕；转动，旋动；捻，搓；歪曲，曲解；扭歪，扭伤；曲折前进；转身",
             "扭弯； 转折， 转变； 弯曲， 曲折处"
         ],
@@ -2281,32 +2282,32 @@
         "ukphone": "twɪst"
     },
     {
-        "name": "locate",
-        "trans": [
+         "en": "locate",
+         "zh": [
             "探明， 找出； 把…设置在， 使…坐落于"
         ],
         "usphone": "ˈloˌket; loˈket",
         "ukphone": "ləu'keɪt"
     },
     {
-        "name": "unite",
-        "trans": [
+         "en": "unite",
+         "zh": [
             "联合， 统一"
         ],
         "usphone": "ju'naɪt",
         "ukphone": "ju'naɪt"
     },
     {
-        "name": "lavatory",
-        "trans": [
+         "en": "lavatory",
+         "zh": [
             "盥洗室， 厕所"
         ],
         "usphone": "'lævətɔri",
         "ukphone": "'lævətri"
     },
     {
-        "name": "exterior",
-        "trans": [
+         "en": "exterior",
+         "zh": [
             "外部的；对外的",
             "外部， 外表"
         ],
@@ -2314,16 +2315,16 @@
         "ukphone": "ɪk'stɪəriə"
     },
     {
-        "name": "technique",
-        "trans": [
+         "en": "technique",
+         "zh": [
             "技术， 技巧， 技能"
         ],
         "usphone": "tɛk'nik",
         "ukphone": "tek'niːk"
     },
     {
-        "name": "combat",
-        "trans": [
+         "en": "combat",
+         "zh": [
             "战争，斗争，格斗",
             "与…斗争， 与…战斗"
         ],
@@ -2331,8 +2332,8 @@
         "ukphone": "'kɒmbæt"
     },
     {
-        "name": "troop",
-        "trans": [
+         "en": "troop",
+         "zh": [
             "成群结队而行",
             "军队，部队；一群，大量"
         ],
@@ -2340,64 +2341,64 @@
         "ukphone": "truːp"
     },
     {
-        "name": "scenery",
-        "trans": [
+         "en": "scenery",
+         "zh": [
             "风景， 景色； 舞台布景"
         ],
         "usphone": "'sinəri",
         "ukphone": "'siːnəri"
     },
     {
-        "name": "unity",
-        "trans": [
+         "en": "unity",
+         "zh": [
             "单一， 统一， 团结； 和睦， 协调"
         ],
         "usphone": "'junəti",
         "ukphone": "'juːnəti"
     },
     {
-        "name": "effective",
-        "trans": [
+         "en": "effective",
+         "zh": [
             "有效的； 有影响的"
         ],
         "usphone": "ɪ'fɛktɪv",
         "ukphone": "ɪ'fektɪv"
     },
     {
-        "name": "pursue",
-        "trans": [
+         "en": "pursue",
+         "zh": [
             "继续； 从事； 追赶， 追踪； 追求"
         ],
         "usphone": "pə'sʊ",
         "ukphone": "pə'sjuː"
     },
     {
-        "name": "similarly",
-        "trans": [
+         "en": "similarly",
+         "zh": [
             "类似地， 相似地"
         ],
         "usphone": "'sɪməlɚli",
         "ukphone": "'sɪmələli"
     },
     {
-        "name": "convey",
-        "trans": [
+         "en": "convey",
+         "zh": [
             "表达， 传递； 运送， 输送"
         ],
         "usphone": "kən've",
         "ukphone": "kən'veɪ"
     },
     {
-        "name": "muscle",
-        "trans": [
+         "en": "muscle",
+         "zh": [
             "肌肉， 体力； 力量， 实力"
         ],
         "usphone": "'mʌsl",
         "ukphone": "'mʌsl"
     },
     {
-        "name": "design",
-        "trans": [
+         "en": "design",
+         "zh": [
             "设计；预定，指定",
             "设计， 构想； 图样； 企图"
         ],
@@ -2405,8 +2406,8 @@
         "ukphone": "dɪ'zaɪn"
     },
     {
-        "name": "extra",
-        "trans": [
+         "en": "extra",
+         "zh": [
             "特别地",
             "额外的；特别的",
             "额外的事物， 额外费用"
@@ -2415,48 +2416,48 @@
         "ukphone": "'ekstrə"
     },
     {
-        "name": "generous",
-        "trans": [
+         "en": "generous",
+         "zh": [
             "慷慨的； 宽厚的； 大量的"
         ],
         "usphone": "'dʒɛnərəs",
         "ukphone": "'dʒenərəs"
     },
     {
-        "name": "victim",
-        "trans": [
+         "en": "victim",
+         "zh": [
             "牺牲者， 受害者"
         ],
         "usphone": "'vɪktɪm",
         "ukphone": "'vɪktɪm"
     },
     {
-        "name": "possibility",
-        "trans": [
+         "en": "possibility",
+         "zh": [
             "可能； 可能的事"
         ],
         "usphone": ",pɑsə'bɪləti",
         "ukphone": "ˌpɒsə'bɪləti"
     },
     {
-        "name": "lane",
-        "trans": [
+         "en": "lane",
+         "zh": [
             "小路； 跑道； 航道， 航线"
         ],
         "usphone": "len",
         "ukphone": "leɪn"
     },
     {
-        "name": "garlic",
-        "trans": [
+         "en": "garlic",
+         "zh": [
             "大蒜"
         ],
         "usphone": "'ɡɑrlɪk",
         "ukphone": "'gɑːlɪk"
     },
     {
-        "name": "chief",
-        "trans": [
+         "en": "chief",
+         "zh": [
             "主要的，为首的；总的",
             "首领， 长官； 酋长， 族长"
         ],
@@ -2464,8 +2465,8 @@
         "ukphone": "tʃiːf"
     },
     {
-        "name": "accord",
-        "trans": [
+         "en": "accord",
+         "zh": [
             "相符合； 相一致",
             "一致，符合；谅解，协议",
             "使符合；使一致；调节；授予，赠与，给予"
@@ -2474,16 +2475,16 @@
         "ukphone": "ə'kɔːd"
     },
     {
-        "name": "aircraft",
-        "trans": [
+         "en": "aircraft",
+         "zh": [
             "飞机， 飞行器"
         ],
         "usphone": "'ɛr'kræft",
         "ukphone": "'eəkrɑːft"
     },
     {
-        "name": "automatic",
-        "trans": [
+         "en": "automatic",
+         "zh": [
             "自动的，机械的；不假思索的，无意识的；必然的，自然的",
             "自动手枪； 有自动装置的汽车"
         ],
@@ -2491,24 +2492,24 @@
         "ukphone": "ˌɔːtə'mætɪk"
     },
     {
-        "name": "doubtful",
-        "trans": [
+         "en": "doubtful",
+         "zh": [
             "难以预测的； 怀疑的"
         ],
         "usphone": "'daʊtfəl",
         "ukphone": "'dautfl"
     },
     {
-        "name": "despite",
-        "trans": [
+         "en": "despite",
+         "zh": [
             "不管， 不顾"
         ],
         "usphone": "dɪ'spaɪt",
         "ukphone": "dɪ'spaɪt"
     },
     {
-        "name": "opening",
-        "trans": [
+         "en": "opening",
+         "zh": [
             "开首的，开始的",
             "口子， 洞， 孔； 开始； 空缺"
         ],
@@ -2516,24 +2517,24 @@
         "ukphone": "'əupnɪŋ"
     },
     {
-        "name": "industrial",
-        "trans": [
+         "en": "industrial",
+         "zh": [
             "工业的， 产业的"
         ],
         "usphone": "ɪn'dʌstrɪəl",
         "ukphone": "ɪn'dʌstriəl"
     },
     {
-        "name": "obey",
-        "trans": [
+         "en": "obey",
+         "zh": [
             "顺从， 服从"
         ],
         "usphone": "ə'be",
         "ukphone": "ə'beɪ"
     },
     {
-        "name": "conduct",
-        "trans": [
+         "en": "conduct",
+         "zh": [
             "举止， 行为； 指导； 管理； 实施",
             "进行； 管理， 指挥， 引导； 传输， 传导"
         ],
@@ -2541,8 +2542,8 @@
         "ukphone": "'kɒndʌkt"
     },
     {
-        "name": "stable",
-        "trans": [
+         "en": "stable",
+         "zh": [
             "稳定的，不变的；沉稳的，持重的",
             "厩， 马厩， 牛棚"
         ],
@@ -2550,24 +2551,24 @@
         "ukphone": "'steɪbl"
     },
     {
-        "name": "lamb",
-        "trans": [
+         "en": "lamb",
+         "zh": [
             "羔羊， 小羊； 羔羊肉"
         ],
         "usphone": "læm",
         "ukphone": "læm"
     },
     {
-        "name": "pillow",
-        "trans": [
+         "en": "pillow",
+         "zh": [
             "枕头"
         ],
         "usphone": "'pɪlo",
         "ukphone": "'pɪləu"
     },
     {
-        "name": "harness",
-        "trans": [
+         "en": "harness",
+         "zh": [
             "治理；给上挽具",
             "马具， 挽具"
         ],
@@ -2575,16 +2576,16 @@
         "ukphone": "'hɑːnɪs"
     },
     {
-        "name": "fantastic",
-        "trans": [
+         "en": "fantastic",
+         "zh": [
             "极好的， 极出色的， 了不起的； 极大的； 难以相信的； 异想天开的， 不实际的； 奇异的， 古怪的"
         ],
         "usphone": "fæn'tæstɪk",
         "ukphone": "fæn'tæstɪk"
     },
     {
-        "name": "sketch",
-        "trans": [
+         "en": "sketch",
+         "zh": [
             "绘…的略图， 画…的素描； 概述",
             "略图；梗概；素描，速写"
         ],
@@ -2592,8 +2593,8 @@
         "ukphone": "sketʃ"
     },
     {
-        "name": "tidy",
-        "trans": [
+         "en": "tidy",
+         "zh": [
             "整洁的，整齐的",
             "整洁， 整齐"
         ],
@@ -2601,40 +2602,40 @@
         "ukphone": "'taɪdi"
     },
     {
-        "name": "respond",
-        "trans": [
+         "en": "respond",
+         "zh": [
             "回答， 答复； 作出反应， 响应"
         ],
         "usphone": "rɪ'spɑnd",
         "ukphone": "rɪ'spɒnd"
     },
     {
-        "name": "incident",
-        "trans": [
+         "en": "incident",
+         "zh": [
             "发生的事， 事件"
         ],
         "usphone": "'ɪnsɪdənt",
         "ukphone": "'ɪnsɪdənt"
     },
     {
-        "name": "maintenance",
-        "trans": [
+         "en": "maintenance",
+         "zh": [
             "维持； 保养； 抚养费"
         ],
         "usphone": "'mentənəns",
         "ukphone": "'meɪntənəns"
     },
     {
-        "name": "marry",
-        "trans": [
+         "en": "marry",
+         "zh": [
             "娶， 嫁； 为…证婚； 结婚， 结合"
         ],
         "usphone": "'mæri",
         "ukphone": "'mæri"
     },
     {
-        "name": "decay",
-        "trans": [
+         "en": "decay",
+         "zh": [
             "腐烂；衰败",
             "腐烂"
         ],
@@ -2642,24 +2643,24 @@
         "ukphone": "dɪ'keɪ"
     },
     {
-        "name": "absorb",
-        "trans": [
+         "en": "absorb",
+         "zh": [
             "吸收； 吸引…的注意， 使全神贯注； 把…并入， 同化"
         ],
         "usphone": "æbˈsɔrb; æbˈzɔrb; əbˈsɔrb",
         "ukphone": "əb'sɔːb; əb'zɔːb"
     },
     {
-        "name": "supply",
-        "trans": [
+         "en": "supply",
+         "zh": [
             "供给， 供应"
         ],
         "usphone": "sə'plaɪ",
         "ukphone": "sə'plaɪ"
     },
     {
-        "name": "concern",
-        "trans": [
+         "en": "concern",
+         "zh": [
             "关切的事，有关的事；关心，挂念；关系，关联；公司，企业",
             "涉及， 有关； 使关心， 使担心"
         ],
@@ -2667,48 +2668,48 @@
         "ukphone": "kən'sɜːn"
     },
     {
-        "name": "circulate",
-        "trans": [
+         "en": "circulate",
+         "zh": [
             "循环， 流通； 流传， 散布， 传播"
         ],
         "usphone": "'sɝkjəlet",
         "ukphone": "'sɜːkjəleɪt"
     },
     {
-        "name": "liberty",
-        "trans": [
+         "en": "liberty",
+         "zh": [
             "自由； 许可， 准许； 过于随便， 放肆"
         ],
         "usphone": "'lɪbɚti",
         "ukphone": "'lɪbəti"
     },
     {
-        "name": "liable",
-        "trans": [
+         "en": "liable",
+         "zh": [
             "易于…的； 可能的"
         ],
         "usphone": "'laɪəbl",
         "ukphone": "'laɪəbl"
     },
     {
-        "name": "cargo",
-        "trans": [
+         "en": "cargo",
+         "zh": [
             "船货， 货物"
         ],
         "usphone": "'kɑrɡo",
         "ukphone": "'kɑːgəu"
     },
     {
-        "name": "confidential",
-        "trans": [
+         "en": "confidential",
+         "zh": [
             "秘密的， 机密的； 亲信的"
         ],
         "usphone": ",kɑnfɪ'dɛnʃl",
         "ukphone": "ˌkɒnfɪ'denʃl"
     },
     {
-        "name": "drift",
-        "trans": [
+         "en": "drift",
+         "zh": [
             "漂流，漂泊",
             "漂流； 大意， 主旨； 趋势"
         ],
@@ -2716,40 +2717,40 @@
         "ukphone": "drɪft"
     },
     {
-        "name": "element",
-        "trans": [
+         "en": "element",
+         "zh": [
             "成分， 要素， 元素； 基础， 纲要； 自然力"
         ],
         "usphone": "'ɛləmənt",
         "ukphone": "'elɪmənt"
     },
     {
-        "name": "chaos",
-        "trans": [
+         "en": "chaos",
+         "zh": [
             "混乱， 紊乱"
         ],
         "usphone": "'keɑs",
         "ukphone": "'keɪɒs"
     },
     {
-        "name": "mankind",
-        "trans": [
+         "en": "mankind",
+         "zh": [
             "人类"
         ],
         "usphone": "mæn'kaɪnd",
         "ukphone": "ˌmæn'kaɪnd"
     },
     {
-        "name": "abundant",
-        "trans": [
+         "en": "abundant",
+         "zh": [
             "丰富的， 富裕的； 大量的， 充足的"
         ],
         "usphone": "ə'bʌndənt",
         "ukphone": "ə'bʌndənt"
     },
     {
-        "name": "pace",
-        "trans": [
+         "en": "pace",
+         "zh": [
             "踱步",
             "步，步速；速度；节奏"
         ],
@@ -2757,24 +2758,24 @@
         "ukphone": "peɪs"
     },
     {
-        "name": "exclaim",
-        "trans": [
+         "en": "exclaim",
+         "zh": [
             "呼喊， 惊叫"
         ],
         "usphone": "ɪk'sklem",
         "ukphone": "ɪk'skleɪm"
     },
     {
-        "name": "probable",
-        "trans": [
+         "en": "probable",
+         "zh": [
             "很可能的， 大概的"
         ],
         "usphone": "'prɑbəbl",
         "ukphone": "'prɒbəbl"
     },
     {
-        "name": "forecast",
-        "trans": [
+         "en": "forecast",
+         "zh": [
             "预测， 预报",
             "预测，预报"
         ],
@@ -2782,24 +2783,24 @@
         "ukphone": "'fɔːkɑːst"
     },
     {
-        "name": "uncover",
-        "trans": [
+         "en": "uncover",
+         "zh": [
             "揭露， 暴露； 揭开…的盖子"
         ],
         "usphone": "ʌn'kʌvɚ",
         "ukphone": "ʌn'kʌvə"
     },
     {
-        "name": "recognize",
-        "trans": [
+         "en": "recognize",
+         "zh": [
             "认出， 识别； 承认； 赏识， 表彰， 报偿"
         ],
         "usphone": "ˈrɛkəɡˌnaɪz",
         "ukphone": "'rekəgnaɪz"
     },
     {
-        "name": "pack",
-        "trans": [
+         "en": "pack",
+         "zh": [
             "捆扎，把…打包；使挤在一起，塞满",
             "包， 小盒"
         ],
@@ -2807,16 +2808,16 @@
         "ukphone": "pæk"
     },
     {
-        "name": "restraint",
-        "trans": [
+         "en": "restraint",
+         "zh": [
             "抑制， 限制， 克制； 约束措施， 约束条件"
         ],
         "usphone": "rɪ'strent",
         "ukphone": "rɪ'streɪnt"
     },
     {
-        "name": "input",
-        "trans": [
+         "en": "input",
+         "zh": [
             "输入；投入的资金；输入的数据",
             "把…输入计算机"
         ],
@@ -2824,8 +2825,8 @@
         "ukphone": "'ɪnput"
     },
     {
-        "name": "cue",
-        "trans": [
+         "en": "cue",
+         "zh": [
             "暗示，信号；提示",
             "提示； 暗示"
         ],
@@ -2833,24 +2834,24 @@
         "ukphone": "kjuː"
     },
     {
-        "name": "volt",
-        "trans": [
+         "en": "volt",
+         "zh": [
             "伏特， 伏"
         ],
         "usphone": "volt",
         "ukphone": "vəult"
     },
     {
-        "name": "reality",
-        "trans": [
+         "en": "reality",
+         "zh": [
             "现实， 实际； 真实"
         ],
         "usphone": "rɪ'æləti",
         "ukphone": "ri'æləti"
     },
     {
-        "name": "stereotype",
-        "trans": [
+         "en": "stereotype",
+         "zh": [
             "陈规，老套，固定的模式；铅版",
             "把…浇铸成铅版； 对…形成固定看法"
         ],
@@ -2858,8 +2859,8 @@
         "ukphone": "'steriətaɪp"
     },
     {
-        "name": "enroll",
-        "trans": [
+         "en": "enroll",
+         "zh": [
             "入学，加入",
             "招收， 吸收"
         ],
@@ -2867,24 +2868,24 @@
         "ukphone": "ɪn'rəul"
     },
     {
-        "name": "offend",
-        "trans": [
+         "en": "offend",
+         "zh": [
             "冒犯， 伤害…的感情； 使厌恶； 违反"
         ],
         "usphone": "ə'fɛnd",
         "ukphone": "ə'fend"
     },
     {
-        "name": "molecule",
-        "trans": [
+         "en": "molecule",
+         "zh": [
             "分子"
         ],
         "usphone": "'mɑlɪkjul",
         "ukphone": "'mɒlɪkjuːl"
     },
     {
-        "name": "resign",
-        "trans": [
+         "en": "resign",
+         "zh": [
             "辞职",
             "辞去， 放弃； 使听从， 使顺从"
         ],
@@ -2892,48 +2893,48 @@
         "ukphone": "rɪ'zaɪn"
     },
     {
-        "name": "bathe",
-        "trans": [
+         "en": "bathe",
+         "zh": [
             "洗澡； 游泳"
         ],
         "usphone": "beð",
         "ukphone": "beɪð"
     },
     {
-        "name": "workman",
-        "trans": [
+         "en": "workman",
+         "zh": [
             "工人， 劳动者， 工匠"
         ],
         "usphone": "'wɝkmən",
         "ukphone": "'wɜːkmən"
     },
     {
-        "name": "sophisticated",
-        "trans": [
+         "en": "sophisticated",
+         "zh": [
             "老于世故的； 高级的； 精密的， 复杂的； 高雅的"
         ],
         "usphone": "sə'fɪstɪketɪd",
         "ukphone": "sə'fɪstɪkeɪtɪd"
     },
     {
-        "name": "sunrise",
-        "trans": [
+         "en": "sunrise",
+         "zh": [
             "日出； 朝霞"
         ],
         "usphone": "'sʌnraɪz",
         "ukphone": "'sʌnraɪz"
     },
     {
-        "name": "entertainment",
-        "trans": [
+         "en": "entertainment",
+         "zh": [
             "娱乐， 文娱节目， 表演会； 招待， 款待， 请客"
         ],
         "usphone": "ˌɛntɚ'tenmənt",
         "ukphone": "ˌentə'teɪnmənt"
     },
     {
-        "name": "document",
-        "trans": [
+         "en": "document",
+         "zh": [
             "公文，文件；证件",
             "用文件等证明"
         ],
@@ -2941,40 +2942,40 @@
         "ukphone": "'dɒkjumənt"
     },
     {
-        "name": "starve",
-        "trans": [
+         "en": "starve",
+         "zh": [
             "挨饿， 饿死"
         ],
         "usphone": "stɑrv",
         "ukphone": "stɑːv"
     },
     {
-        "name": "battery",
-        "trans": [
+         "en": "battery",
+         "zh": [
             "电池， 蓄电池； 排炮， 炮组； 一系列， 一套"
         ],
         "usphone": "'bæt(ə)rɪ",
         "ukphone": "'bætri"
     },
     {
-        "name": "chase",
-        "trans": [
+         "en": "chase",
+         "zh": [
             "追逐， 追赶； 追求"
         ],
         "usphone": "tʃeis",
         "ukphone": "tʃeɪs"
     },
     {
-        "name": "accident",
-        "trans": [
+         "en": "accident",
+         "zh": [
             "意外， 事故"
         ],
         "usphone": "'æksədənt",
         "ukphone": "'æksɪdənt"
     },
     {
-        "name": "marine",
-        "trans": [
+         "en": "marine",
+         "zh": [
             "海的， 海生的； 海事的， 海军的， 海运的",
             "海军陆战队士兵"
         ],
@@ -2982,32 +2983,32 @@
         "ukphone": "mə'riːn"
     },
     {
-        "name": "clay",
-        "trans": [
+         "en": "clay",
+         "zh": [
             "黏土， 泥土； 肉体"
         ],
         "usphone": "kle",
         "ukphone": "kleɪ"
     },
     {
-        "name": "anyway",
-        "trans": [
+         "en": "anyway",
+         "zh": [
             "无论如何， 至少； 不论以何种方式， 无论从什么角度"
         ],
         "usphone": "'ɛnɪ'we",
         "ukphone": "'eniweɪ"
     },
     {
-        "name": "promote",
-        "trans": [
+         "en": "promote",
+         "zh": [
             "促进， 增进， 发扬； 提升； 宣传， 推销"
         ],
         "usphone": "prə'mot",
         "ukphone": "prə'məut"
     },
     {
-        "name": "routine",
-        "trans": [
+         "en": "routine",
+         "zh": [
             "例行的， 常规的",
             "例行公事，惯例，惯常的程序"
         ],
@@ -3015,8 +3016,8 @@
         "ukphone": "ruː'tiːn"
     },
     {
-        "name": "attack",
-        "trans": [
+         "en": "attack",
+         "zh": [
             "攻击，打击；突然发作",
             "攻击， 进攻"
         ],
@@ -3024,16 +3025,16 @@
         "ukphone": "ə'tæk"
     },
     {
-        "name": "humour",
-        "trans": [
+         "en": "humour",
+         "zh": [
             "幽默， 诙谐， 幽默感"
         ],
         "usphone": "'hju:mə",
         "ukphone": "'hjuːmə"
     },
     {
-        "name": "divorce",
-        "trans": [
+         "en": "divorce",
+         "zh": [
             "离婚； 分离， 脱离",
             "离婚，离异"
         ],
@@ -3041,48 +3042,48 @@
         "ukphone": "dɪ'vɔːs"
     },
     {
-        "name": "currency",
-        "trans": [
+         "en": "currency",
+         "zh": [
             "通货， 货币； 通行， 流行"
         ],
         "usphone": "ˈkɜrənsi",
         "ukphone": "'kʌrənsi"
     },
     {
-        "name": "canal",
-        "trans": [
+         "en": "canal",
+         "zh": [
             "运河， 沟渠； 管"
         ],
         "usphone": "kə'næl",
         "ukphone": "kə'næl"
     },
     {
-        "name": "attach",
-        "trans": [
+         "en": "attach",
+         "zh": [
             "缚， 系， 贴； 附加； 使依恋， 使喜爱； 使附属； 认为有"
         ],
         "usphone": "ə'tætʃ",
         "ukphone": "ə'tætʃ"
     },
     {
-        "name": "distribute",
-        "trans": [
+         "en": "distribute",
+         "zh": [
             "分发， 分送； 分布"
         ],
         "usphone": "dɪ'strɪbjut",
         "ukphone": "dɪ'strɪbjuːt; 'dɪstrɪbjuːt"
     },
     {
-        "name": "ankle",
-        "trans": [
+         "en": "ankle",
+         "zh": [
             "踝， 踝关节"
         ],
         "usphone": "'æŋkl",
         "ukphone": "'æŋkl"
     },
     {
-        "name": "convict",
-        "trans": [
+         "en": "convict",
+         "zh": [
             "证明…有罪， 宣判…有罪",
             "囚犯"
         ],
@@ -3090,24 +3091,24 @@
         "ukphone": "kən'vɪkt"
     },
     {
-        "name": "legislation",
-        "trans": [
+         "en": "legislation",
+         "zh": [
             "法律， 法规； 立法， 法律的制定"
         ],
         "usphone": ",lɛdʒɪs'leʃən",
         "ukphone": "ˌledʒɪs'leɪʃn"
     },
     {
-        "name": "clause",
-        "trans": [
+         "en": "clause",
+         "zh": [
             "条款； 从句， 分句"
         ],
         "usphone": "klɔz",
         "ukphone": "klɔːz"
     },
     {
-        "name": "quiz",
-        "trans": [
+         "en": "quiz",
+         "zh": [
             "智力竞赛，问答比赛；小测验",
             "考查， 盘问"
         ],
@@ -3115,24 +3116,24 @@
         "ukphone": "kwɪz"
     },
     {
-        "name": "participate",
-        "trans": [
+         "en": "participate",
+         "zh": [
             "参与， 参加； 分享"
         ],
         "usphone": "pɑr'tɪsə'pet",
         "ukphone": "pɑː'tɪsɪpeɪt"
     },
     {
-        "name": "ingredient",
-        "trans": [
+         "en": "ingredient",
+         "zh": [
             "组成部分， 成分； 原料； 要素， 因素"
         ],
         "usphone": "ɪn'ɡridɪənt",
         "ukphone": "ɪn'griːdiənt"
     },
     {
-        "name": "surplus",
-        "trans": [
+         "en": "surplus",
+         "zh": [
             "过剩的， 多余的",
             "过剩，剩余，盈余"
         ],
@@ -3140,32 +3141,32 @@
         "ukphone": "'sɜːpləs"
     },
     {
-        "name": "correspondence",
-        "trans": [
+         "en": "correspondence",
+         "zh": [
             "信件， 函件； 通信， 通信联系； 符合， 一致， 相似"
         ],
         "usphone": ",kɔrə'spɑndəns",
         "ukphone": "ˌkɒrə'spɒndəns"
     },
     {
-        "name": "refresh",
-        "trans": [
+         "en": "refresh",
+         "zh": [
             "振作精神， 恢复活力"
         ],
         "usphone": "ri'frɛʃ",
         "ukphone": "rɪ'freʃ"
     },
     {
-        "name": "librarian",
-        "trans": [
+         "en": "librarian",
+         "zh": [
             "图书馆管理员"
         ],
         "usphone": "laɪ'brɛrɪən",
         "ukphone": "laɪ'breəriən"
     },
     {
-        "name": "intimate",
-        "trans": [
+         "en": "intimate",
+         "zh": [
             "亲密的；个人的",
             "至交， 密友",
             "暗示， 提示"
@@ -3174,48 +3175,48 @@
         "ukphone": "'ɪntɪmət"
     },
     {
-        "name": "reporter",
-        "trans": [
+         "en": "reporter",
+         "zh": [
             "记者"
         ],
         "usphone": "rɪ'pɔrtɚ",
         "ukphone": "rɪ'pɔːtə"
     },
     {
-        "name": "declaration",
-        "trans": [
+         "en": "declaration",
+         "zh": [
             "宣布， 宣告； 宣言， 声明； 申报"
         ],
         "usphone": ",dɛklə'reʃən",
         "ukphone": "ˌdeklə'reɪʃn"
     },
     {
-        "name": "disclose",
-        "trans": [
+         "en": "disclose",
+         "zh": [
             "揭示； 透露"
         ],
         "usphone": "dɪs'kloz",
         "ukphone": "dɪs'kləuz"
     },
     {
-        "name": "religion",
-        "trans": [
+         "en": "religion",
+         "zh": [
             "宗教， 宗教信仰"
         ],
         "usphone": "rɪ'lɪdʒən",
         "ukphone": "rɪ'lɪdʒən"
     },
     {
-        "name": "diagram",
-        "trans": [
+         "en": "diagram",
+         "zh": [
             "图解， 图表， 简图"
         ],
         "usphone": "'daɪəɡræm",
         "ukphone": "'daɪəgræm"
     },
     {
-        "name": "claw",
-        "trans": [
+         "en": "claw",
+         "zh": [
             "抓， 撕",
             "爪，脚爪，螯"
         ],
@@ -3223,8 +3224,8 @@
         "ukphone": "klɔː"
     },
     {
-        "name": "torture",
-        "trans": [
+         "en": "torture",
+         "zh": [
             "拷问；折磨",
             "拷打"
         ],
@@ -3232,24 +3233,24 @@
         "ukphone": "'tɔːtʃə"
     },
     {
-        "name": "prayer",
-        "trans": [
+         "en": "prayer",
+         "zh": [
             "祷告， 祈祷； 祷文； 祈求， 祈望"
         ],
         "usphone": "prɛr",
         "ukphone": "preə"
     },
     {
-        "name": "tragedy",
-        "trans": [
+         "en": "tragedy",
+         "zh": [
             "悲剧， 惨事， 惨案； 悲剧艺术"
         ],
         "usphone": "'trædʒədi",
         "ukphone": "'trædʒədi"
     },
     {
-        "name": "charm",
-        "trans": [
+         "en": "charm",
+         "zh": [
             "迷人的特性，魅力；符咒，咒文",
             "吸引， 迷住"
         ],
@@ -3257,8 +3258,8 @@
         "ukphone": "tʃɑːm"
     },
     {
-        "name": "clap",
-        "trans": [
+         "en": "clap",
+         "zh": [
             "拍手，轻拍",
             "拍手， 鼓掌"
         ],
@@ -3266,8 +3267,8 @@
         "ukphone": "klæp"
     },
     {
-        "name": "purple",
-        "trans": [
+         "en": "purple",
+         "zh": [
             "紫的",
             "紫色"
         ],
@@ -3275,32 +3276,32 @@
         "ukphone": "'pɜːpl"
     },
     {
-        "name": "quit",
-        "trans": [
+         "en": "quit",
+         "zh": [
             "停止， 放弃； 离开， 辞"
         ],
         "usphone": "kwɪt",
         "ukphone": "kwɪt"
     },
     {
-        "name": "economical",
-        "trans": [
+         "en": "economical",
+         "zh": [
             "节约的； 经济学的"
         ],
         "usphone": ",ɛkə'nɑmɪkl",
         "ukphone": "ˌiːkə'nɒmɪkl"
     },
     {
-        "name": "prosperous",
-        "trans": [
+         "en": "prosperous",
+         "zh": [
             "繁荣的， 兴旺的"
         ],
         "usphone": "'prɑspərəs",
         "ukphone": "'prɒspərəs"
     },
     {
-        "name": "polish",
-        "trans": [
+         "en": "polish",
+         "zh": [
             "磨光；修改，润色，使优美",
             "擦光剂"
         ],
@@ -3308,16 +3309,16 @@
         "ukphone": "'pɒlɪʃ"
     },
     {
-        "name": "cabinet",
-        "trans": [
+         "en": "cabinet",
+         "zh": [
             "橱， 柜； 内阁"
         ],
         "usphone": "'kæbɪnət",
         "ukphone": "'kæbɪnət"
     },
     {
-        "name": "chart",
-        "trans": [
+         "en": "chart",
+         "zh": [
             "图表；航海图",
             "用图表表示， 在图上表示"
         ],
@@ -3325,72 +3326,72 @@
         "ukphone": "tʃɑːt"
     },
     {
-        "name": "optical",
-        "trans": [
+         "en": "optical",
+         "zh": [
             "眼的， 光学的， 视觉的"
         ],
         "usphone": "'ɑptɪkl",
         "ukphone": "'ɒptɪkl"
     },
     {
-        "name": "fashion",
-        "trans": [
+         "en": "fashion",
+         "zh": [
             "样子， 方式； 时尚； 流行款式"
         ],
         "usphone": "'fæʃən",
         "ukphone": "'fæʃn"
     },
     {
-        "name": "insurance",
-        "trans": [
+         "en": "insurance",
+         "zh": [
             "保险， 保险费"
         ],
         "usphone": "ɪn'ʃʊrəns",
         "ukphone": "ɪn'ʃuərəns"
     },
     {
-        "name": "preface",
-        "trans": [
+         "en": "preface",
+         "zh": [
             "序言， 前言， 引言"
         ],
         "usphone": "ˈpref.ɪs",
         "ukphone": "'prefəs"
     },
     {
-        "name": "principle",
-        "trans": [
+         "en": "principle",
+         "zh": [
             "原则， 原理， 道义； 基本信念， 信条"
         ],
         "usphone": "'prɪnsəpl",
         "ukphone": "'prɪnsəpl"
     },
     {
-        "name": "lid",
-        "trans": [
+         "en": "lid",
+         "zh": [
             "盖子， 盖"
         ],
         "usphone": "lɪd",
         "ukphone": "lɪd"
     },
     {
-        "name": "tedious",
-        "trans": [
+         "en": "tedious",
+         "zh": [
             "冗长乏味的， 沉闷的"
         ],
         "usphone": "'tidɪəs",
         "ukphone": "'tiːdiəs"
     },
     {
-        "name": "source",
-        "trans": [
+         "en": "source",
+         "zh": [
             "河的源头， 根源； 来源， 出处"
         ],
         "usphone": "sɔrs",
         "ukphone": "sɔːs"
     },
     {
-        "name": "secure",
-        "trans": [
+         "en": "secure",
+         "zh": [
             "安全的，可靠的；牢固的，稳固的；无忧虑的，安心的",
             "得到， 获得； 使安全， 保卫； 缚牢"
         ],
@@ -3398,56 +3399,56 @@
         "ukphone": "sɪ'kjuə"
     },
     {
-        "name": "domestic",
-        "trans": [
+         "en": "domestic",
+         "zh": [
             "本国的； 家庭的； 驯养的"
         ],
         "usphone": "də'mɛstɪk",
         "ukphone": "də'mestɪk"
     },
     {
-        "name": "deception",
-        "trans": [
+         "en": "deception",
+         "zh": [
             "欺骗； 诡计， 骗局"
         ],
         "usphone": "dɪ'sɛpʃən",
         "ukphone": "dɪ'sepʃn"
     },
     {
-        "name": "basically",
-        "trans": [
+         "en": "basically",
+         "zh": [
             "基本上， 从根本上说"
         ],
         "usphone": "'besɪkli",
         "ukphone": "'beɪsɪkli"
     },
     {
-        "name": "donation",
-        "trans": [
+         "en": "donation",
+         "zh": [
             "捐款， 捐赠物； 捐赠， 赠送"
         ],
         "usphone": "do'neʃən",
         "ukphone": "dəu'neɪʃn"
     },
     {
-        "name": "avenue",
-        "trans": [
+         "en": "avenue",
+         "zh": [
             "林荫道， 道路， 大街"
         ],
         "usphone": "'ævənu",
         "ukphone": "'ævənjuː"
     },
     {
-        "name": "immense",
-        "trans": [
+         "en": "immense",
+         "zh": [
             "巨大的； 极好的"
         ],
         "usphone": "ɪ'mɛns",
         "ukphone": "ɪ'mens"
     },
     {
-        "name": "budget",
-        "trans": [
+         "en": "budget",
+         "zh": [
             "规划，安排；编预算",
             "低廉的， 收费公道的",
             "预算，预算拨款"
@@ -3456,8 +3457,8 @@
         "ukphone": "'bʌdʒɪt"
     },
     {
-        "name": "given",
-        "trans": [
+         "en": "given",
+         "zh": [
             "规定的，特定的；假设的；已知的；有癖好的，有倾向的",
             "考虑到"
         ],
@@ -3465,48 +3466,48 @@
         "ukphone": "'gɪvn"
     },
     {
-        "name": "hay",
-        "trans": [
+         "en": "hay",
+         "zh": [
             "干草"
         ],
         "usphone": "",
         "ukphone": "heɪ"
     },
     {
-        "name": "chest",
-        "trans": [
+         "en": "chest",
+         "zh": [
             "胸腔， 胸膛； 箱子"
         ],
         "usphone": "tʃɛst",
         "ukphone": "tʃest"
     },
     {
-        "name": "tension",
-        "trans": [
+         "en": "tension",
+         "zh": [
             "紧张， 不安； 拉紧； 张力， 拉力"
         ],
         "usphone": "'tɛnʃən",
         "ukphone": "'tenʃn"
     },
     {
-        "name": "definite",
-        "trans": [
+         "en": "definite",
+         "zh": [
             "明确的， 肯定的"
         ],
         "usphone": "'dɛfɪnət",
         "ukphone": "'defɪnət"
     },
     {
-        "name": "reflection",
-        "trans": [
+         "en": "reflection",
+         "zh": [
             "映像， 倒影； 反射； 反映， 表达； 非议； 沉思， 反省"
         ],
         "usphone": "rɪ'flɛkʃən",
         "ukphone": "rɪ'flekʃn"
     },
     {
-        "name": "ultimate",
-        "trans": [
+         "en": "ultimate",
+         "zh": [
             "最后的，最终的",
             "终极， 顶点"
         ],
@@ -3514,40 +3515,40 @@
         "ukphone": "'ʌltɪmət"
     },
     {
-        "name": "campus",
-        "trans": [
+         "en": "campus",
+         "zh": [
             "校园， 学校场地"
         ],
         "usphone": "'kæmpəs",
         "ukphone": "'kæmpəs"
     },
     {
-        "name": "adapt",
-        "trans": [
+         "en": "adapt",
+         "zh": [
             "使适应； 改编"
         ],
         "usphone": "ə'dæpt",
         "ukphone": "ə'dæpt"
     },
     {
-        "name": "solicitor",
-        "trans": [
+         "en": "solicitor",
+         "zh": [
             "律师， 法律顾问"
         ],
         "usphone": "sə'lɪsɪtɚ",
         "ukphone": "sə'lɪsɪtə"
     },
     {
-        "name": "cheerful",
-        "trans": [
+         "en": "cheerful",
+         "zh": [
             "快乐的， 愉快的； 使人感到愉快的"
         ],
         "usphone": "'tʃɪrfl",
         "ukphone": "'tʃɪəfl"
     },
     {
-        "name": "merit",
-        "trans": [
+         "en": "merit",
+         "zh": [
             "长处，优点，价值；功劳，成绩",
             "值得， 应受"
         ],
@@ -3555,24 +3556,24 @@
         "ukphone": "'merɪt"
     },
     {
-        "name": "misunderstand",
-        "trans": [
+         "en": "misunderstand",
+         "zh": [
             "误解， 误会"
         ],
         "usphone": ",mɪsʌndɚ'stænd",
         "ukphone": "ˌmɪsʌndə'stænd"
     },
     {
-        "name": "guilty",
-        "trans": [
+         "en": "guilty",
+         "zh": [
             "内疚的； 有罪的"
         ],
         "usphone": "'ɡɪlti",
         "ukphone": "'gɪlti"
     },
     {
-        "name": "measure",
-        "trans": [
+         "en": "measure",
+         "zh": [
             "测量，度量；衡量",
             "分量； 尺寸； 量具； 计量单位； 量度， 测量； 措施， 办法"
         ],
@@ -3580,32 +3581,32 @@
         "ukphone": "'meʒə"
     },
     {
-        "name": "overall",
-        "trans": [
+         "en": "overall",
+         "zh": [
             "全面的， 总体的， 全部的"
         ],
         "usphone": ",ovə'rɔl",
         "ukphone": "ˌəuvər'ɔːl"
     },
     {
-        "name": "receipt",
-        "trans": [
+         "en": "receipt",
+         "zh": [
             "发票， 收据； 收入， 进款； 收到， 接到"
         ],
         "usphone": "rɪ'sit",
         "ukphone": "rɪ'siːt"
     },
     {
-        "name": "assume",
-        "trans": [
+         "en": "assume",
+         "zh": [
             "假定， 假设， 臆断； 承担， 担任； 呈现"
         ],
         "usphone": "ə'sum",
         "ukphone": "ə'sjuːm"
     },
     {
-        "name": "pepper",
-        "trans": [
+         "en": "pepper",
+         "zh": [
             "胡椒，胡椒粉",
             "在…上撒； 使布满"
         ],
@@ -3613,8 +3614,8 @@
         "ukphone": "'pepə"
     },
     {
-        "name": "plural",
-        "trans": [
+         "en": "plural",
+         "zh": [
             "复数的",
             "复数"
         ],
@@ -3622,40 +3623,40 @@
         "ukphone": "'pluərəl"
     },
     {
-        "name": "doctoral",
-        "trans": [
+         "en": "doctoral",
+         "zh": [
             "博士的"
         ],
         "usphone": "'dɔktərəl",
         "ukphone": "'dɒktərəl"
     },
     {
-        "name": "concept",
-        "trans": [
+         "en": "concept",
+         "zh": [
             "概念， 观念， 设想"
         ],
         "usphone": "'kɑnsɛpt",
         "ukphone": "'kɒnsept"
     },
     {
-        "name": "resistant",
-        "trans": [
+         "en": "resistant",
+         "zh": [
             "抵抗的， 抗…的， 耐…的"
         ],
         "usphone": "rɪ'zɪstənt",
         "ukphone": "rɪ'zɪstənt"
     },
     {
-        "name": "effort",
-        "trans": [
+         "en": "effort",
+         "zh": [
             "努力， 努力的成果"
         ],
         "usphone": "'ɛfɚt",
         "ukphone": "'efət"
     },
     {
-        "name": "video",
-        "trans": [
+         "en": "video",
+         "zh": [
             "录像的；电视的",
             "录像"
         ],
@@ -3663,56 +3664,56 @@
         "ukphone": "'vɪdiəu"
     },
     {
-        "name": "disaster",
-        "trans": [
+         "en": "disaster",
+         "zh": [
             "灾难， 灾祸， 天灾； 彻底的失败"
         ],
         "usphone": "dɪ'zæstɚ",
         "ukphone": "dɪ'zɑːstə"
     },
     {
-        "name": "agriculture",
-        "trans": [
+         "en": "agriculture",
+         "zh": [
             "农业， 农学"
         ],
         "usphone": "'æɡrɪkʌltʃɚ",
         "ukphone": "'ægrɪkʌltʃə"
     },
     {
-        "name": "weapon",
-        "trans": [
+         "en": "weapon",
+         "zh": [
             "武器， 兵器"
         ],
         "usphone": "'wɛpən",
         "ukphone": "'wepən"
     },
     {
-        "name": "grocer",
-        "trans": [
+         "en": "grocer",
+         "zh": [
             "食品商， 杂货商"
         ],
         "usphone": "ɡrosɚ",
         "ukphone": "'grəusə"
     },
     {
-        "name": "stare",
-        "trans": [
+         "en": "stare",
+         "zh": [
             "盯， 凝视"
         ],
         "usphone": "stɛr",
         "ukphone": "steə"
     },
     {
-        "name": "painful",
-        "trans": [
+         "en": "painful",
+         "zh": [
             "疼痛的， 引起疼痛的； 困难的； 令人不快的"
         ],
         "usphone": "'penfl",
         "ukphone": "'peɪnfl"
     },
     {
-        "name": "vote",
-        "trans": [
+         "en": "vote",
+         "zh": [
             "投票； 表决",
             "票，选票；选举，投票，表决；表决结果，投票总数"
         ],
@@ -3720,8 +3721,8 @@
         "ukphone": "vəut"
     },
     {
-        "name": "steady",
-        "trans": [
+         "en": "steady",
+         "zh": [
             "稳定",
             "稳的，平稳的；稳定的，持续的；稳固的"
         ],
@@ -3729,56 +3730,56 @@
         "ukphone": "'stedi"
     },
     {
-        "name": "enhance",
-        "trans": [
+         "en": "enhance",
+         "zh": [
             "提高， 增加， 加强"
         ],
         "usphone": "ɪn'hæns",
         "ukphone": "ɪn'hɑːns"
     },
     {
-        "name": "enclose",
-        "trans": [
+         "en": "enclose",
+         "zh": [
             "围住， 圈起； 附上； 把…装入信封"
         ],
         "usphone": "ɪn'kloz",
         "ukphone": "ɪn'kləuz"
     },
     {
-        "name": "convention",
-        "trans": [
+         "en": "convention",
+         "zh": [
             "习俗， 惯例； 公约； 会议"
         ],
         "usphone": "kən'vɛnʃən",
         "ukphone": "kən'venʃn"
     },
     {
-        "name": "disease",
-        "trans": [
+         "en": "disease",
+         "zh": [
             "病， 疾病； 不健全； 弊端"
         ],
         "usphone": "dɪ'ziz",
         "ukphone": "dɪ'ziːz"
     },
     {
-        "name": "center",
-        "trans": [
+         "en": "center",
+         "zh": [
             "圆心， 正中； 中心"
         ],
         "usphone": "'sɛntɚ",
         "ukphone": "'sentə"
     },
     {
-        "name": "suspicion",
-        "trans": [
+         "en": "suspicion",
+         "zh": [
             "怀疑， 疑心， 猜疑； 一点儿， 少量"
         ],
         "usphone": "sə'spɪʃən",
         "ukphone": "sə'spɪʃn"
     },
     {
-        "name": "purchase",
-        "trans": [
+         "en": "purchase",
+         "zh": [
             "买，购买",
             "购买； 购买的物品"
         ],
@@ -3786,40 +3787,40 @@
         "ukphone": "'pɜːtʃəs"
     },
     {
-        "name": "refusal",
-        "trans": [
+         "en": "refusal",
+         "zh": [
             "拒绝"
         ],
         "usphone": "rɪ'fjuzl",
         "ukphone": "rɪ'fjuːzl"
     },
     {
-        "name": "technician",
-        "trans": [
+         "en": "technician",
+         "zh": [
             "技术员， 技师"
         ],
         "usphone": "tɛk'nɪʃən",
         "ukphone": "tek'nɪʃn"
     },
     {
-        "name": "generic",
-        "trans": [
+         "en": "generic",
+         "zh": [
             "【生物】 属的， 类的； 一般的， 普通的"
         ],
         "usphone": "dʒə'nɛrɪk",
         "ukphone": "dʒə'nerɪk"
     },
     {
-        "name": "genius",
-        "trans": [
+         "en": "genius",
+         "zh": [
             "天才， 天赋， 天资； 天才人物"
         ],
         "usphone": "'dʒinjəs",
         "ukphone": "'dʒiːniəs"
     },
     {
-        "name": "alike",
-        "trans": [
+         "en": "alike",
+         "zh": [
             "一样地， 相似地； 同样程度地",
             "同样的，相同的"
         ],
@@ -3827,8 +3828,8 @@
         "ukphone": "ə'laɪk"
     },
     {
-        "name": "fund",
-        "trans": [
+         "en": "fund",
+         "zh": [
             "资金，基金；存款",
             "为…提供资金"
         ],
@@ -3836,32 +3837,32 @@
         "ukphone": "fʌnd"
     },
     {
-        "name": "gravity",
-        "trans": [
+         "en": "gravity",
+         "zh": [
             "重力， 引力； 严重性； 严肃， 庄重"
         ],
         "usphone": "ˈɡrævətɪ",
         "ukphone": "'grævəti"
     },
     {
-        "name": "typical",
-        "trans": [
+         "en": "typical",
+         "zh": [
             "典型的， 代表性的"
         ],
         "usphone": "'tɪpɪkl",
         "ukphone": "'tɪpɪkl"
     },
     {
-        "name": "quotation",
-        "trans": [
+         "en": "quotation",
+         "zh": [
             "引文， 引语， 语录； 报价， 牌价， 行情"
         ],
         "usphone": "kwo'teʃən",
         "ukphone": "kwəu'teɪʃn"
     },
     {
-        "name": "finance",
-        "trans": [
+         "en": "finance",
+         "zh": [
             "筹措资金",
             "财政，金融；财源，财务情况"
         ],
@@ -3869,24 +3870,24 @@
         "ukphone": "faɪ'næns; fə'næns"
     },
     {
-        "name": "studio",
-        "trans": [
+         "en": "studio",
+         "zh": [
             "画室， 摄影室； 播音室， 录音室， 摄影棚"
         ],
         "usphone": "'studɪo",
         "ukphone": "'stjuːdiəu"
     },
     {
-        "name": "tray",
-        "trans": [
+         "en": "tray",
+         "zh": [
             "盘， 托盘， 碟"
         ],
         "usphone": "tre",
         "ukphone": "treɪ"
     },
     {
-        "name": "downward",
-        "trans": [
+         "en": "downward",
+         "zh": [
             "向下地",
             "向下的"
         ],
@@ -3894,40 +3895,40 @@
         "ukphone": "'daunwəd"
     },
     {
-        "name": "cabbage",
-        "trans": [
+         "en": "cabbage",
+         "zh": [
             "洋白菜， 卷心菜"
         ],
         "usphone": "ˈkæbɪdʒ",
         "ukphone": "'kæbɪdʒ"
     },
     {
-        "name": "regulate",
-        "trans": [
+         "en": "regulate",
+         "zh": [
             "管理， 控制； 调整， 调节"
         ],
         "usphone": "'rɛɡjulet",
         "ukphone": "'regjuleɪt"
     },
     {
-        "name": "palm",
-        "trans": [
+         "en": "palm",
+         "zh": [
             "手掌， 掌状物； 棕榈树"
         ],
         "usphone": "pɑm",
         "ukphone": "pɑːm"
     },
     {
-        "name": "hydrogen",
-        "trans": [
+         "en": "hydrogen",
+         "zh": [
             "氢"
         ],
         "usphone": "'haɪdrədʒən",
         "ukphone": "'haɪdrədʒən"
     },
     {
-        "name": "infant",
-        "trans": [
+         "en": "infant",
+         "zh": [
             "婴儿的； 幼稚的",
             "婴儿"
         ],
@@ -3935,72 +3936,72 @@
         "ukphone": "'ɪnfənt"
     },
     {
-        "name": "hen",
-        "trans": [
+         "en": "hen",
+         "zh": [
             "母鸡， 雌禽"
         ],
         "usphone": "hɛn",
         "ukphone": "hen"
     },
     {
-        "name": "whoever",
-        "trans": [
+         "en": "whoever",
+         "zh": [
             "谁； 无论谁； 究竟是谁"
         ],
         "usphone": "hʊ'ɛvɚ",
         "ukphone": "huː'evə"
     },
     {
-        "name": "carbon",
-        "trans": [
+         "en": "carbon",
+         "zh": [
             "碳"
         ],
         "usphone": "'kɑrbən",
         "ukphone": "'kɑːbən"
     },
     {
-        "name": "unload",
-        "trans": [
+         "en": "unload",
+         "zh": [
             "卸， 卸货； 下客； 退出子弹； 卸下胶卷"
         ],
         "usphone": "'ʌn'lod",
         "ukphone": "ˌʌn'ləud"
     },
     {
-        "name": "payment",
-        "trans": [
+         "en": "payment",
+         "zh": [
             "支付， 支付的款项"
         ],
         "usphone": "'pemənt",
         "ukphone": "'peɪmənt"
     },
     {
-        "name": "specifically",
-        "trans": [
+         "en": "specifically",
+         "zh": [
             "特别地， 特定地； 明确地， 具体地"
         ],
         "usphone": "spə'sɪfɪkli",
         "ukphone": "spə'sɪfɪkli"
     },
     {
-        "name": "controversial",
-        "trans": [
+         "en": "controversial",
+         "zh": [
             "引起争论的， 有争议的"
         ],
         "usphone": ",kɑntrə'vɝʃl",
         "ukphone": "ˌkɒntrə'vɜːʃl"
     },
     {
-        "name": "attain",
-        "trans": [
+         "en": "attain",
+         "zh": [
             "达到， 获得， 完成"
         ],
         "usphone": "ə'ten",
         "ukphone": "ə'teɪn"
     },
     {
-        "name": "trap",
-        "trans": [
+         "en": "trap",
+         "zh": [
             "陷阱，捕捉器；圈套，诡计；困境",
             "设陷阱捕捉； 诱骗"
         ],
@@ -4008,64 +4009,64 @@
         "ukphone": "træp"
     },
     {
-        "name": "gallery",
-        "trans": [
+         "en": "gallery",
+         "zh": [
             "画廊， 美术馆； 楼座； 旁听席； 回廊， 走廊"
         ],
         "usphone": "'gæləri",
         "ukphone": "'gæləri"
     },
     {
-        "name": "hardware",
-        "trans": [
+         "en": "hardware",
+         "zh": [
             "五金器具； 硬件"
         ],
         "usphone": "'hɑrdwɛr",
         "ukphone": "'hɑːdweə"
     },
     {
-        "name": "deputy",
-        "trans": [
+         "en": "deputy",
+         "zh": [
             "副职， 副手； 代表， 代理人"
         ],
         "usphone": "'dɛpjuti",
         "ukphone": "'depjuti"
     },
     {
-        "name": "warmth",
-        "trans": [
+         "en": "warmth",
+         "zh": [
             "暖和， 温暖； 热烈， 热情， 热心"
         ],
         "usphone": "wɔrmθ",
         "ukphone": "wɔːmθ"
     },
     {
-        "name": "supreme",
-        "trans": [
+         "en": "supreme",
+         "zh": [
             "最高的， 最大的； 极度的， 最重要的"
         ],
         "usphone": "suˈprim",
         "ukphone": "suː'priːm"
     },
     {
-        "name": "ambulance",
-        "trans": [
+         "en": "ambulance",
+         "zh": [
             "救护车； 野战医院"
         ],
         "usphone": "'æmbjələns",
         "ukphone": "'æmbjələns"
     },
     {
-        "name": "priority",
-        "trans": [
+         "en": "priority",
+         "zh": [
             "优先， 重点； 优先考虑的事"
         ],
         "usphone": "praɪ'ɔrəti",
         "ukphone": "praɪ'ɒrəti"
     },
     {
-        "name": "slope",
-        "trans": [
+         "en": "slope",
+         "zh": [
             "倾斜",
             "倾斜；斜面"
         ],
@@ -4073,32 +4074,32 @@
         "ukphone": "sləup"
     },
     {
-        "name": "philosophy",
-        "trans": [
+         "en": "philosophy",
+         "zh": [
             "哲学， 哲理， 人生哲学"
         ],
         "usphone": "fə'lɑsəfi",
         "ukphone": "fə'lɒsəfi"
     },
     {
-        "name": "preventive",
-        "trans": [
+         "en": "preventive",
+         "zh": [
             "预防性的"
         ],
         "usphone": "pri'vɛntɪv",
         "ukphone": "prɪ'ventɪv"
     },
     {
-        "name": "creative",
-        "trans": [
+         "en": "creative",
+         "zh": [
             "创造性的， 创作的"
         ],
         "usphone": "krɪ'etɪv",
         "ukphone": "kri'eɪtɪv"
     },
     {
-        "name": "junior",
-        "trans": [
+         "en": "junior",
+         "zh": [
             "年少的；资历较浅的",
             "晚辈； 三年级学生"
         ],
@@ -4106,32 +4107,32 @@
         "ukphone": "'dʒuːniə"
     },
     {
-        "name": "allocate",
-        "trans": [
+         "en": "allocate",
+         "zh": [
             "分配， 分派， 把…拨给"
         ],
         "usphone": "'æləket",
         "ukphone": "'æləkeɪt"
     },
     {
-        "name": "provide",
-        "trans": [
+         "en": "provide",
+         "zh": [
             "提供， 供给"
         ],
         "usphone": "prə'vaɪd",
         "ukphone": "prə'vaɪd"
     },
     {
-        "name": "standpoint",
-        "trans": [
+         "en": "standpoint",
+         "zh": [
             "立场， 观点"
         ],
         "usphone": "'stændpɔɪnt",
         "ukphone": "'stændpɔɪnt"
     },
     {
-        "name": "worship",
-        "trans": [
+         "en": "worship",
+         "zh": [
             "礼拜；崇拜；信奉",
             "崇拜"
         ],
@@ -4139,24 +4140,24 @@
         "ukphone": "'wɜːʃɪp"
     },
     {
-        "name": "lawn",
-        "trans": [
+         "en": "lawn",
+         "zh": [
             "草地， 草坪， 草场"
         ],
         "usphone": "lɔn",
         "ukphone": "lɔːn"
     },
     {
-        "name": "primary",
-        "trans": [
+         "en": "primary",
+         "zh": [
             "首要的， 主要的； 基本的； 最初的， 初级的"
         ],
         "usphone": "'praɪmɛri",
         "ukphone": "'praɪməri"
     },
     {
-        "name": "log",
-        "trans": [
+         "en": "log",
+         "zh": [
             "原木，木料；航海日志",
             "正式记录"
         ],
@@ -4164,80 +4165,80 @@
         "ukphone": "lɒg"
     },
     {
-        "name": "solar",
-        "trans": [
+         "en": "solar",
+         "zh": [
             "太阳的， 日光的； 太阳能的"
         ],
         "usphone": "'solɚ",
         "ukphone": "'səulə"
     },
     {
-        "name": "consume",
-        "trans": [
+         "en": "consume",
+         "zh": [
             "消费， 吃完， 喝光； 毁灭； 使着迷， 充满"
         ],
         "usphone": "kənˈsum",
         "ukphone": "kən'sjuːm"
     },
     {
-        "name": "formation",
-        "trans": [
+         "en": "formation",
+         "zh": [
             "形成， 构成， 形成物； 队形， 排列"
         ],
         "usphone": "fɔr'meʃən",
         "ukphone": "fɔː'meɪʃn"
     },
     {
-        "name": "layer",
-        "trans": [
+         "en": "layer",
+         "zh": [
             "层， 层次"
         ],
         "usphone": "'leɪr",
         "ukphone": "'leɪə"
     },
     {
-        "name": "triangle",
-        "trans": [
+         "en": "triangle",
+         "zh": [
             "三角"
         ],
         "usphone": "'traɪæŋɡl",
         "ukphone": "'traɪæŋgl"
     },
     {
-        "name": "accidental",
-        "trans": [
+         "en": "accidental",
+         "zh": [
             "偶然的， 意外的"
         ],
         "usphone": ",æksɪ'dɛntl",
         "ukphone": "ˌæksɪ'dentl"
     },
     {
-        "name": "assure",
-        "trans": [
+         "en": "assure",
+         "zh": [
             "使确信； 确保， 向…保证"
         ],
         "usphone": "ə'ʃʊr",
         "ukphone": "ə'ʃuə"
     },
     {
-        "name": "consult",
-        "trans": [
+         "en": "consult",
+         "zh": [
             "请教； 查阅； 商议"
         ],
         "usphone": "kən'sʌlt",
         "ukphone": "kən'sʌlt"
     },
     {
-        "name": "theme",
-        "trans": [
+         "en": "theme",
+         "zh": [
             "主题， 题目"
         ],
         "usphone": "θim",
         "ukphone": "θiːm"
     },
     {
-        "name": "smash",
-        "trans": [
+         "en": "smash",
+         "zh": [
             "粉碎，打烂；狠打，猛击；破灭，失败；猛撞，猛冲",
             "破碎 ； 猛击， 猛撞； 轰动的演出， 巨大的成功"
         ],
@@ -4245,64 +4246,64 @@
         "ukphone": "smæʃ"
     },
     {
-        "name": "merely",
-        "trans": [
+         "en": "merely",
+         "zh": [
             "仅仅， 只不过"
         ],
         "usphone": "'mɪrli",
         "ukphone": "'mɪəli"
     },
     {
-        "name": "contradiction",
-        "trans": [
+         "en": "contradiction",
+         "zh": [
             "矛盾， 不一致； 否认， 反驳"
         ],
         "usphone": ",kɑntrə'dɪkʃən",
         "ukphone": "ˌkɒntrə'dɪkʃn"
     },
     {
-        "name": "fuss",
-        "trans": [
+         "en": "fuss",
+         "zh": [
             "忙乱； 大惊小怪， 小题大做； 烦恼， 过于忧虑"
         ],
         "usphone": "fʌs",
         "ukphone": "fʌs"
     },
     {
-        "name": "wealth",
-        "trans": [
+         "en": "wealth",
+         "zh": [
             "财富， 财产； 丰富"
         ],
         "usphone": "wɛlθ",
         "ukphone": "welθ"
     },
     {
-        "name": "editor",
-        "trans": [
+         "en": "editor",
+         "zh": [
             "编辑， 编者， 校订者"
         ],
         "usphone": "'ɛdɪtɚ",
         "ukphone": "'edɪtə"
     },
     {
-        "name": "barrel",
-        "trans": [
+         "en": "barrel",
+         "zh": [
             "桶； 圆筒； 枪管"
         ],
         "usphone": "'bærəl",
         "ukphone": "'bærəl"
     },
     {
-        "name": "means",
-        "trans": [
+         "en": "means",
+         "zh": [
             "方法， 手段， 工具； 金钱， 财产"
         ],
         "usphone": "minz",
         "ukphone": "miːnz"
     },
     {
-        "name": "desire",
-        "trans": [
+         "en": "desire",
+         "zh": [
             "渴望；要求",
             "愿望； 欲望"
         ],
@@ -4310,8 +4311,8 @@
         "ukphone": "dɪ'zaɪə"
     },
     {
-        "name": "survive",
-        "trans": [
+         "en": "survive",
+         "zh": [
             "活下来， 幸存",
             "从…逃出，幸免于；从中挺过来；比…活得长"
         ],
@@ -4319,16 +4320,16 @@
         "ukphone": "sə'vaɪv"
     },
     {
-        "name": "efficient",
-        "trans": [
+         "en": "efficient",
+         "zh": [
             "效率高的； 有能力的"
         ],
         "usphone": "ɪ'fɪʃnt",
         "ukphone": "ɪ'fɪʃnt"
     },
     {
-        "name": "initial",
-        "trans": [
+         "en": "initial",
+         "zh": [
             "最初的，开始的",
             "首字母"
         ],
@@ -4336,24 +4337,24 @@
         "ukphone": "ɪ'nɪʃl"
     },
     {
-        "name": "unfortunately",
-        "trans": [
+         "en": "unfortunately",
+         "zh": [
             "不幸地"
         ],
         "usphone": "ʌn'fɔrtʃənətli",
         "ukphone": "ʌn'fɔːtʃənətli"
     },
     {
-        "name": "consistent",
-        "trans": [
+         "en": "consistent",
+         "zh": [
             "坚持的， 一贯的； 一致的， 符合的"
         ],
         "usphone": "kən'sɪstənt",
         "ukphone": "kən'sɪstənt"
     },
     {
-        "name": "reverse",
-        "trans": [
+         "en": "reverse",
+         "zh": [
             "撤销，推翻；反向，倒转；彻底改变",
             "反向的， 相反的， 倒转的",
             "相反，对立面；反面，背面，后面；挫折，逆境"
@@ -4362,64 +4363,64 @@
         "ukphone": "rɪ'vɜːs"
     },
     {
-        "name": "heterogeneity",
-        "trans": [
+         "en": "heterogeneity",
+         "zh": [
             "异种， 异质， 不同成分"
         ],
         "usphone": ",hetərəudʒi'ni:əti",
         "ukphone": "ˌhetərədʒə'niːəti"
     },
     {
-        "name": "sword",
-        "trans": [
+         "en": "sword",
+         "zh": [
             "剑， 刀"
         ],
         "usphone": "sɔːrd",
         "ukphone": "sɔːd"
     },
     {
-        "name": "permanent",
-        "trans": [
+         "en": "permanent",
+         "zh": [
             "永久的， 固定的"
         ],
         "usphone": "'pɝmənənt",
         "ukphone": "'pɜːmənənt"
     },
     {
-        "name": "barely",
-        "trans": [
+         "en": "barely",
+         "zh": [
             "仅仅， 只不过， 几乎不"
         ],
         "usphone": "'bɛrli",
         "ukphone": "'beəli"
     },
     {
-        "name": "summarize",
-        "trans": [
+         "en": "summarize",
+         "zh": [
             "概括， 概述， 总结"
         ],
         "usphone": "'sʌməraɪz",
         "ukphone": "'sʌməraɪz"
     },
     {
-        "name": "chap",
-        "trans": [
+         "en": "chap",
+         "zh": [
             "小伙子， 男人， 家伙"
         ],
         "usphone": "tʃæp",
         "ukphone": "tʃæp"
     },
     {
-        "name": "facility",
-        "trans": [
+         "en": "facility",
+         "zh": [
             "设备； 容易； 场所"
         ],
         "usphone": "fə'sɪləti",
         "ukphone": "fə'sɪləti"
     },
     {
-        "name": "beam",
-        "trans": [
+         "en": "beam",
+         "zh": [
             "梁，横梁；束，柱；笑容，喜色",
             "面露喜色； 定向发出， 播送"
         ],
@@ -4427,72 +4428,72 @@
         "ukphone": "biːm"
     },
     {
-        "name": "alliance",
-        "trans": [
+         "en": "alliance",
+         "zh": [
             "结盟， 联盟"
         ],
         "usphone": "ə'laɪəns",
         "ukphone": "ə'laɪəns"
     },
     {
-        "name": "civilization",
-        "trans": [
+         "en": "civilization",
+         "zh": [
             "文明， 文化； 开化"
         ],
         "usphone": ",sɪvələ'zeʃən",
         "ukphone": "ˌsɪvəlaɪ'zeɪʃn"
     },
     {
-        "name": "fiction",
-        "trans": [
+         "en": "fiction",
+         "zh": [
             "小说； 虚构， 杜撰"
         ],
         "usphone": "'fɪkʃən",
         "ukphone": "'fɪkʃn"
     },
     {
-        "name": "possession",
-        "trans": [
+         "en": "possession",
+         "zh": [
             "有， 所有； 所有物"
         ],
         "usphone": "pə'zɛʃən",
         "ukphone": "pə'zeʃn"
     },
     {
-        "name": "replace",
-        "trans": [
+         "en": "replace",
+         "zh": [
             "代替， 取代； 更换， 调换； 把…放回原处"
         ],
         "usphone": "rɪ'ples",
         "ukphone": "rɪ'pleɪs"
     },
     {
-        "name": "appointment",
-        "trans": [
+         "en": "appointment",
+         "zh": [
             "任命； 约定； 约会； 委任的职位"
         ],
         "usphone": "ə'pɔɪntmənt",
         "ukphone": "ə'pɔɪntmənt"
     },
     {
-        "name": "hip",
-        "trans": [
+         "en": "hip",
+         "zh": [
             "臀部， 髋部"
         ],
         "usphone": "hɪp",
         "ukphone": "hɪp"
     },
     {
-        "name": "merry",
-        "trans": [
+         "en": "merry",
+         "zh": [
             "欢乐的， 愉快的"
         ],
         "usphone": "'mɛri",
         "ukphone": "'meri"
     },
     {
-        "name": "dam",
-        "trans": [
+         "en": "dam",
+         "zh": [
             "水坝，水堤；障碍物",
             "筑堤挡住"
         ],
@@ -4500,24 +4501,24 @@
         "ukphone": "dæm"
     },
     {
-        "name": "pessimistic",
-        "trans": [
+         "en": "pessimistic",
+         "zh": [
             "悲观的"
         ],
         "usphone": ",pɛsɪ'mɪstɪk",
         "ukphone": "ˌpesɪ'mɪstɪk"
     },
     {
-        "name": "commander",
-        "trans": [
+         "en": "commander",
+         "zh": [
             "司令官， 指挥员"
         ],
         "usphone": "kə'mændɚ",
         "ukphone": "kə'mɑːndə"
     },
     {
-        "name": "bloom",
-        "trans": [
+         "en": "bloom",
+         "zh": [
             "开花",
             "花，开花，开花期；青春焕发"
         ],
@@ -4525,8 +4526,8 @@
         "ukphone": "bluːm"
     },
     {
-        "name": "major",
-        "trans": [
+         "en": "major",
+         "zh": [
             "较大的；主要的；重大的",
             "少校； 专业"
         ],
@@ -4534,48 +4535,48 @@
         "ukphone": "'meɪdʒə"
     },
     {
-        "name": "zone",
-        "trans": [
+         "en": "zone",
+         "zh": [
             "地区， 区域， 范围"
         ],
         "usphone": "zon",
         "ukphone": "zəun"
     },
     {
-        "name": "emphasis",
-        "trans": [
+         "en": "emphasis",
+         "zh": [
             "强调； 重点， 重要性"
         ],
         "usphone": "'ɛmfəsɪs",
         "ukphone": "'emfəsɪs"
     },
     {
-        "name": "interrupt",
-        "trans": [
+         "en": "interrupt",
+         "zh": [
             "打断， 打扰， 中断"
         ],
         "usphone": "'ɪntə'rʌpt",
         "ukphone": "ˌɪntə'rʌpt"
     },
     {
-        "name": "feasible",
-        "trans": [
+         "en": "feasible",
+         "zh": [
             "可行的， 可能的"
         ],
         "usphone": "'fizəbl",
         "ukphone": "'fiːzəbl"
     },
     {
-        "name": "prescribe",
-        "trans": [
+         "en": "prescribe",
+         "zh": [
             "开； 吩咐采用； 规定， 指定"
         ],
         "usphone": "prɪ'skraɪb",
         "ukphone": "prɪ'skraɪb"
     },
     {
-        "name": "potential",
-        "trans": [
+         "en": "potential",
+         "zh": [
             "潜在的，可能的",
             "潜力， 潜能"
         ],
@@ -4583,96 +4584,96 @@
         "ukphone": "pə'tenʃl"
     },
     {
-        "name": "bean",
-        "trans": [
+         "en": "bean",
+         "zh": [
             "豆， 蚕豆"
         ],
         "usphone": "bin",
         "ukphone": "biːn"
     },
     {
-        "name": "accustomed",
-        "trans": [
+         "en": "accustomed",
+         "zh": [
             "惯常的， 习惯的"
         ],
         "usphone": "ə'kʌstəmd",
         "ukphone": "ə'kʌstəmd"
     },
     {
-        "name": "combination",
-        "trans": [
+         "en": "combination",
+         "zh": [
             "结合， 联合； 化合"
         ],
         "usphone": ",kɑmbɪ'neʃən",
         "ukphone": "ˌkɒmbɪ'neɪʃn"
     },
     {
-        "name": "obtain",
-        "trans": [
+         "en": "obtain",
+         "zh": [
             "获得； 通用， 流行； 存在"
         ],
         "usphone": "əb'ten",
         "ukphone": "əb'teɪn"
     },
     {
-        "name": "turbine",
-        "trans": [
+         "en": "turbine",
+         "zh": [
             "叶轮机， 汽轮机"
         ],
         "usphone": "'tɝbaɪn",
         "ukphone": "'tɜːbaɪn"
     },
     {
-        "name": "repeatedly",
-        "trans": [
+         "en": "repeatedly",
+         "zh": [
             "一再， 再三， 多次地"
         ],
         "usphone": "rɪ'pitɪdli",
         "ukphone": "rɪ'piːtɪdli"
     },
     {
-        "name": "curiosity",
-        "trans": [
+         "en": "curiosity",
+         "zh": [
             "好奇， 好奇心； 奇物， 奇事， 珍品"
         ],
         "usphone": ",kjʊrɪ'ɑsəti",
         "ukphone": "ˌkjuəri'ɒsəti"
     },
     {
-        "name": "gross",
-        "trans": [
+         "en": "gross",
+         "zh": [
             "总的； 严重的； 粗俗的； 臃肿的"
         ],
         "usphone": "ɡros",
         "ukphone": "grəus"
     },
     {
-        "name": "workshop",
-        "trans": [
+         "en": "workshop",
+         "zh": [
             "车间， 作坊， 创作室； 研讨会， 讲习班"
         ],
         "usphone": "'wɝkʃɑp",
         "ukphone": "'wɜːkʃɒp"
     },
     {
-        "name": "resist",
-        "trans": [
+         "en": "resist",
+         "zh": [
             "抵抗， 反抗， 抵制； 抗， 耐； 忍住， 拒受…的影响"
         ],
         "usphone": "rɪ'zɪst",
         "ukphone": "rɪ'zɪst"
     },
     {
-        "name": "liter",
-        "trans": [
+         "en": "liter",
+         "zh": [
             "升"
         ],
         "usphone": "litɚ",
         "ukphone": "'liːtə"
     },
     {
-        "name": "format",
-        "trans": [
+         "en": "format",
+         "zh": [
             "设计，安排；格式，样式，版式",
             "使格式化"
         ],
@@ -4680,8 +4681,8 @@
         "ukphone": "'fɔːmæt"
     },
     {
-        "name": "sacrifice",
-        "trans": [
+         "en": "sacrifice",
+         "zh": [
             "牺牲，舍身；献祭，供奉",
             "牺牲； 供奉； 祭品"
         ],
@@ -4689,120 +4690,120 @@
         "ukphone": "'sækrɪfaɪs"
     },
     {
-        "name": "illegal",
-        "trans": [
+         "en": "illegal",
+         "zh": [
             "不合法的， 非法的"
         ],
         "usphone": "ɪ'ligl",
         "ukphone": "ɪ'liːgl"
     },
     {
-        "name": "stimulate",
-        "trans": [
+         "en": "stimulate",
+         "zh": [
             "刺激， 激励， 激发"
         ],
         "usphone": "'stɪmjə'let",
         "ukphone": "'stɪmjuleɪt"
     },
     {
-        "name": "formal",
-        "trans": [
+         "en": "formal",
+         "zh": [
             "正式的， 礼仪上的"
         ],
         "usphone": "'fɔrml",
         "ukphone": "'fɔːml"
     },
     {
-        "name": "congratulate",
-        "trans": [
+         "en": "congratulate",
+         "zh": [
             "祝贺， 向…道喜"
         ],
         "usphone": "kən'ɡrætʃulet",
         "ukphone": "kən'grætʃuleɪt"
     },
     {
-        "name": "rainbow",
-        "trans": [
+         "en": "rainbow",
+         "zh": [
             "虹， 彩虹"
         ],
         "usphone": "'renbo",
         "ukphone": "'reɪnbəu"
     },
     {
-        "name": "soak",
-        "trans": [
+         "en": "soak",
+         "zh": [
             "浸， 泡"
         ],
         "usphone": "sok",
         "ukphone": "səuk"
     },
     {
-        "name": "soar",
-        "trans": [
+         "en": "soar",
+         "zh": [
             "猛增， 剧增； 高飞， 升腾； 高涨； 高耸， 屹立"
         ],
         "usphone": "sɔr",
         "ukphone": "sɔː"
     },
     {
-        "name": "salesman",
-        "trans": [
+         "en": "salesman",
+         "zh": [
             "售货员， 推销员"
         ],
         "usphone": "'selzmən",
         "ukphone": "'seɪlzmən"
     },
     {
-        "name": "interference",
-        "trans": [
+         "en": "interference",
+         "zh": [
             "干涉， 干预， 阻碍"
         ],
         "usphone": ",ɪntɚ'fɪrəns",
         "ukphone": "ˌɪntə'fɪərəns"
     },
     {
-        "name": "fibre",
-        "trans": [
+         "en": "fibre",
+         "zh": [
             "纤维， 纤维质"
         ],
         "usphone": "'faibə",
         "ukphone": "'faɪbə"
     },
     {
-        "name": "sustain",
-        "trans": [
+         "en": "sustain",
+         "zh": [
             "保持， 使持续下去； 供养， 维持； 支持， 支撑； 经受， 遭受"
         ],
         "usphone": "sə'sten",
         "ukphone": "sə'steɪn"
     },
     {
-        "name": "entertain",
-        "trans": [
+         "en": "entertain",
+         "zh": [
             "使欢乐； 招待， 请客"
         ],
         "usphone": ",ɛntɚ'ten",
         "ukphone": "ˌentə'teɪn"
     },
     {
-        "name": "altitude",
-        "trans": [
+         "en": "altitude",
+         "zh": [
             "海拔， 高度； 高处"
         ],
         "usphone": "'æltɪtud",
         "ukphone": "'æltɪtjuːd"
     },
     {
-        "name": "classify",
-        "trans": [
+         "en": "classify",
+         "zh": [
             "把…分类， 把…分级"
         ],
         "usphone": "'klæsɪfaɪ",
         "ukphone": "'klæsɪfaɪ"
     },
     {
-        "name": "ease",
-        "trans": [
+         "en": "ease",
+         "zh": [
             "容易；舒适",
             "缓和"
         ],
@@ -4810,56 +4811,56 @@
         "ukphone": "iːz"
     },
     {
-        "name": "critical",
-        "trans": [
+         "en": "critical",
+         "zh": [
             "决定性的； 批评的"
         ],
         "usphone": "'krɪtɪkl",
         "ukphone": "'krɪtɪkl"
     },
     {
-        "name": "colony",
-        "trans": [
+         "en": "colony",
+         "zh": [
             "殖民地； 侨居地， 聚居地； 群体， 集群"
         ],
         "usphone": "'kɑləni",
         "ukphone": "'kɒləni"
     },
     {
-        "name": "mathematics",
-        "trans": [
+         "en": "mathematics",
+         "zh": [
             "数学"
         ],
         "usphone": ",mæθə'mætɪks",
         "ukphone": "ˌmæθə'mætɪks"
     },
     {
-        "name": "wagon",
-        "trans": [
+         "en": "wagon",
+         "zh": [
             "四轮马车， 大篷车； 铁路货车， 客货两用车"
         ],
         "usphone": "'wægən",
         "ukphone": "'wægən"
     },
     {
-        "name": "elsewhere",
-        "trans": [
+         "en": "elsewhere",
+         "zh": [
             "在别处， 向别处"
         ],
         "usphone": ",els'hwεə",
         "ukphone": "ˌels'weə"
     },
     {
-        "name": "penetrate",
-        "trans": [
+         "en": "penetrate",
+         "zh": [
             "透入， 渗入， 进入； 刺穿； 洞察， 了解"
         ],
         "usphone": "'pɛnətret",
         "ukphone": "'penɪtreɪt"
     },
     {
-        "name": "principal",
-        "trans": [
+         "en": "principal",
+         "zh": [
             "最重要的，主要的",
             "负责人， 校长； 资本， 本金； 主要演员， 主角"
         ],
@@ -4867,8 +4868,8 @@
         "ukphone": "'prɪnsəpl"
     },
     {
-        "name": "tend",
-        "trans": [
+         "en": "tend",
+         "zh": [
             "照管， 照料， 护理",
             "易于，往往会；趋向，倾向"
         ],
@@ -4876,56 +4877,56 @@
         "ukphone": "tend"
     },
     {
-        "name": "exceedingly",
-        "trans": [
+         "en": "exceedingly",
+         "zh": [
             "极端地， 非常"
         ],
         "usphone": "ɪk'sidɪŋli",
         "ukphone": "ɪk'siːdɪŋli"
     },
     {
-        "name": "specimen",
-        "trans": [
+         "en": "specimen",
+         "zh": [
             "样本， 标本， 样品"
         ],
         "usphone": "'spɛsəmən",
         "ukphone": "'spesɪmən"
     },
     {
-        "name": "relief",
-        "trans": [
+         "en": "relief",
+         "zh": [
             "轻松， 宽慰； 缓解； 调剂， 消遣； 接替"
         ],
         "usphone": "rɪ'lif",
         "ukphone": "rɪ'liːf"
     },
     {
-        "name": "dimension",
-        "trans": [
+         "en": "dimension",
+         "zh": [
             "尺寸， 尺度； 方面， 特点； 面积， 规模"
         ],
         "usphone": "dəˈmɛnʃən, daɪ-",
         "ukphone": "dɪ'menʃn; daɪ'menʃn"
     },
     {
-        "name": "introduction",
-        "trans": [
+         "en": "introduction",
+         "zh": [
             "介绍， 引进； 引言"
         ],
         "usphone": ",ɪntrə'dʌkʃən",
         "ukphone": "ˌɪntrə'dʌkʃn"
     },
     {
-        "name": "deserve",
-        "trans": [
+         "en": "deserve",
+         "zh": [
             "应受， 值得"
         ],
         "usphone": "dɪ'zɝv",
         "ukphone": "dɪ'zɜːv"
     },
     {
-        "name": "process",
-        "trans": [
+         "en": "process",
+         "zh": [
             "过程；制作法；程序",
             "加工； 办理"
         ],
@@ -4933,32 +4934,32 @@
         "ukphone": "'prəuses"
     },
     {
-        "name": "philosopher",
-        "trans": [
+         "en": "philosopher",
+         "zh": [
             "哲学家， 哲人"
         ],
         "usphone": "fə'lɑsəfɚ",
         "ukphone": "fə'lɒsəfə"
     },
     {
-        "name": "restore",
-        "trans": [
+         "en": "restore",
+         "zh": [
             "恢复， 使回复； 修复， 整修； 归还， 交还"
         ],
         "usphone": "rɪ'stɔr",
         "ukphone": "rɪ'stɔː"
     },
     {
-        "name": "therapy",
-        "trans": [
+         "en": "therapy",
+         "zh": [
             "治疗， 理疗"
         ],
         "usphone": "'θɛrəpi",
         "ukphone": "'θerəpi"
     },
     {
-        "name": "alternative",
-        "trans": [
+         "en": "alternative",
+         "zh": [
             "两者选一的， 供选择的； 另类的",
             "替换物，选择；选择的自由"
         ],
@@ -4966,24 +4967,24 @@
         "ukphone": "ɔːl'tɜːnətɪv"
     },
     {
-        "name": "banner",
-        "trans": [
+         "en": "banner",
+         "zh": [
             "横幅； 旗， 旗帜"
         ],
         "usphone": "'bænɚ",
         "ukphone": "'bænə"
     },
     {
-        "name": "concentration",
-        "trans": [
+         "en": "concentration",
+         "zh": [
             "集中； 专注， 专心； 浓缩， 浓度"
         ],
         "usphone": "'kɑnsn'treʃən",
         "ukphone": "ˌkɒnsn'treɪʃn"
     },
     {
-        "name": "encounter",
-        "trans": [
+         "en": "encounter",
+         "zh": [
             "遭遇，遇到",
             "遭遇"
         ],
@@ -4991,72 +4992,72 @@
         "ukphone": "ɪn'kauntə"
     },
     {
-        "name": "soda",
-        "trans": [
+         "en": "soda",
+         "zh": [
             "碳酸钠， 纯碱； 汽水， 苏打水"
         ],
         "usphone": "'sodə",
         "ukphone": "'səudə"
     },
     {
-        "name": "colleague",
-        "trans": [
+         "en": "colleague",
+         "zh": [
             "同事， 同僚"
         ],
         "usphone": "'kɑliɡ",
         "ukphone": "'kɒliːg"
     },
     {
-        "name": "gratitude",
-        "trans": [
+         "en": "gratitude",
+         "zh": [
             "感激， 感谢， 感恩"
         ],
         "usphone": "'ɡrætɪtud",
         "ukphone": "'grætɪtjuːd"
     },
     {
-        "name": "approve",
-        "trans": [
+         "en": "approve",
+         "zh": [
             "赞成， 称许； 批准"
         ],
         "usphone": "ə'prʊv",
         "ukphone": "ə'pruːv"
     },
     {
-        "name": "interaction",
-        "trans": [
+         "en": "interaction",
+         "zh": [
             "相互作用， 干扰"
         ],
         "usphone": ",ɪntə'rækʃən",
         "ukphone": "ˌɪntər'ækʃn"
     },
     {
-        "name": "chew",
-        "trans": [
+         "en": "chew",
+         "zh": [
             "咀嚼， 嚼碎"
         ],
         "usphone": "tʃʊ",
         "ukphone": "tʃuː"
     },
     {
-        "name": "interfere",
-        "trans": [
+         "en": "interfere",
+         "zh": [
             "干涉， 干预， 妨碍"
         ],
         "usphone": ",ɪntɚ'fɪr",
         "ukphone": "ˌɪntə'fɪə"
     },
     {
-        "name": "apartment",
-        "trans": [
+         "en": "apartment",
+         "zh": [
             "一套公寓房间"
         ],
         "usphone": "ə'pɑrtmənt",
         "ukphone": "ə'pɑːtmənt"
     },
     {
-        "name": "account",
-        "trans": [
+         "en": "account",
+         "zh": [
             "说明原因； 占",
             "记述；解释；账目"
         ],
@@ -5064,32 +5065,32 @@
         "ukphone": "ə'kaunt"
     },
     {
-        "name": "uneasy",
-        "trans": [
+         "en": "uneasy",
+         "zh": [
             "心神不安的， 忧虑的"
         ],
         "usphone": "ʌn'izi",
         "ukphone": "ʌn'iːzi"
     },
     {
-        "name": "tolerate",
-        "trans": [
+         "en": "tolerate",
+         "zh": [
             "忍受， 容忍； 容许， 承认"
         ],
         "usphone": "'tɑləret",
         "ukphone": "'tɒləreɪt"
     },
     {
-        "name": "developmental",
-        "trans": [
+         "en": "developmental",
+         "zh": [
             "发展的"
         ],
         "usphone": "dɪ,vɛləp'mɛntl",
         "ukphone": "dɪˌveləp'mentl"
     },
     {
-        "name": "stack",
-        "trans": [
+         "en": "stack",
+         "zh": [
             "堆，垛",
             "堆积， 堆放于"
         ],
@@ -5097,56 +5098,56 @@
         "ukphone": "stæk"
     },
     {
-        "name": "underline",
-        "trans": [
+         "en": "underline",
+         "zh": [
             "在…下面画线； 强调， 使…突出"
         ],
         "usphone": "'ʌndəlaɪn",
         "ukphone": "ˌʌndə'laɪn"
     },
     {
-        "name": "innocent",
-        "trans": [
+         "en": "innocent",
+         "zh": [
             "清白的； 幼稚的； 没有恶意的"
         ],
         "usphone": "'ɪnəsnt",
         "ukphone": "'ɪnəsnt"
     },
     {
-        "name": "compassion",
-        "trans": [
+         "en": "compassion",
+         "zh": [
             "同情， 怜悯"
         ],
         "usphone": "kəm'pæʃən",
         "ukphone": "kəm'pæʃn"
     },
     {
-        "name": "alphabet",
-        "trans": [
+         "en": "alphabet",
+         "zh": [
             "字母表， 字母系统"
         ],
         "usphone": "'ælfə'bɛt",
         "ukphone": "'ælfəb3t"
     },
     {
-        "name": "parliament",
-        "trans": [
+         "en": "parliament",
+         "zh": [
             "议会， 国会"
         ],
         "usphone": "'pɑrləmənt",
         "ukphone": "'pɑːləmənt"
     },
     {
-        "name": "evaluation",
-        "trans": [
+         "en": "evaluation",
+         "zh": [
             "评价； 估计"
         ],
         "usphone": "ɪ,væljʊ'eʃən",
         "ukphone": "ɪˌvælju'eɪʃn"
     },
     {
-        "name": "crack",
-        "trans": [
+         "en": "crack",
+         "zh": [
             "爆裂； 噼啪地响； 打， 击",
             "裂缝，裂纹；破裂声"
         ],
@@ -5154,16 +5155,16 @@
         "ukphone": "kræk"
     },
     {
-        "name": "bind",
-        "trans": [
+         "en": "bind",
+         "zh": [
             "捆绑， 包扎； 装订； 约束； 使结合， 使黏合"
         ],
         "usphone": "baɪnd",
         "ukphone": "baɪnd"
     },
     {
-        "name": "trim",
-        "trans": [
+         "en": "trim",
+         "zh": [
             "整齐的",
             "使整齐"
         ],
@@ -5171,48 +5172,48 @@
         "ukphone": "trɪm"
     },
     {
-        "name": "appreciate",
-        "trans": [
+         "en": "appreciate",
+         "zh": [
             "重视， 赏识； 领会， 体会； 感谢； 增值"
         ],
         "usphone": "ə'priʃɪet",
         "ukphone": "ə'priːʃieɪt"
     },
     {
-        "name": "dental",
-        "trans": [
+         "en": "dental",
+         "zh": [
             "牙齿的， 牙科的"
         ],
         "usphone": "'dɛntl",
         "ukphone": "'dentl"
     },
     {
-        "name": "predictable",
-        "trans": [
+         "en": "predictable",
+         "zh": [
             "可预料的"
         ],
         "usphone": "prɪ'dɪktəbl",
         "ukphone": "prɪ'dɪktəbl"
     },
     {
-        "name": "diverse",
-        "trans": [
+         "en": "diverse",
+         "zh": [
             "不一样的， 相异的； 多种多样的"
         ],
         "usphone": "daɪ'vɝs",
         "ukphone": "daɪ'vɜːs"
     },
     {
-        "name": "railway",
-        "trans": [
+         "en": "railway",
+         "zh": [
             "铁路"
         ],
         "usphone": "'relwe",
         "ukphone": "'reɪlweɪ"
     },
     {
-        "name": "cube",
-        "trans": [
+         "en": "cube",
+         "zh": [
             "清澈透明的",
             "立方形，立方"
         ],
@@ -5220,8 +5221,8 @@
         "ukphone": "kjuːb"
     },
     {
-        "name": "rally",
-        "trans": [
+         "en": "rally",
+         "zh": [
             "集合， 团结； 恢复， 重新振作",
             "集会；公路汽车赛"
         ],
@@ -5229,8 +5230,8 @@
         "ukphone": "'ræli"
     },
     {
-        "name": "prime",
-        "trans": [
+         "en": "prime",
+         "zh": [
             "首要的；最好的",
             "青春；全盛时期",
             "使准备好"
@@ -5239,32 +5240,32 @@
         "ukphone": "praɪm"
     },
     {
-        "name": "happen",
-        "trans": [
+         "en": "happen",
+         "zh": [
             "发生； 碰巧， 恰好"
         ],
         "usphone": "'hæpən",
         "ukphone": "'hæpən"
     },
     {
-        "name": "festival",
-        "trans": [
+         "en": "festival",
+         "zh": [
             "节日； 音乐节"
         ],
         "usphone": "ˈfɛstəvl",
         "ukphone": "'festɪvl"
     },
     {
-        "name": "mild",
-        "trans": [
+         "en": "mild",
+         "zh": [
             "温柔的； 温暖的； 轻微的"
         ],
         "usphone": "maɪld",
         "ukphone": "maɪld"
     },
     {
-        "name": "profile",
-        "trans": [
+         "en": "profile",
+         "zh": [
             "侧面；人物简介；轮廓，形象；姿态，引人注目的状态",
             "为…描绘； 写…的传略"
         ],
@@ -5272,72 +5273,72 @@
         "ukphone": "'prəufaɪl"
     },
     {
-        "name": "loyal",
-        "trans": [
+         "en": "loyal",
+         "zh": [
             "忠诚的， 忠心的"
         ],
         "usphone": "'lɔɪəl",
         "ukphone": "'lɔɪəl"
     },
     {
-        "name": "preference",
-        "trans": [
+         "en": "preference",
+         "zh": [
             "喜爱， 偏爱； 偏爱的事物； 优先"
         ],
         "usphone": "'prɛfrəns",
         "ukphone": "'prefrəns"
     },
     {
-        "name": "impact",
-        "trans": [
+         "en": "impact",
+         "zh": [
             "影响， 作用， 冲击"
         ],
         "usphone": "ɪm'pækt",
         "ukphone": "'ɪmpækt"
     },
     {
-        "name": "opportunity",
-        "trans": [
+         "en": "opportunity",
+         "zh": [
             "机会， 良机"
         ],
         "usphone": "ˌɑpɚˈtunətɪ",
         "ukphone": "ˌɒpə'tjuːnəti"
     },
     {
-        "name": "active",
-        "trans": [
+         "en": "active",
+         "zh": [
             "活跃的， 积极的； 主动的； 起作用的"
         ],
         "usphone": "'æktɪv",
         "ukphone": "'æktɪv"
     },
     {
-        "name": "dorm",
-        "trans": [
+         "en": "dorm",
+         "zh": [
             "宿舍"
         ],
         "usphone": "dɔrm",
         "ukphone": "dɔːm"
     },
     {
-        "name": "whichever",
-        "trans": [
+         "en": "whichever",
+         "zh": [
             "无论哪个， 无论哪些"
         ],
         "usphone": "wɪtʃ'ɛvɚ",
         "ukphone": "wɪtʃ'evə"
     },
     {
-        "name": "court",
-        "trans": [
+         "en": "court",
+         "zh": [
             "法院， 法庭； 庭院； 宫廷； 球场"
         ],
         "usphone": "kɔrt",
         "ukphone": "kɔːt"
     },
     {
-        "name": "venture",
-        "trans": [
+         "en": "venture",
+         "zh": [
             "冒险， 敢于",
             "风险投资，风险项目"
         ],
@@ -5345,8 +5346,8 @@
         "ukphone": "'ventʃə"
     },
     {
-        "name": "mill",
-        "trans": [
+         "en": "mill",
+         "zh": [
             "磨， 碾",
             "磨坊；碾磨机；制造厂，工厂"
         ],
@@ -5354,16 +5355,16 @@
         "ukphone": "mɪl"
     },
     {
-        "name": "bucket",
-        "trans": [
+         "en": "bucket",
+         "zh": [
             "水桶， 吊桶； 铲斗"
         ],
         "usphone": "'bʌkɪt",
         "ukphone": "'bʌkɪt"
     },
     {
-        "name": "senior",
-        "trans": [
+         "en": "senior",
+         "zh": [
             "资格较老的，地位较高的；年长的",
             "较年长者； 毕业班学生"
         ],
@@ -5371,40 +5372,40 @@
         "ukphone": "'siːniə"
     },
     {
-        "name": "dose",
-        "trans": [
+         "en": "dose",
+         "zh": [
             "剂量， 用量， 一剂"
         ],
         "usphone": "dos",
         "ukphone": "dəus"
     },
     {
-        "name": "route",
-        "trans": [
+         "en": "route",
+         "zh": [
             "路线， 路程"
         ],
         "usphone": "raʊt",
         "ukphone": "ruːt"
     },
     {
-        "name": "enthusiasm",
-        "trans": [
+         "en": "enthusiasm",
+         "zh": [
             "热情， 热心， 热忱； 巨大兴趣"
         ],
         "usphone": "ɪn'θuzɪæzəm",
         "ukphone": "ɪn'θjuːziæzəm"
     },
     {
-        "name": "flexible",
-        "trans": [
+         "en": "flexible",
+         "zh": [
             "易弯曲的， 灵活的"
         ],
         "usphone": "'flɛksəbl",
         "ukphone": "'fleksəbl"
     },
     {
-        "name": "adult",
-        "trans": [
+         "en": "adult",
+         "zh": [
             "成年的； 成年人的， 适宜于成年人的",
             "成年人"
         ],
@@ -5412,16 +5413,16 @@
         "ukphone": "'ædʌlt; ə'dʌlt"
     },
     {
-        "name": "attitude",
-        "trans": [
+         "en": "attitude",
+         "zh": [
             "态度， 看法； 姿势"
         ],
         "usphone": "'ætɪtʊd",
         "ukphone": "'ætɪtjuːd"
     },
     {
-        "name": "relative",
-        "trans": [
+         "en": "relative",
+         "zh": [
             "有关系的，相对的",
             "亲属， 亲戚"
         ],
@@ -5429,16 +5430,16 @@
         "ukphone": "'relətɪv"
     },
     {
-        "name": "organ",
-        "trans": [
+         "en": "organ",
+         "zh": [
             "器官； 机构； 管风琴； 新闻媒介"
         ],
         "usphone": "'ɔrɡən",
         "ukphone": "'ɔːgən"
     },
     {
-        "name": "average",
-        "trans": [
+         "en": "average",
+         "zh": [
             "平均的；平常的",
             "平均",
             "平均数，平均"
@@ -5447,72 +5448,72 @@
         "ukphone": "'ævərɪdʒ"
     },
     {
-        "name": "treatment",
-        "trans": [
+         "en": "treatment",
+         "zh": [
             "待遇； 治疗， 疗法； 对待， 处理"
         ],
         "usphone": "'tritmənt",
         "ukphone": "'triːtmənt"
     },
     {
-        "name": "compare",
-        "trans": [
+         "en": "compare",
+         "zh": [
             "比较， 对照； 把…比作"
         ],
         "usphone": "kəm'pɛr",
         "ukphone": "kəm'peə"
     },
     {
-        "name": "pluralism",
-        "trans": [
+         "en": "pluralism",
+         "zh": [
             "多重性； 兼职， 兼任"
         ],
         "usphone": "'plʊər(ə)lɪz(ə)m",
         "ukphone": "'pluərəlɪzəm"
     },
     {
-        "name": "influential",
-        "trans": [
+         "en": "influential",
+         "zh": [
             "有影响的； 有权势的"
         ],
         "usphone": ",ɪnflu'ɛnʃl",
         "ukphone": "ˌɪnflu'enʃl"
     },
     {
-        "name": "shiver",
-        "trans": [
+         "en": "shiver",
+         "zh": [
             "战栗， 颤抖"
         ],
         "usphone": "'ʃɪvɚ",
         "ukphone": "'ʃɪvə"
     },
     {
-        "name": "Bible",
-        "trans": [
+         "en": "Bible",
+         "zh": [
             "圣经"
         ],
         "usphone": "'baɪbl",
         "ukphone": "'baɪbl"
     },
     {
-        "name": "liquor",
-        "trans": [
+         "en": "liquor",
+         "zh": [
             "酒， 烈性酒"
         ],
         "usphone": "'lɪkɚ",
         "ukphone": "'lɪkə"
     },
     {
-        "name": "honourable",
-        "trans": [
+         "en": "honourable",
+         "zh": [
             "光荣的； 可敬的； 正直的"
         ],
         "usphone": "'ɔnərəbl",
         "ukphone": "'ɒnərəbl"
     },
     {
-        "name": "characteristic",
-        "trans": [
+         "en": "characteristic",
+         "zh": [
             "特有的，典型的",
             "特性"
         ],
@@ -5520,16 +5521,16 @@
         "ukphone": "ˌkærəktə'rɪstɪk"
     },
     {
-        "name": "transparent",
-        "trans": [
+         "en": "transparent",
+         "zh": [
             "透明的； 易识破的； 明显的， 清楚的"
         ],
         "usphone": "træns'pærənt",
         "ukphone": "træns'pærənt"
     },
     {
-        "name": "interior",
-        "trans": [
+         "en": "interior",
+         "zh": [
             "内部的；内地的",
             "内部"
         ],
@@ -5537,24 +5538,24 @@
         "ukphone": "ɪn'tɪəriə"
     },
     {
-        "name": "rouse",
-        "trans": [
+         "en": "rouse",
+         "zh": [
             "惊起； 唤起； 唤醒"
         ],
         "usphone": "raʊz",
         "ukphone": "rauz"
     },
     {
-        "name": "journal",
-        "trans": [
+         "en": "journal",
+         "zh": [
             "日报， 杂志， 日志"
         ],
         "usphone": "'dʒɝnl",
         "ukphone": "'dʒɜːnl"
     },
     {
-        "name": "grasp",
-        "trans": [
+         "en": "grasp",
+         "zh": [
             "抓紧，握紧；理解",
             "抓； 理解"
         ],
@@ -5562,16 +5563,16 @@
         "ukphone": "grɑːsp"
     },
     {
-        "name": "involvement",
-        "trans": [
+         "en": "involvement",
+         "zh": [
             "连累； 包含"
         ],
         "usphone": "ɪn'vɔlvmənt",
         "ukphone": "ɪn'vɒlvmənt"
     },
     {
-        "name": "spark",
-        "trans": [
+         "en": "spark",
+         "zh": [
             "发出火花",
             "火花，火星"
         ],
@@ -5579,8 +5580,8 @@
         "ukphone": "spɑːk"
     },
     {
-        "name": "unlike",
-        "trans": [
+         "en": "unlike",
+         "zh": [
             "不同的",
             "不像…"
         ],
@@ -5588,104 +5589,104 @@
         "ukphone": "ˌʌn'laɪk"
     },
     {
-        "name": "assembly",
-        "trans": [
+         "en": "assembly",
+         "zh": [
             "立法机构； 议会； 集合； 集会的人们； 装配， 组装"
         ],
         "usphone": "ə'sɛmbli",
         "ukphone": "ə'sembli"
     },
     {
-        "name": "hearing",
-        "trans": [
+         "en": "hearing",
+         "zh": [
             "听力， 听觉； 听力所及之距离； 意见听取会； 申辩的机会"
         ],
         "usphone": "'hɪrɪŋ",
         "ukphone": "'hɪərɪŋ"
     },
     {
-        "name": "acquisition",
-        "trans": [
+         "en": "acquisition",
+         "zh": [
             "取得， 获得， 习得； 获得物， 增添的人"
         ],
         "usphone": ",ækwɪ'zɪʃən",
         "ukphone": "ˌækwɪ'zɪʃn"
     },
     {
-        "name": "volcano",
-        "trans": [
+         "en": "volcano",
+         "zh": [
             "火山"
         ],
         "usphone": "vɑl'keno",
         "ukphone": "vɒl'keɪnəu"
     },
     {
-        "name": "rigid",
-        "trans": [
+         "en": "rigid",
+         "zh": [
             "严格的； 死板的； 刚硬的， 僵硬的"
         ],
         "usphone": "'rɪdʒɪd",
         "ukphone": "'rɪdʒɪd"
     },
     {
-        "name": "deadline",
-        "trans": [
+         "en": "deadline",
+         "zh": [
             "最后期限"
         ],
         "usphone": "ˈdedlaɪn",
         "ukphone": "'dedlaɪn"
     },
     {
-        "name": "so-called",
-        "trans": [
+         "en": "so-called",
+         "zh": [
             "所谓的， 号称的"
         ],
         "usphone": ",so'kɔld",
         "ukphone": "ˌsəu'kɔːld"
     },
     {
-        "name": "grateful",
-        "trans": [
+         "en": "grateful",
+         "zh": [
             "感激的； 令人愉快的"
         ],
         "usphone": "'ɡretfl",
         "ukphone": "'greɪtful"
     },
     {
-        "name": "chip",
-        "trans": [
+         "en": "chip",
+         "zh": [
             "屑片， 碎片； 炸土豆条； 集成电路片， 集成块； 缺口， 瑕疵"
         ],
         "usphone": "tʃɪp",
         "ukphone": "tʃɪp"
     },
     {
-        "name": "chin",
-        "trans": [
+         "en": "chin",
+         "zh": [
             "颏， 下巴"
         ],
         "usphone": "tʃɪn",
         "ukphone": "tʃɪn"
     },
     {
-        "name": "emotional",
-        "trans": [
+         "en": "emotional",
+         "zh": [
             "感情的， 情绪的"
         ],
         "usphone": "ɪ'moʃənl",
         "ukphone": "ɪ'məuʃənl"
     },
     {
-        "name": "operational",
-        "trans": [
+         "en": "operational",
+         "zh": [
             "运转的； 可使用的； 操作上的"
         ],
         "usphone": "'ɑpə'reʃənl",
         "ukphone": "ˌɒpə'reɪʃənl"
     },
     {
-        "name": "staff",
-        "trans": [
+         "en": "staff",
+         "zh": [
             "工作人员；参谋",
             "为…配备人员"
         ],
@@ -5693,32 +5694,32 @@
         "ukphone": "stɑːf"
     },
     {
-        "name": "involve",
-        "trans": [
+         "en": "involve",
+         "zh": [
             "使卷入， 牵涉； 包含， 含有"
         ],
         "usphone": "ɪn'vɑlv",
         "ukphone": "ɪn'vɒlv"
     },
     {
-        "name": "noticeable",
-        "trans": [
+         "en": "noticeable",
+         "zh": [
             "显而易见的"
         ],
         "usphone": "'notɪsəbl",
         "ukphone": "'nəutɪsəbl"
     },
     {
-        "name": "assemble",
-        "trans": [
+         "en": "assemble",
+         "zh": [
             "集合， 召集； 装配"
         ],
         "usphone": "ə'sɛmbl",
         "ukphone": "ə'sembl"
     },
     {
-        "name": "blast",
-        "trans": [
+         "en": "blast",
+         "zh": [
             "爆炸，冲击波；一阵",
             "炸"
         ],
@@ -5726,32 +5727,32 @@
         "ukphone": "blɑːst"
     },
     {
-        "name": "series",
-        "trans": [
+         "en": "series",
+         "zh": [
             "一系列， 连续； 丛书， 连续剧"
         ],
         "usphone": "'sɪriz",
         "ukphone": "'sɪəriːz"
     },
     {
-        "name": "complicated",
-        "trans": [
+         "en": "complicated",
+         "zh": [
             "复杂的， 难懂的"
         ],
         "usphone": "'kɑmplɪketɪd",
         "ukphone": "'kɒmplɪkeɪtɪd"
     },
     {
-        "name": "cultivate",
-        "trans": [
+         "en": "cultivate",
+         "zh": [
             "耕作， 种植； 培养， 陶冶"
         ],
         "usphone": "'kʌltɪvet",
         "ukphone": "'kʌltɪveɪt"
     },
     {
-        "name": "maximum",
-        "trans": [
+         "en": "maximum",
+         "zh": [
             "最大的， 最高的， 顶点的",
             "最大量，顶点"
         ],
@@ -5759,64 +5760,64 @@
         "ukphone": "'mæksɪməm"
     },
     {
-        "name": "thrive",
-        "trans": [
+         "en": "thrive",
+         "zh": [
             "兴旺， 繁荣， 旺盛"
         ],
         "usphone": "θraɪv",
         "ukphone": "θraɪv"
     },
     {
-        "name": "purse",
-        "trans": [
+         "en": "purse",
+         "zh": [
             "钱包， 女用小提包"
         ],
         "usphone": "pɝs",
         "ukphone": "pɜːs"
     },
     {
-        "name": "represent",
-        "trans": [
+         "en": "represent",
+         "zh": [
             "作为…的代表； 表示， 象征； 描绘， 表现"
         ],
         "usphone": ",rɛprɪ'zɛnt",
         "ukphone": "ˌreprɪ'zent"
     },
     {
-        "name": "compete",
-        "trans": [
+         "en": "compete",
+         "zh": [
             "比赛， 竞争， 对抗"
         ],
         "usphone": "kəm'pit",
         "ukphone": "kəm'piːt"
     },
     {
-        "name": "dialect",
-        "trans": [
+         "en": "dialect",
+         "zh": [
             "方言， 土语， 地方话"
         ],
         "usphone": "'daɪə'lɛkt",
         "ukphone": "'daɪəlekt"
     },
     {
-        "name": "accountant",
-        "trans": [
+         "en": "accountant",
+         "zh": [
             "会计人员， 会计师"
         ],
         "usphone": "ə'kaʊntənt",
         "ukphone": "ə'kauntənt"
     },
     {
-        "name": "stocking",
-        "trans": [
+         "en": "stocking",
+         "zh": [
             "长袜"
         ],
         "usphone": "'stɑkɪŋ",
         "ukphone": "'stɒkɪŋ"
     },
     {
-        "name": "dim",
-        "trans": [
+         "en": "dim",
+         "zh": [
             "昏暗的；朦胧的；模糊不清的",
             "变暗淡"
         ],
@@ -5824,16 +5825,16 @@
         "ukphone": "dɪm"
     },
     {
-        "name": "emergency",
-        "trans": [
+         "en": "emergency",
+         "zh": [
             "紧急情况， 突然事件"
         ],
         "usphone": "ɪ'mɝdʒənsi",
         "ukphone": "i'mɜːdʒənsi"
     },
     {
-        "name": "dip",
-        "trans": [
+         "en": "dip",
+         "zh": [
             "蘸，浸",
             "游一会儿泳"
         ],
@@ -5841,24 +5842,24 @@
         "ukphone": "dɪp"
     },
     {
-        "name": "recreational",
-        "trans": [
+         "en": "recreational",
+         "zh": [
             "休养的； 娱乐的"
         ],
         "usphone": ",rɛkri'eʃənəl",
         "ukphone": "ˌrekri'eɪʃənl"
     },
     {
-        "name": "faculty",
-        "trans": [
+         "en": "faculty",
+         "zh": [
             "才能， 能力； 系， 科； 全体教员"
         ],
         "usphone": "'fæklti",
         "ukphone": "'fæklti"
     },
     {
-        "name": "trail",
-        "trans": [
+         "en": "trail",
+         "zh": [
             "痕迹，小径",
             "跟踪， 追踪"
         ],
@@ -5866,48 +5867,48 @@
         "ukphone": "treɪl"
     },
     {
-        "name": "passport",
-        "trans": [
+         "en": "passport",
+         "zh": [
             "护照"
         ],
         "usphone": "'pæspɔrt",
         "ukphone": "'pɑːspɔːt"
     },
     {
-        "name": "prior",
-        "trans": [
+         "en": "prior",
+         "zh": [
             "在前的； 优先的"
         ],
         "usphone": "'praɪɚ",
         "ukphone": "'praɪə"
     },
     {
-        "name": "considerate",
-        "trans": [
+         "en": "considerate",
+         "zh": [
             "考虑周到的， 体贴的， 体谅的"
         ],
         "usphone": "kənˈsɪdərɪt",
         "ukphone": "kən'sɪdərət"
     },
     {
-        "name": "clue",
-        "trans": [
+         "en": "clue",
+         "zh": [
             "线索， 暗示， 提示"
         ],
         "usphone": "klʊ",
         "ukphone": "kluː"
     },
     {
-        "name": "legal",
-        "trans": [
+         "en": "legal",
+         "zh": [
             "法律的； 合法的"
         ],
         "usphone": "'ligl",
         "ukphone": "'liːgl"
     },
     {
-        "name": "bracket",
-        "trans": [
+         "en": "bracket",
+         "zh": [
             "括号",
             "把…归为同一类"
         ],
@@ -5915,24 +5916,24 @@
         "ukphone": "'brækɪt"
     },
     {
-        "name": "highway",
-        "trans": [
+         "en": "highway",
+         "zh": [
             "公路， 大路"
         ],
         "usphone": "'haɪwe",
         "ukphone": "'haɪweɪ"
     },
     {
-        "name": "vanish",
-        "trans": [
+         "en": "vanish",
+         "zh": [
             "突然不见， 消失； 不复存在， 绝迹"
         ],
         "usphone": "'vænɪʃ",
         "ukphone": "'vænɪʃ"
     },
     {
-        "name": "signal",
-        "trans": [
+         "en": "signal",
+         "zh": [
             "显著的， 重大的",
             "信号，暗号；标志，表示",
             "发信号；标志着"
@@ -5941,16 +5942,16 @@
         "ukphone": "'sɪgnəl"
     },
     {
-        "name": "sightseeing",
-        "trans": [
+         "en": "sightseeing",
+         "zh": [
             "观光， 游览"
         ],
         "usphone": "'saɪtsiɪŋ",
         "ukphone": "'saɪtsiːɪŋ"
     },
     {
-        "name": "parcel",
-        "trans": [
+         "en": "parcel",
+         "zh": [
             "包裹，小包，邮包",
             "分， 分配； 把…包起来， 捆扎"
         ],
@@ -5958,8 +5959,8 @@
         "ukphone": "'pɑːsl"
     },
     {
-        "name": "static",
-        "trans": [
+         "en": "static",
+         "zh": [
             "静的，静态的；静止的，停滞的",
             "静电"
         ],
@@ -5967,8 +5968,8 @@
         "ukphone": "'stætɪk"
     },
     {
-        "name": "journey",
-        "trans": [
+         "en": "journey",
+         "zh": [
             "旅行",
             "旅行，旅程"
         ],
@@ -5976,24 +5977,24 @@
         "ukphone": "'dʒɜːni"
     },
     {
-        "name": "planet",
-        "trans": [
+         "en": "planet",
+         "zh": [
             "行星"
         ],
         "usphone": "'plænɪt",
         "ukphone": "'plænɪt"
     },
     {
-        "name": "finally",
-        "trans": [
+         "en": "finally",
+         "zh": [
             "最后； 决定性地"
         ],
         "usphone": "'faɪnlɪ",
         "ukphone": "'faɪnəli"
     },
     {
-        "name": "exhaust",
-        "trans": [
+         "en": "exhaust",
+         "zh": [
             "使筋疲力尽；用尽；详尽论述",
             "排气装置； 废气"
         ],
@@ -6001,16 +6002,16 @@
         "ukphone": "ɪg'zɔːst"
     },
     {
-        "name": "creep",
-        "trans": [
+         "en": "creep",
+         "zh": [
             "爬行， 缓慢地行进"
         ],
         "usphone": "krip",
         "ukphone": "kriːp"
     },
     {
-        "name": "strap",
-        "trans": [
+         "en": "strap",
+         "zh": [
             "带子",
             "捆扎； 用绷带包扎"
         ],
@@ -6018,104 +6019,104 @@
         "ukphone": "stræp"
     },
     {
-        "name": "grape",
-        "trans": [
+         "en": "grape",
+         "zh": [
             "葡萄， 葡萄藤"
         ],
         "usphone": "ɡrep",
         "ukphone": "greɪp"
     },
     {
-        "name": "conviction",
-        "trans": [
+         "en": "conviction",
+         "zh": [
             "确信； 坚定的信仰； 说服， 信服； 定罪， 判罪"
         ],
         "usphone": "kən'vɪkʃən",
         "ukphone": "kən'vɪkʃn"
     },
     {
-        "name": "scholar",
-        "trans": [
+         "en": "scholar",
+         "zh": [
             "学者； 奖学金获得者"
         ],
         "usphone": "'skɑlɚ",
         "ukphone": "'skɒlə"
     },
     {
-        "name": "straw",
-        "trans": [
+         "en": "straw",
+         "zh": [
             "稻草； 麦秆吸管， 吸管"
         ],
         "usphone": "strɔ",
         "ukphone": "strɔː"
     },
     {
-        "name": "regarding",
-        "trans": [
+         "en": "regarding",
+         "zh": [
             "关于"
         ],
         "usphone": "rɪ'ɡɑrdɪŋ",
         "ukphone": "rɪ'gɑːdɪŋ"
     },
     {
-        "name": "graph",
-        "trans": [
+         "en": "graph",
+         "zh": [
             "图， 图表"
         ],
         "usphone": "ɡræf",
         "ukphone": "græf"
     },
     {
-        "name": "vision",
-        "trans": [
+         "en": "vision",
+         "zh": [
             "想象力； 梦幻； 视力， 视觉"
         ],
         "usphone": "'vɪʒən",
         "ukphone": "'vɪʒn"
     },
     {
-        "name": "accompany",
-        "trans": [
+         "en": "accompany",
+         "zh": [
             "陪伴， 陪同， 伴随； 为…伴奏"
         ],
         "usphone": "ə'kʌmpəni",
         "ukphone": "ə'kʌmpəni"
     },
     {
-        "name": "petrol",
-        "trans": [
+         "en": "petrol",
+         "zh": [
             "汽油"
         ],
         "usphone": "'pɛtrəl",
         "ukphone": "'petrəl"
     },
     {
-        "name": "acceptance",
-        "trans": [
+         "en": "acceptance",
+         "zh": [
             "接受； 承认； 容忍"
         ],
         "usphone": "ək'sɛptəns",
         "ukphone": "ək'septəns"
     },
     {
-        "name": "relativity",
-        "trans": [
+         "en": "relativity",
+         "zh": [
             "相对论； 相关性"
         ],
         "usphone": ",rɛlə'tɪvəti",
         "ukphone": "ˌrelə'tɪvəti"
     },
     {
-        "name": "beneficial",
-        "trans": [
+         "en": "beneficial",
+         "zh": [
             "有利的， 有益的"
         ],
         "usphone": ",bɛnɪ'fɪʃl",
         "ukphone": "ˌbenɪ'fɪʃl"
     },
     {
-        "name": "tackle",
-        "trans": [
+         "en": "tackle",
+         "zh": [
             "对付，处理；与…交涉；阻截，擒抱",
             "阻截， 擒抱； 用具， 钓具； 辘轳， 滑车"
         ],
@@ -6123,24 +6124,24 @@
         "ukphone": "'tækl"
     },
     {
-        "name": "reckon",
-        "trans": [
+         "en": "reckon",
+         "zh": [
             "认为， 估计； 指望， 盼望； 测算， 测量"
         ],
         "usphone": "'rɛkən",
         "ukphone": "'rekən"
     },
     {
-        "name": "confusion",
-        "trans": [
+         "en": "confusion",
+         "zh": [
             "困惑， 糊涂； 混淆； 骚乱"
         ],
         "usphone": "kən'fjʊʒən",
         "ukphone": "kən'fjuːʒn"
     },
     {
-        "name": "occasion",
-        "trans": [
+         "en": "occasion",
+         "zh": [
             "场合，时刻；重大活动；时机；起因",
             "引起"
         ],
@@ -6148,24 +6149,24 @@
         "ukphone": "ə'keɪʒn"
     },
     {
-        "name": "loan",
-        "trans": [
+         "en": "loan",
+         "zh": [
             "贷款， 借"
         ],
         "usphone": "lon",
         "ukphone": "ləun"
     },
     {
-        "name": "virtual",
-        "trans": [
+         "en": "virtual",
+         "zh": [
             "实质上的， 事实上的， 实际上的"
         ],
         "usphone": "ˈvɝ​tʃʊəl",
         "ukphone": "'vɜːtʃuəl"
     },
     {
-        "name": "squeeze",
-        "trans": [
+         "en": "squeeze",
+         "zh": [
             "挤；压榨，榨取；捏，握",
             "挤； 握手； 拮据， 紧缺"
         ],
@@ -6173,8 +6174,8 @@
         "ukphone": "skwiːz"
     },
     {
-        "name": "blank",
-        "trans": [
+         "en": "blank",
+         "zh": [
             "空白的；茫然的，无表情的",
             "空白； 空白表格"
         ],
@@ -6182,64 +6183,64 @@
         "ukphone": "blæŋk"
     },
     {
-        "name": "landlord",
-        "trans": [
+         "en": "landlord",
+         "zh": [
             "地主， 房东； 店主"
         ],
         "usphone": "'lændlɔrd",
         "ukphone": "'lændlɔːd"
     },
     {
-        "name": "session",
-        "trans": [
+         "en": "session",
+         "zh": [
             "会议， 一届会期； 集会"
         ],
         "usphone": "'sɛʃən",
         "ukphone": "'seʃn"
     },
     {
-        "name": "additional",
-        "trans": [
+         "en": "additional",
+         "zh": [
             "附加的， 追加的"
         ],
         "usphone": "ə'dɪʃənl",
         "ukphone": "ə'dɪʃənl"
     },
     {
-        "name": "worthy",
-        "trans": [
+         "en": "worthy",
+         "zh": [
             "有价值的， 值得的"
         ],
         "usphone": "wɜði",
         "ukphone": "'wɜːði"
     },
     {
-        "name": "endless",
-        "trans": [
+         "en": "endless",
+         "zh": [
             "无止境的"
         ],
         "usphone": "ˈɛndlɪs",
         "ukphone": "'endləs"
     },
     {
-        "name": "expectation",
-        "trans": [
+         "en": "expectation",
+         "zh": [
             "期待， 期望， 预期； 前程， 成功的前景"
         ],
         "usphone": ",ɛkspɛk'teʃən",
         "ukphone": "ˌekspek'teɪʃn"
     },
     {
-        "name": "title",
-        "trans": [
+         "en": "title",
+         "zh": [
             "标题， 题目； 称号， 头衔； 权利， 权益"
         ],
         "usphone": "'taɪtl",
         "ukphone": "'taɪtl"
     },
     {
-        "name": "mist",
-        "trans": [
+         "en": "mist",
+         "zh": [
             "蒙上薄雾； 模糊",
             "薄雾"
         ],
@@ -6247,40 +6248,40 @@
         "ukphone": "mɪst"
     },
     {
-        "name": "primarily",
-        "trans": [
+         "en": "primarily",
+         "zh": [
             "首先； 主要地"
         ],
         "usphone": "praɪ'mɛrəli",
         "ukphone": "'praɪmərəli; praɪ'merəli"
     },
     {
-        "name": "duration",
-        "trans": [
+         "en": "duration",
+         "zh": [
             "持续， 持久"
         ],
         "usphone": "du'reʃən",
         "ukphone": "dju'reɪʃn"
     },
     {
-        "name": "plantation",
-        "trans": [
+         "en": "plantation",
+         "zh": [
             "种植园， 人工林"
         ],
         "usphone": "plæn'teʃən",
         "ukphone": "plɑːn'teɪʃn"
     },
     {
-        "name": "ignore",
-        "trans": [
+         "en": "ignore",
+         "zh": [
             "不顾， 不理， 忽视"
         ],
         "usphone": "ɪɡ'nɔr",
         "ukphone": "ɪg'nɔː"
     },
     {
-        "name": "loaf",
-        "trans": [
+         "en": "loaf",
+         "zh": [
             "游荡， 闲逛",
             "面包"
         ],
@@ -6288,32 +6289,32 @@
         "ukphone": "ləuf"
     },
     {
-        "name": "nuclear",
-        "trans": [
+         "en": "nuclear",
+         "zh": [
             "核子的， 核能的， 核武器的； 核心的"
         ],
         "usphone": "'nuklɪɚ",
         "ukphone": "'njuːkliə"
     },
     {
-        "name": "reception",
-        "trans": [
+         "en": "reception",
+         "zh": [
             "招待会， 欢迎会； 接受； 接待； 接收效果"
         ],
         "usphone": "rɪ'sɛpʃən",
         "ukphone": "rɪ'sepʃn"
     },
     {
-        "name": "outward",
-        "trans": [
+         "en": "outward",
+         "zh": [
             "外面的； 外表的； 向外的"
         ],
         "usphone": "'aʊtwɚd",
         "ukphone": "'autwəd"
     },
     {
-        "name": "bloody",
-        "trans": [
+         "en": "bloody",
+         "zh": [
             "[用于加强语气]非常，很",
             "[用于加强语气]非常的；该死的；流血的；嗜杀的",
             "血染"
@@ -6322,32 +6323,32 @@
         "ukphone": "'blʌdi"
     },
     {
-        "name": "poetry",
-        "trans": [
+         "en": "poetry",
+         "zh": [
             "诗， 诗歌， 诗集"
         ],
         "usphone": "'poətri",
         "ukphone": "'pəuətri"
     },
     {
-        "name": "owner",
-        "trans": [
+         "en": "owner",
+         "zh": [
             "物主， 所有人"
         ],
         "usphone": "'onɚ",
         "ukphone": "'əunə"
     },
     {
-        "name": "vapour",
-        "trans": [
+         "en": "vapour",
+         "zh": [
             "蒸汽"
         ],
         "usphone": "'vepɚ",
         "ukphone": "'veɪpə"
     },
     {
-        "name": "sole",
-        "trans": [
+         "en": "sole",
+         "zh": [
             "单独的， 唯一的",
             "脚底，鞋底，袜底"
         ],
@@ -6355,48 +6356,48 @@
         "ukphone": "səul"
     },
     {
-        "name": "jury",
-        "trans": [
+         "en": "jury",
+         "zh": [
             "陪审团； 评奖团"
         ],
         "usphone": "'dʒʊri",
         "ukphone": "'dʒuəri"
     },
     {
-        "name": "holy",
-        "trans": [
+         "en": "holy",
+         "zh": [
             "神圣的， 圣洁的， 虔诚的"
         ],
         "usphone": "'holi",
         "ukphone": "'həuli"
     },
     {
-        "name": "spelling",
-        "trans": [
+         "en": "spelling",
+         "zh": [
             "拼字， 拼法， 拼写法"
         ],
         "usphone": "'spɛlɪŋ",
         "ukphone": "'spelɪŋ"
     },
     {
-        "name": "relax",
-        "trans": [
+         "en": "relax",
+         "zh": [
             "放松， 松弛； 放宽， 缓和"
         ],
         "usphone": "rɪ'læks",
         "ukphone": "rɪ'læks"
     },
     {
-        "name": "priest",
-        "trans": [
+         "en": "priest",
+         "zh": [
             "神父， 牧师"
         ],
         "usphone": "prist",
         "ukphone": "priːst"
     },
     {
-        "name": "monitor",
-        "trans": [
+         "en": "monitor",
+         "zh": [
             "班长；监视器，检测器；显示器",
             "监听； 检测"
         ],
@@ -6404,24 +6405,24 @@
         "ukphone": "'mɒnɪtə"
     },
     {
-        "name": "permission",
-        "trans": [
+         "en": "permission",
+         "zh": [
             "允许， 许可， 准许"
         ],
         "usphone": "pɚ'mɪʃən",
         "ukphone": "pə'mɪʃn"
     },
     {
-        "name": "grand",
-        "trans": [
+         "en": "grand",
+         "zh": [
             "宏伟的； 重大的； 傲慢的； 派头大的； 绝佳的； 全部的"
         ],
         "usphone": "ɡrænd",
         "ukphone": "grænd"
     },
     {
-        "name": "schedule",
-        "trans": [
+         "en": "schedule",
+         "zh": [
             "时刻表，日程安排表；清单，明细表",
             "安排， 排定"
         ],
@@ -6429,16 +6430,16 @@
         "ukphone": "'ʃedjuːl"
     },
     {
-        "name": "postage",
-        "trans": [
+         "en": "postage",
+         "zh": [
             "邮费， 邮资"
         ],
         "usphone": "'postɪdʒ",
         "ukphone": "'pəustɪdʒ"
     },
     {
-        "name": "tame",
-        "trans": [
+         "en": "tame",
+         "zh": [
             "驯服的，顺从的；沉闷的，乏味的",
             "制服， 控制并利用； 驯化， 驯服"
         ],
@@ -6446,8 +6447,8 @@
         "ukphone": "teɪm"
     },
     {
-        "name": "material",
-        "trans": [
+         "en": "material",
+         "zh": [
             "物质的， 实体的； 肉体的； 重要的， 实质性的",
             "材料，素材"
         ],
@@ -6455,24 +6456,24 @@
         "ukphone": "mə'tɪəriəl"
     },
     {
-        "name": "universe",
-        "trans": [
+         "en": "universe",
+         "zh": [
             "宇宙， 世界； 领域， 范围"
         ],
         "usphone": "'junɪvɝs",
         "ukphone": "'juːnɪvɜːs"
     },
     {
-        "name": "interpret",
-        "trans": [
+         "en": "interpret",
+         "zh": [
             "解释， 说明； 口译"
         ],
         "usphone": "ɪn'tɝprɪt",
         "ukphone": "ɪn'tɜːprɪt"
     },
     {
-        "name": "spectacular",
-        "trans": [
+         "en": "spectacular",
+         "zh": [
             "壮观的，引人注目的",
             "壮观的演出； 惊人之举"
         ],
@@ -6480,8 +6481,8 @@
         "ukphone": "spek'tækjələ"
     },
     {
-        "name": "inherit",
-        "trans": [
+         "en": "inherit",
+         "zh": [
             "成为继承人",
             "继承"
         ],
@@ -6489,24 +6490,24 @@
         "ukphone": "ɪn'herɪt"
     },
     {
-        "name": "peculiar",
-        "trans": [
+         "en": "peculiar",
+         "zh": [
             "奇怪的， 古怪的； 特有的"
         ],
         "usphone": "pɪ'kjulɪɚ",
         "ukphone": "pɪ'kjuːliə"
     },
     {
-        "name": "blanket",
-        "trans": [
+         "en": "blanket",
+         "zh": [
             "毛毯， 毯子， 羊毛毯"
         ],
         "usphone": "'blæŋkɪt",
         "ukphone": "'blæŋkɪt"
     },
     {
-        "name": "grant",
-        "trans": [
+         "en": "grant",
+         "zh": [
             "授予物；补助金",
             "授予， 给予； 同意"
         ],
@@ -6514,16 +6515,16 @@
         "ukphone": "grɑːnt"
     },
     {
-        "name": "injection",
-        "trans": [
+         "en": "injection",
+         "zh": [
             "注射， 注入； 充满"
         ],
         "usphone": "ɪn'dʒɛkʃən",
         "ukphone": "ɪn'dʒekʃn"
     },
     {
-        "name": "envy",
-        "trans": [
+         "en": "envy",
+         "zh": [
             "妒忌，羡慕；妒忌的对象",
             "妒忌， 羡慕"
         ],
@@ -6531,24 +6532,24 @@
         "ukphone": "'envi"
     },
     {
-        "name": "hut",
-        "trans": [
+         "en": "hut",
+         "zh": [
             "小屋， 棚屋"
         ],
         "usphone": "hʌt",
         "ukphone": "hʌt"
     },
     {
-        "name": "invincible",
-        "trans": [
+         "en": "invincible",
+         "zh": [
             "不能征服的， 无敌的"
         ],
         "usphone": "ɪn'vɪnsəbl",
         "ukphone": "ɪn'vɪnsəbl"
     },
     {
-        "name": "discount",
-        "trans": [
+         "en": "discount",
+         "zh": [
             "折扣",
             "将…打折扣； 不信； 漠视， 低估"
         ],
@@ -6556,16 +6557,16 @@
         "ukphone": "'dɪskaʊnt"
     },
     {
-        "name": "convert",
-        "trans": [
+         "en": "convert",
+         "zh": [
             "转变， 转化； 改变"
         ],
         "usphone": "kən'vɝt",
         "ukphone": "kən'vɜːt"
     },
     {
-        "name": "construct",
-        "trans": [
+         "en": "construct",
+         "zh": [
             "建造； 构思",
             "建筑物； 构想， 观念"
         ],
@@ -6573,16 +6574,16 @@
         "ukphone": "kən'strʌkt"
     },
     {
-        "name": "attempt",
-        "trans": [
+         "en": "attempt",
+         "zh": [
             "尝试， 试图， 努力"
         ],
         "usphone": "ə'tɛmpt",
         "ukphone": "ə'tempt"
     },
     {
-        "name": "thick",
-        "trans": [
+         "en": "thick",
+         "zh": [
             "厚厚地",
             "厚的，密的，浓的；不清楚的，口音重的"
         ],
@@ -6590,24 +6591,24 @@
         "ukphone": "θɪk"
     },
     {
-        "name": "superficial",
-        "trans": [
+         "en": "superficial",
+         "zh": [
             "表面的， 肤浅的"
         ],
         "usphone": ",supɚ'fɪʃl",
         "ukphone": "ˌsjuːpə'fɪʃl"
     },
     {
-        "name": "division",
-        "trans": [
+         "en": "division",
+         "zh": [
             "分， 分配； 除法； 分歧； 分裂"
         ],
         "usphone": "də'vɪʒən",
         "ukphone": "dɪ'vɪʒn"
     },
     {
-        "name": "executive",
-        "trans": [
+         "en": "executive",
+         "zh": [
             "执行的",
             "执行者"
         ],
@@ -6615,24 +6616,24 @@
         "ukphone": "ɪg'zekjətɪv"
     },
     {
-        "name": "navigation",
-        "trans": [
+         "en": "navigation",
+         "zh": [
             "航行， 航海， 航空； 导航， 领航"
         ],
         "usphone": "'nævə'geʃən",
         "ukphone": "ˌnævɪ'geɪʃn"
     },
     {
-        "name": "melt",
-        "trans": [
+         "en": "melt",
+         "zh": [
             "融化； 熔化； 消散"
         ],
         "usphone": "mɛlt",
         "ukphone": "melt"
     },
     {
-        "name": "hook",
-        "trans": [
+         "en": "hook",
+         "zh": [
             "钩住",
             "钩，挂钩"
         ],
@@ -6640,16 +6641,16 @@
         "ukphone": "huk"
     },
     {
-        "name": "stale",
-        "trans": [
+         "en": "stale",
+         "zh": [
             "不新鲜的； 陈腐的， 过时的"
         ],
         "usphone": "stel",
         "ukphone": "steɪl"
     },
     {
-        "name": "balance",
-        "trans": [
+         "en": "balance",
+         "zh": [
             "使平衡；称；权衡，比较",
             "天平； 平衡； 结存， 结欠"
         ],
@@ -6657,40 +6658,40 @@
         "ukphone": "'bæləns"
     },
     {
-        "name": "cigar",
-        "trans": [
+         "en": "cigar",
+         "zh": [
             "雪茄烟"
         ],
         "usphone": "sɪ'ɡɑr",
         "ukphone": "sɪ'gɑː"
     },
     {
-        "name": "action",
-        "trans": [
+         "en": "action",
+         "zh": [
             "行动； 已做的事； 作用， 功能； 情节"
         ],
         "usphone": "'ækʃən",
         "ukphone": "'ækʃn"
     },
     {
-        "name": "stadium",
-        "trans": [
+         "en": "stadium",
+         "zh": [
             "运动场， 体育场"
         ],
         "usphone": "'stedɪəm",
         "ukphone": "'steɪdiəm"
     },
     {
-        "name": "whereas",
-        "trans": [
+         "en": "whereas",
+         "zh": [
             "然而， 但是， 尽管"
         ],
         "usphone": "'wɛr'æz",
         "ukphone": "weər'æz"
     },
     {
-        "name": "pitch",
-        "trans": [
+         "en": "pitch",
+         "zh": [
             "投， 掷； 架设， 搭， 营； 颠簸",
             "球场；程度，强度；高度；音高；沥青",
             "投掷；使猛然倒下；表达；把…定于特定程度；定调"
@@ -6699,24 +6700,24 @@
         "ukphone": "pɪtʃ"
     },
     {
-        "name": "kindness",
-        "trans": [
+         "en": "kindness",
+         "zh": [
             "仁慈， 好意"
         ],
         "usphone": "'kaɪndnəs",
         "ukphone": "'kaɪndnəs"
     },
     {
-        "name": "adoptive",
-        "trans": [
+         "en": "adoptive",
+         "zh": [
             "收养关系的； 采用的"
         ],
         "usphone": "ə'dɑptɪv",
         "ukphone": "ə'dɒptɪv"
     },
     {
-        "name": "chop",
-        "trans": [
+         "en": "chop",
+         "zh": [
             "砍，劈；切细",
             "排骨"
         ],
@@ -6724,40 +6725,40 @@
         "ukphone": "tʃɒp"
     },
     {
-        "name": "electrical",
-        "trans": [
+         "en": "electrical",
+         "zh": [
             "电的， 电气科学的"
         ],
         "usphone": "ɪ'lɛktrɪkl",
         "ukphone": "ɪ'lektrɪkl"
     },
     {
-        "name": "statue",
-        "trans": [
+         "en": "statue",
+         "zh": [
             "塑像， 雕像， 铸像"
         ],
         "usphone": "'stætʃu",
         "ukphone": "'stætʃuː"
     },
     {
-        "name": "being",
-        "trans": [
+         "en": "being",
+         "zh": [
             "存在； 生物， 生命"
         ],
         "usphone": "'biɪŋ",
         "ukphone": "'biːɪŋ"
     },
     {
-        "name": "sensitive",
-        "trans": [
+         "en": "sensitive",
+         "zh": [
             "敏感的， 灵敏的， 神经过敏的； 容易生气的， 易受伤害的"
         ],
         "usphone": "'sɛnsətɪv",
         "ukphone": "'sensətɪv"
     },
     {
-        "name": "protest",
-        "trans": [
+         "en": "protest",
+         "zh": [
             "抗议， 反对",
             "抗议， 反对"
         ],
@@ -6765,40 +6766,40 @@
         "ukphone": "prəˈtest;ˈprəʊtest"
     },
     {
-        "name": "classification",
-        "trans": [
+         "en": "classification",
+         "zh": [
             "分类， 分级， 分类法； 类别， 级别"
         ],
         "usphone": ",klæsɪfɪ'keʃən",
         "ukphone": "ˌklæsɪfɪ'keɪʃn"
     },
     {
-        "name": "vacant",
-        "trans": [
+         "en": "vacant",
+         "zh": [
             "空的， 未被占用的； 空缺的； 茫然的， 空虚的"
         ],
         "usphone": "'vekənt",
         "ukphone": "'veɪkənt"
     },
     {
-        "name": "physicist",
-        "trans": [
+         "en": "physicist",
+         "zh": [
             "物理学家"
         ],
         "usphone": "'fɪzɪsɪst",
         "ukphone": "'fɪzɪsɪst"
     },
     {
-        "name": "afford",
-        "trans": [
+         "en": "afford",
+         "zh": [
             "担负得起； 提供"
         ],
         "usphone": "ə'fɔrd",
         "ukphone": "ə'fɔːd"
     },
     {
-        "name": "underground",
-        "trans": [
+         "en": "underground",
+         "zh": [
             "在地下，往地下；秘密地，不公开地",
             "地下的；秘密的，不公开的",
             "地铁； 地下组织"
@@ -6807,8 +6808,8 @@
         "ukphone": "'ʌndəgraund"
     },
     {
-        "name": "curse",
-        "trans": [
+         "en": "curse",
+         "zh": [
             "诅咒，咒骂",
             "天谴； 祸害， 祸根"
         ],
@@ -6816,56 +6817,56 @@
         "ukphone": "kɜːs"
     },
     {
-        "name": "impression",
-        "trans": [
+         "en": "impression",
+         "zh": [
             "印象； 印记"
         ],
         "usphone": "ɪm'prɛʃən",
         "ukphone": "ɪm'preʃn"
     },
     {
-        "name": "baseball",
-        "trans": [
+         "en": "baseball",
+         "zh": [
             "棒球"
         ],
         "usphone": "'besbɔl",
         "ukphone": "'beɪsbɔːl"
     },
     {
-        "name": "interval",
-        "trans": [
+         "en": "interval",
+         "zh": [
             "间隔， 间距； 幕间休息"
         ],
         "usphone": "'ɪntɚvl",
         "ukphone": "'ɪntəvl"
     },
     {
-        "name": "evaluate",
-        "trans": [
+         "en": "evaluate",
+         "zh": [
             "评价； 估…的价"
         ],
         "usphone": "ɪ'væljʊ'et",
         "ukphone": "ɪ'væljueɪt"
     },
     {
-        "name": "machinery",
-        "trans": [
+         "en": "machinery",
+         "zh": [
             "机器， 机械"
         ],
         "usphone": "mə'ʃinəri",
         "ukphone": "mə'ʃiːnəri"
     },
     {
-        "name": "status",
-        "trans": [
+         "en": "status",
+         "zh": [
             "地位， 身份； 情形， 状况"
         ],
         "usphone": "ˈstetəs",
         "ukphone": "'steɪtəs"
     },
     {
-        "name": "shield",
-        "trans": [
+         "en": "shield",
+         "zh": [
             "防护物，护罩；盾",
             "保护， 防护"
         ],
@@ -6873,8 +6874,8 @@
         "ukphone": "ʃiːld"
     },
     {
-        "name": "upset",
-        "trans": [
+         "en": "upset",
+         "zh": [
             "心烦的， 苦恼的； 不适的",
             "使心烦意乱，使苦恼，使不适；搅乱；弄翻，倾覆",
             "翻倒；搅乱；不安；不适"
@@ -6883,16 +6884,16 @@
         "ukphone": "ʌp'set"
     },
     {
-        "name": "inference",
-        "trans": [
+         "en": "inference",
+         "zh": [
             "推断结果， 结论； 推论， 推理， 推断"
         ],
         "usphone": "'ɪnfərəns",
         "ukphone": "'ɪnfərəns"
     },
     {
-        "name": "curve",
-        "trans": [
+         "en": "curve",
+         "zh": [
             "弯曲",
             "曲线，弯，弯曲处"
         ],
@@ -6900,8 +6901,8 @@
         "ukphone": "kɜːv"
     },
     {
-        "name": "dot",
-        "trans": [
+         "en": "dot",
+         "zh": [
             "点，圆点",
             "打点于"
         ],
@@ -6909,40 +6910,40 @@
         "ukphone": "dɒt"
     },
     {
-        "name": "skim",
-        "trans": [
+         "en": "skim",
+         "zh": [
             "撇去， 掠过， 擦过； 浏览， 略读"
         ],
         "usphone": "skɪm",
         "ukphone": "skɪm"
     },
     {
-        "name": "phenomenon",
-        "trans": [
+         "en": "phenomenon",
+         "zh": [
             "现象"
         ],
         "usphone": "fə'nɑmɪnən",
         "ukphone": "fə'nɒmɪnən"
     },
     {
-        "name": "notify",
-        "trans": [
+         "en": "notify",
+         "zh": [
             "通知， 告知， 报告"
         ],
         "usphone": "'notə'fai",
         "ukphone": "'nəutɪfaɪ"
     },
     {
-        "name": "mention",
-        "trans": [
+         "en": "mention",
+         "zh": [
             "提及， 说起"
         ],
         "usphone": "'mɛnʃən",
         "ukphone": "'menʃn"
     },
     {
-        "name": "stream",
-        "trans": [
+         "en": "stream",
+         "zh": [
             "流出， 涌出",
             "河，溪流；一股，一串"
         ],
@@ -6950,32 +6951,32 @@
         "ukphone": "striːm"
     },
     {
-        "name": "laundry",
-        "trans": [
+         "en": "laundry",
+         "zh": [
             "洗衣房， 洗衣店； 待洗的衣服， 洗好的衣服"
         ],
         "usphone": "'lɔndri",
         "ukphone": "'lɔːndri"
     },
     {
-        "name": "accumulate",
-        "trans": [
+         "en": "accumulate",
+         "zh": [
             "积累， 堆积"
         ],
         "usphone": "ə'kjumjəlet",
         "ukphone": "ə'kjuːmjəleɪt"
     },
     {
-        "name": "crime",
-        "trans": [
+         "en": "crime",
+         "zh": [
             "罪， 罪行， 犯罪"
         ],
         "usphone": "kraɪm",
         "ukphone": "kraɪm"
     },
     {
-        "name": "heave",
-        "trans": [
+         "en": "heave",
+         "zh": [
             "起伏，隆起；呕吐，恶心",
             "举起，提起，拉起，拖；扔；发出",
             "举起； 起伏， 升降"
@@ -6984,64 +6985,64 @@
         "ukphone": "hiːv"
     },
     {
-        "name": "leisure",
-        "trans": [
+         "en": "leisure",
+         "zh": [
             "空闲时间； 悠闲"
         ],
         "usphone": "'liʒɚ",
         "ukphone": "'leʒə"
     },
     {
-        "name": "nourish",
-        "trans": [
+         "en": "nourish",
+         "zh": [
             "提供养分， 养育"
         ],
         "usphone": "'nɜrɪʃ",
         "ukphone": "'nʌrɪʃ"
     },
     {
-        "name": "surround",
-        "trans": [
+         "en": "surround",
+         "zh": [
             "围， 围绕； 圈住"
         ],
         "usphone": "sə'raʊnd",
         "ukphone": "sə'raund"
     },
     {
-        "name": "mat",
-        "trans": [
+         "en": "mat",
+         "zh": [
             "席子， 垫子"
         ],
         "usphone": "mæt",
         "ukphone": "mæt"
     },
     {
-        "name": "cigarette",
-        "trans": [
+         "en": "cigarette",
+         "zh": [
             "香烟， 纸烟， 卷烟"
         ],
         "usphone": "ˌsɪɡəˈrɛt, ˈsɪɡəˌrɛt",
         "ukphone": "ˌsɪgə'ret"
     },
     {
-        "name": "torch",
-        "trans": [
+         "en": "torch",
+         "zh": [
             "火炬， 火把； 手电筒"
         ],
         "usphone": "tɔrtʃ",
         "ukphone": "tɔːtʃ"
     },
     {
-        "name": "positive",
-        "trans": [
+         "en": "positive",
+         "zh": [
             "确实的， 明确的； 积极的， 肯定的"
         ],
         "usphone": "'pɑzətɪv",
         "ukphone": "'pɔzətɪv"
     },
     {
-        "name": "favourite",
-        "trans": [
+         "en": "favourite",
+         "zh": [
             "特别受喜爱的",
             "特别受喜爱的人"
         ],
@@ -7049,16 +7050,16 @@
         "ukphone": "'feɪvərɪt"
     },
     {
-        "name": "menu",
-        "trans": [
+         "en": "menu",
+         "zh": [
             "菜单"
         ],
         "usphone": "'mɛnju",
         "ukphone": "'menjuː"
     },
     {
-        "name": "prospect",
-        "trans": [
+         "en": "prospect",
+         "zh": [
             "勘探， 勘察",
             "前景， 前途， 可能性； 景象， 景色； 可能成为主顾的人； 有希望的候选人"
         ],
@@ -7066,88 +7067,88 @@
         "ukphone": "'prɒspekt"
     },
     {
-        "name": "radar",
-        "trans": [
+         "en": "radar",
+         "zh": [
             "雷达"
         ],
         "usphone": "'redɑr",
         "ukphone": "'reɪdɑː"
     },
     {
-        "name": "refugee",
-        "trans": [
+         "en": "refugee",
+         "zh": [
             "难民"
         ],
         "usphone": "'rɛfjʊdʒi",
         "ukphone": "ˌrefju'dʒiː"
     },
     {
-        "name": "aluminium",
-        "trans": [
+         "en": "aluminium",
+         "zh": [
             "铝"
         ],
         "usphone": ",æljə'mɪnɪəm",
         "ukphone": "ˌæljə'mɪniəm"
     },
     {
-        "name": "comparable",
-        "trans": [
+         "en": "comparable",
+         "zh": [
             "可比较的； 类似的； 比得上的"
         ],
         "usphone": "'kɑmpərəbl",
         "ukphone": "'kɒmpərəbl"
     },
     {
-        "name": "specialize",
-        "trans": [
+         "en": "specialize",
+         "zh": [
             "成为…专家； 专攻"
         ],
         "usphone": "'spɛʃəlaɪz",
         "ukphone": "'speʃəlaɪz"
     },
     {
-        "name": "rotate",
-        "trans": [
+         "en": "rotate",
+         "zh": [
             "旋转， 转动； 轮流"
         ],
         "usphone": "'rotet",
         "ukphone": "rəu'teɪt"
     },
     {
-        "name": "instance",
-        "trans": [
+         "en": "instance",
+         "zh": [
             "例子， 实例， 事例"
         ],
         "usphone": "'ɪnstəns",
         "ukphone": "'ɪnstəns"
     },
     {
-        "name": "opera",
-        "trans": [
+         "en": "opera",
+         "zh": [
             "歌剧"
         ],
         "usphone": "'ɑprə",
         "ukphone": "'ɒprə"
     },
     {
-        "name": "presumably",
-        "trans": [
+         "en": "presumably",
+         "zh": [
             "大概， 可能， 据推测"
         ],
         "usphone": "prɪ'zuməbli",
         "ukphone": "prɪ'zjuːməbli"
     },
     {
-        "name": "conscience",
-        "trans": [
+         "en": "conscience",
+         "zh": [
             "良心， 道德心"
         ],
         "usphone": "ˈkɑːnʃəns",
         "ukphone": "'kɒnʃəns"
     },
     {
-        "name": "subject",
-        "trans": [
+         "en": "subject",
+         "zh": [
             "题目； 学科； 主语",
             "使隶属"
         ],
@@ -7155,56 +7156,56 @@
         "ukphone": "ˈsʌbdʒɪkt;(for adj.)ˈsʌbdʒɪkt;(for v.)səbˈdʒekt"
     },
     {
-        "name": "practically",
-        "trans": [
+         "en": "practically",
+         "zh": [
             "几乎， 简直； 实际上"
         ],
         "usphone": "'præktɪkli",
         "ukphone": "'præktɪkli"
     },
     {
-        "name": "recognition",
-        "trans": [
+         "en": "recognition",
+         "zh": [
             "认出， 识别； 承认； 赏识， 表彰， 报偿"
         ],
         "usphone": ",rɛkəɡ'nɪʃən",
         "ukphone": "ˌrekəg'nɪʃn"
     },
     {
-        "name": "cassette",
-        "trans": [
+         "en": "cassette",
+         "zh": [
             "盒式录音带"
         ],
         "usphone": "kə'sɛt",
         "ukphone": "kə'set"
     },
     {
-        "name": "blade",
-        "trans": [
+         "en": "blade",
+         "zh": [
             "刀刃， 刀片， 叶片"
         ],
         "usphone": "bled",
         "ukphone": "bleɪd"
     },
     {
-        "name": "arrangement",
-        "trans": [
+         "en": "arrangement",
+         "zh": [
             "整理， 排列， 安排； 准备工作"
         ],
         "usphone": "ə'rendʒmənt",
         "ukphone": "ə'reɪndʒmənt"
     },
     {
-        "name": "revenue",
-        "trans": [
+         "en": "revenue",
+         "zh": [
             "收入， 收益； 税收， 岁入"
         ],
         "usphone": "'rɛvənu",
         "ukphone": "'revənjuː"
     },
     {
-        "name": "strip",
-        "trans": [
+         "en": "strip",
+         "zh": [
             "脱光衣服；剥夺，夺去",
             "条带"
         ],
@@ -7212,40 +7213,40 @@
         "ukphone": "strɪp"
     },
     {
-        "name": "solution",
-        "trans": [
+         "en": "solution",
+         "zh": [
             "解决； 解决办法； 溶液"
         ],
         "usphone": "sə'luʃən",
         "ukphone": "sə'ljuːʃn"
     },
     {
-        "name": "continuous",
-        "trans": [
+         "en": "continuous",
+         "zh": [
             "连续不断的； 延伸的"
         ],
         "usphone": "kən'tɪnjʊəs",
         "ukphone": "kən'tɪnjuəs"
     },
     {
-        "name": "opponent",
-        "trans": [
+         "en": "opponent",
+         "zh": [
             "对手， 敌手， 对抗者"
         ],
         "usphone": "ə'ponənt",
         "ukphone": "ə'pəunənt"
     },
     {
-        "name": "accelerate",
-        "trans": [
+         "en": "accelerate",
+         "zh": [
             "使加快， 使增速"
         ],
         "usphone": "əkˈsɛləˌret",
         "ukphone": "ək'seləreɪt"
     },
     {
-        "name": "backward",
-        "trans": [
+         "en": "backward",
+         "zh": [
             "[-]倒； 向后， 往回",
             "向后的，倒的；落后的，进步慢的"
         ],
@@ -7253,32 +7254,32 @@
         "ukphone": "'bækwəd"
     },
     {
-        "name": "grain",
-        "trans": [
+         "en": "grain",
+         "zh": [
             "谷物， 谷粒； 颗粒； 少量， 微量"
         ],
         "usphone": "ɡren",
         "ukphone": "greɪn"
     },
     {
-        "name": "maid",
-        "trans": [
+         "en": "maid",
+         "zh": [
             "女仆， 侍女"
         ],
         "usphone": "med",
         "ukphone": "meɪd"
     },
     {
-        "name": "residence",
-        "trans": [
+         "en": "residence",
+         "zh": [
             "住处， 住宅； 居住； 居住资格"
         ],
         "usphone": "'rɛzɪdəns",
         "ukphone": "'rezɪdəns"
     },
     {
-        "name": "credit",
-        "trans": [
+         "en": "credit",
+         "zh": [
             "信贷，赊欠；赞扬，荣誉；学分；信任",
             "相信； 把…记入贷方； 把…归于"
         ],
@@ -7286,40 +7287,40 @@
         "ukphone": "'kredɪt"
     },
     {
-        "name": "regardless",
-        "trans": [
+         "en": "regardless",
+         "zh": [
             "不顾后果地； 不管怎样， 无论如何"
         ],
         "usphone": "rɪ'ɡɑrdləs",
         "ukphone": "rɪ'gɑːdləs"
     },
     {
-        "name": "oxygen",
-        "trans": [
+         "en": "oxygen",
+         "zh": [
             "氧， 氧气"
         ],
         "usphone": "'ɑksɪdʒən",
         "ukphone": "'ɒksɪdʒən"
     },
     {
-        "name": "intensive",
-        "trans": [
+         "en": "intensive",
+         "zh": [
             "加强的； 精深的， 透彻的； 精耕细作的"
         ],
         "usphone": "ɪn'tɛnsɪv",
         "ukphone": "ɪn'tensɪv"
     },
     {
-        "name": "alter",
-        "trans": [
+         "en": "alter",
+         "zh": [
             "改变， 变更， 变动"
         ],
         "usphone": "'ɔltɚ",
         "ukphone": "'ɔːltə"
     },
     {
-        "name": "combine",
-        "trans": [
+         "en": "combine",
+         "zh": [
             "结合， 联合； 化合",
             "联合企业； 联合收割机"
         ],
@@ -7327,8 +7328,8 @@
         "ukphone": "kəm'baɪn"
     },
     {
-        "name": "ideal",
-        "trans": [
+         "en": "ideal",
+         "zh": [
             "理想的；观念的；空想的",
             "理想； 理想的东西"
         ],
@@ -7336,56 +7337,56 @@
         "ukphone": "aɪ'diːəl"
     },
     {
-        "name": "bearing",
-        "trans": [
+         "en": "bearing",
+         "zh": [
             "举止， 风度； 方位， 方向感； 影响"
         ],
         "usphone": "'bɛrɪŋ",
         "ukphone": "'beərɪŋ"
     },
     {
-        "name": "illustrate",
-        "trans": [
+         "en": "illustrate",
+         "zh": [
             "说明"
         ],
         "usphone": "'ɪləstret",
         "ukphone": "'ɪləstreɪt"
     },
     {
-        "name": "occur",
-        "trans": [
+         "en": "occur",
+         "zh": [
             "发生， 出现， 存在； 被想起， 被想到"
         ],
         "usphone": "ə'kɝ",
         "ukphone": "ə'kɜː"
     },
     {
-        "name": "comedy",
-        "trans": [
+         "en": "comedy",
+         "zh": [
             "喜剧， 喜剧性"
         ],
         "usphone": "'kɑmədi",
         "ukphone": "'kɒmədi"
     },
     {
-        "name": "broom",
-        "trans": [
+         "en": "broom",
+         "zh": [
             "扫帚"
         ],
         "usphone": "brum",
         "ukphone": "bruːm"
     },
     {
-        "name": "establishment",
-        "trans": [
+         "en": "establishment",
+         "zh": [
             "建立， 设立， 确立； 企业； 当权人物"
         ],
         "usphone": "ɪ'stæblɪʃmənt",
         "ukphone": "ɪ'stæblɪʃmənt"
     },
     {
-        "name": "pressure",
-        "trans": [
+         "en": "pressure",
+         "zh": [
             "压，压强；压迫",
             "对…施加压力， 迫使"
         ],
@@ -7393,8 +7394,8 @@
         "ukphone": "'preʃə"
     },
     {
-        "name": "breeze",
-        "trans": [
+         "en": "breeze",
+         "zh": [
             "飘然而行",
             "微风，和风"
         ],
@@ -7402,8 +7403,8 @@
         "ukphone": "briːz"
     },
     {
-        "name": "trash",
-        "trans": [
+         "en": "trash",
+         "zh": [
             "垃圾，废物；拙劣的文学作品；没用的人，社会渣滓，败类",
             "捣毁， 破坏"
         ],
@@ -7411,64 +7412,64 @@
         "ukphone": "træʃ"
     },
     {
-        "name": "painter",
-        "trans": [
+         "en": "painter",
+         "zh": [
             "漆工； 画家"
         ],
         "usphone": "'pentɚ",
         "ukphone": "'peɪntə"
     },
     {
-        "name": "millimetre",
-        "trans": [
+         "en": "millimetre",
+         "zh": [
             "毫米"
         ],
         "usphone": "'mili,mi:tə",
         "ukphone": "'mɪliˌmiːtə"
     },
     {
-        "name": "horn",
-        "trans": [
+         "en": "horn",
+         "zh": [
             "角； 号角； 警报器"
         ],
         "usphone": "hɔrn",
         "ukphone": "hɒːn"
     },
     {
-        "name": "specialist",
-        "trans": [
+         "en": "specialist",
+         "zh": [
             "专家"
         ],
         "usphone": "'spɛʃəlɪst",
         "ukphone": "'speʃəlɪst"
     },
     {
-        "name": "infer",
-        "trans": [
+         "en": "infer",
+         "zh": [
             "推论， 推断； 猜想"
         ],
         "usphone": "ɪn'fɝ",
         "ukphone": "ɪn'fɜː"
     },
     {
-        "name": "compass",
-        "trans": [
+         "en": "compass",
+         "zh": [
             "罗盘， 指南针； 圆规； 界限， 范围"
         ],
         "usphone": "'kʌmpəs",
         "ukphone": "'kʌmpəs"
     },
     {
-        "name": "background",
-        "trans": [
+         "en": "background",
+         "zh": [
             "出身背景， 经历； 背景资料； 背景， 底子"
         ],
         "usphone": "'bækɡraʊnd",
         "ukphone": "'bækgraund"
     },
     {
-        "name": "sore",
-        "trans": [
+         "en": "sore",
+         "zh": [
             "痛的；恼火的；急剧的，剧烈的",
             "疮， 痛处"
         ],
@@ -7476,16 +7477,16 @@
         "ukphone": "sɔː"
     },
     {
-        "name": "dispose",
-        "trans": [
+         "en": "dispose",
+         "zh": [
             "处理， 解决； 使倾向于"
         ],
         "usphone": "dɪ'spoz",
         "ukphone": "dɪ'spəuz"
     },
     {
-        "name": "glow",
-        "trans": [
+         "en": "glow",
+         "zh": [
             "发白热光",
             "白热光；脸红；激情"
         ],
@@ -7493,48 +7494,48 @@
         "ukphone": "gləu"
     },
     {
-        "name": "curtain",
-        "trans": [
+         "en": "curtain",
+         "zh": [
             "门帘， 窗帘； 幕"
         ],
         "usphone": "'kɝtn",
         "ukphone": "'kɜːtn"
     },
     {
-        "name": "laughter",
-        "trans": [
+         "en": "laughter",
+         "zh": [
             "笑， 笑声"
         ],
         "usphone": "'læftɚ",
         "ukphone": "'lɑːftə"
     },
     {
-        "name": "constitution",
-        "trans": [
+         "en": "constitution",
+         "zh": [
             "宪法， 章程； 组成； 设立"
         ],
         "usphone": "'kɑnstə'tʊʃən",
         "ukphone": "ˌkɒnstɪ'tjuːʃn"
     },
     {
-        "name": "blend",
-        "trans": [
+         "en": "blend",
+         "zh": [
             "混合"
         ],
         "usphone": "blɛnd",
         "ukphone": "blend"
     },
     {
-        "name": "certificate",
-        "trans": [
+         "en": "certificate",
+         "zh": [
             "证书， 证件， 执照"
         ],
         "usphone": "sɚˈtɪfɪkɪt; (for v.,) sɚˈtɪfɪˌket",
         "ukphone": "sə'tɪfɪkət"
     },
     {
-        "name": "mess",
-        "trans": [
+         "en": "mess",
+         "zh": [
             "凌乱状态，混乱的局面；困境",
             "弄糟， 弄脏， 搞乱"
         ],
@@ -7542,8 +7543,8 @@
         "ukphone": "mes"
     },
     {
-        "name": "sour",
-        "trans": [
+         "en": "sour",
+         "zh": [
             "酸的；馊的，酸味的；脾气坏的",
             "变酸， 变馊； 变得乖戾"
         ],
@@ -7551,24 +7552,24 @@
         "ukphone": "'sauə"
     },
     {
-        "name": "delete",
-        "trans": [
+         "en": "delete",
+         "zh": [
             "删除， 擦掉"
         ],
         "usphone": "dɪ'lit",
         "ukphone": "dɪ'liːt"
     },
     {
-        "name": "nonsense",
-        "trans": [
+         "en": "nonsense",
+         "zh": [
             "胡说， 废话； 冒失的行动"
         ],
         "usphone": "'nɑnsɛns",
         "ukphone": "'nɒnsns"
     },
     {
-        "name": "stain",
-        "trans": [
+         "en": "stain",
+         "zh": [
             "玷污；给…着色",
             "污点， 污迹"
         ],
@@ -7576,88 +7577,88 @@
         "ukphone": "steɪn"
     },
     {
-        "name": "transform",
-        "trans": [
+         "en": "transform",
+         "zh": [
             "使改观， 改革； 变换， 把…转换成"
         ],
         "usphone": "træns'fɔrm",
         "ukphone": "træns'fɔːm"
     },
     {
-        "name": "leadership",
-        "trans": [
+         "en": "leadership",
+         "zh": [
             "领导"
         ],
         "usphone": "'lidɚʃɪp",
         "ukphone": "'liːdəʃɪp"
     },
     {
-        "name": "genuine",
-        "trans": [
+         "en": "genuine",
+         "zh": [
             "真的， 真正的； 真诚的"
         ],
         "usphone": "'dʒɛnjʊɪn",
         "ukphone": "'dʒenjuɪn"
     },
     {
-        "name": "X-ray",
-        "trans": [
+         "en": "X-ray",
+         "zh": [
             "X射线， X光"
         ],
         "usphone": "'eksreɪ",
         "ukphone": "'eks'reɪ"
     },
     {
-        "name": "physical",
-        "trans": [
+         "en": "physical",
+         "zh": [
             "身体的； 物理的； 物质的， 有形的"
         ],
         "usphone": "'fɪzɪkl",
         "ukphone": "'fɪzɪkl"
     },
     {
-        "name": "fulfil",
-        "trans": [
+         "en": "fulfil",
+         "zh": [
             "履行， 实现， 完成； 满足， 使满意"
         ],
         "usphone": "ful'fil",
         "ukphone": "ful'fɪl"
     },
     {
-        "name": "wicked",
-        "trans": [
+         "en": "wicked",
+         "zh": [
             "坏的， 令人厌恶的； 淘气的， 顽皮的"
         ],
         "usphone": "'wɪkɪd",
         "ukphone": "'wɪkɪd"
     },
     {
-        "name": "spokesman",
-        "trans": [
+         "en": "spokesman",
+         "zh": [
             "发言人"
         ],
         "usphone": "'spoksmən",
         "ukphone": "'spəuksmən"
     },
     {
-        "name": "equation",
-        "trans": [
+         "en": "equation",
+         "zh": [
             "方程， 等式"
         ],
         "usphone": "ɪ'kweʒn",
         "ukphone": "ɪ'kweɪʒn"
     },
     {
-        "name": "impressive",
-        "trans": [
+         "en": "impressive",
+         "zh": [
             "给人深刻印象的"
         ],
         "usphone": "ɪm'prɛsɪv",
         "ukphone": "ɪm'presɪv"
     },
     {
-        "name": "compound",
-        "trans": [
+         "en": "compound",
+         "zh": [
             "复合的， 化合的",
             "化合物，复合物；复合词",
             "使恶化， 加重； 使化合， 使合成"
@@ -7666,8 +7667,8 @@
         "ukphone": "'kɒmpaʊnd"
     },
     {
-        "name": "structure",
-        "trans": [
+         "en": "structure",
+         "zh": [
             "结构，构造",
             "建造"
         ],
@@ -7675,24 +7676,24 @@
         "ukphone": "'strʌktʃə"
     },
     {
-        "name": "intensity",
-        "trans": [
+         "en": "intensity",
+         "zh": [
             "强烈， 剧烈； 强度"
         ],
         "usphone": "ɪn'tɛnsəti",
         "ukphone": "ɪn'tensəti"
     },
     {
-        "name": "waken",
-        "trans": [
+         "en": "waken",
+         "zh": [
             "醒来， 弄醒"
         ],
         "usphone": "'wekən",
         "ukphone": "'weɪkən"
     },
     {
-        "name": "stake",
-        "trans": [
+         "en": "stake",
+         "zh": [
             "桩；利害关系；股份；赌金，赌注",
             "以…打赌， 拿…冒险"
         ],
@@ -7700,16 +7701,16 @@
         "ukphone": "steɪk"
     },
     {
-        "name": "extraordinary",
-        "trans": [
+         "en": "extraordinary",
+         "zh": [
             "非同寻常的， 特别的"
         ],
         "usphone": "ɪkˈstrɔrdənerɪ; ɪkˈstrɔrdnˌɛrɪ",
         "ukphone": "ɪk'strɔːdnri"
     },
     {
-        "name": "witness",
-        "trans": [
+         "en": "witness",
+         "zh": [
             "证据；目击者，证人",
             "目击； 为…作证， 证明"
         ],
@@ -7717,40 +7718,40 @@
         "ukphone": "'wɪtnəs"
     },
     {
-        "name": "concerning",
-        "trans": [
+         "en": "concerning",
+         "zh": [
             "关于"
         ],
         "usphone": "kən'sɝnɪŋ",
         "ukphone": "kən'sɜːnɪŋ"
     },
     {
-        "name": "attraction",
-        "trans": [
+         "en": "attraction",
+         "zh": [
             "吸引， 吸引力； 引力； 具有吸引力的事物"
         ],
         "usphone": "ə'trækʃən",
         "ukphone": "ə'trækʃn"
     },
     {
-        "name": "conventional",
-        "trans": [
+         "en": "conventional",
+         "zh": [
             "普通的； 习惯的， 常规的； 因循守旧的"
         ],
         "usphone": "kən'vɛnʃənl",
         "ukphone": "kən'venʃənl"
     },
     {
-        "name": "regulation",
-        "trans": [
+         "en": "regulation",
+         "zh": [
             "规章， 规则； 管理， 控制； 调节"
         ],
         "usphone": "ˌrɛɡjəˈleʃən",
         "ukphone": "ˌregju'leɪʃn"
     },
     {
-        "name": "puzzle",
-        "trans": [
+         "en": "puzzle",
+         "zh": [
             "迷惑，为难；苦思",
             "智力测验； 谜， 难题， 令人费解的事； 困惑， 迷惑"
         ],
@@ -7758,56 +7759,56 @@
         "ukphone": "'pʌzl"
     },
     {
-        "name": "circulation",
-        "trans": [
+         "en": "circulation",
+         "zh": [
             "循环； 流传； 发行， 流通"
         ],
         "usphone": ",sɝkjə'leʃən",
         "ukphone": "ˌsɜːkjə'leɪʃn"
     },
     {
-        "name": "bake",
-        "trans": [
+         "en": "bake",
+         "zh": [
             "烤， 烘， 焙"
         ],
         "usphone": "bek",
         "ukphone": "beɪk"
     },
     {
-        "name": "mere",
-        "trans": [
+         "en": "mere",
+         "zh": [
             "仅仅的； 纯粹的"
         ],
         "usphone": "mɪr",
         "ukphone": "mɪə"
     },
     {
-        "name": "accommodation",
-        "trans": [
+         "en": "accommodation",
+         "zh": [
             "住处； 膳宿"
         ],
         "usphone": "ə,kɑmə'deʃən",
         "ukphone": "əˌkɒmə'deɪʃn"
     },
     {
-        "name": "evident",
-        "trans": [
+         "en": "evident",
+         "zh": [
             "明显的， 明白的"
         ],
         "usphone": "'ɛvɪdənt",
         "ukphone": "'evɪdənt"
     },
     {
-        "name": "suburb",
-        "trans": [
+         "en": "suburb",
+         "zh": [
             "郊区， 郊外， 近郊"
         ],
         "usphone": "'sʌbɝb",
         "ukphone": "'sʌbɜːb"
     },
     {
-        "name": "lodge",
-        "trans": [
+         "en": "lodge",
+         "zh": [
             "暂住，借宿",
             "乡间小屋； 旅舍"
         ],
@@ -7815,72 +7816,72 @@
         "ukphone": "lɒdʒ"
     },
     {
-        "name": "threat",
-        "trans": [
+         "en": "threat",
+         "zh": [
             "威胁， 恐吓； 凶兆， 征兆"
         ],
         "usphone": "θrɛt",
         "ukphone": "θret"
     },
     {
-        "name": "writer",
-        "trans": [
+         "en": "writer",
+         "zh": [
             "作者， 作家"
         ],
         "usphone": "'raɪtɚ",
         "ukphone": "'raɪtə"
     },
     {
-        "name": "simplify",
-        "trans": [
+         "en": "simplify",
+         "zh": [
             "简化， 使简明"
         ],
         "usphone": "'sɪmplɪfaɪ",
         "ukphone": "'sɪmplɪfaɪ"
     },
     {
-        "name": "breast",
-        "trans": [
+         "en": "breast",
+         "zh": [
             "乳房； 胸脯， 胸膛"
         ],
         "usphone": "brɛst",
         "ukphone": "brest"
     },
     {
-        "name": "invention",
-        "trans": [
+         "en": "invention",
+         "zh": [
             "发明， 创造； 捏造"
         ],
         "usphone": "ɪn'vɛnʃən",
         "ukphone": "ɪn'venʃn"
     },
     {
-        "name": "mercy",
-        "trans": [
+         "en": "mercy",
+         "zh": [
             "仁慈， 宽容； 恩惠； 幸运"
         ],
         "usphone": "'mɝsi",
         "ukphone": "'mɜːsi"
     },
     {
-        "name": "annoy",
-        "trans": [
+         "en": "annoy",
+         "zh": [
             "使恼怒； 打搅"
         ],
         "usphone": "ə'nɔɪ",
         "ukphone": "ə'nɔɪ"
     },
     {
-        "name": "curl",
-        "trans": [
+         "en": "curl",
+         "zh": [
             "鬈发； 卷曲， 卷曲物"
         ],
         "usphone": "kɝl",
         "ukphone": "kɜːl"
     },
     {
-        "name": "inform",
-        "trans": [
+         "en": "inform",
+         "zh": [
             "告发， 告密",
             "通知；报告"
         ],
@@ -7888,16 +7889,16 @@
         "ukphone": "ɪn'fɔːm"
     },
     {
-        "name": "psychological",
-        "trans": [
+         "en": "psychological",
+         "zh": [
             "心理的"
         ],
         "usphone": ",saɪkə'lɑdʒɪkl",
         "ukphone": "ˌsaɪkə'lɒdʒɪkl"
     },
     {
-        "name": "glue",
-        "trans": [
+         "en": "glue",
+         "zh": [
             "胶，胶水",
             "胶合"
         ],
@@ -7905,16 +7906,16 @@
         "ukphone": "gluː"
     },
     {
-        "name": "commit",
-        "trans": [
+         "en": "commit",
+         "zh": [
             "犯， 干； 使承诺； 把…托付给； 调拨…供使用， 拨出"
         ],
         "usphone": "kə'mɪt",
         "ukphone": "kə'mɪt"
     },
     {
-        "name": "scream",
-        "trans": [
+         "en": "scream",
+         "zh": [
             "尖叫，呼啸",
             "尖叫声"
         ],
@@ -7922,16 +7923,16 @@
         "ukphone": "skriːm"
     },
     {
-        "name": "sorrow",
-        "trans": [
+         "en": "sorrow",
+         "zh": [
             "悲痛， 悲哀， 悲伤； 伤心事， 不幸的事"
         ],
         "usphone": "sɑro",
         "ukphone": "'sɒrəu"
     },
     {
-        "name": "crash",
-        "trans": [
+         "en": "crash",
+         "zh": [
             "发出撞击声；垮台，破产；冲，闯",
             "碰撞；坠落",
             "碰撞； 破裂声"
@@ -7940,8 +7941,8 @@
         "ukphone": "kræʃ"
     },
     {
-        "name": "patch",
-        "trans": [
+         "en": "patch",
+         "zh": [
             "补丁；斑，与周围不同的部分；一小块地",
             "补， 修补"
         ],
@@ -7949,48 +7950,48 @@
         "ukphone": "pætʃ"
     },
     {
-        "name": "observer",
-        "trans": [
+         "en": "observer",
+         "zh": [
             "观察员， 观察者"
         ],
         "usphone": "əb'zɝvɚ",
         "ukphone": "əb'zɜːvə"
     },
     {
-        "name": "character",
-        "trans": [
+         "en": "character",
+         "zh": [
             "性格， 特性； 性质； 人物， 角色； 符号； 字"
         ],
         "usphone": "'kærɪktɚ",
         "ukphone": "'kærəktə"
     },
     {
-        "name": "reflect",
-        "trans": [
+         "en": "reflect",
+         "zh": [
             "反映， 显示； 反射， 映现； 深思， 考虑， 反省"
         ],
         "usphone": "rɪ'flɛkt",
         "ukphone": "rɪ'flekt"
     },
     {
-        "name": "procession",
-        "trans": [
+         "en": "procession",
+         "zh": [
             "队伍， 行列"
         ],
         "usphone": "prə'sɛʃən",
         "ukphone": "prə'seʃn"
     },
     {
-        "name": "contribution",
-        "trans": [
+         "en": "contribution",
+         "zh": [
             "贡献， 促成作用； 捐款， 捐献物； 稿件"
         ],
         "usphone": ",kɑntrɪ'bjuʃən",
         "ukphone": "ˌkɒntrɪ'bjuːʃn"
     },
     {
-        "name": "Marxist",
-        "trans": [
+         "en": "Marxist",
+         "zh": [
             "马克思主义的",
             "马克思主义者"
         ],
@@ -7998,8 +7999,8 @@
         "ukphone": "'mɑːksɪst"
     },
     {
-        "name": "bang",
-        "trans": [
+         "en": "bang",
+         "zh": [
             "猛击， 猛撞； 发出砰的一声， 砰砰地响",
             "巨响，枪声；猛击",
             "猛击，猛撞；砰地敲"
@@ -8008,40 +8009,40 @@
         "ukphone": "bæŋ"
     },
     {
-        "name": "brow",
-        "trans": [
+         "en": "brow",
+         "zh": [
             "额， 眉， 眉毛"
         ],
         "usphone": "braʊ",
         "ukphone": "brau"
     },
     {
-        "name": "meaning",
-        "trans": [
+         "en": "meaning",
+         "zh": [
             "意义， 意思； 目的； 重要性"
         ],
         "usphone": "'minɪŋ",
         "ukphone": "'miːnɪŋ"
     },
     {
-        "name": "ignorant",
-        "trans": [
+         "en": "ignorant",
+         "zh": [
             "不知道的， 无知的"
         ],
         "usphone": "'ɪɡnərənt",
         "ukphone": "'ɪgnərənt"
     },
     {
-        "name": "magnetic",
-        "trans": [
+         "en": "magnetic",
+         "zh": [
             "磁的； 有吸引力的"
         ],
         "usphone": "mæg'nɛtɪk",
         "ukphone": "mæg'netɪk"
     },
     {
-        "name": "band",
-        "trans": [
+         "en": "band",
+         "zh": [
             "乐队；群，伙；带；条纹；波段",
             "用带绑扎"
         ],
@@ -8049,8 +8050,8 @@
         "ukphone": "bænd"
     },
     {
-        "name": "orbit",
-        "trans": [
+         "en": "orbit",
+         "zh": [
             "轨道",
             "做轨道运行"
         ],
@@ -8058,16 +8059,16 @@
         "ukphone": "'ɔːbɪt"
     },
     {
-        "name": "comprise",
-        "trans": [
+         "en": "comprise",
+         "zh": [
             "包含， 包括， 构成"
         ],
         "usphone": "kəm'praɪz",
         "ukphone": "kəm'praɪz"
     },
     {
-        "name": "moderate",
-        "trans": [
+         "en": "moderate",
+         "zh": [
             "中等的； 温和的， 稳健的； 有节制的",
             "和缓， 减轻； 节制"
         ],
@@ -8075,8 +8076,8 @@
         "ukphone": "'mɒd(ə)rət"
     },
     {
-        "name": "resident",
-        "trans": [
+         "en": "resident",
+         "zh": [
             "居住的， 定居的； 住校的， 住院的",
             "居民，定居者；住院医生"
         ],
@@ -8084,8 +8085,8 @@
         "ukphone": "'rezɪdənt"
     },
     {
-        "name": "spray",
-        "trans": [
+         "en": "spray",
+         "zh": [
             "喷， 溅散",
             "浪花，水花；喷雾"
         ],
@@ -8093,72 +8094,72 @@
         "ukphone": "spreɪ"
     },
     {
-        "name": "distinguish",
-        "trans": [
+         "en": "distinguish",
+         "zh": [
             "区别， 辨别， 识别； 使显出特色， 使杰出"
         ],
         "usphone": "dɪ'stɪŋɡwɪʃ",
         "ukphone": "dɪ'stɪŋgwɪʃ"
     },
     {
-        "name": "receiver",
-        "trans": [
+         "en": "receiver",
+         "zh": [
             "听筒； 接收器"
         ],
         "usphone": "rɪ'sivɚ",
         "ukphone": "rɪ'siːvə"
     },
     {
-        "name": "outer",
-        "trans": [
+         "en": "outer",
+         "zh": [
             "外面的， 外层的"
         ],
         "usphone": "'aʊtɚ",
         "ukphone": "'autə"
     },
     {
-        "name": "invent",
-        "trans": [
+         "en": "invent",
+         "zh": [
             "发明， 创造； 捏造"
         ],
         "usphone": "ɪn'vɛnt",
         "ukphone": "ɪn'vent"
     },
     {
-        "name": "fluent",
-        "trans": [
+         "en": "fluent",
+         "zh": [
             "流利的， 流畅的"
         ],
         "usphone": "'fluənt",
         "ukphone": "'fluːənt"
     },
     {
-        "name": "shortcoming",
-        "trans": [
+         "en": "shortcoming",
+         "zh": [
             "短处， 缺点"
         ],
         "usphone": "'ʃɔrtkʌmɪŋ",
         "ukphone": "'ʃɔːtkʌmɪŋ"
     },
     {
-        "name": "substantial",
-        "trans": [
+         "en": "substantial",
+         "zh": [
             "可观的， 大量的； 结实的， 坚固的； 实质的， 真实的"
         ],
         "usphone": "səbˈstænʃəl",
         "ukphone": "səb'stænʃl"
     },
     {
-        "name": "execute",
-        "trans": [
+         "en": "execute",
+         "zh": [
             "将…处死； 实施， 执行"
         ],
         "usphone": "'ɛksɪkjut",
         "ukphone": "'eksɪkjuːt"
     },
     {
-        "name": "benefit",
-        "trans": [
+         "en": "benefit",
+         "zh": [
             "有益于； 得益",
             "利益，恩惠；救济金，保险金，津贴"
         ],
@@ -8166,8 +8167,8 @@
         "ukphone": "'benɪfɪt"
     },
     {
-        "name": "flood",
-        "trans": [
+         "en": "flood",
+         "zh": [
             "淹没； 涌入",
             "洪水；大量"
         ],
@@ -8175,72 +8176,72 @@
         "ukphone": "flʌd"
     },
     {
-        "name": "vitamin",
-        "trans": [
+         "en": "vitamin",
+         "zh": [
             "维生素"
         ],
         "usphone": "'vaɪtəmɪn",
         "ukphone": "'vɪtəmɪn"
     },
     {
-        "name": "intention",
-        "trans": [
+         "en": "intention",
+         "zh": [
             "意图， 意向， 目的"
         ],
         "usphone": "ɪn'tɛnʃən",
         "ukphone": "ɪn'tenʃn"
     },
     {
-        "name": "rude",
-        "trans": [
+         "en": "rude",
+         "zh": [
             "粗鲁的， 不礼貌的； 粗糙的， 粗陋的"
         ],
         "usphone": "rud",
         "ukphone": "ruːd"
     },
     {
-        "name": "symptom",
-        "trans": [
+         "en": "symptom",
+         "zh": [
             "症状； 征候， 征兆"
         ],
         "usphone": "'sɪmptəm",
         "ukphone": "'sɪmptəm"
     },
     {
-        "name": "pillar",
-        "trans": [
+         "en": "pillar",
+         "zh": [
             "柱， 柱子； 栋梁"
         ],
         "usphone": "'pɪlɚ",
         "ukphone": "'pɪlə"
     },
     {
-        "name": "thereby",
-        "trans": [
+         "en": "thereby",
+         "zh": [
             "因此， 从而， 由此"
         ],
         "usphone": ",ðɛr'baɪ",
         "ukphone": "ˌðeə'baɪ"
     },
     {
-        "name": "unique",
-        "trans": [
+         "en": "unique",
+         "zh": [
             "唯一的， 独一无二的； 极不寻常的， 极好的"
         ],
         "usphone": "jʊ'nik",
         "ukphone": "ju'niːk"
     },
     {
-        "name": "funeral",
-        "trans": [
+         "en": "funeral",
+         "zh": [
             "葬礼， 丧礼， 丧葬"
         ],
         "usphone": "'fjunərəl",
         "ukphone": "'fjuːnərəl"
     },
     {
-        "name": "boost",
-        "trans": [
+         "en": "boost",
+         "zh": [
             "提高，使增长；推动，激励；替…做广告，宣扬",
             "提高， 增长； 推动， 激励"
         ],
@@ -8248,24 +8249,24 @@
         "ukphone": "buːst"
     },
     {
-        "name": "fireman",
-        "trans": [
+         "en": "fireman",
+         "zh": [
             "消防队员； 司炉工"
         ],
         "usphone": "'faɪrmən",
         "ukphone": "'faɪəmən"
     },
     {
-        "name": "sincere",
-        "trans": [
+         "en": "sincere",
+         "zh": [
             "真诚的， 诚挚的"
         ],
         "usphone": "sɪn'sɪr",
         "ukphone": "sɪn'sɪə"
     },
     {
-        "name": "male",
-        "trans": [
+         "en": "male",
+         "zh": [
             "男的，雄的",
             "男子， 雄性动物"
         ],
@@ -8273,40 +8274,40 @@
         "ukphone": "meɪl"
     },
     {
-        "name": "ministry",
-        "trans": [
+         "en": "ministry",
+         "zh": [
             "部"
         ],
         "usphone": "'mɪnɪstri",
         "ukphone": "'mɪnɪstri"
     },
     {
-        "name": "religious",
-        "trans": [
+         "en": "religious",
+         "zh": [
             "宗教的； 笃信宗教的， 虔诚的"
         ],
         "usphone": "rɪ'lɪdʒəs",
         "ukphone": "rɪ'lɪdʒəs"
     },
     {
-        "name": "nevertheless",
-        "trans": [
+         "en": "nevertheless",
+         "zh": [
             "仍然， 然而"
         ],
         "usphone": ",nɛvɚðə'lɛs",
         "ukphone": "ˌnevəðə'les"
     },
     {
-        "name": "prominent",
-        "trans": [
+         "en": "prominent",
+         "zh": [
             "突出的， 杰出的； 突起的， 凸出的"
         ],
         "usphone": "'prɑmɪnənt",
         "ukphone": "'prɒmɪnənt"
     },
     {
-        "name": "shelter",
-        "trans": [
+         "en": "shelter",
+         "zh": [
             "掩蔽处，躲避处；住所；掩蔽，保护",
             "掩蔽， 庇护； 躲避"
         ],
@@ -8314,24 +8315,24 @@
         "ukphone": "'ʃeltə"
     },
     {
-        "name": "outset",
-        "trans": [
+         "en": "outset",
+         "zh": [
             "开始， 开端"
         ],
         "usphone": "'aʊtsɛt",
         "ukphone": "'autset"
     },
     {
-        "name": "jewel",
-        "trans": [
+         "en": "jewel",
+         "zh": [
             "宝石； 宝石饰物"
         ],
         "usphone": "'dʒuəl",
         "ukphone": "'dʒuːəl"
     },
     {
-        "name": "scan",
-        "trans": [
+         "en": "scan",
+         "zh": [
             "细看，审视；扫描，浏览",
             "扫描"
         ],
@@ -8339,16 +8340,16 @@
         "ukphone": "skæn"
     },
     {
-        "name": "association",
-        "trans": [
+         "en": "association",
+         "zh": [
             "协会， 团体； 联合， 交往"
         ],
         "usphone": "ə,soʃɪ'eʃən",
         "ukphone": "əˌsəusi'eɪʃn"
     },
     {
-        "name": "fundamental",
-        "trans": [
+         "en": "fundamental",
+         "zh": [
             "基础的，基本的",
             "基本原则"
         ],
@@ -8356,32 +8357,32 @@
         "ukphone": "ˌfʌndə'mentl"
     },
     {
-        "name": "eliminate",
-        "trans": [
+         "en": "eliminate",
+         "zh": [
             "消灭， 消除， 排除； 淘汰"
         ],
         "usphone": "ɪ'lɪmɪnet",
         "ukphone": "ɪ'lɪmɪneɪt"
     },
     {
-        "name": "global",
-        "trans": [
+         "en": "global",
+         "zh": [
             "全球的， 全世界的； 总的， 完整的"
         ],
         "usphone": "'ɡlobl",
         "ukphone": "'gləubl"
     },
     {
-        "name": "entitle",
-        "trans": [
+         "en": "entitle",
+         "zh": [
             "给…权利； 给题名"
         ],
         "usphone": "ɪn'taɪtl",
         "ukphone": "ɪn'taɪtl"
     },
     {
-        "name": "outline",
-        "trans": [
+         "en": "outline",
+         "zh": [
             "提纲，要点；外形，略图",
             "概述； 描…外形"
         ],
@@ -8389,8 +8390,8 @@
         "ukphone": "'autlaɪn"
     },
     {
-        "name": "fade",
-        "trans": [
+         "en": "fade",
+         "zh": [
             "褪色；逐渐消失；凋谢",
             "使褪色"
         ],
@@ -8398,24 +8399,24 @@
         "ukphone": "feɪd"
     },
     {
-        "name": "unless",
-        "trans": [
+         "en": "unless",
+         "zh": [
             "除非， 如果不"
         ],
         "usphone": "ən'lɛs",
         "ukphone": "ən'les"
     },
     {
-        "name": "butterfly",
-        "trans": [
+         "en": "butterfly",
+         "zh": [
             "蝴蝶"
         ],
         "usphone": "'bʌtɚflaɪ",
         "ukphone": "'bʌtəflaɪ"
     },
     {
-        "name": "excess",
-        "trans": [
+         "en": "excess",
+         "zh": [
             "过量的， 额外的",
             "超越； 过量， 过度"
         ],
@@ -8423,8 +8424,8 @@
         "ukphone": "ɪk'ses; ek-; 'ekses"
     },
     {
-        "name": "glance",
-        "trans": [
+         "en": "glance",
+         "zh": [
             "看一下",
             "一瞥",
             "用扫视； 反射"
@@ -8433,48 +8434,48 @@
         "ukphone": "glɑːns"
     },
     {
-        "name": "perspective",
-        "trans": [
+         "en": "perspective",
+         "zh": [
             "视角， 观点； 远景， 景观； 透视画法， 透视图"
         ],
         "usphone": "pɚ'spɛktɪv",
         "ukphone": "pə'spektɪv"
     },
     {
-        "name": "relationship",
-        "trans": [
+         "en": "relationship",
+         "zh": [
             "关系， 关联"
         ],
         "usphone": "rɪ'leʃən'ʃɪp",
         "ukphone": "rɪ'leɪʃnʃɪp"
     },
     {
-        "name": "equality",
-        "trans": [
+         "en": "equality",
+         "zh": [
             "等同， 平等， 相等"
         ],
         "usphone": "ɪ'kwɑləti",
         "ukphone": "iː'kwɒləti"
     },
     {
-        "name": "destruction",
-        "trans": [
+         "en": "destruction",
+         "zh": [
             "破坏， 毁灭， 消灭"
         ],
         "usphone": "dɪ'strʌkʃən",
         "ukphone": "dɪ'strʌkʃn"
     },
     {
-        "name": "dictation",
-        "trans": [
+         "en": "dictation",
+         "zh": [
             "口授； 听写"
         ],
         "usphone": "dɪk'teʃən",
         "ukphone": "dɪk'teɪʃn"
     },
     {
-        "name": "stiff",
-        "trans": [
+         "en": "stiff",
+         "zh": [
             "极其， 非常； 僵硬地",
             "硬的，僵直的；不灵活的；拘谨的，生硬的；费劲的；强烈的"
         ],
@@ -8482,64 +8483,64 @@
         "ukphone": "stɪf"
     },
     {
-        "name": "expression",
-        "trans": [
+         "en": "expression",
+         "zh": [
             "词语； 表达； 表情"
         ],
         "usphone": "ɪk'sprɛʃən",
         "ukphone": "ɪk'spreʃn"
     },
     {
-        "name": "invade",
-        "trans": [
+         "en": "invade",
+         "zh": [
             "入侵， 侵略， 侵袭"
         ],
         "usphone": "ɪn'ved",
         "ukphone": "ɪn'veɪd"
     },
     {
-        "name": "reaction",
-        "trans": [
+         "en": "reaction",
+         "zh": [
             "反应； 反作用"
         ],
         "usphone": "rɪ'ækʃən",
         "ukphone": "ri'ækʃn"
     },
     {
-        "name": "childhood",
-        "trans": [
+         "en": "childhood",
+         "zh": [
             "童年， 幼年， 早期"
         ],
         "usphone": "'tʃaɪldhʊd",
         "ukphone": "'tʃaɪldhud"
     },
     {
-        "name": "wolf",
-        "trans": [
+         "en": "wolf",
+         "zh": [
             "狼"
         ],
         "usphone": "wʊlf",
         "ukphone": "wulf"
     },
     {
-        "name": "accordance",
-        "trans": [
+         "en": "accordance",
+         "zh": [
             "一致； 和谐"
         ],
         "usphone": "ə'kɔrdns",
         "ukphone": "ə'kɔːdns"
     },
     {
-        "name": "thorough",
-        "trans": [
+         "en": "thorough",
+         "zh": [
             "彻底的， 详尽的"
         ],
         "usphone": "ˈθʌrəʊ; θʌro",
         "ukphone": "'θʌrə"
     },
     {
-        "name": "appeal",
-        "trans": [
+         "en": "appeal",
+         "zh": [
             "呼吁，恳求；申诉，上诉",
             "上诉",
             "感染力， 吸引力； 呼吁， 上诉"
@@ -8548,24 +8549,24 @@
         "ukphone": "ə'piːl"
     },
     {
-        "name": "democracy",
-        "trans": [
+         "en": "democracy",
+         "zh": [
             "民主， 民主制； 民主国家"
         ],
         "usphone": "dɪˈmɑkrəsi",
         "ukphone": "dɪ'mɒkrəsi"
     },
     {
-        "name": "transportation",
-        "trans": [
+         "en": "transportation",
+         "zh": [
             "运输， 运送， 客运"
         ],
         "usphone": ",trænspɔr'teʃən",
         "ukphone": "ˌtrænspɔː'teɪʃn"
     },
     {
-        "name": "dye",
-        "trans": [
+         "en": "dye",
+         "zh": [
             "染",
             "染料； 染色"
         ],
@@ -8573,32 +8574,32 @@
         "ukphone": "daɪ"
     },
     {
-        "name": "evolve",
-        "trans": [
+         "en": "evolve",
+         "zh": [
             "使进化， 使发展"
         ],
         "usphone": "ɪ'vɑlv",
         "ukphone": "i'vɒlv"
     },
     {
-        "name": "extensive",
-        "trans": [
+         "en": "extensive",
+         "zh": [
             "广阔的， 广泛的"
         ],
         "usphone": "ɪk'stɛnsɪv",
         "ukphone": "ɪk'stensɪv"
     },
     {
-        "name": "congratulation",
-        "trans": [
+         "en": "congratulation",
+         "zh": [
             "贺词； 祝贺， 恭喜"
         ],
         "usphone": "kən,ɡrætʃu'leʃən",
         "ukphone": "kənˌgrætʃu'leɪʃn"
     },
     {
-        "name": "abandon",
-        "trans": [
+         "en": "abandon",
+         "zh": [
             "离弃，丢弃；遗弃，抛弃；放弃",
             "放任； 纵情"
         ],
@@ -8606,16 +8607,16 @@
         "ukphone": "ə'bændən"
     },
     {
-        "name": "definitely",
-        "trans": [
+         "en": "definitely",
+         "zh": [
             "一定地， 明确地"
         ],
         "usphone": "'dɛfɪnətli",
         "ukphone": "'defɪnətli"
     },
     {
-        "name": "inspire",
-        "trans": [
+         "en": "inspire",
+         "zh": [
             "吸气； 赋予灵感",
             "鼓舞，给…以灵感"
         ],
@@ -8623,16 +8624,16 @@
         "ukphone": "ɪn'spaɪə"
     },
     {
-        "name": "marvelous",
-        "trans": [
+         "en": "marvelous",
+         "zh": [
             "奇迹般的， 了不起的"
         ],
         "usphone": "'mɑrvələs",
         "ukphone": "'mɑːvələs"
     },
     {
-        "name": "household",
-        "trans": [
+         "en": "household",
+         "zh": [
             "家庭的； 家喻户晓的",
             "家庭，户；家务"
         ],
@@ -8640,64 +8641,64 @@
         "ukphone": "'haushəuld"
     },
     {
-        "name": "geometry",
-        "trans": [
+         "en": "geometry",
+         "zh": [
             "几何， 几何学"
         ],
         "usphone": "dʒɪ'ɑmətri",
         "ukphone": "dʒi'ɒmətri"
     },
     {
-        "name": "ratio",
-        "trans": [
+         "en": "ratio",
+         "zh": [
             "比， 比率"
         ],
         "usphone": "'reʃɪo",
         "ukphone": "'reɪʃiəu"
     },
     {
-        "name": "devote",
-        "trans": [
+         "en": "devote",
+         "zh": [
             "将…奉献给； 把…专用"
         ],
         "usphone": "dɪ'vot",
         "ukphone": "dɪ'vəut"
     },
     {
-        "name": "agent",
-        "trans": [
+         "en": "agent",
+         "zh": [
             "代理人， 代理商； 政府代表； 动因， 原因； 剂"
         ],
         "usphone": "'edʒənt",
         "ukphone": "'eɪdʒənt"
     },
     {
-        "name": "wool",
-        "trans": [
+         "en": "wool",
+         "zh": [
             "羊毛； 毛线， 绒线"
         ],
         "usphone": "wʊl",
         "ukphone": "wul"
     },
     {
-        "name": "wholly",
-        "trans": [
+         "en": "wholly",
+         "zh": [
             "完全地， 全部地"
         ],
         "usphone": "'holli",
         "ukphone": "'həulli"
     },
     {
-        "name": "instinct",
-        "trans": [
+         "en": "instinct",
+         "zh": [
             "本能， 天性； 直觉"
         ],
         "usphone": "'ɪnstɪŋkt",
         "ukphone": "'ɪnstɪŋkt"
     },
     {
-        "name": "approximate",
-        "trans": [
+         "en": "approximate",
+         "zh": [
             "近似的",
             "近似； 估计"
         ],
@@ -8705,32 +8706,32 @@
         "ukphone": "ə'prɒksɪmət"
     },
     {
-        "name": "invest",
-        "trans": [
+         "en": "invest",
+         "zh": [
             "投资， 投入； 授予"
         ],
         "usphone": "ɪn'vɛst",
         "ukphone": "ɪn'vest"
     },
     {
-        "name": "afterward",
-        "trans": [
+         "en": "afterward",
+         "zh": [
             "后来， 以后"
         ],
         "usphone": "ˈæftərwərd",
         "ukphone": "'ɑːftəwəd"
     },
     {
-        "name": "reputation",
-        "trans": [
+         "en": "reputation",
+         "zh": [
             "名誉， 名气， 名声"
         ],
         "usphone": ",rɛpju'teʃən",
         "ukphone": "ˌrepju'teɪʃn"
     },
     {
-        "name": "project",
-        "trans": [
+         "en": "project",
+         "zh": [
             "伸出； 投射； 预计",
             "方案， 计划； 课题， 项目； 工程"
         ],
@@ -8738,56 +8739,56 @@
         "ukphone": "prəˈdʒekt; ˈprɒdʒekt"
     },
     {
-        "name": "shrug",
-        "trans": [
+         "en": "shrug",
+         "zh": [
             "耸肩"
         ],
         "usphone": "ʃrʌɡ",
         "ukphone": "ʃrʌg"
     },
     {
-        "name": "independence",
-        "trans": [
+         "en": "independence",
+         "zh": [
             "独立， 自主， 自立"
         ],
         "usphone": ",ɪndɪ'pɛndəns",
         "ukphone": "ˌɪndɪ'pendəns"
     },
     {
-        "name": "coordination",
-        "trans": [
+         "en": "coordination",
+         "zh": [
             "同等； 调和"
         ],
         "usphone": "ko,ɔrdɪ'neʃən",
         "ukphone": "kəuˌɔːdɪ'neɪʃn"
     },
     {
-        "name": "presentation",
-        "trans": [
+         "en": "presentation",
+         "zh": [
             "提供， 显示； 外观， 图像； 授予， 赠送； 报告， 介绍； 表演"
         ],
         "usphone": ",prizɛn'teʃən",
         "ukphone": "ˌprezn'teɪʃn"
     },
     {
-        "name": "diameter",
-        "trans": [
+         "en": "diameter",
+         "zh": [
             "直径"
         ],
         "usphone": "daɪ'æmɪtɚ",
         "ukphone": "daɪ'æmɪtə"
     },
     {
-        "name": "barn",
-        "trans": [
+         "en": "barn",
+         "zh": [
             "谷仓； 牲口棚"
         ],
         "usphone": "bɑrn",
         "ukphone": "bɑːn"
     },
     {
-        "name": "bark",
-        "trans": [
+         "en": "bark",
+         "zh": [
             "吠，叫",
             "吠声， 叫声； 树皮"
         ],
@@ -8795,8 +8796,8 @@
         "ukphone": "bɑːk"
     },
     {
-        "name": "loop",
-        "trans": [
+         "en": "loop",
+         "zh": [
             "成环， 成圈",
             "圈，环，回路；循环"
         ],
@@ -8804,32 +8805,32 @@
         "ukphone": "luːp"
     },
     {
-        "name": "restrain",
-        "trans": [
+         "en": "restrain",
+         "zh": [
             "阻止， 控制； 抑制， 遏制"
         ],
         "usphone": "rɪ'stren",
         "ukphone": "rɪ'streɪn"
     },
     {
-        "name": "greedy",
-        "trans": [
+         "en": "greedy",
+         "zh": [
             "贪吃的； 贪婪的； 渴望的"
         ],
         "usphone": "'gridi",
         "ukphone": "'griːdi"
     },
     {
-        "name": "awkward",
-        "trans": [
+         "en": "awkward",
+         "zh": [
             "笨拙的， 尴尬的； 难操纵的， 使用不便的； 不灵巧的"
         ],
         "usphone": "'ɔkwɚd",
         "ukphone": "'ɔːkwəd"
     },
     {
-        "name": "bare",
-        "trans": [
+         "en": "bare",
+         "zh": [
             "赤裸的；光秃的，无遮盖的；刚刚够的，勉强的",
             "露出， 显露"
         ],
@@ -8837,8 +8838,8 @@
         "ukphone": "beə"
     },
     {
-        "name": "ruin",
-        "trans": [
+         "en": "ruin",
+         "zh": [
             "毁坏",
             "毁灭；废墟"
         ],
@@ -8846,32 +8847,32 @@
         "ukphone": "'ruːɪn"
     },
     {
-        "name": "crane",
-        "trans": [
+         "en": "crane",
+         "zh": [
             "起重机， 摄影升降机； 鹤"
         ],
         "usphone": "kren",
         "ukphone": "kreɪn"
     },
     {
-        "name": "beard",
-        "trans": [
+         "en": "beard",
+         "zh": [
             "胡须， 络腮胡子"
         ],
         "usphone": "bɪrd",
         "ukphone": "bɪəd"
     },
     {
-        "name": "impatient",
-        "trans": [
+         "en": "impatient",
+         "zh": [
             "不耐烦的， 急躁的"
         ],
         "usphone": "ɪm'peʃnt",
         "ukphone": "ɪm'peɪʃnt"
     },
     {
-        "name": "spill",
-        "trans": [
+         "en": "spill",
+         "zh": [
             "溢出，洒落",
             "溢出"
         ],
@@ -8879,72 +8880,72 @@
         "ukphone": "spɪl"
     },
     {
-        "name": "owing",
-        "trans": [
+         "en": "owing",
+         "zh": [
             "应付的， 未付的"
         ],
         "usphone": "'oɪŋ",
         "ukphone": "'əuɪŋ"
     },
     {
-        "name": "collection",
-        "trans": [
+         "en": "collection",
+         "zh": [
             "搜集， 聚集， 积聚； 收集， 收取； 收藏品， 收集的东西"
         ],
         "usphone": "kə'lɛkʃən",
         "ukphone": "kə'lekʃn"
     },
     {
-        "name": "gardener",
-        "trans": [
+         "en": "gardener",
+         "zh": [
             "园丁， 花匠"
         ],
         "usphone": "'gɑrdənɚ",
         "ukphone": "'gɑːdnə"
     },
     {
-        "name": "conquest",
-        "trans": [
+         "en": "conquest",
+         "zh": [
             "攻取， 征服， 克服"
         ],
         "usphone": "'kɑŋkwɛst",
         "ukphone": "'kɒŋkwest"
     },
     {
-        "name": "finding",
-        "trans": [
+         "en": "finding",
+         "zh": [
             "发现； 调查的结果； 裁决"
         ],
         "usphone": "'faɪndɪŋ",
         "ukphone": "'faɪndɪŋ"
     },
     {
-        "name": "dense",
-        "trans": [
+         "en": "dense",
+         "zh": [
             "密集的， 浓厚的； 密度大的"
         ],
         "usphone": "dɛns",
         "ukphone": "dens"
     },
     {
-        "name": "fortnight",
-        "trans": [
+         "en": "fortnight",
+         "zh": [
             "两星期， 十四天"
         ],
         "usphone": "'fɔrtnaɪt",
         "ukphone": "'fɔːtnaɪt"
     },
     {
-        "name": "laboratory",
-        "trans": [
+         "en": "laboratory",
+         "zh": [
             "实验室， 研究室"
         ],
         "usphone": "ˈlæbrəˌtɔrɪ",
         "ukphone": "lə'bɒrətri"
     },
     {
-        "name": "inspect",
-        "trans": [
+         "en": "inspect",
+         "zh": [
             "进行检查； 进行视察",
             "检查，审查；检阅"
         ],
@@ -8952,8 +8953,8 @@
         "ukphone": "ɪn'spekt"
     },
     {
-        "name": "campaign",
-        "trans": [
+         "en": "campaign",
+         "zh": [
             "参加运动； 参加竞选",
             "战役；运动"
         ],
@@ -8961,24 +8962,24 @@
         "ukphone": "kæm'peɪn"
     },
     {
-        "name": "systematical",
-        "trans": [
+         "en": "systematical",
+         "zh": [
             "有系统的， 有计划的"
         ],
         "usphone": ",sistə'mætikl",
         "ukphone": "ˌsɪstə'mætɪk(l)"
     },
     {
-        "name": "vital",
-        "trans": [
+         "en": "vital",
+         "zh": [
             "致命的， 生死攸关的； 极其重要的； 生命的， 有生命力的"
         ],
         "usphone": "'vaɪtl",
         "ukphone": "'vaɪtl"
     },
     {
-        "name": "conflict",
-        "trans": [
+         "en": "conflict",
+         "zh": [
             "冲突， 抵触",
             "冲突， 抵触， 争论； 战斗， 战争"
         ],
@@ -8986,32 +8987,32 @@
         "ukphone": "'kɒnflɪkt"
     },
     {
-        "name": "farewell",
-        "trans": [
+         "en": "farewell",
+         "zh": [
             "告别， 欢送会"
         ],
         "usphone": ",fɛr'wɛl",
         "ukphone": "ˌfeə'wel"
     },
     {
-        "name": "allow",
-        "trans": [
+         "en": "allow",
+         "zh": [
             "允许， 准许； 同意给； 承认； 允许…进入"
         ],
         "usphone": "ə'laʊ",
         "ukphone": "ə'lau"
     },
     {
-        "name": "appliance",
-        "trans": [
+         "en": "appliance",
+         "zh": [
             "用具， 器具， 器械； 家电"
         ],
         "usphone": "ə'plaɪəns",
         "ukphone": "ə'plaɪəns"
     },
     {
-        "name": "mass",
-        "trans": [
+         "en": "mass",
+         "zh": [
             "大量的，大规模的",
             "聚集， 集中",
             "众多，大量；团，块，堆；群众；质量"
@@ -9020,24 +9021,24 @@
         "ukphone": "mæs"
     },
     {
-        "name": "lord",
-        "trans": [
+         "en": "lord",
+         "zh": [
             "领主， 君主， 贵族"
         ],
         "usphone": "lɔrd",
         "ukphone": "lɔːd"
     },
     {
-        "name": "detect",
-        "trans": [
+         "en": "detect",
+         "zh": [
             "察觉， 发觉； 侦查出"
         ],
         "usphone": "dɪ'tɛkt",
         "ukphone": "dɪ'tekt"
     },
     {
-        "name": "amateur",
-        "trans": [
+         "en": "amateur",
+         "zh": [
             "业余爱好的， 业余的； 外行的",
             "业余爱好者；外行"
         ],
@@ -9045,48 +9046,48 @@
         "ukphone": "'æmətə"
     },
     {
-        "name": "poisonous",
-        "trans": [
+         "en": "poisonous",
+         "zh": [
             "有毒的； 恶毒的"
         ],
         "usphone": "'pɔɪzənəs",
         "ukphone": "'pɔɪzənəs"
     },
     {
-        "name": "condemn",
-        "trans": [
+         "en": "condemn",
+         "zh": [
             "谴责， 指责； 判…刑， 宣告…有罪"
         ],
         "usphone": "kən'dɛm",
         "ukphone": "kən'dem"
     },
     {
-        "name": "beast",
-        "trans": [
+         "en": "beast",
+         "zh": [
             "兽， 野兽， 牲畜； 凶残的人， 令人厌憎的人"
         ],
         "usphone": "bist",
         "ukphone": "biːst"
     },
     {
-        "name": "assistance",
-        "trans": [
+         "en": "assistance",
+         "zh": [
             "协助， 援助"
         ],
         "usphone": "ə'sɪstəns",
         "ukphone": "ə'sɪstəns"
     },
     {
-        "name": "commerce",
-        "trans": [
+         "en": "commerce",
+         "zh": [
             "商业， 贸易； 社交"
         ],
         "usphone": "'kɑmɝs",
         "ukphone": "'kɒmɜːs"
     },
     {
-        "name": "gesture",
-        "trans": [
+         "en": "gesture",
+         "zh": [
             "做手势",
             "姿势，手势，姿态"
         ],
@@ -9094,24 +9095,24 @@
         "ukphone": "'dʒestʃə"
     },
     {
-        "name": "admit",
-        "trans": [
+         "en": "admit",
+         "zh": [
             "承认， 供认； 准许…进入"
         ],
         "usphone": "əd'mɪt",
         "ukphone": "əd'mɪt"
     },
     {
-        "name": "poem",
-        "trans": [
+         "en": "poem",
+         "zh": [
             "诗"
         ],
         "usphone": "'poəm",
         "ukphone": "'pəuɪm"
     },
     {
-        "name": "interest",
-        "trans": [
+         "en": "interest",
+         "zh": [
             "兴趣；利益，利害关系；利息",
             "使感兴趣"
         ],
@@ -9119,32 +9120,32 @@
         "ukphone": "'ɪntrəst;'ɪntrest"
     },
     {
-        "name": "gulf",
-        "trans": [
+         "en": "gulf",
+         "zh": [
             "海湾； 巨大的分歧"
         ],
         "usphone": "ɡʌlf",
         "ukphone": "gʌlf"
     },
     {
-        "name": "poet",
-        "trans": [
+         "en": "poet",
+         "zh": [
             "诗人"
         ],
         "usphone": "'poət",
         "ukphone": "'pəuɪt"
     },
     {
-        "name": "definition",
-        "trans": [
+         "en": "definition",
+         "zh": [
             "定义， 释义， 定界； 清晰， 鲜明"
         ],
         "usphone": ",dɛfɪ'nɪʃən",
         "ukphone": "ˌdefɪ'nɪʃn"
     },
     {
-        "name": "shave",
-        "trans": [
+         "en": "shave",
+         "zh": [
             "剃，刮，刨，削；修面，刮脸",
             "修面， 刮脸"
         ],
@@ -9152,16 +9153,16 @@
         "ukphone": "ʃeɪv"
     },
     {
-        "name": "organic",
-        "trans": [
+         "en": "organic",
+         "zh": [
             "有机体的， 有机物的"
         ],
         "usphone": "ɔr'gænɪk",
         "ukphone": "ɔː'gænɪk"
     },
     {
-        "name": "mask",
-        "trans": [
+         "en": "mask",
+         "zh": [
             "面具，面罩，口罩；伪装",
             "遮盖， 掩饰"
         ],
@@ -9169,8 +9170,8 @@
         "ukphone": "mɑːsk"
     },
     {
-        "name": "summary",
-        "trans": [
+         "en": "summary",
+         "zh": [
             "概括的， 概要的； 实时的， 即决的",
             "摘要，概要，一览"
         ],
@@ -9178,8 +9179,8 @@
         "ukphone": "'sʌməri"
     },
     {
-        "name": "apply",
-        "trans": [
+         "en": "apply",
+         "zh": [
             "适用； 申请， 请求； 涂， 敷， 施",
             "应用，实施；使用；涂敷；把…施于"
         ],
@@ -9187,8 +9188,8 @@
         "ukphone": "ə'plaɪ"
     },
     {
-        "name": "inferior",
-        "trans": [
+         "en": "inferior",
+         "zh": [
             "下等的，劣等的；次于…的",
             "下级， 下属"
         ],
@@ -9196,112 +9197,112 @@
         "ukphone": "ɪn'fɪəriə"
     },
     {
-        "name": "steamer",
-        "trans": [
+         "en": "steamer",
+         "zh": [
             "轮船， 汽船"
         ],
         "usphone": "'stimɚ",
         "ukphone": "'stiːmə"
     },
     {
-        "name": "recently",
-        "trans": [
+         "en": "recently",
+         "zh": [
             "最近， 新近"
         ],
         "usphone": "'risntli",
         "ukphone": "'riːsntli"
     },
     {
-        "name": "overlook",
-        "trans": [
+         "en": "overlook",
+         "zh": [
             "忽视； 宽恕； 俯瞰"
         ],
         "usphone": ",ovɚ'lʊk",
         "ukphone": "ˌəuvə'luk"
     },
     {
-        "name": "politician",
-        "trans": [
+         "en": "politician",
+         "zh": [
             "政治家， 政客"
         ],
         "usphone": ",pɑlə'tɪʃən",
         "ukphone": "ˌpɒlə'tɪʃn"
     },
     {
-        "name": "incredible",
-        "trans": [
+         "en": "incredible",
+         "zh": [
             "不能相信的， 不可信的； 难以置信的， 不可思议的； 惊人的"
         ],
         "usphone": "ɪn'krɛdəbl",
         "ukphone": "ɪn'kredəbl"
     },
     {
-        "name": "dramatic",
-        "trans": [
+         "en": "dramatic",
+         "zh": [
             "引人注目的， 激动人心的； 突然的"
         ],
         "usphone": "drə'mætɪk",
         "ukphone": "drə'mætɪk"
     },
     {
-        "name": "mosquito",
-        "trans": [
+         "en": "mosquito",
+         "zh": [
             "蚊子"
         ],
         "usphone": "məˈskiːtoʊ",
         "ukphone": "mə'skiːtəu"
     },
     {
-        "name": "guitar",
-        "trans": [
+         "en": "guitar",
+         "zh": [
             "吉他， 六弦琴"
         ],
         "usphone": "ɡɪ'tɑr",
         "ukphone": "gɪ'tɑː"
     },
     {
-        "name": "layout",
-        "trans": [
+         "en": "layout",
+         "zh": [
             "布局， 安排， 设计"
         ],
         "usphone": "'leaʊt",
         "ukphone": "'leɪaut"
     },
     {
-        "name": "artificial",
-        "trans": [
+         "en": "artificial",
+         "zh": [
             "人工的， 人为的； 矫揉造作的； 模拟的"
         ],
         "usphone": ",ɑrtɪ'fɪʃl",
         "ukphone": "ˌɑːtɪ'fɪʃl"
     },
     {
-        "name": "imaginary",
-        "trans": [
+         "en": "imaginary",
+         "zh": [
             "想象中的， 假想的"
         ],
         "usphone": "ɪ'mædʒɪnɛri",
         "ukphone": "ɪ'mædʒɪnəri"
     },
     {
-        "name": "removal",
-        "trans": [
+         "en": "removal",
+         "zh": [
             "除去， 消除； 移动， 搬迁"
         ],
         "usphone": "rɪ'muvl",
         "ukphone": "rɪ'muːvl"
     },
     {
-        "name": "formula",
-        "trans": [
+         "en": "formula",
+         "zh": [
             "公式， 方程式； 原则， 方案； 配方"
         ],
         "usphone": "'fɔrmjələ",
         "ukphone": "'fɔːmjələ"
     },
     {
-        "name": "comment",
-        "trans": [
+         "en": "comment",
+         "zh": [
             "评论",
             "评论，意见，注释；闲话，议论"
         ],
@@ -9309,8 +9310,8 @@
         "ukphone": "'kɒment"
     },
     {
-        "name": "revolt",
-        "trans": [
+         "en": "revolt",
+         "zh": [
             "反叛，起义；反抗，违抗；厌恶，生反感",
             "反叛， 起义"
         ],
@@ -9318,16 +9319,16 @@
         "ukphone": "rɪ'vəult"
     },
     {
-        "name": "disgust",
-        "trans": [
+         "en": "disgust",
+         "zh": [
             "厌恶， 憎恶"
         ],
         "usphone": "dɪs'ɡʌst",
         "ukphone": "dɪs'gʌst"
     },
     {
-        "name": "stem",
-        "trans": [
+         "en": "stem",
+         "zh": [
             "起源",
             "茎，干；词干",
             "堵住， 止住， 停住"
@@ -9336,16 +9337,16 @@
         "ukphone": "stem"
     },
     {
-        "name": "sunshine",
-        "trans": [
+         "en": "sunshine",
+         "zh": [
             "日光， 阳光"
         ],
         "usphone": "'sʌnʃaɪn",
         "ukphone": "'sʌnʃaɪn"
     },
     {
-        "name": "trend",
-        "trans": [
+         "en": "trend",
+         "zh": [
             "伸向；倾向",
             "倾向"
         ],
@@ -9353,64 +9354,64 @@
         "ukphone": "trend"
     },
     {
-        "name": "achievement",
-        "trans": [
+         "en": "achievement",
+         "zh": [
             "完成； 成就， 成绩"
         ],
         "usphone": "ə'tʃivmənt",
         "ukphone": "ə'tʃiːvmənt"
     },
     {
-        "name": "mechanic",
-        "trans": [
+         "en": "mechanic",
+         "zh": [
             "技工， 机修工； 力学， 机械学； 过程， 方法， 技术性细节"
         ],
         "usphone": "mə'kænɪk",
         "ukphone": "mə'kænɪk"
     },
     {
-        "name": "desirable",
-        "trans": [
+         "en": "desirable",
+         "zh": [
             "值得向往的， 令人满意的"
         ],
         "usphone": "dɪ'zaɪərəbl",
         "ukphone": "dɪ'zaɪərəbl"
     },
     {
-        "name": "balcony",
-        "trans": [
+         "en": "balcony",
+         "zh": [
             "阳台； 楼厅， 楼座"
         ],
         "usphone": "'bælkənɪ",
         "ukphone": "'bælkəni"
     },
     {
-        "name": "consist",
-        "trans": [
+         "en": "consist",
+         "zh": [
             "由…组成； 在于； 一致"
         ],
         "usphone": "kən'sɪst",
         "ukphone": "kən'sɪst"
     },
     {
-        "name": "preparation",
-        "trans": [
+         "en": "preparation",
+         "zh": [
             "准备， 预备； 制剂"
         ],
         "usphone": ",prɛpə'reʃən",
         "ukphone": "ˌprepə'reɪʃn"
     },
     {
-        "name": "reliable",
-        "trans": [
+         "en": "reliable",
+         "zh": [
             "可靠的， 可信赖的"
         ],
         "usphone": "rɪ'laɪəbl",
         "ukphone": "rɪ'laɪəbl"
     },
     {
-        "name": "relate",
-        "trans": [
+         "en": "relate",
+         "zh": [
             "有关， 涉及； 符合； 相处",
             "使有关联；讲述，叙述"
         ],
@@ -9418,40 +9419,40 @@
         "ukphone": "rɪ'leɪt"
     },
     {
-        "name": "critic",
-        "trans": [
+         "en": "critic",
+         "zh": [
             "批评家， 爱挑剔的人"
         ],
         "usphone": "'krɪtɪk",
         "ukphone": "'krɪtɪk"
     },
     {
-        "name": "elevator",
-        "trans": [
+         "en": "elevator",
+         "zh": [
             "电梯， 升降机"
         ],
         "usphone": "'ɛlɪvetɚ",
         "ukphone": "'elɪveɪtə"
     },
     {
-        "name": "grammar",
-        "trans": [
+         "en": "grammar",
+         "zh": [
             "语法； 语法书"
         ],
         "usphone": "'græmɚ",
         "ukphone": "'græmə"
     },
     {
-        "name": "enable",
-        "trans": [
+         "en": "enable",
+         "zh": [
             "使能够， 使可能"
         ],
         "usphone": "ɪ'nebl",
         "ukphone": "ɪ'neɪbl"
     },
     {
-        "name": "preliminary",
-        "trans": [
+         "en": "preliminary",
+         "zh": [
             "预备的，初步的",
             "初步做法， 起始行为"
         ],
@@ -9459,128 +9460,128 @@
         "ukphone": "prɪ'lɪmɪnəri"
     },
     {
-        "name": "dependent",
-        "trans": [
+         "en": "dependent",
+         "zh": [
             "依靠的， 依赖的； 取决于…的"
         ],
         "usphone": "dɪ'pɛndənt",
         "ukphone": "dɪ'pendənt"
     },
     {
-        "name": "obstacle",
-        "trans": [
+         "en": "obstacle",
+         "zh": [
             "障碍， 障碍物， 妨碍"
         ],
         "usphone": "'ɑbstəkl",
         "ukphone": "'ɒbstəkl"
     },
     {
-        "name": "profession",
-        "trans": [
+         "en": "profession",
+         "zh": [
             "职业； 声明， 表白"
         ],
         "usphone": "prə'fɛʃən",
         "ukphone": "prə'feʃn"
     },
     {
-        "name": "calculator",
-        "trans": [
+         "en": "calculator",
+         "zh": [
             "计算器， 计算者"
         ],
         "usphone": "'kælkjuletɚ",
         "ukphone": "'kælkjuleɪtə"
     },
     {
-        "name": "van",
-        "trans": [
+         "en": "van",
+         "zh": [
             "大篷车， 运货车"
         ],
         "usphone": "væn",
         "ukphone": "væn"
     },
     {
-        "name": "biology",
-        "trans": [
+         "en": "biology",
+         "zh": [
             "生物学， 生态学"
         ],
         "usphone": "baɪ'ɑlədʒi",
         "ukphone": "baɪ'ɒlədʒi"
     },
     {
-        "name": "worm",
-        "trans": [
+         "en": "worm",
+         "zh": [
             "虫， 蠕虫"
         ],
         "usphone": "wɝm",
         "ukphone": "wɜːm"
     },
     {
-        "name": "compress",
-        "trans": [
+         "en": "compress",
+         "zh": [
             "压紧， 压缩"
         ],
         "usphone": "kəm'prɛs",
         "ukphone": "kəm'pres"
     },
     {
-        "name": "arise",
-        "trans": [
+         "en": "arise",
+         "zh": [
             "出现； 由…引起； 起身， 起床"
         ],
         "usphone": "ə'raɪz",
         "ukphone": "ə'raɪz"
     },
     {
-        "name": "collaborative",
-        "trans": [
+         "en": "collaborative",
+         "zh": [
             "合作的， 协作的， 协力完成的"
         ],
         "usphone": "kə'læbəretɪv",
         "ukphone": "kə'læbərətɪv"
     },
     {
-        "name": "cherish",
-        "trans": [
+         "en": "cherish",
+         "zh": [
             "珍爱； 怀有"
         ],
         "usphone": "'tʃɛrɪʃ",
         "ukphone": "'tʃerɪʃ"
     },
     {
-        "name": "constitute",
-        "trans": [
+         "en": "constitute",
+         "zh": [
             "组成， 形成； 设立； 任命"
         ],
         "usphone": "'kɑnstətut",
         "ukphone": "'kɒnstɪtjuːt"
     },
     {
-        "name": "cattle",
-        "trans": [
+         "en": "cattle",
+         "zh": [
             "牛； 牲口， 家畜"
         ],
         "usphone": "'kætl",
         "ukphone": "'kætl"
     },
     {
-        "name": "imagination",
-        "trans": [
+         "en": "imagination",
+         "zh": [
             "想象， 想象力， 空想； 想象出"
         ],
         "usphone": "ɪ,mædʒɪ'neʃən",
         "ukphone": "ɪˌmædʒɪ'neɪʃn"
     },
     {
-        "name": "resistance",
-        "trans": [
+         "en": "resistance",
+         "zh": [
             "反抗， 抵制； 抵抗力， 抵抗性； 阻力； 电阻"
         ],
         "usphone": "rɪ'zɪstəns",
         "ukphone": "rɪ'zɪstəns"
     },
     {
-        "name": "underneath",
-        "trans": [
+         "en": "underneath",
+         "zh": [
             "在下面，在底下",
             "在…下面，在…底下",
             "下部， 底部"
@@ -9589,16 +9590,16 @@
         "ukphone": "ˌʌndə'niːθ"
     },
     {
-        "name": "nursery",
-        "trans": [
+         "en": "nursery",
+         "zh": [
             "托儿所， 保育室； 苗圃"
         ],
         "usphone": "'nɝsəri",
         "ukphone": "'nɜːsəri"
     },
     {
-        "name": "mate",
-        "trans": [
+         "en": "mate",
+         "zh": [
             "成为配偶， 交配",
             "伙伴，同事；配偶，配对物；大副"
         ],
@@ -9606,88 +9607,88 @@
         "ukphone": "meɪt"
     },
     {
-        "name": "convince",
-        "trans": [
+         "en": "convince",
+         "zh": [
             "使确信， 使信服， 说服"
         ],
         "usphone": "kən'vɪns",
         "ukphone": "kən'vɪns"
     },
     {
-        "name": "emperor",
-        "trans": [
+         "en": "emperor",
+         "zh": [
             "皇帝"
         ],
         "usphone": "'ɛmpərɚ",
         "ukphone": "'empərə"
     },
     {
-        "name": "prolong",
-        "trans": [
+         "en": "prolong",
+         "zh": [
             "拉长， 延长"
         ],
         "usphone": "prəˈlɑːŋ",
         "ukphone": "prə'lɒŋ"
     },
     {
-        "name": "theory",
-        "trans": [
+         "en": "theory",
+         "zh": [
             "理论， 原理； 学说； 意见， 看法"
         ],
         "usphone": "'θiəri",
         "ukphone": "'θɪəri"
     },
     {
-        "name": "distress",
-        "trans": [
+         "en": "distress",
+         "zh": [
             "忧虑， 痛苦， 悲伤； 不幸"
         ],
         "usphone": "dɪ'strɛs",
         "ukphone": "dɪ'stres"
     },
     {
-        "name": "flock",
-        "trans": [
+         "en": "flock",
+         "zh": [
             "羊群， 群； 大量"
         ],
         "usphone": "flɑk",
         "ukphone": "flɒk"
     },
     {
-        "name": "internal",
-        "trans": [
+         "en": "internal",
+         "zh": [
             "内的； 国内的； 内心的"
         ],
         "usphone": "ɪn'tɝnl",
         "ukphone": "ɪn'tɜːnl"
     },
     {
-        "name": "extension",
-        "trans": [
+         "en": "extension",
+         "zh": [
             "延长部分， 伸展； 电话分机， 分机号码"
         ],
         "usphone": "ɪk'stɛnʃən",
         "ukphone": "ɪk'stenʃn"
     },
     {
-        "name": "signature",
-        "trans": [
+         "en": "signature",
+         "zh": [
             "署名， 签字， 签名"
         ],
         "usphone": "'sɪgnətʃɚ",
         "ukphone": "'sɪgnətʃə"
     },
     {
-        "name": "steep",
-        "trans": [
+         "en": "steep",
+         "zh": [
             "险峻的， 陡峭的； 过高的； 急剧的"
         ],
         "usphone": "stip",
         "ukphone": "stiːp"
     },
     {
-        "name": "thumb",
-        "trans": [
+         "en": "thumb",
+         "zh": [
             "示意要求搭车",
             "拇指"
         ],
@@ -9695,8 +9696,8 @@
         "ukphone": "θʌm"
     },
     {
-        "name": "republican",
-        "trans": [
+         "en": "republican",
+         "zh": [
             "共和政体的；共和党的",
             "共和党人"
         ],
@@ -9704,56 +9705,56 @@
         "ukphone": "rɪ'pʌblɪkən"
     },
     {
-        "name": "literary",
-        "trans": [
+         "en": "literary",
+         "zh": [
             "文学的； 文人的， 书卷气的"
         ],
         "usphone": "lɪtərɛri",
         "ukphone": "'lɪtərəri"
     },
     {
-        "name": "architect",
-        "trans": [
+         "en": "architect",
+         "zh": [
             "建筑师， 设计师； 缔造者"
         ],
         "usphone": "'ɑrkɪtɛkt",
         "ukphone": "'ɑːkɪtekt"
     },
     {
-        "name": "forehead",
-        "trans": [
+         "en": "forehead",
+         "zh": [
             "额头； 前部"
         ],
         "usphone": "'fɔr'hɛd",
         "ukphone": "'fɔːh3d; 'fɒrɪd"
     },
     {
-        "name": "classical",
-        "trans": [
+         "en": "classical",
+         "zh": [
             "古典的， 经典的"
         ],
         "usphone": "'klæsɪkl",
         "ukphone": "'klæsɪkl"
     },
     {
-        "name": "privilege",
-        "trans": [
+         "en": "privilege",
+         "zh": [
             "特权； 优惠"
         ],
         "usphone": "ˈprɪvəlɪdʒ",
         "ukphone": "'prɪvəlɪdʒ"
     },
     {
-        "name": "foundation",
-        "trans": [
+         "en": "foundation",
+         "zh": [
             "基础；"
         ],
         "usphone": "faʊn'deʃən",
         "ukphone": "faun'deɪʃn"
     },
     {
-        "name": "substitute",
-        "trans": [
+         "en": "substitute",
+         "zh": [
             "代替人；代用品",
             "用…代替"
         ],
@@ -9761,8 +9762,8 @@
         "ukphone": "'sʌbstɪtjuːt"
     },
     {
-        "name": "punch",
-        "trans": [
+         "en": "punch",
+         "zh": [
             "猛击；穿孔",
             "猛击； 冲床； 穿孔机； 力量， 效力"
         ],
@@ -9770,96 +9771,96 @@
         "ukphone": "pʌntʃ"
     },
     {
-        "name": "naturally",
-        "trans": [
+         "en": "naturally",
+         "zh": [
             "当然； 天然地； 天生地"
         ],
         "usphone": "'nætʃrəli",
         "ukphone": "'nætʃrəli"
     },
     {
-        "name": "flexibility",
-        "trans": [
+         "en": "flexibility",
+         "zh": [
             "灵活性， 机动性， 柔韧性"
         ],
         "usphone": ",flɛksə'bɪləti",
         "ukphone": "ˌfleksə'bɪləti"
     },
     {
-        "name": "mysterious",
-        "trans": [
+         "en": "mysterious",
+         "zh": [
             "神秘的， 诡秘的"
         ],
         "usphone": "mɪ'stɪrɪəs",
         "ukphone": "mɪ'stɪəriəs"
     },
     {
-        "name": "moreover",
-        "trans": [
+         "en": "moreover",
+         "zh": [
             "而且， 再者， 此外"
         ],
         "usphone": "mɔr'ovɚ",
         "ukphone": "mɔːr'əuvə"
     },
     {
-        "name": "identity",
-        "trans": [
+         "en": "identity",
+         "zh": [
             "身份； 个性， 特性； 同一性， 一致性"
         ],
         "usphone": "aɪ'dɛntəti",
         "ukphone": "aɪ'dentətɪ"
     },
     {
-        "name": "scatter",
-        "trans": [
+         "en": "scatter",
+         "zh": [
             "撒， 散播； 散开， 驱散"
         ],
         "usphone": "'skætɚ",
         "ukphone": "'skætə"
     },
     {
-        "name": "installation",
-        "trans": [
+         "en": "installation",
+         "zh": [
             "安装； 装置， 设施； 就任， 就职"
         ],
         "usphone": "'ɪnstə'leʃən",
         "ukphone": "ˌɪnstə'leɪʃn"
     },
     {
-        "name": "writing",
-        "trans": [
+         "en": "writing",
+         "zh": [
             "书写， 写； 著作"
         ],
         "usphone": "'raɪtɪŋ",
         "ukphone": "'raɪtɪŋ"
     },
     {
-        "name": "federal",
-        "trans": [
+         "en": "federal",
+         "zh": [
             "联邦的， 联盟的"
         ],
         "usphone": "'fɛdərəl",
         "ukphone": "'fedərəl"
     },
     {
-        "name": "violate",
-        "trans": [
+         "en": "violate",
+         "zh": [
             "违反， 违背； 亵渎； 侵犯； 妨碍"
         ],
         "usphone": "'vaɪəlet",
         "ukphone": "'vaɪəleɪt"
     },
     {
-        "name": "verify",
-        "trans": [
+         "en": "verify",
+         "zh": [
             "证实， 查证， 证明"
         ],
         "usphone": "'vɛrɪfaɪ",
         "ukphone": "'verɪfaɪ"
     },
     {
-        "name": "collective",
-        "trans": [
+         "en": "collective",
+         "zh": [
             "集体的，集合性的",
             "团体， 集体"
         ],
@@ -9867,48 +9868,48 @@
         "ukphone": "kə'lektɪv"
     },
     {
-        "name": "excursion",
-        "trans": [
+         "en": "excursion",
+         "zh": [
             "远足， 短途旅行"
         ],
         "usphone": "ɪk'skɝʒn",
         "ukphone": "ɪk'skɜːʃn"
     },
     {
-        "name": "steer",
-        "trans": [
+         "en": "steer",
+         "zh": [
             "掌舵， 驾驶； 操纵"
         ],
         "usphone": "stɪr",
         "ukphone": "stɪə"
     },
     {
-        "name": "event",
-        "trans": [
+         "en": "event",
+         "zh": [
             "事件， 大事， 事变"
         ],
         "usphone": "ɪ'vɛnt",
         "ukphone": "ɪ'vent"
     },
     {
-        "name": "academy",
-        "trans": [
+         "en": "academy",
+         "zh": [
             "研究会， 学会； 专门学校"
         ],
         "usphone": "ə'kædəmi",
         "ukphone": "ə'kædəmi"
     },
     {
-        "name": "undergo",
-        "trans": [
+         "en": "undergo",
+         "zh": [
             "经历， 经受， 忍受； 接受"
         ],
         "usphone": ",ʌndɚ'ɡo",
         "ukphone": "ˌʌndə'gəu"
     },
     {
-        "name": "reward",
-        "trans": [
+         "en": "reward",
+         "zh": [
             "报答，奖赏；报酬，酬金",
             "报答， 酬谢， 奖励"
         ],
@@ -9916,24 +9917,24 @@
         "ukphone": "rɪ'wɔːd"
     },
     {
-        "name": "include",
-        "trans": [
+         "en": "include",
+         "zh": [
             "包括， 包含"
         ],
         "usphone": "ɪn'klud",
         "ukphone": "ɪn'kluːd"
     },
     {
-        "name": "sympathize",
-        "trans": [
+         "en": "sympathize",
+         "zh": [
             "同情， 怜悯； 体谅； 赞同"
         ],
         "usphone": "'sɪmpə'θaɪz",
         "ukphone": "'sɪmpəθaɪz"
     },
     {
-        "name": "alongside",
-        "trans": [
+         "en": "alongside",
+         "zh": [
             "在旁边，沿着边，并排地",
             "在…旁边， 沿着…的边； 和…在一起"
         ],
@@ -9941,8 +9942,8 @@
         "ukphone": "əˌlɒŋ'saɪd"
     },
     {
-        "name": "swallow",
-        "trans": [
+         "en": "swallow",
+         "zh": [
             "燕子；吞，咽",
             "吞， 咽； 轻信， 轻易接受； 承受， 使不流露； 咽下口水"
         ],
@@ -9950,24 +9951,24 @@
         "ukphone": "'swɒləu"
     },
     {
-        "name": "agency",
-        "trans": [
+         "en": "agency",
+         "zh": [
             "经办， 代理； 代理处； 专门行政部门"
         ],
         "usphone": "'edʒənsi",
         "ukphone": "'eɪdʒənsi"
     },
     {
-        "name": "coupon",
-        "trans": [
+         "en": "coupon",
+         "zh": [
             "礼券， 优惠券， 配给券； 联票； 票证"
         ],
         "usphone": "'kupɑn",
         "ukphone": "'kuːpɒn"
     },
     {
-        "name": "railroad",
-        "trans": [
+         "en": "railroad",
+         "zh": [
             "铁路",
             "由铁路运输"
         ],
@@ -9975,24 +9976,24 @@
         "ukphone": "'reɪlrəud"
     },
     {
-        "name": "nucleus",
-        "trans": [
+         "en": "nucleus",
+         "zh": [
             "核心； 核"
         ],
         "usphone": "'nuklɪəs",
         "ukphone": "'njuːkliəs"
     },
     {
-        "name": "fascinating",
-        "trans": [
+         "en": "fascinating",
+         "zh": [
             "迷人的， 有极大吸引力的"
         ],
         "usphone": "'fæsɪnetɪŋ",
         "ukphone": "'fæsɪneɪtɪŋ"
     },
     {
-        "name": "abstract",
-        "trans": [
+         "en": "abstract",
+         "zh": [
             "抽象的，抽象派的",
             "摘要， 梗概； 抽象派艺术作品",
             "做…的摘要； 提取"
@@ -10001,8 +10002,8 @@
         "ukphone": "'æbstrækt"
     },
     {
-        "name": "sting",
-        "trans": [
+         "en": "sting",
+         "zh": [
             "刺，蜇，叮",
             "刺伤处，蜇伤处"
         ],
@@ -10010,32 +10011,32 @@
         "ukphone": "stɪŋ"
     },
     {
-        "name": "haste",
-        "trans": [
+         "en": "haste",
+         "zh": [
             "急速， 急忙； 草率"
         ],
         "usphone": "hest",
         "ukphone": "heɪst"
     },
     {
-        "name": "agenda",
-        "trans": [
+         "en": "agenda",
+         "zh": [
             "议事日程"
         ],
         "usphone": "ə'dʒɛndə",
         "ukphone": "ə'dʒendə"
     },
     {
-        "name": "appearance",
-        "trans": [
+         "en": "appearance",
+         "zh": [
             "出现， 来到； 外观"
         ],
         "usphone": "ə'pɪrəns",
         "ukphone": "ə'pɪərəns"
     },
     {
-        "name": "liquid",
-        "trans": [
+         "en": "liquid",
+         "zh": [
             "液体的； 清澈的； 流畅的",
             "液体"
         ],
@@ -10043,40 +10044,40 @@
         "ukphone": "'lɪkwɪd"
     },
     {
-        "name": "culture",
-        "trans": [
+         "en": "culture",
+         "zh": [
             "文化， 文明； 教养； 培养； 培养菌"
         ],
         "usphone": "'kʌltʃɚ",
         "ukphone": "'kʌltʃə"
     },
     {
-        "name": "sleeve",
-        "trans": [
+         "en": "sleeve",
+         "zh": [
             "袖子， 袖套"
         ],
         "usphone": "sliv",
         "ukphone": "sliːv"
     },
     {
-        "name": "devotion",
-        "trans": [
+         "en": "devotion",
+         "zh": [
             "献身， 奉献； 忠实； 热爱； 虔诚"
         ],
         "usphone": "dɪ'voʃən",
         "ukphone": "dɪ'vəuʃn"
     },
     {
-        "name": "anonymous",
-        "trans": [
+         "en": "anonymous",
+         "zh": [
             "匿名的； 无名的； 无特色的"
         ],
         "usphone": "ə'nɑnəməs",
         "ukphone": "ə'nɒnɪməs"
     },
     {
-        "name": "stir",
-        "trans": [
+         "en": "stir",
+         "zh": [
             "搅动；拨动；激动；唤起",
             "搅拌， 搅动； 激动， 骚乱"
         ],
@@ -10084,16 +10085,16 @@
         "ukphone": "stɜː"
     },
     {
-        "name": "fisherman",
-        "trans": [
+         "en": "fisherman",
+         "zh": [
             "渔民， 渔夫"
         ],
         "usphone": "'fɪʃɚmən",
         "ukphone": "'fɪʃəmən"
     },
     {
-        "name": "span",
-        "trans": [
+         "en": "span",
+         "zh": [
             "跨距，一段时间",
             "持续， 贯穿； 包括； 横跨， 跨越"
         ],
@@ -10101,8 +10102,8 @@
         "ukphone": "spæn"
     },
     {
-        "name": "insult",
-        "trans": [
+         "en": "insult",
+         "zh": [
             "侮辱， 凌辱",
             "侮辱， 凌辱"
         ],
@@ -10110,24 +10111,24 @@
         "ukphone": "ɪn'sʌlt"
     },
     {
-        "name": "existence",
-        "trans": [
+         "en": "existence",
+         "zh": [
             "存在， 实在， 生存"
         ],
         "usphone": "ɪɡ'zɪstəns",
         "ukphone": "ɪg'zɪstəns"
     },
     {
-        "name": "craft",
-        "trans": [
+         "en": "craft",
+         "zh": [
             "工艺， 手艺； 船， 航空器"
         ],
         "usphone": "kræft",
         "ukphone": "krɑːft"
     },
     {
-        "name": "butcher",
-        "trans": [
+         "en": "butcher",
+         "zh": [
             "肉商，肉贩，屠夫",
             "屠宰， 残杀"
         ],
@@ -10135,8 +10136,8 @@
         "ukphone": "'butʃə"
     },
     {
-        "name": "poll",
-        "trans": [
+         "en": "poll",
+         "zh": [
             "民意测验；政治选举，大选",
             "对…进行民意测验； 获得"
         ],
@@ -10144,40 +10145,40 @@
         "ukphone": "pəul"
     },
     {
-        "name": "minority",
-        "trans": [
+         "en": "minority",
+         "zh": [
             "少数； 少数民族"
         ],
         "usphone": "maɪ'nɔrəti",
         "ukphone": "maɪ'nɒrəti"
     },
     {
-        "name": "pole",
-        "trans": [
+         "en": "pole",
+         "zh": [
             "杆； 极， 磁极， 电极"
         ],
         "usphone": "pol",
         "ukphone": "pəul"
     },
     {
-        "name": "float",
-        "trans": [
+         "en": "float",
+         "zh": [
             "浮动， 漂浮； 飘动"
         ],
         "usphone": "flot",
         "ukphone": "fləut"
     },
     {
-        "name": "graceful",
-        "trans": [
+         "en": "graceful",
+         "zh": [
             "优美的， 优雅的； 得体的"
         ],
         "usphone": "'ɡresfl",
         "ukphone": "'greɪsfl"
     },
     {
-        "name": "fourfold",
-        "trans": [
+         "en": "fourfold",
+         "zh": [
             "四倍， 四重",
             "四倍的，四重的"
         ],
@@ -10185,32 +10186,32 @@
         "ukphone": "'fɔːfəuld"
     },
     {
-        "name": "preferable",
-        "trans": [
+         "en": "preferable",
+         "zh": [
             "更可取的， 更好的， 更合意的"
         ],
         "usphone": "'prɛfrəbl",
         "ukphone": "'prefrəbl"
     },
     {
-        "name": "reference",
-        "trans": [
+         "en": "reference",
+         "zh": [
             "提到， 论及； 参考； 引文； 参考书目； 证明书， 证明人"
         ],
         "usphone": "'rɛfrəns",
         "ukphone": "'refrəns"
     },
     {
-        "name": "frog",
-        "trans": [
+         "en": "frog",
+         "zh": [
             "蛙"
         ],
         "usphone": "frɔɡ",
         "ukphone": "frɒg"
     },
     {
-        "name": "spite",
-        "trans": [
+         "en": "spite",
+         "zh": [
             "恶意，怨恨",
             "刁难， 欺侮"
         ],
@@ -10218,96 +10219,96 @@
         "ukphone": "spaɪt"
     },
     {
-        "name": "chamber",
-        "trans": [
+         "en": "chamber",
+         "zh": [
             "会议室， 会所； 房间； 腔， 室"
         ],
         "usphone": "ˈtʃeɪmbər",
         "ukphone": "'tʃeɪmbə"
     },
     {
-        "name": "arrange",
-        "trans": [
+         "en": "arrange",
+         "zh": [
             "安排， 准备， 整理"
         ],
         "usphone": "ə'rendʒ",
         "ukphone": "ə'reɪndʒ"
     },
     {
-        "name": "coarse",
-        "trans": [
+         "en": "coarse",
+         "zh": [
             "粗的， 粗糙的； 粗劣的； 粗俗的"
         ],
         "usphone": "kɔrs",
         "ukphone": "kɔːs"
     },
     {
-        "name": "nephew",
-        "trans": [
+         "en": "nephew",
+         "zh": [
             "侄子， 外甥"
         ],
         "usphone": "'nɛfju",
         "ukphone": "'nevjuː; 'nefjuː"
     },
     {
-        "name": "publicity",
-        "trans": [
+         "en": "publicity",
+         "zh": [
             "公众的注意， 名声； 宣传， 宣扬"
         ],
         "usphone": "pʌb'lɪsəti",
         "ukphone": "pʌb'lɪsəti"
     },
     {
-        "name": "depart",
-        "trans": [
+         "en": "depart",
+         "zh": [
             "离开， 起程， 出发"
         ],
         "usphone": "dɪ'pɑrt",
         "ukphone": "dɪ'pɑːt"
     },
     {
-        "name": "exaggerate",
-        "trans": [
+         "en": "exaggerate",
+         "zh": [
             "夸大， 夸张"
         ],
         "usphone": "ɪɡ'zædʒəret",
         "ukphone": "ɪg'zædʒəreɪt"
     },
     {
-        "name": "imply",
-        "trans": [
+         "en": "imply",
+         "zh": [
             "暗示， 意指"
         ],
         "usphone": "ɪm'plai",
         "ukphone": "ɪm'plaɪ"
     },
     {
-        "name": "capture",
-        "trans": [
+         "en": "capture",
+         "zh": [
             "捕获， 俘获； 夺得"
         ],
         "usphone": "'kæptʃɚ",
         "ukphone": "'kæptʃə"
     },
     {
-        "name": "commitment",
-        "trans": [
+         "en": "commitment",
+         "zh": [
             "承诺， 许诺， 保证； 信奉， 献身； 承担的义务"
         ],
         "usphone": "kə'mɪtmənt",
         "ukphone": "kə'mɪtmənt"
     },
     {
-        "name": "spade",
-        "trans": [
+         "en": "spade",
+         "zh": [
             "铲， 铁锹"
         ],
         "usphone": "sped",
         "ukphone": "speɪd"
     },
     {
-        "name": "manufacture",
-        "trans": [
+         "en": "manufacture",
+         "zh": [
             "制造，加工",
             "制造， 制造业"
         ],
@@ -10315,40 +10316,40 @@
         "ukphone": "ˌmænju'fæktʃə"
     },
     {
-        "name": "sequence",
-        "trans": [
+         "en": "sequence",
+         "zh": [
             "连续， 接续， 一连串； 次序， 顺序"
         ],
         "usphone": "'sikwəns",
         "ukphone": "'siːkwəns"
     },
     {
-        "name": "collision",
-        "trans": [
+         "en": "collision",
+         "zh": [
             "碰撞； 冲突， 抵触"
         ],
         "usphone": "kə'lɪʒən",
         "ukphone": "kə'lɪʒn"
     },
     {
-        "name": "qualification",
-        "trans": [
+         "en": "qualification",
+         "zh": [
             "资格， 资格证明， 合格证书； 限制， 限定"
         ],
         "usphone": ",kwɑlɪfɪ'keʃən",
         "ukphone": "ˌkwɒlɪfɪ'keɪʃn"
     },
     {
-        "name": "provision",
-        "trans": [
+         "en": "provision",
+         "zh": [
             "供应； 准备； 条款， 规定； 给养， 口粮"
         ],
         "usphone": "prə'vɪʒn",
         "ukphone": "prə'vɪʒn"
     },
     {
-        "name": "recruit",
-        "trans": [
+         "en": "recruit",
+         "zh": [
             "招募，吸收",
             "新兵； 新成员"
         ],
@@ -10356,8 +10357,8 @@
         "ukphone": "rɪ'kruːt"
     },
     {
-        "name": "thrust",
-        "trans": [
+         "en": "thrust",
+         "zh": [
             "插；戳，刺",
             "戳， 刺； 要点， 要旨； 推力"
         ],
@@ -10365,32 +10366,32 @@
         "ukphone": "θrʌst"
     },
     {
-        "name": "fame",
-        "trans": [
+         "en": "fame",
+         "zh": [
             "名声， 名望"
         ],
         "usphone": "fem",
         "ukphone": "feɪm"
     },
     {
-        "name": "replacement",
-        "trans": [
+         "en": "replacement",
+         "zh": [
             "代替， 取代； 更换， 调换； 替代的人"
         ],
         "usphone": "rɪ'plesmənt",
         "ukphone": "rɪ'pleɪsmənt"
     },
     {
-        "name": "mud",
-        "trans": [
+         "en": "mud",
+         "zh": [
             "泥， 泥浆"
         ],
         "usphone": "mʌd",
         "ukphone": "mʌd"
     },
     {
-        "name": "mug",
-        "trans": [
+         "en": "mug",
+         "zh": [
             "大杯",
             "对…行凶抢劫"
         ],
@@ -10398,32 +10399,32 @@
         "ukphone": "mʌg"
     },
     {
-        "name": "pond",
-        "trans": [
+         "en": "pond",
+         "zh": [
             "池塘"
         ],
         "usphone": "pɑnd",
         "ukphone": "pɒnd"
     },
     {
-        "name": "arrival",
-        "trans": [
+         "en": "arrival",
+         "zh": [
             "到达， 到来； 到达者， 到达物"
         ],
         "usphone": "ə'raɪvəl",
         "ukphone": "ə'raɪvl"
     },
     {
-        "name": "scientific",
-        "trans": [
+         "en": "scientific",
+         "zh": [
             "科学的"
         ],
         "usphone": ",saɪən'tɪfɪk",
         "ukphone": "ˌsaɪən'tɪfɪk"
     },
     {
-        "name": "frequent",
-        "trans": [
+         "en": "frequent",
+         "zh": [
             "时常发生的，常见的",
             "常到， 常去"
         ],
@@ -10431,72 +10432,72 @@
         "ukphone": "'friːkwənt"
     },
     {
-        "name": "according",
-        "trans": [
+         "en": "according",
+         "zh": [
             "相等的， 一致的， 依…而定的"
         ],
         "usphone": "ə'kɔrdɪŋ",
         "ukphone": "ə'kɔːdɪŋ"
     },
     {
-        "name": "insure",
-        "trans": [
+         "en": "insure",
+         "zh": [
             "为…投保； 确保"
         ],
         "usphone": "ɪn'ʃʊr",
         "ukphone": "ɪn'ʃuə"
     },
     {
-        "name": "powder",
-        "trans": [
+         "en": "powder",
+         "zh": [
             "粉， 粉末"
         ],
         "usphone": "'paʊdɚ",
         "ukphone": "'paudə"
     },
     {
-        "name": "membership",
-        "trans": [
+         "en": "membership",
+         "zh": [
             "会员身份， 会籍； 全体会员， 会员数"
         ],
         "usphone": "'mɛmbɚʃɪp",
         "ukphone": "'membəʃɪp"
     },
     {
-        "name": "error",
-        "trans": [
+         "en": "error",
+         "zh": [
             "错误， 谬误， 差错"
         ],
         "usphone": "'ɛrɚ",
         "ukphone": "'erə"
     },
     {
-        "name": "platform",
-        "trans": [
+         "en": "platform",
+         "zh": [
             "平台， 站台， 讲台； 纲领， 宣言"
         ],
         "usphone": "'plæt'fɔrm",
         "ukphone": "'plætfɔːm"
     },
     {
-        "name": "network",
-        "trans": [
+         "en": "network",
+         "zh": [
             "网状物； 广播网， 电视网； 网络"
         ],
         "usphone": "'nɛtwɝk",
         "ukphone": "'netwɜːk"
     },
     {
-        "name": "jealous",
-        "trans": [
+         "en": "jealous",
+         "zh": [
             "妒忌的， 猜疑的； 精心守护的"
         ],
         "usphone": "'dʒɛləs",
         "ukphone": "'dʒeləs"
     },
     {
-        "name": "rust",
-        "trans": [
+         "en": "rust",
+         "zh": [
             "生锈， 氧化",
             "铁锈"
         ],
@@ -10504,8 +10505,8 @@
         "ukphone": "rʌst"
     },
     {
-        "name": "trace",
-        "trans": [
+         "en": "trace",
+         "zh": [
             "痕迹；丝毫，少许",
             "跟踪； 追溯； 描摹"
         ],
@@ -10513,24 +10514,24 @@
         "ukphone": "treɪs"
     },
     {
-        "name": "Negro",
-        "trans": [
+         "en": "Negro",
+         "zh": [
             "黑人"
         ],
         "usphone": "'nigro",
         "ukphone": "'niːgrəu"
     },
     {
-        "name": "modernization",
-        "trans": [
+         "en": "modernization",
+         "zh": [
             "现代化"
         ],
         "usphone": ",mɑdɚnə'zeʃən",
         "ukphone": "ˌmɒdənaɪ'zeɪʃn"
     },
     {
-        "name": "grave",
-        "trans": [
+         "en": "grave",
+         "zh": [
             "严重的； 严肃的",
             "坟墓"
         ],
@@ -10538,24 +10539,24 @@
         "ukphone": "greɪv"
     },
     {
-        "name": "criminology",
-        "trans": [
+         "en": "criminology",
+         "zh": [
             "犯罪学， 刑事学"
         ],
         "usphone": ",krɪmɪ'nɑlədʒi",
         "ukphone": "ˌkrɪmɪ'nɒlədʒi"
     },
     {
-        "name": "advantage",
-        "trans": [
+         "en": "advantage",
+         "zh": [
             "优点， 优势， 好处"
         ],
         "usphone": "əd'væntɪdʒ",
         "ukphone": "əd'vɑːntɪdʒ"
     },
     {
-        "name": "assistant",
-        "trans": [
+         "en": "assistant",
+         "zh": [
             "助理的， 辅助的",
             "助手，助理，助教"
         ],
@@ -10563,88 +10564,88 @@
         "ukphone": "ə'sɪstənt"
     },
     {
-        "name": "inn",
-        "trans": [
+         "en": "inn",
+         "zh": [
             "小旅店， 小酒店"
         ],
         "usphone": "ɪn",
         "ukphone": "ɪn"
     },
     {
-        "name": "instead",
-        "trans": [
+         "en": "instead",
+         "zh": [
             "作为替代； 却， 反而"
         ],
         "usphone": "ɪn'stɛd",
         "ukphone": "ɪn'sted"
     },
     {
-        "name": "controversy",
-        "trans": [
+         "en": "controversy",
+         "zh": [
             "争论， 辩论"
         ],
         "usphone": "ˈkɑntrəvɝ​sɪ",
         "ukphone": "'kɒntrəvɜːsi"
     },
     {
-        "name": "command",
-        "trans": [
+         "en": "command",
+         "zh": [
             "命令， 指挥， 控制"
         ],
         "usphone": "kə'mænd",
         "ukphone": "kə'mɑːnd"
     },
     {
-        "name": "newsstand",
-        "trans": [
+         "en": "newsstand",
+         "zh": [
             "报摊， 杂志摊"
         ],
         "usphone": "'njʊz,stænd",
         "ukphone": "'njuːzstænd"
     },
     {
-        "name": "worthless",
-        "trans": [
+         "en": "worthless",
+         "zh": [
             "无价值的， 无用的"
         ],
         "usphone": "ˈwərthləs",
         "ukphone": "'wɜːθləs"
     },
     {
-        "name": "performance",
-        "trans": [
+         "en": "performance",
+         "zh": [
             "演出； 执行， 完成； 工作情况， 表现； 工作性能"
         ],
         "usphone": "pɚ'fɔrməns",
         "ukphone": "pə'fɔːməns"
     },
     {
-        "name": "dessert",
-        "trans": [
+         "en": "dessert",
+         "zh": [
             "甜食， 点心"
         ],
         "usphone": "dɪ'zɝt",
         "ukphone": "dɪ'zɜːt"
     },
     {
-        "name": "ambassador",
-        "trans": [
+         "en": "ambassador",
+         "zh": [
             "大使， 使节， 派驻国际组织的代表"
         ],
         "usphone": "æm'bæsədɚ",
         "ukphone": "æm'bæsədə"
     },
     {
-        "name": "anticipate",
-        "trans": [
+         "en": "anticipate",
+         "zh": [
             "预料， 预期， 期望； 先于…行动； 提前使用"
         ],
         "usphone": "æn'tɪsə'pet",
         "ukphone": "æn'tɪsɪpeɪt"
     },
     {
-        "name": "variable",
-        "trans": [
+         "en": "variable",
+         "zh": [
             "易变的",
             "变量"
         ],
@@ -10652,24 +10653,24 @@
         "ukphone": "'veəriəbl"
     },
     {
-        "name": "temple",
-        "trans": [
+         "en": "temple",
+         "zh": [
             "圣堂， 神殿， 庙宇"
         ],
         "usphone": "'tɛmpl",
         "ukphone": "'templ"
     },
     {
-        "name": "growth",
-        "trans": [
+         "en": "growth",
+         "zh": [
             "增长， 增长量； 生长， 生长物"
         ],
         "usphone": "ɡroθ",
         "ukphone": "grəuθ"
     },
     {
-        "name": "landscape",
-        "trans": [
+         "en": "landscape",
+         "zh": [
             "风景，景色；风景画；全景",
             "美化…的景观"
         ],
@@ -10677,56 +10678,56 @@
         "ukphone": "'lændskeɪp"
     },
     {
-        "name": "weave",
-        "trans": [
+         "en": "weave",
+         "zh": [
             "织， 编"
         ],
         "usphone": "wiv",
         "ukphone": "wiːv"
     },
     {
-        "name": "carrot",
-        "trans": [
+         "en": "carrot",
+         "zh": [
             "胡萝卜"
         ],
         "usphone": "'kærət",
         "ukphone": "'kærət"
     },
     {
-        "name": "normally",
-        "trans": [
+         "en": "normally",
+         "zh": [
             "通常； 正常地"
         ],
         "usphone": "'nɔrmli",
         "ukphone": "'nɔːməli"
     },
     {
-        "name": "exception",
-        "trans": [
+         "en": "exception",
+         "zh": [
             "例外， 除外"
         ],
         "usphone": "ɪk'sɛpʃən",
         "ukphone": "ɪk'sepʃn"
     },
     {
-        "name": "vague",
-        "trans": [
+         "en": "vague",
+         "zh": [
             "模糊的， 含糊的"
         ],
         "usphone": "veɡ",
         "ukphone": "veɪg"
     },
     {
-        "name": "temporary",
-        "trans": [
+         "en": "temporary",
+         "zh": [
             "暂时的， 临时的"
         ],
         "usphone": "ˈtempəreri",
         "ukphone": "'temprəri"
     },
     {
-        "name": "fare",
-        "trans": [
+         "en": "fare",
+         "zh": [
             "进展",
             "车费，船费，票价"
         ],
@@ -10734,48 +10735,48 @@
         "ukphone": "feə"
     },
     {
-        "name": "desperate",
-        "trans": [
+         "en": "desperate",
+         "zh": [
             "拼死的， 不顾一切的； 绝望的； 极需要的"
         ],
         "usphone": "'dɛspərət",
         "ukphone": "'despərət"
     },
     {
-        "name": "leading",
-        "trans": [
+         "en": "leading",
+         "zh": [
             "指导的， 带头的； 最主要的； 饰演主角的"
         ],
         "usphone": "'lidɪŋ",
         "ukphone": "'liːdɪŋ"
     },
     {
-        "name": "awful",
-        "trans": [
+         "en": "awful",
+         "zh": [
             "令人不愉快的， 难过的； 非常的， 极大的"
         ],
         "usphone": "'ɔfl",
         "ukphone": "'ɔːfl"
     },
     {
-        "name": "accuracy",
-        "trans": [
+         "en": "accuracy",
+         "zh": [
             "准确， 精确"
         ],
         "usphone": "'ækjərəsi",
         "ukphone": "'ækjərəsi"
     },
     {
-        "name": "handy",
-        "trans": [
+         "en": "handy",
+         "zh": [
             "手边的， 便于使用的"
         ],
         "usphone": "'hændi",
         "ukphone": "'hændi"
     },
     {
-        "name": "urge",
-        "trans": [
+         "en": "urge",
+         "zh": [
             "鼓励；推进，催促；竭力主张，强烈要求",
             "冲动， 强烈的欲望"
         ],
@@ -10783,32 +10784,32 @@
         "ukphone": "ɜːdʒ"
     },
     {
-        "name": "resolution",
-        "trans": [
+         "en": "resolution",
+         "zh": [
             "正式决定， 决议； 决心， 决意； 解决， 解答； 分辨率， 清晰度"
         ],
         "usphone": ",rɛzə'luʃən",
         "ukphone": "ˌrezə'luːʃn"
     },
     {
-        "name": "via",
-        "trans": [
+         "en": "via",
+         "zh": [
             "经过， 通过"
         ],
         "usphone": "ˈvaɪə, ˈviə",
         "ukphone": "'vaɪə;'viːə"
     },
     {
-        "name": "setting",
-        "trans": [
+         "en": "setting",
+         "zh": [
             "环境， 背景， 布景； 调节， 设定的位置"
         ],
         "usphone": "'sɛtɪŋ",
         "ukphone": "'setɪŋ"
     },
     {
-        "name": "score",
-        "trans": [
+         "en": "score",
+         "zh": [
             "得， 给…打分； 画线于， 做记号于； 赢得",
             "得分，比数，成绩；二十"
         ],
@@ -10816,8 +10817,8 @@
         "ukphone": "skɔː"
     },
     {
-        "name": "quote",
-        "trans": [
+         "en": "quote",
+         "zh": [
             "引用，援引",
             "引文， 引语； 报价， 牌价； 引号"
         ],
@@ -10825,8 +10826,8 @@
         "ukphone": "kwəut"
     },
     {
-        "name": "graduate",
-        "trans": [
+         "en": "graduate",
+         "zh": [
             "研究生的",
             "毕业",
             "毕业生；研究生"
@@ -10835,40 +10836,40 @@
         "ukphone": "ˈɡradʒʊeɪt"
     },
     {
-        "name": "famine",
-        "trans": [
+         "en": "famine",
+         "zh": [
             "饥荒； 严重的缺乏"
         ],
         "usphone": "'fæmɪn",
         "ukphone": "'fæmɪn"
     },
     {
-        "name": "gramme",
-        "trans": [
+         "en": "gramme",
+         "zh": [
             "gram的英式拼法"
         ],
         "usphone": "ɡræm",
         "ukphone": "græm"
     },
     {
-        "name": "absent",
-        "trans": [
+         "en": "absent",
+         "zh": [
             "缺席的， 不在场的； 缺乏的， 不存在的； 心不在焉的"
         ],
         "usphone": "ˈæbsnt;(for v.)əbˈsɛnt",
         "ukphone": "'æbsənt"
     },
     {
-        "name": "rag",
-        "trans": [
+         "en": "rag",
+         "zh": [
             "破布， 碎布； 破旧衣服"
         ],
         "usphone": "ræɡ",
         "ukphone": "ræg"
     },
     {
-        "name": "visual",
-        "trans": [
+         "en": "visual",
+         "zh": [
             "看得见的",
             "视觉资料"
         ],
@@ -10876,8 +10877,8 @@
         "ukphone": "'vɪʒuəl"
     },
     {
-        "name": "understanding",
-        "trans": [
+         "en": "understanding",
+         "zh": [
             "体谅的， 宽容的， 通情达理的",
             "理解，理解力；谅解；协议；相互理解，融洽"
         ],
@@ -10885,176 +10886,176 @@
         "ukphone": "ˌʌndə'stændɪŋ"
     },
     {
-        "name": "empire",
-        "trans": [
+         "en": "empire",
+         "zh": [
             "帝国"
         ],
         "usphone": "'ɛmpaɪr",
         "ukphone": "'empaɪə"
     },
     {
-        "name": "educate",
-        "trans": [
+         "en": "educate",
+         "zh": [
             "教育， 培养， 训练"
         ],
         "usphone": "'ɛdʒuket",
         "ukphone": "'edʒʊkeɪt"
     },
     {
-        "name": "fairy",
-        "trans": [
+         "en": "fairy",
+         "zh": [
             "小精灵， 小仙子"
         ],
         "usphone": "'fɛri",
         "ukphone": "'feəri"
     },
     {
-        "name": "ashamed",
-        "trans": [
+         "en": "ashamed",
+         "zh": [
             "惭愧的， 羞耻的， 害臊的"
         ],
         "usphone": "ə'ʃemd",
         "ukphone": "ə'ʃeɪmd"
     },
     {
-        "name": "instruct",
-        "trans": [
+         "en": "instruct",
+         "zh": [
             "指示， 命令； 通知； 教授， 训练"
         ],
         "usphone": "ɪn'strʌkt",
         "ukphone": "ɪn'strʌkt"
     },
     {
-        "name": "rat",
-        "trans": [
+         "en": "rat",
+         "zh": [
             "鼠"
         ],
         "usphone": "ræt",
         "ukphone": "ræt"
     },
     {
-        "name": "mayor",
-        "trans": [
+         "en": "mayor",
+         "zh": [
             "市长"
         ],
         "usphone": "'meɚ",
         "ukphone": "meə"
     },
     {
-        "name": "virtually",
-        "trans": [
+         "en": "virtually",
+         "zh": [
             "实际上， 事实上"
         ],
         "usphone": "ˈvɜrtʃuəli",
         "ukphone": "'vɜːtʃuəli"
     },
     {
-        "name": "fairly",
-        "trans": [
+         "en": "fairly",
+         "zh": [
             "相当， 尚可， 还； 公平地"
         ],
         "usphone": "'fɛrli",
         "ukphone": "'feəli"
     },
     {
-        "name": "handwriting",
-        "trans": [
+         "en": "handwriting",
+         "zh": [
             "笔迹， 手迹； 书法"
         ],
         "usphone": "'hænd'raɪtɪŋ",
         "ukphone": "'hændraɪtɪŋ"
     },
     {
-        "name": "merchant",
-        "trans": [
+         "en": "merchant",
+         "zh": [
             "商人"
         ],
         "usphone": "'mɝtʃənt",
         "ukphone": "'mɜːtʃənt"
     },
     {
-        "name": "raw",
-        "trans": [
+         "en": "raw",
+         "zh": [
             "自然状态的， 未加工过的； 生的； 未经分析的， 原始的； 生疏无知的， 未经训练的； 露肉而刺痛的"
         ],
         "usphone": "rɔ",
         "ukphone": "rɔː"
     },
     {
-        "name": "proportional",
-        "trans": [
+         "en": "proportional",
+         "zh": [
             "比例的， 成比例的"
         ],
         "usphone": "prə'pɔrʃənl",
         "ukphone": "prə'pɔːʃənl"
     },
     {
-        "name": "economy",
-        "trans": [
+         "en": "economy",
+         "zh": [
             "经济； 节约， 节省"
         ],
         "usphone": "ɪˈkɑnəmɪ",
         "ukphone": "ɪ'kɒnəmi"
     },
     {
-        "name": "community",
-        "trans": [
+         "en": "community",
+         "zh": [
             "社区， 社会， 公社； 团体， 界； 群落"
         ],
         "usphone": "kəˈmjunətɪ",
         "ukphone": "kə'mjuːnəti"
     },
     {
-        "name": "packet",
-        "trans": [
+         "en": "packet",
+         "zh": [
             "小包， 小盒"
         ],
         "usphone": "'pækɪt",
         "ukphone": "'pækɪt"
     },
     {
-        "name": "version",
-        "trans": [
+         "en": "version",
+         "zh": [
             "译本； 说法； 改写本"
         ],
         "usphone": "'vɝʒn",
         "ukphone": "'vɜːʃn;'vɜːʒn"
     },
     {
-        "name": "airport",
-        "trans": [
+         "en": "airport",
+         "zh": [
             "机场， 航空港"
         ],
         "usphone": "'ɛrpɔrt",
         "ukphone": "'eəpɔːt"
     },
     {
-        "name": "courtyard",
-        "trans": [
+         "en": "courtyard",
+         "zh": [
             "庭院， 院子"
         ],
         "usphone": "'kɔrtjɑrd",
         "ukphone": "'kɔːtjɑːd"
     },
     {
-        "name": "nationality",
-        "trans": [
+         "en": "nationality",
+         "zh": [
             "国籍； 民族"
         ],
         "usphone": ",næʃə'næləti",
         "ukphone": "ˌnæʃə'næləti"
     },
     {
-        "name": "selection",
-        "trans": [
+         "en": "selection",
+         "zh": [
             "选择， 挑选； 被挑选出来的人， 精选品； 可供选择的东西"
         ],
         "usphone": "sɪ'lɛkʃən",
         "ukphone": "sɪ'lekʃn"
     },
     {
-        "name": "institute",
-        "trans": [
+         "en": "institute",
+         "zh": [
             "研究所，学院",
             "建立， 设立"
         ],
@@ -11062,24 +11063,24 @@
         "ukphone": "'ɪnstɪtjuːt"
     },
     {
-        "name": "aboard",
-        "trans": [
+         "en": "aboard",
+         "zh": [
             "在船上， 上船"
         ],
         "usphone": "ə'bɔrd",
         "ukphone": "ə'bɔːd"
     },
     {
-        "name": "endure",
-        "trans": [
+         "en": "endure",
+         "zh": [
             "忍受， 容忍； 持久， 持续"
         ],
         "usphone": "ɪn'dʊr",
         "ukphone": "ɪn'djuə"
     },
     {
-        "name": "detail",
-        "trans": [
+         "en": "detail",
+         "zh": [
             "细节，枝节；零件",
             "详细说明"
         ],
@@ -11087,72 +11088,72 @@
         "ukphone": "'diːteɪl"
     },
     {
-        "name": "shortly",
-        "trans": [
+         "en": "shortly",
+         "zh": [
             "立刻， 不久； 不耐烦地； 简短地"
         ],
         "usphone": "'ʃɔrtli",
         "ukphone": "'ʃɔːtli"
     },
     {
-        "name": "hobby",
-        "trans": [
+         "en": "hobby",
+         "zh": [
             "业余爱好， 癖好"
         ],
         "usphone": "'hɑbi",
         "ukphone": "'hɒbi"
     },
     {
-        "name": "appropriate",
-        "trans": [
+         "en": "appropriate",
+         "zh": [
             "适当的， 恰当的"
         ],
         "usphone": "əˈproprɪət;(for v.) əˈproprɪet",
         "ukphone": "ə'prəupriət"
     },
     {
-        "name": "providing",
-        "trans": [
+         "en": "providing",
+         "zh": [
             "倘若"
         ],
         "usphone": "prə'vaɪdɪŋ",
         "ukphone": "prə'vaɪdɪŋ"
     },
     {
-        "name": "fate",
-        "trans": [
+         "en": "fate",
+         "zh": [
             "命运， 天数"
         ],
         "usphone": "fet",
         "ukphone": "feɪt"
     },
     {
-        "name": "throat",
-        "trans": [
+         "en": "throat",
+         "zh": [
             "咽喉， 喉咙； 嗓音"
         ],
         "usphone": "θrot",
         "ukphone": "θrəut"
     },
     {
-        "name": "utility",
-        "trans": [
+         "en": "utility",
+         "zh": [
             "效用， 有用， 实用； 公用事业"
         ],
         "usphone": "ju'tɪləti",
         "ukphone": "juː'tɪləti"
     },
     {
-        "name": "immediately",
-        "trans": [
+         "en": "immediately",
+         "zh": [
             "立即， 马上； 直接地， 紧接地"
         ],
         "usphone": "ɪ'midɪətli",
         "ukphone": "ɪ'miːdiətli"
     },
     {
-        "name": "manual",
-        "trans": [
+         "en": "manual",
+         "zh": [
             "用手的；手工做的",
             "手册， 指南"
         ],
@@ -11160,128 +11161,128 @@
         "ukphone": "'mænjuəl"
     },
     {
-        "name": "measurement",
-        "trans": [
+         "en": "measurement",
+         "zh": [
             "衡量， 测量； 尺寸， 大小"
         ],
         "usphone": "'mɛʒɚmənt",
         "ukphone": "'meʒəmənt"
     },
     {
-        "name": "optimistic",
-        "trans": [
+         "en": "optimistic",
+         "zh": [
             "乐观的， 乐观主义的"
         ],
         "usphone": ",ɑptɪ'mɪstɪk",
         "ukphone": "ˌɒptɪ'mɪstɪk"
     },
     {
-        "name": "vocabulary",
-        "trans": [
+         "en": "vocabulary",
+         "zh": [
             "词汇表， 词汇， 语汇"
         ],
         "usphone": "və'kæbjəlɛri",
         "ukphone": "və'kæbjələri"
     },
     {
-        "name": "retire",
-        "trans": [
+         "en": "retire",
+         "zh": [
             "退休， 退役； 退下， 退出， 撤退； 就寝"
         ],
         "usphone": "rɪ'taɪɚ",
         "ukphone": "rɪ'taɪə"
     },
     {
-        "name": "aspect",
-        "trans": [
+         "en": "aspect",
+         "zh": [
             "方面； 朝向， 方向； 样子， 外表"
         ],
         "usphone": "'æspɛkt",
         "ukphone": "'æspekt"
     },
     {
-        "name": "particle",
-        "trans": [
+         "en": "particle",
+         "zh": [
             "粒子， 微粒； 小品词， 语助词"
         ],
         "usphone": "'pɑrtɪkl",
         "ukphone": "'pɑːtɪkl"
     },
     {
-        "name": "aggressive",
-        "trans": [
+         "en": "aggressive",
+         "zh": [
             "侵略的， 好斗的； 敢做敢为的； 有进取心的"
         ],
         "usphone": "ə'ɡrɛsɪv",
         "ukphone": "ə'gresɪv"
     },
     {
-        "name": "behavior",
-        "trans": [
+         "en": "behavior",
+         "zh": [
             "行为， 举止， 表现"
         ],
         "usphone": "bɪ'hevjɚ",
         "ukphone": "bɪ'heɪvjə"
     },
     {
-        "name": "musician",
-        "trans": [
+         "en": "musician",
+         "zh": [
             "音乐家， 乐师"
         ],
         "usphone": "mjʊ'zɪʃən",
         "ukphone": "mju'zɪʃn"
     },
     {
-        "name": "minimize",
-        "trans": [
+         "en": "minimize",
+         "zh": [
             "将…减少； 最小化"
         ],
         "usphone": "'mɪnɪmaɪz",
         "ukphone": "'mɪnɪmaɪz"
     },
     {
-        "name": "descend",
-        "trans": [
+         "en": "descend",
+         "zh": [
             "下来， 下降； 下倾"
         ],
         "usphone": "dɪ'sɛnd",
         "ukphone": "dɪ'send"
     },
     {
-        "name": "saint",
-        "trans": [
+         "en": "saint",
+         "zh": [
             "圣徒； 圣人， 道德高尚的人； [用于人名或地名等前]圣"
         ],
         "usphone": "sent",
         "ukphone": "seɪnt"
     },
     {
-        "name": "density",
-        "trans": [
+         "en": "density",
+         "zh": [
             "密集， 稠密； 密度"
         ],
         "usphone": "'dɛnsəti",
         "ukphone": "'densəti"
     },
     {
-        "name": "logical",
-        "trans": [
+         "en": "logical",
+         "zh": [
             "逻辑的， 合乎常理的"
         ],
         "usphone": "'lɑdʒɪkl",
         "ukphone": "'lɒdʒɪkl"
     },
     {
-        "name": "oblige",
-        "trans": [
+         "en": "oblige",
+         "zh": [
             "迫使； 施恩于， 帮…的忙； 使感激"
         ],
         "usphone": "ə'blaɪdʒ",
         "ukphone": "ə'blaɪdʒ"
     },
     {
-        "name": "slam",
-        "trans": [
+         "en": "slam",
+         "zh": [
             "砰地关上；猛力拉，砰地放下；猛烈抨击",
             "砰的一声"
         ],
@@ -11289,16 +11290,16 @@
         "ukphone": "slæm"
     },
     {
-        "name": "characterize",
-        "trans": [
+         "en": "characterize",
+         "zh": [
             "成为…的特征， 以…为特征； 描绘的特性， 描述"
         ],
         "usphone": "'kærəktə'raɪz",
         "ukphone": "'kærəktəraɪz"
     },
     {
-        "name": "swing",
-        "trans": [
+         "en": "swing",
+         "zh": [
             "摇摆，回转；突然转向",
             "摇摆； 秋千"
         ],
@@ -11306,32 +11307,32 @@
         "ukphone": "swɪŋ"
     },
     {
-        "name": "ridiculous",
-        "trans": [
+         "en": "ridiculous",
+         "zh": [
             "荒谬的， 可笑的"
         ],
         "usphone": "rɪ'dɪkjələs",
         "ukphone": "rɪ'dɪkjələs"
     },
     {
-        "name": "handbag",
-        "trans": [
+         "en": "handbag",
+         "zh": [
             "手提包"
         ],
         "usphone": "'hænd'bæg",
         "ukphone": "'hændbæg"
     },
     {
-        "name": "invasion",
-        "trans": [
+         "en": "invasion",
+         "zh": [
             "入侵， 侵略， 侵犯"
         ],
         "usphone": "ɪn'veʒn",
         "ukphone": "ɪn'veɪʒn"
     },
     {
-        "name": "spin",
-        "trans": [
+         "en": "spin",
+         "zh": [
             "旋转；晕眩；纺，织；绞干，甩干",
             "旋转， 自转"
         ],
@@ -11339,24 +11340,24 @@
         "ukphone": "spɪn"
     },
     {
-        "name": "severe",
-        "trans": [
+         "en": "severe",
+         "zh": [
             "严重的； 严厉的， 严格的； 严峻的， 艰难的； 朴素的， 不加装饰的"
         ],
         "usphone": "səˈvɪr",
         "ukphone": "sɪ'vɪə"
     },
     {
-        "name": "emerge",
-        "trans": [
+         "en": "emerge",
+         "zh": [
             "出现， 涌现， 冒出"
         ],
         "usphone": "ɪ'mɝdʒ",
         "ukphone": "i'mɜːdʒ"
     },
     {
-        "name": "shallow",
-        "trans": [
+         "en": "shallow",
+         "zh": [
             "浅的；浅薄的",
             "浅滩， 浅水处"
         ],
@@ -11364,8 +11365,8 @@
         "ukphone": "'ʃæləu"
     },
     {
-        "name": "lease",
-        "trans": [
+         "en": "lease",
+         "zh": [
             "租约，租契",
             "出租； 租得， 租有"
         ],
@@ -11373,8 +11374,8 @@
         "ukphone": "liːs"
     },
     {
-        "name": "exploit",
-        "trans": [
+         "en": "exploit",
+         "zh": [
             "剥削； 利用； 开拓",
             "业绩， 功绩"
         ],
@@ -11382,8 +11383,8 @@
         "ukphone": "ˈeksplɔɪt;ɪkˈsplɔɪt"
     },
     {
-        "name": "slap",
-        "trans": [
+         "en": "slap",
+         "zh": [
             "掴，掌击，拍；啪的一声放",
             "掴， 掌击， 拍"
         ],
@@ -11391,8 +11392,8 @@
         "ukphone": "slæp"
     },
     {
-        "name": "spit",
-        "trans": [
+         "en": "spit",
+         "zh": [
             "吐唾沫，吐出",
             "唾沫， 唾液"
         ],
@@ -11400,8 +11401,8 @@
         "ukphone": "spɪt"
     },
     {
-        "name": "scout",
-        "trans": [
+         "en": "scout",
+         "zh": [
             "侦察， 寻找",
             "侦察员，侦察机，侦察舰；童子军"
         ],
@@ -11409,16 +11410,16 @@
         "ukphone": "skaut"
     },
     {
-        "name": "anniversary",
-        "trans": [
+         "en": "anniversary",
+         "zh": [
             "周年纪念日"
         ],
         "usphone": ",ænɪ'vɝsəri",
         "ukphone": "ˌænɪ'vɜːsəri"
     },
     {
-        "name": "register",
-        "trans": [
+         "en": "register",
+         "zh": [
             "登记， 注册； 指示， 自动记下； 流露； 表示， 表达； 把挂号",
             "登记；登记表"
         ],
@@ -11426,48 +11427,48 @@
         "ukphone": "'redʒɪstə"
     },
     {
-        "name": "restless",
-        "trans": [
+         "en": "restless",
+         "zh": [
             "焦躁不安的； 静不下来的， 运动不止的"
         ],
         "usphone": "'rɛstləs",
         "ukphone": "'restləs"
     },
     {
-        "name": "persuasive",
-        "trans": [
+         "en": "persuasive",
+         "zh": [
             "劝诱的； 有说服力的"
         ],
         "usphone": "pɚ'swesɪv",
         "ukphone": "pə'sweɪsɪv"
     },
     {
-        "name": "fleet",
-        "trans": [
+         "en": "fleet",
+         "zh": [
             "舰队， 船队"
         ],
         "usphone": "flit",
         "ukphone": "fliːt"
     },
     {
-        "name": "communicate",
-        "trans": [
+         "en": "communicate",
+         "zh": [
             "通讯； 交际， 交流； 连接， 相通； 传达， 传播； 传染"
         ],
         "usphone": "kə'mjunɪket",
         "ukphone": "kə'mjuːnɪkeɪt"
     },
     {
-        "name": "evidence",
-        "trans": [
+         "en": "evidence",
+         "zh": [
             "根据， 证据； 证人"
         ],
         "usphone": "'ɛvɪdəns",
         "ukphone": "'evɪdəns"
     },
     {
-        "name": "saddle",
-        "trans": [
+         "en": "saddle",
+         "zh": [
             "鞍，鞍状物；车座",
             "给…装鞍； 使承担任务"
         ],
@@ -11475,16 +11476,16 @@
         "ukphone": "'sædl"
     },
     {
-        "name": "rural",
-        "trans": [
+         "en": "rural",
+         "zh": [
             "农村的， 乡村的"
         ],
         "usphone": "'rʊrəl",
         "ukphone": "'ruərəl"
     },
     {
-        "name": "official",
-        "trans": [
+         "en": "official",
+         "zh": [
             "官员的；官方的，正式的",
             "官员， 行政人员， 高级人员"
         ],
@@ -11492,32 +11493,32 @@
         "ukphone": "ə'fɪʃl"
     },
     {
-        "name": "historical",
-        "trans": [
+         "en": "historical",
+         "zh": [
             "历史的， 有关历史的"
         ],
         "usphone": "hɪ'stɔrɪkl",
         "ukphone": "hɪ'stɒrɪkl"
     },
     {
-        "name": "repetition",
-        "trans": [
+         "en": "repetition",
+         "zh": [
             "重复， 反复"
         ],
         "usphone": "'rɛpə'tɪʃən",
         "ukphone": "ˌrepə'tɪʃn"
     },
     {
-        "name": "fortunately",
-        "trans": [
+         "en": "fortunately",
+         "zh": [
             "幸运地； 幸亏"
         ],
         "usphone": "'fɔrtʃənətli",
         "ukphone": "'fɔːtʃənətli"
     },
     {
-        "name": "acid",
-        "trans": [
+         "en": "acid",
+         "zh": [
             "酸的， 酸性的",
             "酸"
         ],
@@ -11525,32 +11526,32 @@
         "ukphone": "'æsɪd"
     },
     {
-        "name": "transmission",
-        "trans": [
+         "en": "transmission",
+         "zh": [
             "传播， 发射； 传送， 传递； 传染"
         ],
         "usphone": "træns'mɪʃən",
         "ukphone": "trænz'mɪʃn; træns'mɪʃn"
     },
     {
-        "name": "shortage",
-        "trans": [
+         "en": "shortage",
+         "zh": [
             "不足， 缺少"
         ],
         "usphone": "'ʃɔrtɪdʒ",
         "ukphone": "'ʃɔːtɪdʒ"
     },
     {
-        "name": "discrimination",
-        "trans": [
+         "en": "discrimination",
+         "zh": [
             "区别， 辨别； 识别力； 差别对待， 歧视"
         ],
         "usphone": "dɪ,skrɪmɪ'neʃən",
         "ukphone": "dɪsˌkrɪmɪ'neɪʃn"
     },
     {
-        "name": "female",
-        "trans": [
+         "en": "female",
+         "zh": [
             "雌的； 女的",
             "雌性动物；女子"
         ],
@@ -11558,32 +11559,32 @@
         "ukphone": "'fiːmeɪl"
     },
     {
-        "name": "microphone",
-        "trans": [
+         "en": "microphone",
+         "zh": [
             "扩音器， 话筒， 麦克风"
         ],
         "usphone": "'maɪkrə'fon",
         "ukphone": "'maɪkrəfəun"
     },
     {
-        "name": "swift",
-        "trans": [
+         "en": "swift",
+         "zh": [
             "快的； 反应快的； 敏捷的"
         ],
         "usphone": "swɪft",
         "ukphone": "swɪft"
     },
     {
-        "name": "surrender",
-        "trans": [
+         "en": "surrender",
+         "zh": [
             "交出， 放弃； 投降"
         ],
         "usphone": "sə'rɛndɚ",
         "ukphone": "sə'rendə"
     },
     {
-        "name": "faint",
-        "trans": [
+         "en": "faint",
+         "zh": [
             "不清楚的，模糊的",
             "晕倒，昏厥",
             "昏厥"
@@ -11592,24 +11593,24 @@
         "ukphone": "feɪnt"
     },
     {
-        "name": "world-wide",
-        "trans": [
+         "en": "world-wide",
+         "zh": [
             "遍及全球的"
         ],
         "usphone": "'wə:ldwaid",
         "ukphone": "'wɜːldwaɪd"
     },
     {
-        "name": "minister",
-        "trans": [
+         "en": "minister",
+         "zh": [
             "部长， 大臣； 公使， 外交使节； 牧师"
         ],
         "usphone": "'mɪnɪstɚ",
         "ukphone": "'mɪnɪstə"
     },
     {
-        "name": "pose",
-        "trans": [
+         "en": "pose",
+         "zh": [
             "摆姿势；假装，装腔作势",
             "使摆好姿势；造成，引起；提出，陈述",
             "样子， 姿势"
@@ -11618,8 +11619,8 @@
         "ukphone": "pəuz"
     },
     {
-        "name": "remedy",
-        "trans": [
+         "en": "remedy",
+         "zh": [
             "补救办法，纠正办法；药品；治疗法",
             "补救， 纠正； 医治， 治疗"
         ],
@@ -11627,8 +11628,8 @@
         "ukphone": "'remədi"
     },
     {
-        "name": "jail",
-        "trans": [
+         "en": "jail",
+         "zh": [
             "监狱，看守所",
             "监禁， 拘留； 塞满； 卡住； 干扰"
         ],
@@ -11636,8 +11637,8 @@
         "ukphone": "dʒeɪl"
     },
     {
-        "name": "consent",
-        "trans": [
+         "en": "consent",
+         "zh": [
             "同意",
             "同意，赞成"
         ],
@@ -11645,32 +11646,32 @@
         "ukphone": "kən'sent"
     },
     {
-        "name": "insist",
-        "trans": [
+         "en": "insist",
+         "zh": [
             "坚持， 坚决认为； 坚持要求"
         ],
         "usphone": "ɪn'sɪst",
         "ukphone": "ɪn'sɪst"
     },
     {
-        "name": "typewriter",
-        "trans": [
+         "en": "typewriter",
+         "zh": [
             "打字机"
         ],
         "usphone": "'taɪpraɪtɚ",
         "ukphone": "'taɪpraɪtə"
     },
     {
-        "name": "helpless",
-        "trans": [
+         "en": "helpless",
+         "zh": [
             "无助的； 无能的； 无法抗拒的"
         ],
         "usphone": "'hɛlpləs",
         "ukphone": "'helpləs"
     },
     {
-        "name": "respect",
-        "trans": [
+         "en": "respect",
+         "zh": [
             "尊敬；尊重；问候；方面",
             "尊敬； 尊重"
         ],
@@ -11678,24 +11679,24 @@
         "ukphone": "rɪ'spekt"
     },
     {
-        "name": "volume",
-        "trans": [
+         "en": "volume",
+         "zh": [
             "卷， 册， 书卷； 容积， 体积； 音量， 响度"
         ],
         "usphone": "'vɑljum",
         "ukphone": "'vɒljuːm"
     },
     {
-        "name": "retreat",
-        "trans": [
+         "en": "retreat",
+         "zh": [
             "退却， 撤退； 退避， 退缩"
         ],
         "usphone": "rɪ'trit",
         "ukphone": "rɪ'triːt"
     },
     {
-        "name": "ache",
-        "trans": [
+         "en": "ache",
+         "zh": [
             "疼痛；渴望",
             "疼痛"
         ],
@@ -11703,16 +11704,16 @@
         "ukphone": "eɪk"
     },
     {
-        "name": "mutual",
-        "trans": [
+         "en": "mutual",
+         "zh": [
             "相互的； 共同的"
         ],
         "usphone": "'mjutʃuəl",
         "ukphone": "'mjuːtʃuəl"
     },
     {
-        "name": "shell",
-        "trans": [
+         "en": "shell",
+         "zh": [
             "壳，贝壳；外壳，框架；炮弹",
             "剥…的壳； 炮击"
         ],
@@ -11720,56 +11721,56 @@
         "ukphone": "ʃel"
     },
     {
-        "name": "guideline",
-        "trans": [
+         "en": "guideline",
+         "zh": [
             "指导方针， 准则"
         ],
         "usphone": "'ɡaɪdlaɪn",
         "ukphone": "'gaɪdlaɪn"
     },
     {
-        "name": "loose",
-        "trans": [
+         "en": "loose",
+         "zh": [
             "松的； 不精确的， 不严密的； 散漫的"
         ],
         "usphone": "lus",
         "ukphone": "luːs"
     },
     {
-        "name": "therefore",
-        "trans": [
+         "en": "therefore",
+         "zh": [
             "因此， 所以"
         ],
         "usphone": "'ðɛrfɔr",
         "ukphone": "'ðeəfɔː"
     },
     {
-        "name": "exchange",
-        "trans": [
+         "en": "exchange",
+         "zh": [
             "交换； 交流； 兑换"
         ],
         "usphone": "ɪks'tʃendʒ",
         "ukphone": "ɪks'tʃeɪndʒ"
     },
     {
-        "name": "hesitate",
-        "trans": [
+         "en": "hesitate",
+         "zh": [
             "犹豫， 踌躇； 含糊； 不情愿"
         ],
         "usphone": "ˈhɛzətet",
         "ukphone": "'hezɪteɪt"
     },
     {
-        "name": "rifle",
-        "trans": [
+         "en": "rifle",
+         "zh": [
             "来复枪， 步枪"
         ],
         "usphone": "'raɪfl",
         "ukphone": "'raɪfl"
     },
     {
-        "name": "private",
-        "trans": [
+         "en": "private",
+         "zh": [
             "私人的；秘密的；私下的；私营的",
             "士兵， 列兵"
         ],
@@ -11777,32 +11778,32 @@
         "ukphone": "'praɪvət"
     },
     {
-        "name": "baggage",
-        "trans": [
+         "en": "baggage",
+         "zh": [
             "行李"
         ],
         "usphone": "'bæɡɪdʒ",
         "ukphone": "'bægɪdʒ"
     },
     {
-        "name": "companion",
-        "trans": [
+         "en": "companion",
+         "zh": [
             "同伴， 共事者； 伴侣"
         ],
         "usphone": "kəm'pænɪən",
         "ukphone": "kəm'pæniən"
     },
     {
-        "name": "breakdown",
-        "trans": [
+         "en": "breakdown",
+         "zh": [
             "垮， 衰竭； 损坏， 故障； 倒塌"
         ],
         "usphone": "'brek'daʊn",
         "ukphone": "'breɪkdaun"
     },
     {
-        "name": "paste",
-        "trans": [
+         "en": "paste",
+         "zh": [
             "糊，糨糊",
             "粘， 贴"
         ],
@@ -11810,24 +11811,24 @@
         "ukphone": "peɪst"
     },
     {
-        "name": "overtake",
-        "trans": [
+         "en": "overtake",
+         "zh": [
             "追上， 超过； 突然降临于， 意外地碰上"
         ],
         "usphone": ",ovɚ'tek",
         "ukphone": "ˌəuvə'teɪk"
     },
     {
-        "name": "jeans",
-        "trans": [
+         "en": "jeans",
+         "zh": [
             "工装裤， 牛仔裤"
         ],
         "usphone": "",
         "ukphone": "dʒiːnz"
     },
     {
-        "name": "overnight",
-        "trans": [
+         "en": "overnight",
+         "zh": [
             "整夜， 通宵； 一夜间， 突然",
             "一整夜的； 一夜间的， 突然的"
         ],
@@ -11835,16 +11836,16 @@
         "ukphone": "əʊvə'naɪt"
     },
     {
-        "name": "behave",
-        "trans": [
+         "en": "behave",
+         "zh": [
             "表现， 举止； 运转， 作出反应"
         ],
         "usphone": "bɪ'hev",
         "ukphone": "bɪ'heɪv"
     },
     {
-        "name": "stretch",
-        "trans": [
+         "en": "stretch",
+         "zh": [
             "伸展，延续；伸长，拉长；倾注全力；紧张",
             "一段时间， 一段路程， 连绵的一片； 伸展， 延伸"
         ],
@@ -11852,104 +11853,104 @@
         "ukphone": "stretʃ"
     },
     {
-        "name": "undo",
-        "trans": [
+         "en": "undo",
+         "zh": [
             "解开， 打开； 取消， 撤销"
         ],
         "usphone": "ʌn'du",
         "ukphone": "ˌʌn'duː"
     },
     {
-        "name": "accomplish",
-        "trans": [
+         "en": "accomplish",
+         "zh": [
             "达到； 完成"
         ],
         "usphone": "ə'kɑmplɪʃ",
         "ukphone": "ə'kʌmpliʃ"
     },
     {
-        "name": "laser",
-        "trans": [
+         "en": "laser",
+         "zh": [
             "激光"
         ],
         "usphone": "'lezɚ",
         "ukphone": "'leɪzə"
     },
     {
-        "name": "mixture",
-        "trans": [
+         "en": "mixture",
+         "zh": [
             "混合， 混合物"
         ],
         "usphone": "'mɪkstʃɚ",
         "ukphone": "'mɪkstʃə"
     },
     {
-        "name": "engine",
-        "trans": [
+         "en": "engine",
+         "zh": [
             "引擎， 发动机； 机车"
         ],
         "usphone": "'ɛndʒɪn",
         "ukphone": "'endʒɪn"
     },
     {
-        "name": "responsible",
-        "trans": [
+         "en": "responsible",
+         "zh": [
             "需负责任的， 承担责任的； 有责任感的， 负责可靠的； 责任重大的， 重要的"
         ],
         "usphone": "rɪ'spɑnsəbl",
         "ukphone": "rɪ'spɒnsəbl"
     },
     {
-        "name": "scope",
-        "trans": [
+         "en": "scope",
+         "zh": [
             "范围； 余地， 机会"
         ],
         "usphone": "skop",
         "ukphone": "skəup"
     },
     {
-        "name": "democratic",
-        "trans": [
+         "en": "democratic",
+         "zh": [
             "民主的， 民主政体的"
         ],
         "usphone": "'dɛmə'krætɪk",
         "ukphone": "ˌdemə'krætɪk"
     },
     {
-        "name": "medal",
-        "trans": [
+         "en": "medal",
+         "zh": [
             "奖牌， 奖章， 勋章"
         ],
         "usphone": "'mɛdl",
         "ukphone": "'medl"
     },
     {
-        "name": "satellite",
-        "trans": [
+         "en": "satellite",
+         "zh": [
             "卫星， 人造卫星"
         ],
         "usphone": "'sætəlaɪt",
         "ukphone": "'sætəlaɪt"
     },
     {
-        "name": "bullet",
-        "trans": [
+         "en": "bullet",
+         "zh": [
             "枪弹， 子弹， 弹丸"
         ],
         "usphone": "'bʊlɪt",
         "ukphone": "'bulɪt"
     },
     {
-        "name": "recorder",
-        "trans": [
+         "en": "recorder",
+         "zh": [
             "录音机， 录像机； 记录装置， 记录仪"
         ],
         "usphone": "rɪ'kɔrdɚ",
         "ukphone": "rɪ'kɔːdə"
     },
     {
-        "name": "identify",
-        "trans": [
+         "en": "identify",
+         "zh": [
             "一致",
             "认出，鉴定；把…等同于"
         ],
@@ -11957,8 +11958,8 @@
         "ukphone": "aɪ'dentɪfaɪ"
     },
     {
-        "name": "embrace",
-        "trans": [
+         "en": "embrace",
+         "zh": [
             "拥抱，怀抱",
             "拥抱； 包括； 包围"
         ],
@@ -11966,24 +11967,24 @@
         "ukphone": "ɪm'breɪs"
     },
     {
-        "name": "nitrogen",
-        "trans": [
+         "en": "nitrogen",
+         "zh": [
             "氮"
         ],
         "usphone": "'naɪtrədʒən",
         "ukphone": "'naɪtrədʒən"
     },
     {
-        "name": "pour",
-        "trans": [
+         "en": "pour",
+         "zh": [
             "灌， 倒； 倾泻"
         ],
         "usphone": "pɔr",
         "ukphone": "pɔː"
     },
     {
-        "name": "label",
-        "trans": [
+         "en": "label",
+         "zh": [
             "标签；标记，符号",
             "贴标签于； 把…称为"
         ],
@@ -11991,72 +11992,72 @@
         "ukphone": "'leɪbl"
     },
     {
-        "name": "improvement",
-        "trans": [
+         "en": "improvement",
+         "zh": [
             "改进， 改善； 改进处"
         ],
         "usphone": "ɪm'prʊvmənt",
         "ukphone": "ɪm'pruːvmənt"
     },
     {
-        "name": "slippery",
-        "trans": [
+         "en": "slippery",
+         "zh": [
             "滑的； 狡猾的"
         ],
         "usphone": "'slɪpəri",
         "ukphone": "'slɪpəri"
     },
     {
-        "name": "scissors",
-        "trans": [
+         "en": "scissors",
+         "zh": [
             "剪刀"
         ],
         "usphone": "'sɪzɚz",
         "ukphone": "'sɪzəz"
     },
     {
-        "name": "significance",
-        "trans": [
+         "en": "significance",
+         "zh": [
             "意义， 含义； 重要性， 重大"
         ],
         "usphone": "sɪɡ'nɪfɪkəns",
         "ukphone": "sɪg'nɪfɪkəns"
     },
     {
-        "name": "modify",
-        "trans": [
+         "en": "modify",
+         "zh": [
             "更改， 修改； 修饰"
         ],
         "usphone": "'mɑdɪfaɪ",
         "ukphone": "'mɒdɪfaɪ"
     },
     {
-        "name": "horizon",
-        "trans": [
+         "en": "horizon",
+         "zh": [
             "地平线； 眼界， 见识"
         ],
         "usphone": "hə'raɪzn",
         "ukphone": "hə'raɪzn"
     },
     {
-        "name": "environment",
-        "trans": [
+         "en": "environment",
+         "zh": [
             "环境， 外界； 围绕"
         ],
         "usphone": "ɪn'vaɪrənmənt",
         "ukphone": "ɪn'vaɪərənmənt"
     },
     {
-        "name": "airplane",
-        "trans": [
+         "en": "airplane",
+         "zh": [
             "飞机"
         ],
         "usphone": "ˈɛrplen",
         "ukphone": "'eəpleɪn"
     },
     {
-        "name": "pledge",
-        "trans": [
+         "en": "pledge",
+         "zh": [
             "保证，誓言",
             "保证， 许诺"
         ],
@@ -12064,24 +12065,24 @@
         "ukphone": "pledʒ"
     },
     {
-        "name": "progressive",
-        "trans": [
+         "en": "progressive",
+         "zh": [
             "前进的； 渐进的； 进行式的"
         ],
         "usphone": "prə'ɡrɛsɪv",
         "ukphone": "prə'gresɪv"
     },
     {
-        "name": "reservoir",
-        "trans": [
+         "en": "reservoir",
+         "zh": [
             "水库， 蓄水池； 储藏， 汇集"
         ],
         "usphone": "'rɛzɚ,vɔr",
         "ukphone": "'rezəvwɑː"
     },
     {
-        "name": "deliberate",
-        "trans": [
+         "en": "deliberate",
+         "zh": [
             "故意的， 蓄意的； 慎重的， 深思熟虑的",
             "仔细考虑， 思考"
         ],
@@ -12089,80 +12090,80 @@
         "ukphone": "dɪ'lɪb(ə)rət"
     },
     {
-        "name": "swear",
-        "trans": [
+         "en": "swear",
+         "zh": [
             "宣誓； 咒骂"
         ],
         "usphone": "swɛr",
         "ukphone": "sweə"
     },
     {
-        "name": "atmosphere",
-        "trans": [
+         "en": "atmosphere",
+         "zh": [
             "大气， 空气； 气氛， 环境"
         ],
         "usphone": "'ætməsfɪr",
         "ukphone": "'ætməsfɪə"
     },
     {
-        "name": "decorate",
-        "trans": [
+         "en": "decorate",
+         "zh": [
             "装饰， 装潢， 修饰"
         ],
         "usphone": "'dɛkəret",
         "ukphone": "'dekəreɪt"
     },
     {
-        "name": "copyright",
-        "trans": [
+         "en": "copyright",
+         "zh": [
             "版权"
         ],
         "usphone": "'kɑpɪraɪt",
         "ukphone": "'kɒpiraɪt"
     },
     {
-        "name": "biotechnology",
-        "trans": [
+         "en": "biotechnology",
+         "zh": [
             "生物工艺学"
         ],
         "usphone": "'baɪotɛk'nɑlədʒi",
         "ukphone": "ˌbaɪəutek'nɒlədʒi"
     },
     {
-        "name": "career",
-        "trans": [
+         "en": "career",
+         "zh": [
             "生涯， 职业， 经历"
         ],
         "usphone": "kə'rɪr",
         "ukphone": "kə'rɪə"
     },
     {
-        "name": "occupation",
-        "trans": [
+         "en": "occupation",
+         "zh": [
             "占领， 占据； 职业； 从事的活动， 消遣"
         ],
         "usphone": ",ɑkju'peʃən",
         "ukphone": "ˌɒkju'peɪʃn"
     },
     {
-        "name": "tendency",
-        "trans": [
+         "en": "tendency",
+         "zh": [
             "趋向， 趋势， 倾向"
         ],
         "usphone": "'tɛndənsi",
         "ukphone": "'tendənsi"
     },
     {
-        "name": "release",
-        "trans": [
+         "en": "release",
+         "zh": [
             "释放， 排放； 解除， 解脱； 放开， 松开； 发布； 发行"
         ],
         "usphone": "rɪ'lis",
         "ukphone": "rɪ'liːs"
     },
     {
-        "name": "charter",
-        "trans": [
+         "en": "charter",
+         "zh": [
             "包租的， 租用的",
             "宪章，共同纲领；特许状，许可证；包租",
             "包，租"
@@ -12171,8 +12172,8 @@
         "ukphone": "'tʃɑːtə"
     },
     {
-        "name": "slim",
-        "trans": [
+         "en": "slim",
+         "zh": [
             "苗条的；薄的；少的",
             "减轻体重， 变苗条"
         ],
@@ -12180,56 +12181,56 @@
         "ukphone": "slɪm"
     },
     {
-        "name": "arithmetic",
-        "trans": [
+         "en": "arithmetic",
+         "zh": [
             "算术， 四则运算"
         ],
         "usphone": "ə'rɪθmətɪk",
         "ukphone": "ə'rɪθmətɪk"
     },
     {
-        "name": "rib",
-        "trans": [
+         "en": "rib",
+         "zh": [
             "肋骨"
         ],
         "usphone": "rɪb",
         "ukphone": "rɪb"
     },
     {
-        "name": "faulty",
-        "trans": [
+         "en": "faulty",
+         "zh": [
             "有错误的， 有缺点的"
         ],
         "usphone": "'fɔlti",
         "ukphone": "'fɔːlti"
     },
     {
-        "name": "liberate",
-        "trans": [
+         "en": "liberate",
+         "zh": [
             "解放， 释放"
         ],
         "usphone": "'lɪbə'ret",
         "ukphone": "'lɪbəreɪt"
     },
     {
-        "name": "rid",
-        "trans": [
+         "en": "rid",
+         "zh": [
             "使摆脱， 解除…的负担， 从…中清除"
         ],
         "usphone": "rɪd",
         "ukphone": "rɪd"
     },
     {
-        "name": "variation",
-        "trans": [
+         "en": "variation",
+         "zh": [
             "变化， 变动； 变异； 变奏"
         ],
         "usphone": ",vɛrɪ'eʃən",
         "ukphone": "ˌveəri'eɪʃn"
     },
     {
-        "name": "moral",
-        "trans": [
+         "en": "moral",
+         "zh": [
             "道德的，有道德的",
             "品行； 道德规范； 寓意"
         ],
@@ -12237,8 +12238,8 @@
         "ukphone": "'mɒrəl"
     },
     {
-        "name": "defect",
-        "trans": [
+         "en": "defect",
+         "zh": [
             "变节， 叛变",
             "缺点， 缺陷， 欠缺"
         ],
@@ -12246,16 +12247,16 @@
         "ukphone": "'diːfekt; dɪ'fekt"
     },
     {
-        "name": "reinforce",
-        "trans": [
+         "en": "reinforce",
+         "zh": [
             "增强， 加强， 增援"
         ],
         "usphone": ",riɪn'fɔrs",
         "ukphone": "ˌriːɪn'fɔːs"
     },
     {
-        "name": "explode",
-        "trans": [
+         "en": "explode",
+         "zh": [
             "爆炸； 激增； 发怒",
             "使爆炸"
         ],
@@ -12263,16 +12264,16 @@
         "ukphone": "ɪk'spləud"
     },
     {
-        "name": "casual",
-        "trans": [
+         "en": "casual",
+         "zh": [
             "偶然的； 非正式的； 临时的， 不定期的； 漠不关心的， 冷淡的"
         ],
         "usphone": "'kæʒʊəl",
         "ukphone": "'kæʒuəl"
     },
     {
-        "name": "decline",
-        "trans": [
+         "en": "decline",
+         "zh": [
             "下降， 减少； 衰退， 衰落； 谢绝， 拒绝",
             "下降，减少；衰退"
         ],
@@ -12280,64 +12281,64 @@
         "ukphone": "dɪ'klaɪn"
     },
     {
-        "name": "property",
-        "trans": [
+         "en": "property",
+         "zh": [
             "财产， 所有物； 房产； 物业； 性质， 性能"
         ],
         "usphone": "'prɑpɚti",
         "ukphone": "'prɒpəti"
     },
     {
-        "name": "succeeding",
-        "trans": [
+         "en": "succeeding",
+         "zh": [
             "以后的， 随后的"
         ],
         "usphone": "sək'si:diŋ",
         "ukphone": "sək'siːdɪŋ"
     },
     {
-        "name": "brave",
-        "trans": [
+         "en": "brave",
+         "zh": [
             "勇敢的； 华丽的"
         ],
         "usphone": "brev",
         "ukphone": "breɪv"
     },
     {
-        "name": "similar",
-        "trans": [
+         "en": "similar",
+         "zh": [
             "相似的， 类似的"
         ],
         "usphone": "'sɪməlɚ",
         "ukphone": "'sɪmələ"
     },
     {
-        "name": "viewpoint",
-        "trans": [
+         "en": "viewpoint",
+         "zh": [
             "观点， 看法， 见解"
         ],
         "usphone": "'vjupɔɪnt",
         "ukphone": "'vjuːpɔɪnt"
     },
     {
-        "name": "anyhow",
-        "trans": [
+         "en": "anyhow",
+         "zh": [
             "无论如何， 不管怎么说； 随随便便地， 杂乱无章地"
         ],
         "usphone": "'ɛnɪ'haʊ",
         "ukphone": "'enihau"
     },
     {
-        "name": "specify",
-        "trans": [
+         "en": "specify",
+         "zh": [
             "指定； 详细说明"
         ],
         "usphone": "'spɛsɪfaɪ",
         "ukphone": "'spesɪfaɪ"
     },
     {
-        "name": "whistle",
-        "trans": [
+         "en": "whistle",
+         "zh": [
             "吹口哨， 鸣笛声； 呼啸而过",
             "口哨；呼啸而过"
         ],
@@ -12345,8 +12346,8 @@
         "ukphone": "'wɪsl"
     },
     {
-        "name": "handle",
-        "trans": [
+         "en": "handle",
+         "zh": [
             "柄，把手",
             "拿， 触； 操作， 处理"
         ],
@@ -12354,64 +12355,64 @@
         "ukphone": "'hændl"
     },
     {
-        "name": "forth",
-        "trans": [
+         "en": "forth",
+         "zh": [
             "向前； 向外， 往外"
         ],
         "usphone": "fɔrθ",
         "ukphone": "fɔːθ"
     },
     {
-        "name": "tough",
-        "trans": [
+         "en": "tough",
+         "zh": [
             "困难的， 难对付的； 坚强的， 能吃苦耐劳的； 健壮的； 坚硬的， 严格的； 老的， 硬的； 粗暴的， 充满暴力的"
         ],
         "usphone": "tʌf",
         "ukphone": "tʌf"
     },
     {
-        "name": "crossing",
-        "trans": [
+         "en": "crossing",
+         "zh": [
             "人行横道， 交叉口； 横渡"
         ],
         "usphone": "'krɔsɪŋ",
         "ukphone": "'krɒsɪŋ"
     },
     {
-        "name": "script",
-        "trans": [
+         "en": "script",
+         "zh": [
             "剧本， 广播稿； 书写用的字母； 笔迹， 手迹"
         ],
         "usphone": "skrɪpt",
         "ukphone": "skrɪpt"
     },
     {
-        "name": "submerge",
-        "trans": [
+         "en": "submerge",
+         "zh": [
             "淹没， 潜入水中"
         ],
         "usphone": "səb'mɝdʒ",
         "ukphone": "səb'mɜːdʒ"
     },
     {
-        "name": "system",
-        "trans": [
+         "en": "system",
+         "zh": [
             "系统； 制度， 体制； 方法， 做法； 身体"
         ],
         "usphone": "'sɪstəm",
         "ukphone": "'sɪstəm"
     },
     {
-        "name": "compose",
-        "trans": [
+         "en": "compose",
+         "zh": [
             "组成， 构成； 创作， 为…谱曲； 使平静， 使镇静"
         ],
         "usphone": "kəm'poz",
         "ukphone": "kəm'pəuz"
     },
     {
-        "name": "spot",
-        "trans": [
+         "en": "spot",
+         "zh": [
             "点，斑点；地点，处所；少量",
             "认出， 发现； 玷污"
         ],
@@ -12419,56 +12420,56 @@
         "ukphone": "spɒt"
     },
     {
-        "name": "roller",
-        "trans": [
+         "en": "roller",
+         "zh": [
             "滚筒， 滚轴"
         ],
         "usphone": "'rolɚ",
         "ukphone": "'rəulə"
     },
     {
-        "name": "partial",
-        "trans": [
+         "en": "partial",
+         "zh": [
             "部分的； 不公平的； 偏爱的， 偏袒的"
         ],
         "usphone": "'pɑrʃəl",
         "ukphone": "'pɑːʃl"
     },
     {
-        "name": "aid",
-        "trans": [
+         "en": "aid",
+         "zh": [
             "帮助； 救护； 助手； 辅助手段"
         ],
         "usphone": "ed",
         "ukphone": "eɪd"
     },
     {
-        "name": "tone",
-        "trans": [
+         "en": "tone",
+         "zh": [
             "腔调， 语气； 音调； 风格， 气度； 色调， 明暗"
         ],
         "usphone": "ton",
         "ukphone": "təun"
     },
     {
-        "name": "confident",
-        "trans": [
+         "en": "confident",
+         "zh": [
             "确信的， 肯定的； 自信的"
         ],
         "usphone": "'kɑnfɪdənt",
         "ukphone": "'kɒnfɪdənt"
     },
     {
-        "name": "retain",
-        "trans": [
+         "en": "retain",
+         "zh": [
             "保留， 保持"
         ],
         "usphone": "rɪ'ten",
         "ukphone": "rɪ'teɪn"
     },
     {
-        "name": "swell",
-        "trans": [
+         "en": "swell",
+         "zh": [
             "膨胀，隆起；增长，增强，增多，扩大",
             "波浪起伏； 鼓起， 隆起； 增强"
         ],
@@ -12476,80 +12477,80 @@
         "ukphone": "swel"
     },
     {
-        "name": "skilled",
-        "trans": [
+         "en": "skilled",
+         "zh": [
             "有技能的； 熟练的； 需要技能的"
         ],
         "usphone": "skɪld",
         "ukphone": "skɪld"
     },
     {
-        "name": "local",
-        "trans": [
+         "en": "local",
+         "zh": [
             "地方性的； 本地的； 局部的； 狭隘的"
         ],
         "usphone": "ˈloʊkl",
         "ukphone": "'ləukl"
     },
     {
-        "name": "remind",
-        "trans": [
+         "en": "remind",
+         "zh": [
             "提醒， 使想起"
         ],
         "usphone": "rɪ'maɪnd",
         "ukphone": "rɪ'maɪnd"
     },
     {
-        "name": "crude",
-        "trans": [
+         "en": "crude",
+         "zh": [
             "简陋的， 天然的； 粗鲁的， 粗俗的"
         ],
         "usphone": "krud",
         "ukphone": "kruːd"
     },
     {
-        "name": "manufacturer",
-        "trans": [
+         "en": "manufacturer",
+         "zh": [
             "制造商； 制造厂"
         ],
         "usphone": ",mænju'fæktʃərɚ",
         "ukphone": "ˌmænju'fæktʃərə"
     },
     {
-        "name": "crew",
-        "trans": [
+         "en": "crew",
+         "zh": [
             "全体船员； 一队工作人员"
         ],
         "usphone": "krʊ",
         "ukphone": "kruː"
     },
     {
-        "name": "valid",
-        "trans": [
+         "en": "valid",
+         "zh": [
             "有效的； 正当的； 有根据的， 有理的"
         ],
         "usphone": "'vælɪd",
         "ukphone": "'vælɪd"
     },
     {
-        "name": "withstand",
-        "trans": [
+         "en": "withstand",
+         "zh": [
             "抵挡， 反抗"
         ],
         "usphone": "wɪð'stænd",
         "ukphone": "wɪð'stænd; wɪθ'stænd"
     },
     {
-        "name": "defeat",
-        "trans": [
+         "en": "defeat",
+         "zh": [
             "战胜， 挫败"
         ],
         "usphone": "dɪ'fit",
         "ukphone": "dɪ'fiːt"
     },
     {
-        "name": "vacuum",
-        "trans": [
+         "en": "vacuum",
+         "zh": [
             "用吸尘器清扫",
             "真空；真空吸尘器"
         ],
@@ -12557,16 +12558,16 @@
         "ukphone": "'vækjuəm"
     },
     {
-        "name": "encourage",
-        "trans": [
+         "en": "encourage",
+         "zh": [
             "鼓励， 怂恿； 促进， 助长， 激发"
         ],
         "usphone": "ɪn'kɝrɪdʒ",
         "ukphone": "ɪn'kʌrɪdʒ"
     },
     {
-        "name": "bubble",
-        "trans": [
+         "en": "bubble",
+         "zh": [
             "冒泡； 沸腾",
             "泡"
         ],
@@ -12574,16 +12575,16 @@
         "ukphone": "'bʌbl"
     },
     {
-        "name": "era",
-        "trans": [
+         "en": "era",
+         "zh": [
             "时代， 年代， 纪元"
         ],
         "usphone": "'ɪrə",
         "ukphone": "'ɪərə"
     },
     {
-        "name": "yield",
-        "trans": [
+         "en": "yield",
+         "zh": [
             "出产；让出，放弃；屈服，顺从；倒塌，垮掉",
             "产量"
         ],
@@ -12591,8 +12592,8 @@
         "ukphone": "jiːld"
     },
     {
-        "name": "electronic",
-        "trans": [
+         "en": "electronic",
+         "zh": [
             "电子的",
             "电子学； 电子设备"
         ],
@@ -12600,32 +12601,32 @@
         "ukphone": "ɪˌlek'trɒnɪk"
     },
     {
-        "name": "vacation",
-        "trans": [
+         "en": "vacation",
+         "zh": [
             "假期， 休假"
         ],
         "usphone": "veˈkeʃən",
         "ukphone": "və'keɪʃn; veɪ'keɪʃn"
     },
     {
-        "name": "outcome",
-        "trans": [
+         "en": "outcome",
+         "zh": [
             "结果"
         ],
         "usphone": "'aʊt'kʌm",
         "ukphone": "'autkʌm"
     },
     {
-        "name": "elegant",
-        "trans": [
+         "en": "elegant",
+         "zh": [
             "优美的， 文雅的， 讲究的； 简练的， 简洁的"
         ],
         "usphone": "'ɛləgənt",
         "ukphone": "'elɪgənt"
     },
     {
-        "name": "tender",
-        "trans": [
+         "en": "tender",
+         "zh": [
             "嫩的；脆弱的；疼痛的，一触即痛的；温柔的",
             "提出",
             "投标"
@@ -12634,32 +12635,32 @@
         "ukphone": "'tendə"
     },
     {
-        "name": "curriculum",
-        "trans": [
+         "en": "curriculum",
+         "zh": [
             "课程， 全部课程"
         ],
         "usphone": "kə'rɪkjələm",
         "ukphone": "kə'rɪkjələm"
     },
     {
-        "name": "meantime",
-        "trans": [
+         "en": "meantime",
+         "zh": [
             "其间， 同时"
         ],
         "usphone": "'min'taɪm",
         "ukphone": "'miːntaɪm"
     },
     {
-        "name": "powerful",
-        "trans": [
+         "en": "powerful",
+         "zh": [
             "强大的， 有力的， 有权的； 强壮的， 强健的"
         ],
         "usphone": "'paʊɚfl",
         "ukphone": "'pauəfl"
     },
     {
-        "name": "slip",
-        "trans": [
+         "en": "slip",
+         "zh": [
             "滑跤，滑落，溜；下降，跌落；悄悄放进",
             "疏漏， 差错"
         ],
@@ -12667,16 +12668,16 @@
         "ukphone": "slɪp"
     },
     {
-        "name": "species",
-        "trans": [
+         "en": "species",
+         "zh": [
             "种， 类"
         ],
         "usphone": "'spiʃiz",
         "ukphone": "'spiːʃiːz"
     },
     {
-        "name": "anchor",
-        "trans": [
+         "en": "anchor",
+         "zh": [
             "抛锚， 停泊； 把…系住， 使固定； 担任主持人； 固定， 扎根",
             "锚；给人安全感的物"
         ],
@@ -12684,56 +12685,56 @@
         "ukphone": "'æŋkə"
     },
     {
-        "name": "preceding",
-        "trans": [
+         "en": "preceding",
+         "zh": [
             "在前的， 在先的， 前面的"
         ],
         "usphone": "'prisidɪŋ",
         "ukphone": "prɪ'siːdɪŋ"
     },
     {
-        "name": "cite",
-        "trans": [
+         "en": "cite",
+         "zh": [
             "引用， 引证； 传唤， 传讯； 表彰， 嘉奖"
         ],
         "usphone": "saɪt",
         "ukphone": "saɪt"
     },
     {
-        "name": "logic",
-        "trans": [
+         "en": "logic",
+         "zh": [
             "逻辑， 推理， 逻辑学"
         ],
         "usphone": "'lɑdʒɪk",
         "ukphone": "'lɒdʒɪk"
     },
     {
-        "name": "acquaintance",
-        "trans": [
+         "en": "acquaintance",
+         "zh": [
             "认识， 了解； 熟人"
         ],
         "usphone": "ə'kwentəns",
         "ukphone": "ə'kweɪntəns"
     },
     {
-        "name": "royal",
-        "trans": [
+         "en": "royal",
+         "zh": [
             "王室的， 皇家的"
         ],
         "usphone": "'rɔɪəl",
         "ukphone": "'rɔɪəl"
     },
     {
-        "name": "internship",
-        "trans": [
+         "en": "internship",
+         "zh": [
             "实习生身份； 实习医师期"
         ],
         "usphone": "'ɪntɝnʃɪp",
         "ukphone": "'ɪntɜːnʃɪp"
     },
     {
-        "name": "shed",
-        "trans": [
+         "en": "shed",
+         "zh": [
             "脱落，脱去；流出，流下；发出，散发",
             "棚， 小屋， 货棚"
         ],
@@ -12741,32 +12742,32 @@
         "ukphone": "ʃed"
     },
     {
-        "name": "eyesight",
-        "trans": [
+         "en": "eyesight",
+         "zh": [
             "视力， 目力"
         ],
         "usphone": "'aɪsaɪt",
         "ukphone": "'aɪsaɪt"
     },
     {
-        "name": "precision",
-        "trans": [
+         "en": "precision",
+         "zh": [
             "精确， 精密"
         ],
         "usphone": "prɪ'sɪʒn",
         "ukphone": "prɪ'sɪʒn"
     },
     {
-        "name": "glove",
-        "trans": [
+         "en": "glove",
+         "zh": [
             "手套"
         ],
         "usphone": "ɡlʌv",
         "ukphone": "glʌv"
     },
     {
-        "name": "screen",
-        "trans": [
+         "en": "screen",
+         "zh": [
             "屏幕，银幕；屏风；帘，纱窗",
             "掩蔽， 遮蔽； 放映， 播放； 审查， 甄别"
         ],
@@ -12774,32 +12775,32 @@
         "ukphone": "skriːn"
     },
     {
-        "name": "naked",
-        "trans": [
+         "en": "naked",
+         "zh": [
             "裸体的； 无遮蔽的"
         ],
         "usphone": "'nekɪd",
         "ukphone": "'neɪkɪd"
     },
     {
-        "name": "trial",
-        "trans": [
+         "en": "trial",
+         "zh": [
             "试， 试验； 审判； 讨厌的人"
         ],
         "usphone": "'traɪəl",
         "ukphone": "'traɪəl"
     },
     {
-        "name": "correspond",
-        "trans": [
+         "en": "correspond",
+         "zh": [
             "相符合， 相当； 通信"
         ],
         "usphone": ",kɔrə'spɑnd",
         "ukphone": "ˌkɒrə'spɒnd"
     },
     {
-        "name": "spur",
-        "trans": [
+         "en": "spur",
+         "zh": [
             "刺激物",
             "刺激， 鞭策， 激励"
         ],
@@ -12807,16 +12808,16 @@
         "ukphone": "spɜː"
     },
     {
-        "name": "perception",
-        "trans": [
+         "en": "perception",
+         "zh": [
             "感知， 觉察； 认识， 观念， 看法"
         ],
         "usphone": "pɚ'sɛpʃən",
         "ukphone": "pə'sepʃn"
     },
     {
-        "name": "rear",
-        "trans": [
+         "en": "rear",
+         "zh": [
             "后部的，背后的",
             "后部，背面；后方",
             "抚养， 饲养； 种植"
@@ -12825,80 +12826,80 @@
         "ukphone": "rɪə"
     },
     {
-        "name": "amongst",
-        "trans": [
+         "en": "amongst",
+         "zh": [
             "在…之中"
         ],
         "usphone": "ə'mʌŋst",
         "ukphone": "ə'mʌŋst"
     },
     {
-        "name": "undertake",
-        "trans": [
+         "en": "undertake",
+         "zh": [
             "从事； 承担； 同意； 保证"
         ],
         "usphone": ",ʌndɚ'tek",
         "ukphone": "ˌʌndə'teɪk"
     },
     {
-        "name": "insect",
-        "trans": [
+         "en": "insect",
+         "zh": [
             "昆虫， 虫"
         ],
         "usphone": "'ɪnsɛkt",
         "ukphone": "'ɪnsekt"
     },
     {
-        "name": "bureau",
-        "trans": [
+         "en": "bureau",
+         "zh": [
             "局， 司， 处， 社， 所"
         ],
         "usphone": "'bjʊro",
         "ukphone": "'bjuərəu"
     },
     {
-        "name": "moist",
-        "trans": [
+         "en": "moist",
+         "zh": [
             "湿润的， 潮湿的"
         ],
         "usphone": "mɔɪst",
         "ukphone": "mɔɪst"
     },
     {
-        "name": "cable",
-        "trans": [
+         "en": "cable",
+         "zh": [
             "缆， 索， 电缆； 电报"
         ],
         "usphone": "'kebl",
         "ukphone": "'keɪbl"
     },
     {
-        "name": "qualify",
-        "trans": [
+         "en": "qualify",
+         "zh": [
             "胜任， 具有资格， 合格； 限定"
         ],
         "usphone": "ˈkwɑləˌfaɪ",
         "ukphone": "'kwɒlɪfaɪ"
     },
     {
-        "name": "intense",
-        "trans": [
+         "en": "intense",
+         "zh": [
             "强烈的； 紧张的； 认真的； 热情的"
         ],
         "usphone": "ɪn'tɛns",
         "ukphone": "ɪn'tens"
     },
     {
-        "name": "pregnant",
-        "trans": [
+         "en": "pregnant",
+         "zh": [
             "怀孕的， 妊娠的"
         ],
         "usphone": "'prɛɡnənt",
         "ukphone": "'pregnənt"
     },
     {
-        "name": "border",
-        "trans": [
+         "en": "border",
+         "zh": [
             "边，边缘，边界",
             "给…加上边， 围； 邻接； 与…接壤"
         ],
@@ -12906,56 +12907,56 @@
         "ukphone": "'bɔːdə"
     },
     {
-        "name": "estate",
-        "trans": [
+         "en": "estate",
+         "zh": [
             "土地， 住宅区， 地产； 财产， 遗产； 庄园， 种植园"
         ],
         "usphone": "ɪ'stet",
         "ukphone": "ɪ'steɪt"
     },
     {
-        "name": "applicable",
-        "trans": [
+         "en": "applicable",
+         "zh": [
             "能应用的； 合适的， 适当的"
         ],
         "usphone": "'æplɪkəbl",
         "ukphone": "'æplɪkəbl"
     },
     {
-        "name": "admission",
-        "trans": [
+         "en": "admission",
+         "zh": [
             "允许进入； 承认； 入场费， 入场券"
         ],
         "usphone": "əd'mɪʃən",
         "ukphone": "əd'mɪʃn"
     },
     {
-        "name": "brass",
-        "trans": [
+         "en": "brass",
+         "zh": [
             "黄铜， 黄铜器， 铜管乐器"
         ],
         "usphone": "bræs",
         "ukphone": "brɑːs"
     },
     {
-        "name": "expense",
-        "trans": [
+         "en": "expense",
+         "zh": [
             "花费， 消费； 费用， 开支； 业务费用"
         ],
         "usphone": "ɪk'spɛns",
         "ukphone": "ɪk'spens"
     },
     {
-        "name": "rumour",
-        "trans": [
+         "en": "rumour",
+         "zh": [
             "谣传， 谣言"
         ],
         "usphone": "'ru:mə",
         "ukphone": "'ruːmə"
     },
     {
-        "name": "contemporary",
-        "trans": [
+         "en": "contemporary",
+         "zh": [
             "当代的；同时代的",
             "同代人， 当代人"
         ],
@@ -12963,8 +12964,8 @@
         "ukphone": "kən'temprəri"
     },
     {
-        "name": "gear",
-        "trans": [
+         "en": "gear",
+         "zh": [
             "齿轮，传动装置，排挡；用具，设备；衣服",
             "使适应， 使适合"
         ],
@@ -12972,24 +12973,24 @@
         "ukphone": "gɪə"
     },
     {
-        "name": "boundary",
-        "trans": [
+         "en": "boundary",
+         "zh": [
             "分界线， 边界"
         ],
         "usphone": "'baʊndri",
         "ukphone": "'baundri"
     },
     {
-        "name": "rob",
-        "trans": [
+         "en": "rob",
+         "zh": [
             "抢劫， 盗窃"
         ],
         "usphone": "rɑb",
         "ukphone": "rɒb"
     },
     {
-        "name": "elderly",
-        "trans": [
+         "en": "elderly",
+         "zh": [
             "较老的，年长的",
             "到了晚年的人， 老年人"
         ],
@@ -12997,48 +12998,48 @@
         "ukphone": "'eldəli"
     },
     {
-        "name": "financial",
-        "trans": [
+         "en": "financial",
+         "zh": [
             "财政的， 金融的"
         ],
         "usphone": "faɪˈnænʃəl;fəˈnæ-",
         "ukphone": "faɪ'nænʃl; fə'nænʃl"
     },
     {
-        "name": "rod",
-        "trans": [
+         "en": "rod",
+         "zh": [
             "杆， 棒"
         ],
         "usphone": "rɑd",
         "ukphone": "rɒd"
     },
     {
-        "name": "dumb",
-        "trans": [
+         "en": "dumb",
+         "zh": [
             "哑的； 无言的； 说不出话的"
         ],
         "usphone": "dʌm",
         "ukphone": "dʌm"
     },
     {
-        "name": "respective",
-        "trans": [
+         "en": "respective",
+         "zh": [
             "各自的， 各个的， 分别的"
         ],
         "usphone": "rɪ'spɛktɪv",
         "ukphone": "rɪ'spektɪv"
     },
     {
-        "name": "media",
-        "trans": [
+         "en": "media",
+         "zh": [
             "新闻媒介， 传播媒介"
         ],
         "usphone": "",
         "ukphone": "'miːdiə"
     },
     {
-        "name": "favour",
-        "trans": [
+         "en": "favour",
+         "zh": [
             "好感；赞同；恩惠",
             "赞同； 喜爱， 偏爱； 有利于"
         ],
@@ -13046,48 +13047,48 @@
         "ukphone": "'feɪvə"
     },
     {
-        "name": "pollute",
-        "trans": [
+         "en": "pollute",
+         "zh": [
             "弄脏， 污染； 腐蚀"
         ],
         "usphone": "pə'lut",
         "ukphone": "pə'luːt"
     },
     {
-        "name": "harden",
-        "trans": [
+         "en": "harden",
+         "zh": [
             "变硬； 变得坚强"
         ],
         "usphone": "'hɑrdn",
         "ukphone": "'hɑːdn"
     },
     {
-        "name": "eve",
-        "trans": [
+         "en": "eve",
+         "zh": [
             "前夜， 前夕， 前一刻"
         ],
         "usphone": "",
         "ukphone": "iːv"
     },
     {
-        "name": "pronoun",
-        "trans": [
+         "en": "pronoun",
+         "zh": [
             "代词"
         ],
         "usphone": "'pronaʊn",
         "ukphone": "'prəunaun"
     },
     {
-        "name": "define",
-        "trans": [
+         "en": "define",
+         "zh": [
             "给…下定义， 限定"
         ],
         "usphone": "dɪ'faɪn",
         "ukphone": "dɪ'faɪn"
     },
     {
-        "name": "dictate",
-        "trans": [
+         "en": "dictate",
+         "zh": [
             "口授； 命令， 规定， 要求",
             "命令， 指挥"
         ],
@@ -13095,24 +13096,24 @@
         "ukphone": "dɪk'teɪt"
     },
     {
-        "name": "construction",
-        "trans": [
+         "en": "construction",
+         "zh": [
             "建造； 建筑物； 结构"
         ],
         "usphone": "kən'strʌkʃən",
         "ukphone": "kən'strʌkʃn"
     },
     {
-        "name": "predict",
-        "trans": [
+         "en": "predict",
+         "zh": [
             "预言， 预告， 预测"
         ],
         "usphone": "prɪ'dɪkt",
         "ukphone": "prɪ'dɪkt"
     },
     {
-        "name": "dump",
-        "trans": [
+         "en": "dump",
+         "zh": [
             "倾卸，倾倒；倾销",
             "垃圾场"
         ],
@@ -13120,48 +13121,48 @@
         "ukphone": "dʌmp"
     },
     {
-        "name": "render",
-        "trans": [
+         "en": "render",
+         "zh": [
             "使得， 致使； 给予， 提供； 翻译"
         ],
         "usphone": "'rɛndɚ",
         "ukphone": "'rendə"
     },
     {
-        "name": "universal",
-        "trans": [
+         "en": "universal",
+         "zh": [
             "普遍的； 通用的； 全世界的"
         ],
         "usphone": "'jʊnə'vɝsl",
         "ukphone": "ˌjuːnɪ'vɜːsl"
     },
     {
-        "name": "chemist",
-        "trans": [
+         "en": "chemist",
+         "zh": [
             "化学家， 药剂师"
         ],
         "usphone": "'kɛmɪst",
         "ukphone": "'kemɪst"
     },
     {
-        "name": "frontier",
-        "trans": [
+         "en": "frontier",
+         "zh": [
             "边境， 边疆； 新领域"
         ],
         "usphone": "frʌn'tɪr",
         "ukphone": "'frʌntɪə"
     },
     {
-        "name": "abroad",
-        "trans": [
+         "en": "abroad",
+         "zh": [
             "到国外； 在传播， 在流传"
         ],
         "usphone": "ə'brɔd",
         "ukphone": "ə'brɔːd"
     },
     {
-        "name": "radical",
-        "trans": [
+         "en": "radical",
+         "zh": [
             "根本的，基本的；激进的，激进派的",
             "激进分子"
         ],
@@ -13169,32 +13170,32 @@
         "ukphone": "'rædɪkl"
     },
     {
-        "name": "relieve",
-        "trans": [
+         "en": "relieve",
+         "zh": [
             "使轻松， 使宽慰， 缓解； 使得到调剂； 接替"
         ],
         "usphone": "rɪ'liv",
         "ukphone": "rɪ'liːv"
     },
     {
-        "name": "drawer",
-        "trans": [
+         "en": "drawer",
+         "zh": [
             "抽屉"
         ],
         "usphone": "drɔr",
         "ukphone": "drɔː"
     },
     {
-        "name": "requirement",
-        "trans": [
+         "en": "requirement",
+         "zh": [
             "要求； 必要条件； 需要， 需要的东西"
         ],
         "usphone": "rɪ'kwaɪɚmənt",
         "ukphone": "rɪ'kwaɪəmənt"
     },
     {
-        "name": "transport",
-        "trans": [
+         "en": "transport",
+         "zh": [
             "运输",
             "运输， 运输工具"
         ],
@@ -13202,16 +13203,16 @@
         "ukphone": "træn'spɔːt; trɑːn-"
     },
     {
-        "name": "employment",
-        "trans": [
+         "en": "employment",
+         "zh": [
             "工作； 雇用； 使用"
         ],
         "usphone": "ɪm'plɔɪmənt",
         "ukphone": "ɪm'plɔɪmənt"
     },
     {
-        "name": "specific",
-        "trans": [
+         "en": "specific",
+         "zh": [
             "特有的；具体的，明确的",
             "详情， 细节"
         ],
@@ -13219,32 +13220,32 @@
         "ukphone": "spə'sɪfɪk"
     },
     {
-        "name": "application",
-        "trans": [
+         "en": "application",
+         "zh": [
             "申请， 申请书； 施用， 涂抹； 应用， 实施； 实用性"
         ],
         "usphone": "ˌæpləˈkeʃən",
         "ukphone": "ˌæplɪ'keɪʃn"
     },
     {
-        "name": "engage",
-        "trans": [
+         "en": "engage",
+         "zh": [
             "使从事； 聘用； 吸引； 占用； 使订婚"
         ],
         "usphone": "ɪn'ɡedʒ",
         "ukphone": "ɪn'geɪdʒ"
     },
     {
-        "name": "acre",
-        "trans": [
+         "en": "acre",
+         "zh": [
             "英亩"
         ],
         "usphone": "'ekɚ",
         "ukphone": "'eɪkə"
     },
     {
-        "name": "whisper",
-        "trans": [
+         "en": "whisper",
+         "zh": [
             "低声地讲",
             "低语， 耳语"
         ],
@@ -13252,40 +13253,40 @@
         "ukphone": "'wɪspə"
     },
     {
-        "name": "appetite",
-        "trans": [
+         "en": "appetite",
+         "zh": [
             "食欲， 胃口； 欲望"
         ],
         "usphone": "'æpəˌtaɪt",
         "ukphone": "'æpɪtaɪt"
     },
     {
-        "name": "semester",
-        "trans": [
+         "en": "semester",
+         "zh": [
             "学期"
         ],
         "usphone": "səˈmɛstɚ",
         "ukphone": "sɪ'mestə"
     },
     {
-        "name": "strategy",
-        "trans": [
+         "en": "strategy",
+         "zh": [
             "战略， 策略"
         ],
         "usphone": "'strætədʒi",
         "ukphone": "'strætədʒi"
     },
     {
-        "name": "dull",
-        "trans": [
+         "en": "dull",
+         "zh": [
             "乏味的， 单调的； 晦暗的， 阴沉的； 低沉的； 笨的； 钝的"
         ],
         "usphone": "dʌl",
         "ukphone": "dʌl"
     },
     {
-        "name": "collapse",
-        "trans": [
+         "en": "collapse",
+         "zh": [
             "倒坍；塌下",
             "突然失败；突然瓦解"
         ],
@@ -13293,48 +13294,48 @@
         "ukphone": "kə'læps"
     },
     {
-        "name": "clumsy",
-        "trans": [
+         "en": "clumsy",
+         "zh": [
             "笨拙的， 愚笨的； 粗陋的； 不得体的"
         ],
         "usphone": "'klʌmzi",
         "ukphone": "'klʌmzi"
     },
     {
-        "name": "territory",
-        "trans": [
+         "en": "territory",
+         "zh": [
             "领土， 版图； 领域"
         ],
         "usphone": "'tɛrətɔri",
         "ukphone": "'terətri"
     },
     {
-        "name": "concession",
-        "trans": [
+         "en": "concession",
+         "zh": [
             "让步， 妥协； 特许， 特许权； 承认， 认可"
         ],
         "usphone": "kən'sɛʃən",
         "ukphone": "kən'seʃn"
     },
     {
-        "name": "accurate",
-        "trans": [
+         "en": "accurate",
+         "zh": [
             "准确的， 正确无误的"
         ],
         "usphone": "'ækjərət",
         "ukphone": "'ækjərət"
     },
     {
-        "name": "maintain",
-        "trans": [
+         "en": "maintain",
+         "zh": [
             "维持； 维修， 保养； 主张； 赡养"
         ],
         "usphone": "men'ten",
         "ukphone": "meɪn'teɪn"
     },
     {
-        "name": "shift",
-        "trans": [
+         "en": "shift",
+         "zh": [
             "移动，转移；改变，转变",
             "转换， 转变； 轮班"
         ],
@@ -13342,8 +13343,8 @@
         "ukphone": "ʃɪft"
     },
     {
-        "name": "echo",
-        "trans": [
+         "en": "echo",
+         "zh": [
             "重复， 模仿； 发出回声",
             "回声；反响，共鸣"
         ],
@@ -13351,8 +13352,8 @@
         "ukphone": "'ekəu"
     },
     {
-        "name": "erect",
-        "trans": [
+         "en": "erect",
+         "zh": [
             "竖直的， 垂直的",
             "建造；使竖立"
         ],
@@ -13360,8 +13361,8 @@
         "ukphone": "ɪ'rekt"
     },
     {
-        "name": "bargain",
-        "trans": [
+         "en": "bargain",
+         "zh": [
             "讨价还价",
             "特价商品；协议，交易"
         ],
@@ -13369,8 +13370,8 @@
         "ukphone": "'bɑːgən"
     },
     {
-        "name": "professional",
-        "trans": [
+         "en": "professional",
+         "zh": [
             "职业的，专业的，专门的",
             "自由职业者， 专业人员"
         ],
@@ -13378,8 +13379,8 @@
         "ukphone": "prə'feʃənl"
     },
     {
-        "name": "elective",
-        "trans": [
+         "en": "elective",
+         "zh": [
             "选举的，有选举权的；可任意选择的",
             "选修课程"
         ],
@@ -13387,24 +13388,24 @@
         "ukphone": "ɪ'lektɪv"
     },
     {
-        "name": "accusation",
-        "trans": [
+         "en": "accusation",
+         "zh": [
             "谴责； 【律】 指控"
         ],
         "usphone": ",ækju'zeʃən",
         "ukphone": "ˌækju'zeɪʃn"
     },
     {
-        "name": "protein",
-        "trans": [
+         "en": "protein",
+         "zh": [
             "蛋白质"
         ],
         "usphone": "'protin",
         "ukphone": "'prəutiːn"
     },
     {
-        "name": "annual",
-        "trans": [
+         "en": "annual",
+         "zh": [
             "每年的，一年一次的",
             "年报， 年鉴； 一年生的植物"
         ],
@@ -13412,8 +13413,8 @@
         "ukphone": "'ænjuəl"
     },
     {
-        "name": "exclusive",
-        "trans": [
+         "en": "exclusive",
+         "zh": [
             "奢华的，高级的；独有的，独享的；排斥的，排他的；不包括…的，不把…计算在内的",
             "独家新闻"
         ],
@@ -13421,8 +13422,8 @@
         "ukphone": "ɪk'skluːsɪv"
     },
     {
-        "name": "jar",
-        "trans": [
+         "en": "jar",
+         "zh": [
             "感到不快； 震动， 摇动",
             "罐子，坛子，广口瓶"
         ],
@@ -13430,16 +13431,16 @@
         "ukphone": "dʒɑː"
     },
     {
-        "name": "poverty",
-        "trans": [
+         "en": "poverty",
+         "zh": [
             "贫穷， 贫困"
         ],
         "usphone": "'pɑvɚti",
         "ukphone": "'pɒvəti"
     },
     {
-        "name": "resort",
-        "trans": [
+         "en": "resort",
+         "zh": [
             "求助，凭借，诉诸",
             "求助， 凭借， 诉诸； 求助的对象， 采用的手段； 常去之地， 胜地"
         ],
@@ -13447,8 +13448,8 @@
         "ukphone": "rɪ'zɔːt"
     },
     {
-        "name": "goodness",
-        "trans": [
+         "en": "goodness",
+         "zh": [
             "天哪",
             "善良， 美德， 好意"
         ],
@@ -13456,32 +13457,32 @@
         "ukphone": "'gudnəs"
     },
     {
-        "name": "lightning",
-        "trans": [
+         "en": "lightning",
+         "zh": [
             "闪电， 电光"
         ],
         "usphone": "'laɪtnɪŋ",
         "ukphone": "'laɪtnɪŋ"
     },
     {
-        "name": "jaw",
-        "trans": [
+         "en": "jaw",
+         "zh": [
             "颌， 颚"
         ],
         "usphone": "dʒɔ",
         "ukphone": "dʒɔː"
     },
     {
-        "name": "margin",
-        "trans": [
+         "en": "margin",
+         "zh": [
             "页边空白； 差数， 差额； 余地； 边缘"
         ],
         "usphone": "'mɑrdʒən",
         "ukphone": "'mɑːdʒɪn"
     },
     {
-        "name": "remain",
-        "trans": [
+         "en": "remain",
+         "zh": [
             "剩下，余留；保持；仍然是",
             "残余； 残骸； 遗迹"
         ],
@@ -13489,24 +13490,24 @@
         "ukphone": "rɪ'meɪn"
     },
     {
-        "name": "amaze",
-        "trans": [
+         "en": "amaze",
+         "zh": [
             "使惊奇， 使惊愕"
         ],
         "usphone": "ə'mez",
         "ukphone": "ə'meɪz"
     },
     {
-        "name": "refine",
-        "trans": [
+         "en": "refine",
+         "zh": [
             "精炼， 精制， 提纯； 使优美， 使完善"
         ],
         "usphone": "rɪ'faɪn",
         "ukphone": "rɪ'faɪn"
     },
     {
-        "name": "mount",
-        "trans": [
+         "en": "mount",
+         "zh": [
             "登上；发起；安放；增加，加剧",
             "山， 峰"
         ],
@@ -13514,32 +13515,32 @@
         "ukphone": "maunt"
     },
     {
-        "name": "demand",
-        "trans": [
+         "en": "demand",
+         "zh": [
             "要求， 需要； 查问"
         ],
         "usphone": "dɪ'mænd",
         "ukphone": "dɪ'mɑːnd"
     },
     {
-        "name": "mystery",
-        "trans": [
+         "en": "mystery",
+         "zh": [
             "神秘； 神秘的人"
         ],
         "usphone": "ˈmɪstri",
         "ukphone": "'mɪstri"
     },
     {
-        "name": "atomic",
-        "trans": [
+         "en": "atomic",
+         "zh": [
             "原子的， 原子能的， 原子武器的"
         ],
         "usphone": "ə'tɑmɪk",
         "ukphone": "ə'tɒmɪk"
     },
     {
-        "name": "deposit",
-        "trans": [
+         "en": "deposit",
+         "zh": [
             "使沉淀；存放，储蓄",
             "定金， 押金； 存款； 矿藏"
         ],
@@ -13547,40 +13548,40 @@
         "ukphone": "dɪ'pɒzɪt"
     },
     {
-        "name": "centimetre",
-        "trans": [
+         "en": "centimetre",
+         "zh": [
             "公分， 厘米"
         ],
         "usphone": "'sɛntɪmitɚ",
         "ukphone": "'sentɪmiːtə"
     },
     {
-        "name": "telescope",
-        "trans": [
+         "en": "telescope",
+         "zh": [
             "望远镜"
         ],
         "usphone": "'tɛləˌskop",
         "ukphone": "'telɪskəup"
     },
     {
-        "name": "rotten",
-        "trans": [
+         "en": "rotten",
+         "zh": [
             "腐烂的； 令人不愉快的； 糟糕的"
         ],
         "usphone": "'rɑtn",
         "ukphone": "'rɒtn"
     },
     {
-        "name": "skillful",
-        "trans": [
+         "en": "skillful",
+         "zh": [
             "灵巧的， 娴熟的"
         ],
         "usphone": "'skɪlfəl",
         "ukphone": "'skɪlfl"
     },
     {
-        "name": "flash",
-        "trans": [
+         "en": "flash",
+         "zh": [
             "闪， 闪烁； 飞驰",
             "闪光；闪光灯"
         ],
@@ -13588,32 +13589,32 @@
         "ukphone": "flæʃ"
     },
     {
-        "name": "accuse",
-        "trans": [
+         "en": "accuse",
+         "zh": [
             "指责， 归咎于"
         ],
         "usphone": "ə'kjuz",
         "ukphone": "ə'kjuːz"
     },
     {
-        "name": "housing",
-        "trans": [
+         "en": "housing",
+         "zh": [
             "房屋， 住宅； 住房建筑， 住房供给； 外壳， 外罩"
         ],
         "usphone": "'haʊzɪŋ",
         "ukphone": "'hauzɪŋ"
     },
     {
-        "name": "devil",
-        "trans": [
+         "en": "devil",
+         "zh": [
             "魔鬼， 恶魔； 家伙， 人"
         ],
         "usphone": "'dɛvl",
         "ukphone": "'devl"
     },
     {
-        "name": "guarantee",
-        "trans": [
+         "en": "guarantee",
+         "zh": [
             "保证；保证书；担保物",
             "保证， 担保"
         ],
@@ -13621,80 +13622,80 @@
         "ukphone": "ˌgærən'tiː"
     },
     {
-        "name": "recommend",
-        "trans": [
+         "en": "recommend",
+         "zh": [
             "推荐， 举荐； 劝告， 建议； 使成为可取； 使受欢迎"
         ],
         "usphone": "'rɛkə'mɛnd",
         "ukphone": "ˌrekə'mend"
     },
     {
-        "name": "acquire",
-        "trans": [
+         "en": "acquire",
+         "zh": [
             "取得， 获得， 学到"
         ],
         "usphone": "ə'kwaɪr",
         "ukphone": "ə'kwaɪə"
     },
     {
-        "name": "fertile",
-        "trans": [
+         "en": "fertile",
+         "zh": [
             "肥沃的； 多产的； 丰富的"
         ],
         "usphone": "ˈfɝtəl; (canadian) ˈfɝˌtaɪl",
         "ukphone": "'fɜːtaɪl"
     },
     {
-        "name": "automobile",
-        "trans": [
+         "en": "automobile",
+         "zh": [
             "汽车， 机动车"
         ],
         "usphone": ",ɔtəmə'bil",
         "ukphone": "'ɔːtəməbiːl"
     },
     {
-        "name": "notion",
-        "trans": [
+         "en": "notion",
+         "zh": [
             "概念， 观念； 意图， 想法， 念头"
         ],
         "usphone": "'noʃən",
         "ukphone": "'nəuʃn"
     },
     {
-        "name": "diversity",
-        "trans": [
+         "en": "diversity",
+         "zh": [
             "多样性； 差异； 不同点"
         ],
         "usphone": "dɪˈvəsɪti",
         "ukphone": "daɪ'vɜːsəti"
     },
     {
-        "name": "helicopter",
-        "trans": [
+         "en": "helicopter",
+         "zh": [
             "直升机"
         ],
         "usphone": "'hɛlɪkɑptɚ",
         "ukphone": "'helɪkɒptə"
     },
     {
-        "name": "tractor",
-        "trans": [
+         "en": "tractor",
+         "zh": [
             "拖拉机， 牵引车"
         ],
         "usphone": "'træktɚ",
         "ukphone": "'træktə"
     },
     {
-        "name": "patience",
-        "trans": [
+         "en": "patience",
+         "zh": [
             "忍耐， 耐心"
         ],
         "usphone": "'peʃns",
         "ukphone": "'peɪʃns"
     },
     {
-        "name": "grace",
-        "trans": [
+         "en": "grace",
+         "zh": [
             "优美，优雅；风度，魅力；宽限，缓期",
             "使优美"
         ],
@@ -13702,24 +13703,24 @@
         "ukphone": "greɪs"
     },
     {
-        "name": "advertisement",
-        "trans": [
+         "en": "advertisement",
+         "zh": [
             "广告， 公告， 登广告； 广告活动， 宣传"
         ],
         "usphone": ",ædvɚ'taɪzmənt",
         "ukphone": "əd'vɜːtɪsmənt"
     },
     {
-        "name": "ripe",
-        "trans": [
+         "en": "ripe",
+         "zh": [
             "熟的； 时机成熟的"
         ],
         "usphone": "raɪp",
         "ukphone": "raɪp"
     },
     {
-        "name": "attribute",
-        "trans": [
+         "en": "attribute",
+         "zh": [
             "把…归因于",
             "属性"
         ],
@@ -13727,24 +13728,24 @@
         "ukphone": "ə'trɪbjuːt"
     },
     {
-        "name": "mechanism",
-        "trans": [
+         "en": "mechanism",
+         "zh": [
             "机械装置； 机制， 机理； 办法， 途径"
         ],
         "usphone": "'mɛkənɪzəm",
         "ukphone": "'mekənɪzəm"
     },
     {
-        "name": "detection",
-        "trans": [
+         "en": "detection",
+         "zh": [
             "察觉， 发觉； 侦查， 探测"
         ],
         "usphone": "dɪ'tɛkʃən",
         "ukphone": "dɪ'tekʃn"
     },
     {
-        "name": "triumph",
-        "trans": [
+         "en": "triumph",
+         "zh": [
             "成功",
             "凯旋，胜利"
         ],
@@ -13752,24 +13753,24 @@
         "ukphone": "'traɪʌmf"
     },
     {
-        "name": "vice",
-        "trans": [
+         "en": "vice",
+         "zh": [
             "罪恶； 恶习， 缺点； 虎钳"
         ],
         "usphone": "vaɪs",
         "ukphone": "vaɪs"
     },
     {
-        "name": "horror",
-        "trans": [
+         "en": "horror",
+         "zh": [
             "恐怖； 憎恶； 令人恐怖的事物"
         ],
         "usphone": "'hɔrɚ",
         "ukphone": "'hɒrə"
     },
     {
-        "name": "poison",
-        "trans": [
+         "en": "poison",
+         "zh": [
             "毒，毒药",
             "毒害"
         ],
@@ -13777,32 +13778,32 @@
         "ukphone": "'pɔɪzn"
     },
     {
-        "name": "thoughtful",
-        "trans": [
+         "en": "thoughtful",
+         "zh": [
             "沉思的； 体贴的"
         ],
         "usphone": "'θɔtfl",
         "ukphone": "'θɔːtfl"
     },
     {
-        "name": "gram",
-        "trans": [
+         "en": "gram",
+         "zh": [
             "克"
         ],
         "usphone": "ɡræm",
         "ukphone": "græm"
     },
     {
-        "name": "empower",
-        "trans": [
+         "en": "empower",
+         "zh": [
             "授权于； 使能够"
         ],
         "usphone": "ɪm'paʊɚ",
         "ukphone": "ɪm'pauə"
     },
     {
-        "name": "riot",
-        "trans": [
+         "en": "riot",
+         "zh": [
             "聚众闹事",
             "暴乱，骚乱；极度丰富",
             "把浪费在放荡的生活上"
@@ -13811,16 +13812,16 @@
         "ukphone": "'raɪət"
     },
     {
-        "name": "arouse",
-        "trans": [
+         "en": "arouse",
+         "zh": [
             "引起； 唤起， 唤醒"
         ],
         "usphone": "ə'raʊz",
         "ukphone": "ə'rauz"
     },
     {
-        "name": "nest",
-        "trans": [
+         "en": "nest",
+         "zh": [
             "筑巢",
             "巢，窝，穴"
         ],
@@ -13828,16 +13829,16 @@
         "ukphone": "nest"
     },
     {
-        "name": "tour",
-        "trans": [
+         "en": "tour",
+         "zh": [
             "旅行， 游历"
         ],
         "usphone": "tʊr",
         "ukphone": "tuə"
     },
     {
-        "name": "calm",
-        "trans": [
+         "en": "calm",
+         "zh": [
             "静的，平静的",
             "平静， 镇静"
         ],
@@ -13845,16 +13846,16 @@
         "ukphone": "kɑːm"
     },
     {
-        "name": "boring",
-        "trans": [
+         "en": "boring",
+         "zh": [
             "令人厌烦的， 乏味的， 无聊的"
         ],
         "usphone": "'bɔrɪŋ",
         "ukphone": "'bɔːrɪŋ"
     },
     {
-        "name": "classic",
-        "trans": [
+         "en": "classic",
+         "zh": [
             "最优秀的，典型的，标准的；传统式样的，典雅的",
             "文学名著， 经典作品， 杰作； 优秀的典范； 古典文学， 古典语文研究"
         ],
@@ -13862,56 +13863,56 @@
         "ukphone": "'klæsɪk"
     },
     {
-        "name": "ownership",
-        "trans": [
+         "en": "ownership",
+         "zh": [
             "所有， 所有制"
         ],
         "usphone": "'onɚʃɪp",
         "ukphone": "'əunəʃɪp"
     },
     {
-        "name": "metric",
-        "trans": [
+         "en": "metric",
+         "zh": [
             "公制的， 米制的"
         ],
         "usphone": "'mɛtrɪk",
         "ukphone": "'metrɪk"
     },
     {
-        "name": "absolute",
-        "trans": [
+         "en": "absolute",
+         "zh": [
             "十足的， 地道的； 绝对的， 完全的； 不受任何限制的"
         ],
         "usphone": "'æbsəlut",
         "ukphone": "'æbsəluːt"
     },
     {
-        "name": "ash",
-        "trans": [
+         "en": "ash",
+         "zh": [
             "灰， 灰末； 骨灰"
         ],
         "usphone": "æʃ",
         "ukphone": "æʃ"
     },
     {
-        "name": "describe",
-        "trans": [
+         "en": "describe",
+         "zh": [
             "形容； 描写； 画出"
         ],
         "usphone": "dɪ'skraɪb",
         "ukphone": "dɪ'skraɪb"
     },
     {
-        "name": "suck",
-        "trans": [
+         "en": "suck",
+         "zh": [
             "吸， 吮， 啜； 吸收"
         ],
         "usphone": "sʌk",
         "ukphone": "sʌk"
     },
     {
-        "name": "grab",
-        "trans": [
+         "en": "grab",
+         "zh": [
             "抓取，攫取；赶紧做；抓住；抓，夺",
             "抓， 夺"
         ],
@@ -13919,72 +13920,72 @@
         "ukphone": "græb"
     },
     {
-        "name": "rub",
-        "trans": [
+         "en": "rub",
+         "zh": [
             "擦， 摩擦"
         ],
         "usphone": "rʌb",
         "ukphone": "rʌb"
     },
     {
-        "name": "presently",
-        "trans": [
+         "en": "presently",
+         "zh": [
             "不久， 一会儿； 现在， 目前"
         ],
         "usphone": "'prɛzntli",
         "ukphone": "'prezntli"
     },
     {
-        "name": "wealthy",
-        "trans": [
+         "en": "wealthy",
+         "zh": [
             "富有的， 富裕的"
         ],
         "usphone": "'wɛlθi",
         "ukphone": "'welθi"
     },
     {
-        "name": "rug",
-        "trans": [
+         "en": "rug",
+         "zh": [
             "地毯"
         ],
         "usphone": "rʌɡ",
         "ukphone": "rʌg"
     },
     {
-        "name": "jazz",
-        "trans": [
+         "en": "jazz",
+         "zh": [
             "爵士音乐， 爵士舞曲"
         ],
         "usphone": "dʒæz",
         "ukphone": "dʒæz"
     },
     {
-        "name": "dusk",
-        "trans": [
+         "en": "dusk",
+         "zh": [
             "薄暮， 黄昏； 幽暗"
         ],
         "usphone": "dʌsk",
         "ukphone": "dʌsk"
     },
     {
-        "name": "administration",
-        "trans": [
+         "en": "administration",
+         "zh": [
             "管理； 管理部门， 行政机关； 实行， 执行"
         ],
         "usphone": "əd,mɪnɪ'streʃən",
         "ukphone": "ədˌmɪnɪ'streɪʃn"
     },
     {
-        "name": "occasional",
-        "trans": [
+         "en": "occasional",
+         "zh": [
             "偶尔的， 间或发生的"
         ],
         "usphone": "ə'keʒənl",
         "ukphone": "ə'keɪʒənl"
     },
     {
-        "name": "boast",
-        "trans": [
+         "en": "boast",
+         "zh": [
             "自夸；自豪",
             "自夸，吹嘘；以拥有…而自豪",
             "自吹自擂， 自夸的话"
@@ -13993,56 +13994,56 @@
         "ukphone": "bəust"
     },
     {
-        "name": "operator",
-        "trans": [
+         "en": "operator",
+         "zh": [
             "操作人员； 话务员， 报务员"
         ],
         "usphone": "'ɑpəretɚ",
         "ukphone": "'ɒpəreɪtə"
     },
     {
-        "name": "debate",
-        "trans": [
+         "en": "debate",
+         "zh": [
             "争论， 辩论"
         ],
         "usphone": "dɪ'bet",
         "ukphone": "dɪ'beɪt"
     },
     {
-        "name": "spacecraft",
-        "trans": [
+         "en": "spacecraft",
+         "zh": [
             "航天器， 宇宙飞船"
         ],
         "usphone": "'speskræft",
         "ukphone": "'speɪskrɑːft"
     },
     {
-        "name": "furniture",
-        "trans": [
+         "en": "furniture",
+         "zh": [
             "家具"
         ],
         "usphone": "'fɝnɪtʃɚ",
         "ukphone": "'fɜːnɪtʃə"
     },
     {
-        "name": "segment",
-        "trans": [
+         "en": "segment",
+         "zh": [
             "部分， 片段； 瓣"
         ],
         "usphone": "'sɛɡmənt",
         "ukphone": "'segmənt"
     },
     {
-        "name": "stripe",
-        "trans": [
+         "en": "stripe",
+         "zh": [
             "条纹"
         ],
         "usphone": "straɪp",
         "ukphone": "straɪp"
     },
     {
-        "name": "jet",
-        "trans": [
+         "en": "jet",
+         "zh": [
             "乘喷气式飞机",
             "喷气式飞机；喷嘴；喷射"
         ],
@@ -14050,40 +14051,40 @@
         "ukphone": "dʒet"
     },
     {
-        "name": "helpful",
-        "trans": [
+         "en": "helpful",
+         "zh": [
             "给予帮助的； 有用的"
         ],
         "usphone": "'hɛlpfl",
         "ukphone": "'helpful"
     },
     {
-        "name": "statistic",
-        "trans": [
+         "en": "statistic",
+         "zh": [
             "统计数值， 统计资料； 统计学"
         ],
         "usphone": "stə'tɪstɪk",
         "ukphone": "stə'tɪstɪk"
     },
     {
-        "name": "attractive",
-        "trans": [
+         "en": "attractive",
+         "zh": [
             "有吸引力的， 引起注意的"
         ],
         "usphone": "ə'træktɪv",
         "ukphone": "ə'træktɪv"
     },
     {
-        "name": "superb",
-        "trans": [
+         "en": "superb",
+         "zh": [
             "极好的； 高质量的"
         ],
         "usphone": "suːˈpɜːrb",
         "ukphone": "sjʊː'pɜːb; sʊː'pɜːb"
     },
     {
-        "name": "mold",
-        "trans": [
+         "en": "mold",
+         "zh": [
             "霉，霉菌；模型，铸模；性格",
             "用模子制作， 塑造； 使形成， 影响…的形成"
         ],
@@ -14091,32 +14092,32 @@
         "ukphone": "məuld"
     },
     {
-        "name": "engineering",
-        "trans": [
+         "en": "engineering",
+         "zh": [
             "工程， 工程学"
         ],
         "usphone": "'ɛndʒə'nɪrɪŋ",
         "ukphone": "ˌendʒɪ'nɪərɪŋ"
     },
     {
-        "name": "significant",
-        "trans": [
+         "en": "significant",
+         "zh": [
             "相当数量的； 重要的， 意义重大的， 意味深长的"
         ],
         "usphone": "sɪɡ'nɪfɪkənt",
         "ukphone": "sɪg'nɪfɪkənt"
     },
     {
-        "name": "bold",
-        "trans": [
+         "en": "bold",
+         "zh": [
             "勇敢的； 鲁莽的； 粗体的， 黑体的； 醒目的"
         ],
         "usphone": "bold",
         "ukphone": "bəuld"
     },
     {
-        "name": "bleed",
-        "trans": [
+         "en": "bleed",
+         "zh": [
             "出血， 流血； 泌脂",
             "勒索…的钱"
         ],
@@ -14124,16 +14125,16 @@
         "ukphone": "bliːd"
     },
     {
-        "name": "delicious",
-        "trans": [
+         "en": "delicious",
+         "zh": [
             "美味的； 芬芳的， 怡人的； 有趣的"
         ],
         "usphone": "dɪ'lɪʃəs",
         "ukphone": "dɪ'lɪʃəs"
     },
     {
-        "name": "catalogue",
-        "trans": [
+         "en": "catalogue",
+         "zh": [
             "目录",
             "为…编目录，把…列入目录中"
         ],
@@ -14141,16 +14142,16 @@
         "ukphone": "'kætəlɒg"
     },
     {
-        "name": "whatever",
-        "trans": [
+         "en": "whatever",
+         "zh": [
             "[用于否定句中以加强语气]任何； 无论什么"
         ],
         "usphone": "wət'ɛvɚ",
         "ukphone": "wɒt'evə"
     },
     {
-        "name": "decrease",
-        "trans": [
+         "en": "decrease",
+         "zh": [
             "减少",
             "减少"
         ],
@@ -14158,8 +14159,8 @@
         "ukphone": "dɪ'kriːs"
     },
     {
-        "name": "volunteer",
-        "trans": [
+         "en": "volunteer",
+         "zh": [
             "自愿提供； 自愿， 志愿",
             "志愿者；志愿兵"
         ],
@@ -14167,32 +14168,32 @@
         "ukphone": "ˌvɒlən'tɪə"
     },
     {
-        "name": "museum",
-        "trans": [
+         "en": "museum",
+         "zh": [
             "博物馆"
         ],
         "usphone": "mjuˈzɪəm",
         "ukphone": "mju'ziːəm"
     },
     {
-        "name": "ignorance",
-        "trans": [
+         "en": "ignorance",
+         "zh": [
             "无知， 愚昧"
         ],
         "usphone": "'ɪɡnərəns",
         "ukphone": "'ɪgnərəns"
     },
     {
-        "name": "senate",
-        "trans": [
+         "en": "senate",
+         "zh": [
             "参议院， 上院"
         ],
         "usphone": "'sɛnət",
         "ukphone": "'senət"
     },
     {
-        "name": "trumpet",
-        "trans": [
+         "en": "trumpet",
+         "zh": [
             "喇叭，小号",
             "大声宣告， 鼓吹"
         ],
@@ -14200,8 +14201,8 @@
         "ukphone": "'trʌmpɪt"
     },
     {
-        "name": "bolt",
-        "trans": [
+         "en": "bolt",
+         "zh": [
             "螺栓，插销",
             "闩门"
         ],
@@ -14209,8 +14210,8 @@
         "ukphone": "bəult"
     },
     {
-        "name": "string",
-        "trans": [
+         "en": "string",
+         "zh": [
             "连成一串； 排成一行前进",
             "线，细绳；一串，一行",
             "缚，扎，挂；串起，穿；使排成一列；伸展，拉直"
@@ -14219,8 +14220,8 @@
         "ukphone": "strɪŋ"
     },
     {
-        "name": "import",
-        "trans": [
+         "en": "import",
+         "zh": [
             "输入， 进口",
             "输入， 进口； 进口商品； 意义， 重要性"
         ],
@@ -14228,16 +14229,16 @@
         "ukphone": "ɪm'pɔːt; 'ɪm-"
     },
     {
-        "name": "occupy",
-        "trans": [
+         "en": "occupy",
+         "zh": [
             "占领， 占， 占有"
         ],
         "usphone": "'ɑkjupaɪ",
         "ukphone": "'ɒkjupaɪ"
     },
     {
-        "name": "submit",
-        "trans": [
+         "en": "submit",
+         "zh": [
             "屈从， 听从， 服从",
             "呈送，提交；主张，建议；使服从，使降服"
         ],
@@ -14245,16 +14246,16 @@
         "ukphone": "səb'mɪt"
     },
     {
-        "name": "mood",
-        "trans": [
+         "en": "mood",
+         "zh": [
             "心情， 情绪； 语气"
         ],
         "usphone": "mud",
         "ukphone": "muːd"
     },
     {
-        "name": "boom",
-        "trans": [
+         "en": "boom",
+         "zh": [
             "激增， 繁荣， 迅速发展； 发出隆隆声",
             "激增，繁荣，迅速发展；隆隆声，嗡嗡声"
         ],
@@ -14262,96 +14263,96 @@
         "ukphone": "buːm"
     },
     {
-        "name": "absence",
-        "trans": [
+         "en": "absence",
+         "zh": [
             "缺席， 不在； 缺席的时间， 外出期； 缺乏， 不存在"
         ],
         "usphone": "'æbsns",
         "ukphone": "'æbsəns"
     },
     {
-        "name": "attract",
-        "trans": [
+         "en": "attract",
+         "zh": [
             "吸引， 引起…注意"
         ],
         "usphone": "ə'trækt",
         "ukphone": "ə'trækt"
     },
     {
-        "name": "edition",
-        "trans": [
+         "en": "edition",
+         "zh": [
             "版， 版本， 版次"
         ],
         "usphone": "ɪ'dɪʃən",
         "ukphone": "ɪ'dɪʃn"
     },
     {
-        "name": "simplicity",
-        "trans": [
+         "en": "simplicity",
+         "zh": [
             "简单， 简易； 朴素"
         ],
         "usphone": "sɪm'plɪsəti",
         "ukphone": "sɪm'plɪsəti"
     },
     {
-        "name": "cautious",
-        "trans": [
+         "en": "cautious",
+         "zh": [
             "十分小心的， 谨慎的"
         ],
         "usphone": "'kɔʃəs",
         "ukphone": "'kɔːʃəs"
     },
     {
-        "name": "disappear",
-        "trans": [
+         "en": "disappear",
+         "zh": [
             "不见， 失踪， 消失"
         ],
         "usphone": "'dɪsə'pɪr",
         "ukphone": "ˌdɪsə'pɪə"
     },
     {
-        "name": "summit",
-        "trans": [
+         "en": "summit",
+         "zh": [
             "最高点， 峰顶； 最高级会议"
         ],
         "usphone": "'sʌmɪt",
         "ukphone": "'sʌmɪt"
     },
     {
-        "name": "recession",
-        "trans": [
+         "en": "recession",
+         "zh": [
             "衰退， 衰退期"
         ],
         "usphone": "rɪ'sɛʃən",
         "ukphone": "rɪ'seʃn"
     },
     {
-        "name": "conclusion",
-        "trans": [
+         "en": "conclusion",
+         "zh": [
             "结论， 推论； 结尾； 缔结， 议定"
         ],
         "usphone": "kən'kluʒn",
         "ukphone": "kən'kluːʒn"
     },
     {
-        "name": "typist",
-        "trans": [
+         "en": "typist",
+         "zh": [
             "打字员"
         ],
         "usphone": "'taɪpɪst",
         "ukphone": "'taɪpɪst"
     },
     {
-        "name": "durable",
-        "trans": [
+         "en": "durable",
+         "zh": [
             "耐久的， 耐用的"
         ],
         "usphone": "'dʊrəbl",
         "ukphone": "'djuərəbl"
     },
     {
-        "name": "negative",
-        "trans": [
+         "en": "negative",
+         "zh": [
             "否定的，消极的；负的；阴性的",
             "负片， 底片； 负数"
         ],
@@ -14359,8 +14360,8 @@
         "ukphone": "'negətɪv"
     },
     {
-        "name": "impose",
-        "trans": [
+         "en": "impose",
+         "zh": [
             "利用， 占便宜； 欺骗",
             "把…强加于；征"
         ],
@@ -14368,8 +14369,8 @@
         "ukphone": "ɪm'pəuz"
     },
     {
-        "name": "ally",
-        "trans": [
+         "en": "ally",
+         "zh": [
             "结盟， 联合",
             "同盟国， 同盟者； 支持者"
         ],
@@ -14377,24 +14378,24 @@
         "ukphone": "'ælaɪ"
     },
     {
-        "name": "statement",
-        "trans": [
+         "en": "statement",
+         "zh": [
             "陈述， 声明； 结算单， 报表"
         ],
         "usphone": "'stetmənt",
         "ukphone": "'steɪtmənt"
     },
     {
-        "name": "hence",
-        "trans": [
+         "en": "hence",
+         "zh": [
             "因此， 所以； 今后"
         ],
         "usphone": "hɛns",
         "ukphone": "hens"
     },
     {
-        "name": "memorial",
-        "trans": [
+         "en": "memorial",
+         "zh": [
             "纪念的，悼念的",
             "纪念碑， 纪念堂， 纪念仪式"
         ],
@@ -14402,24 +14403,24 @@
         "ukphone": "mə'mɔːriəl"
     },
     {
-        "name": "factor",
-        "trans": [
+         "en": "factor",
+         "zh": [
             "因素； 因子； 系数"
         ],
         "usphone": "'fæktɚ",
         "ukphone": "'fæktə"
     },
     {
-        "name": "boot",
-        "trans": [
+         "en": "boot",
+         "zh": [
             "靴子， 长筒靴； 行李箱； 解雇"
         ],
         "usphone": "but",
         "ukphone": "buːt"
     },
     {
-        "name": "pinch",
-        "trans": [
+         "en": "pinch",
+         "zh": [
             "捏，拧",
             "撮， 微量"
         ],
@@ -14427,16 +14428,16 @@
         "ukphone": "pɪntʃ"
     },
     {
-        "name": "delivery",
-        "trans": [
+         "en": "delivery",
+         "zh": [
             "投递， 交付； 分娩； 讲话方式； 投递的邮件"
         ],
         "usphone": "dɪ'lɪvəri",
         "ukphone": "dɪ'lɪvəri"
     },
     {
-        "name": "rack",
-        "trans": [
+         "en": "rack",
+         "zh": [
             "挂架，搁架",
             "使痛苦， 折磨； 尽力使用"
         ],
@@ -14444,48 +14445,48 @@
         "ukphone": "ræk"
     },
     {
-        "name": "election",
-        "trans": [
+         "en": "election",
+         "zh": [
             "选举； 选择权； 当选"
         ],
         "usphone": "ɪ'lɛkʃən",
         "ukphone": "ɪ'lekʃn"
     },
     {
-        "name": "conquer",
-        "trans": [
+         "en": "conquer",
+         "zh": [
             "征服， 战胜； 破除， 克服"
         ],
         "usphone": "'kɑŋkɚ",
         "ukphone": "'kɒŋkə"
     },
     {
-        "name": "learned",
-        "trans": [
+         "en": "learned",
+         "zh": [
             "有学问的； 学术上的"
         ],
         "usphone": "'lɝnd; lɝ​nɪd",
         "ukphone": "'lɜːnɪd"
     },
     {
-        "name": "substance",
-        "trans": [
+         "en": "substance",
+         "zh": [
             "物质； 实质； 大意， 要旨； 根据， 理由"
         ],
         "usphone": "'sʌbstəns",
         "ukphone": "'sʌbstəns"
     },
     {
-        "name": "frown",
-        "trans": [
+         "en": "frown",
+         "zh": [
             "皱眉， 蹙额"
         ],
         "usphone": "fraʊn",
         "ukphone": "fraun"
     },
     {
-        "name": "bond",
-        "trans": [
+         "en": "bond",
+         "zh": [
             "黏合， 结合",
             "联结，联系；公债；契约，合同"
         ],
@@ -14493,8 +14494,8 @@
         "ukphone": "bɒnd"
     },
     {
-        "name": "target",
-        "trans": [
+         "en": "target",
+         "zh": [
             "目标",
             "把…作为目标； 瞄准"
         ],
@@ -14502,8 +14503,8 @@
         "ukphone": "'tɑːgɪt"
     },
     {
-        "name": "wax",
-        "trans": [
+         "en": "wax",
+         "zh": [
             "蜡，蜂蜡",
             "给…上蜡"
         ],
@@ -14511,40 +14512,40 @@
         "ukphone": "wæks"
     },
     {
-        "name": "grind",
-        "trans": [
+         "en": "grind",
+         "zh": [
             "磨， 磨快"
         ],
         "usphone": "ɡraɪnd",
         "ukphone": "graɪnd"
     },
     {
-        "name": "urban",
-        "trans": [
+         "en": "urban",
+         "zh": [
             "城市的， 都市的； 住在都市的"
         ],
         "usphone": "'ɝbən",
         "ukphone": "'ɜːbən"
     },
     {
-        "name": "furthermore",
-        "trans": [
+         "en": "furthermore",
+         "zh": [
             "而且， 此外"
         ],
         "usphone": ",fɝðɚ'mɔr",
         "ukphone": "ˌfɜːðə'mɔː"
     },
     {
-        "name": "guidance",
-        "trans": [
+         "en": "guidance",
+         "zh": [
             "引导， 指导， 领导"
         ],
         "usphone": "'gaɪdns",
         "ukphone": "'gaɪdns"
     },
     {
-        "name": "risk",
-        "trans": [
+         "en": "risk",
+         "zh": [
             "危险，风险；引起危险的事物",
             "冒…的危险， 使遭受危险"
         ],
@@ -14552,48 +14553,48 @@
         "ukphone": "rɪsk"
     },
     {
-        "name": "flame",
-        "trans": [
+         "en": "flame",
+         "zh": [
             "火焰， 光辉； 热情"
         ],
         "usphone": "flem",
         "ukphone": "fleɪm"
     },
     {
-        "name": "container",
-        "trans": [
+         "en": "container",
+         "zh": [
             "容器； 集装箱"
         ],
         "usphone": "kən'tenɚ",
         "ukphone": "kən'teɪnə"
     },
     {
-        "name": "leader",
-        "trans": [
+         "en": "leader",
+         "zh": [
             "领袖， 领导人， 首领"
         ],
         "usphone": "'lidɚ",
         "ukphone": "'liːdə"
     },
     {
-        "name": "delicate",
-        "trans": [
+         "en": "delicate",
+         "zh": [
             "纤细的， 易碎的； 微妙的； 精美的"
         ],
         "usphone": "ˈdɛlɪkɪt",
         "ukphone": "'delɪkət"
     },
     {
-        "name": "discard",
-        "trans": [
+         "en": "discard",
+         "zh": [
             "丢弃， 抛弃， 遗弃"
         ],
         "usphone": "dɪsˈkɑːrd",
         "ukphone": "dɪs'kɑːd"
     },
     {
-        "name": "fancy",
-        "trans": [
+         "en": "fancy",
+         "zh": [
             "昂贵的； 别致的",
             "想象力，设想；爱好",
             "喜欢；想象，猜想"
@@ -14602,8 +14603,8 @@
         "ukphone": "'fænsi"
     },
     {
-        "name": "rebel",
-        "trans": [
+         "en": "rebel",
+         "zh": [
             "反叛， 造反； 反对， 不服从",
             "反叛分子， 反对者"
         ],
@@ -14611,8 +14612,8 @@
         "ukphone": "'reb(ə)l"
     },
     {
-        "name": "bounce",
-        "trans": [
+         "en": "bounce",
+         "zh": [
             "弹起，反弹；颠簸",
             "弹， 反弹"
         ],
@@ -14620,40 +14621,40 @@
         "ukphone": "bauns"
     },
     {
-        "name": "usage",
-        "trans": [
+         "en": "usage",
+         "zh": [
             "使用； 对待； 惯用法"
         ],
         "usphone": "'jusɪdʒ",
         "ukphone": "'juːsɪdʒ; 'juːzɪdʒ"
     },
     {
-        "name": "tissue",
-        "trans": [
+         "en": "tissue",
+         "zh": [
             "组织； 薄绢， 薄纸， 手巾纸"
         ],
         "usphone": "'tɪʃu",
         "ukphone": "'tɪʃuː; 'tɪsjuː"
     },
     {
-        "name": "experimental",
-        "trans": [
+         "en": "experimental",
+         "zh": [
             "实验的， 试验的"
         ],
         "usphone": "ɛk'spɛrɪ'mɛntəl",
         "ukphone": "ɪkˌsperɪ'mentl"
     },
     {
-        "name": "loosen",
-        "trans": [
+         "en": "loosen",
+         "zh": [
             "解开； 放松， 松弛"
         ],
         "usphone": "'lusn",
         "ukphone": "'luːsn"
     },
     {
-        "name": "rent",
-        "trans": [
+         "en": "rent",
+         "zh": [
             "租借，租用；出租，出借",
             "租金； 出租"
         ],
@@ -14661,8 +14662,8 @@
         "ukphone": "rent"
     },
     {
-        "name": "nearby",
-        "trans": [
+         "en": "nearby",
+         "zh": [
             "在附近",
             "附近的"
         ],
@@ -14670,32 +14671,32 @@
         "ukphone": "ˌnɪə'baɪ"
     },
     {
-        "name": "carpenter",
-        "trans": [
+         "en": "carpenter",
+         "zh": [
             "木工， 木匠"
         ],
         "usphone": "ˈkɑːrpəntər",
         "ukphone": "'kɑːpəntə"
     },
     {
-        "name": "cart",
-        "trans": [
+         "en": "cart",
+         "zh": [
             "运货马车"
         ],
         "usphone": "kɑrt",
         "ukphone": "kɑːt"
     },
     {
-        "name": "modest",
-        "trans": [
+         "en": "modest",
+         "zh": [
             "谦虚的； 适中的； 羞怯的"
         ],
         "usphone": "'mɑdɪst",
         "ukphone": "'mɒdɪst"
     },
     {
-        "name": "cast",
-        "trans": [
+         "en": "cast",
+         "zh": [
             "投，扔，抛；浇铸",
             "演员表， 全体演员； 石膏绷带； 铸型， 铸件； 投， 抛"
         ],
@@ -14703,40 +14704,40 @@
         "ukphone": "kɑːst"
     },
     {
-        "name": "anxious",
-        "trans": [
+         "en": "anxious",
+         "zh": [
             "忧虑的， 令人焦急的； 渴望的"
         ],
         "usphone": "'æŋkʃəs",
         "ukphone": "'æŋkʃəs"
     },
     {
-        "name": "hatred",
-        "trans": [
+         "en": "hatred",
+         "zh": [
             "憎恶， 憎恨， 仇恨"
         ],
         "usphone": "'hetrɪd",
         "ukphone": "'heɪtrɪd"
     },
     {
-        "name": "crush",
-        "trans": [
+         "en": "crush",
+         "zh": [
             "压碎， 碾碎； 摧毁， 压垮"
         ],
         "usphone": "krʌʃ",
         "ukphone": "krʌʃ"
     },
     {
-        "name": "largely",
-        "trans": [
+         "en": "largely",
+         "zh": [
             "大部分， 大量地"
         ],
         "usphone": "'lɑrdʒli",
         "ukphone": "'lɑːdʒli"
     },
     {
-        "name": "slice",
-        "trans": [
+         "en": "slice",
+         "zh": [
             "薄片，切片；部分",
             "切， 削"
         ],
@@ -14744,8 +14745,8 @@
         "ukphone": "slaɪs"
     },
     {
-        "name": "frost",
-        "trans": [
+         "en": "frost",
+         "zh": [
             "结霜",
             "冰冻，严寒；霜"
         ],
@@ -14753,16 +14754,16 @@
         "ukphone": "frɒst"
     },
     {
-        "name": "electron",
-        "trans": [
+         "en": "electron",
+         "zh": [
             "电子"
         ],
         "usphone": "ɪ'lɛktrɑn",
         "ukphone": "ɪ'lektrɒn"
     },
     {
-        "name": "incline",
-        "trans": [
+         "en": "incline",
+         "zh": [
             "倾斜； 弯； 倾向于",
             "斜坡"
         ],
@@ -14770,16 +14771,16 @@
         "ukphone": "ɪn'klaɪn"
     },
     {
-        "name": "truly",
-        "trans": [
+         "en": "truly",
+         "zh": [
             "真正地； 忠实地"
         ],
         "usphone": "ˈtruːli",
         "ukphone": "'truːli"
     },
     {
-        "name": "cash",
-        "trans": [
+         "en": "cash",
+         "zh": [
             "现金，现款",
             "把…兑现"
         ],
@@ -14787,8 +14788,8 @@
         "ukphone": "kæʃ"
     },
     {
-        "name": "counsel",
-        "trans": [
+         "en": "counsel",
+         "zh": [
             "律师，法律顾问；忠告，劝告",
             "劝告， 提议"
         ],
@@ -14796,40 +14797,40 @@
         "ukphone": "'kaunsl"
     },
     {
-        "name": "item",
-        "trans": [
+         "en": "item",
+         "zh": [
             "条， 条款， 一条"
         ],
         "usphone": "'aɪtəm",
         "ukphone": "'aɪtəm"
     },
     {
-        "name": "gene",
-        "trans": [
+         "en": "gene",
+         "zh": [
             "基因"
         ],
         "usphone": "dʒin",
         "ukphone": "dʒiːn"
     },
     {
-        "name": "liver",
-        "trans": [
+         "en": "liver",
+         "zh": [
             "肝"
         ],
         "usphone": "'lɪvɚ",
         "ukphone": "'lɪvə"
     },
     {
-        "name": "suicide",
-        "trans": [
+         "en": "suicide",
+         "zh": [
             "自杀"
         ],
         "usphone": "'suɪsaɪd",
         "ukphone": "'suːɪsaɪd"
     },
     {
-        "name": "violet",
-        "trans": [
+         "en": "violet",
+         "zh": [
             "紫色的",
             "紫罗兰"
         ],
@@ -14837,48 +14838,48 @@
         "ukphone": "'vaɪələt"
     },
     {
-        "name": "hollow",
-        "trans": [
+         "en": "hollow",
+         "zh": [
             "空的， 空洞的； 沉闷的； 虚伪的"
         ],
         "usphone": "'hɑlo",
         "ukphone": "'hɒləu"
     },
     {
-        "name": "trunk",
-        "trans": [
+         "en": "trunk",
+         "zh": [
             "树干； 大衣箱， 皮箱； 汽车后备箱； 象鼻"
         ],
         "usphone": "trʌŋk",
         "ukphone": "trʌŋk"
     },
     {
-        "name": "saving",
-        "trans": [
+         "en": "saving",
+         "zh": [
             "节省， 节约； 储蓄金， 存款"
         ],
         "usphone": "'sevɪŋ",
         "ukphone": "'seɪvɪŋ"
     },
     {
-        "name": "rely",
-        "trans": [
+         "en": "rely",
+         "zh": [
             "依靠， 依赖； 信赖， 指望"
         ],
         "usphone": "rɪ'laɪ",
         "ukphone": "rɪ'laɪ"
     },
     {
-        "name": "hospitalize",
-        "trans": [
+         "en": "hospitalize",
+         "zh": [
             "就医"
         ],
         "usphone": "'hɑspɪtə'laɪz",
         "ukphone": "'hɒspɪtəlaɪz"
     },
     {
-        "name": "slide",
-        "trans": [
+         "en": "slide",
+         "zh": [
             "滑；悄悄地移动",
             "滑动； 滑道， 滑面； 幻灯片"
         ],
@@ -14886,64 +14887,64 @@
         "ukphone": "slaɪd"
     },
     {
-        "name": "utilize",
-        "trans": [
+         "en": "utilize",
+         "zh": [
             "利用"
         ],
         "usphone": "'juːtəlaɪz",
         "ukphone": "'juːtəlaɪz"
     },
     {
-        "name": "sticky",
-        "trans": [
+         "en": "sticky",
+         "zh": [
             "黏性的， 胶黏的；  湿热的"
         ],
         "usphone": "'stɪki",
         "ukphone": "'stɪki"
     },
     {
-        "name": "prevail",
-        "trans": [
+         "en": "prevail",
+         "zh": [
             "流行， 盛行"
         ],
         "usphone": "pri'vel",
         "ukphone": "prɪ'veɪl"
     },
     {
-        "name": "waist",
-        "trans": [
+         "en": "waist",
+         "zh": [
             "腰， 腰部"
         ],
         "usphone": "west",
         "ukphone": "weɪst"
     },
     {
-        "name": "excessive",
-        "trans": [
+         "en": "excessive",
+         "zh": [
             "过多的， 极度的"
         ],
         "usphone": "ɪkˈsɛsɪv",
         "ukphone": "ɪk'sesɪv"
     },
     {
-        "name": "flesh",
-        "trans": [
+         "en": "flesh",
+         "zh": [
             "肉， 肌肉， 肉体"
         ],
         "usphone": "flɛʃ",
         "ukphone": "fleʃ"
     },
     {
-        "name": "jungle",
-        "trans": [
+         "en": "jungle",
+         "zh": [
             "丛林， 密林， 莽丛； 乱七八糟的一堆"
         ],
         "usphone": "'dʒʌŋɡl",
         "ukphone": "'dʒʌŋgl"
     },
     {
-        "name": "portion",
-        "trans": [
+         "en": "portion",
+         "zh": [
             "一部分，一份",
             "分配， 把…分给"
         ],
@@ -14951,16 +14952,16 @@
         "ukphone": "'pɔːʃn"
     },
     {
-        "name": "settle",
-        "trans": [
+         "en": "settle",
+         "zh": [
             "安排， 安放； 调停； 支付， 核算； 安家； 飞落， 停留； 安定"
         ],
         "usphone": "'sɛtl",
         "ukphone": "'setl"
     },
     {
-        "name": "pattern",
-        "trans": [
+         "en": "pattern",
+         "zh": [
             "型，式样，模型",
             "仿制， 使照…样子"
         ],
@@ -14968,32 +14969,32 @@
         "ukphone": "'pætn"
     },
     {
-        "name": "harsh",
-        "trans": [
+         "en": "harsh",
+         "zh": [
             "严厉的； 粗糙的"
         ],
         "usphone": "hɑrʃ",
         "ukphone": "hɑːʃ"
     },
     {
-        "name": "connexion",
-        "trans": [
+         "en": "connexion",
+         "zh": [
             "connection的英式拼法"
         ],
         "usphone": "kə'nekʃən",
         "ukphone": "kə'nekʃn"
     },
     {
-        "name": "vehicle",
-        "trans": [
+         "en": "vehicle",
+         "zh": [
             "车辆， 机动车； 传播媒介， 工具， 手段"
         ],
         "usphone": "ˈviəkəl",
         "ukphone": "'viːəkl"
     },
     {
-        "name": "scrape",
-        "trans": [
+         "en": "scrape",
+         "zh": [
             "刮，擦",
             "刮， 擦； 刮擦声"
         ],
@@ -15001,72 +15002,72 @@
         "ukphone": "skreɪp"
     },
     {
-        "name": "hardship",
-        "trans": [
+         "en": "hardship",
+         "zh": [
             "艰难， 困苦"
         ],
         "usphone": "'hɑrdʃɪp",
         "ukphone": "'hɑːdʃɪp"
     },
     {
-        "name": "confuse",
-        "trans": [
+         "en": "confuse",
+         "zh": [
             "使困惑， 把…弄糊涂； 混淆， 把…混同； 混乱， 搞乱"
         ],
         "usphone": "kən'fjʊz",
         "ukphone": "kən'fjuːz"
     },
     {
-        "name": "cushion",
-        "trans": [
+         "en": "cushion",
+         "zh": [
             "垫子， 坐垫， 靠垫"
         ],
         "usphone": "'kʊʃən",
         "ukphone": "'kuʃn"
     },
     {
-        "name": "scold",
-        "trans": [
+         "en": "scold",
+         "zh": [
             "责骂， 训斥"
         ],
         "usphone": "skold",
         "ukphone": "skəuld"
     },
     {
-        "name": "glorious",
-        "trans": [
+         "en": "glorious",
+         "zh": [
             "光荣的； 壮丽的； 令人愉快的"
         ],
         "usphone": "'ɡlɔriəs; 'ɡloriəs",
         "ukphone": "'glɔːriəs"
     },
     {
-        "name": "civilize",
-        "trans": [
+         "en": "civilize",
+         "zh": [
             "使文明， 使开化， 教育"
         ],
         "usphone": "'sɪvəlaɪz",
         "ukphone": "'sɪvəlaɪz"
     },
     {
-        "name": "physician",
-        "trans": [
+         "en": "physician",
+         "zh": [
             "内科医生"
         ],
         "usphone": "fɪ'zɪʃən",
         "ukphone": "fɪ'zɪʃn"
     },
     {
-        "name": "architecture",
-        "trans": [
+         "en": "architecture",
+         "zh": [
             "建筑学； 建筑式样， 建筑风格"
         ],
         "usphone": "'ɑrkə'tɛktʃɚ",
         "ukphone": "'ɑːkɪtektʃə"
     },
     {
-        "name": "stress",
-        "trans": [
+         "en": "stress",
+         "zh": [
             "压力；强调；重要性；应力；重音",
             "强调， 着重； 重读"
         ],
@@ -15074,8 +15075,8 @@
         "ukphone": "stres"
     },
     {
-        "name": "grip",
-        "trans": [
+         "en": "grip",
+         "zh": [
             "握紧，抓牢；吸引住",
             "紧握"
         ],
@@ -15083,48 +15084,48 @@
         "ukphone": "grɪp"
     },
     {
-        "name": "explore",
-        "trans": [
+         "en": "explore",
+         "zh": [
             "探险， 探索； 仔细查阅， 探究"
         ],
         "usphone": "ɪk'splɔr",
         "ukphone": "ɪk'splɔː"
     },
     {
-        "name": "display",
-        "trans": [
+         "en": "display",
+         "zh": [
             "陈列， 展览， 显示"
         ],
         "usphone": "dɪ'sple",
         "ukphone": "dɪ'spleɪ"
     },
     {
-        "name": "electricity",
-        "trans": [
+         "en": "electricity",
+         "zh": [
             "电"
         ],
         "usphone": "ɪ'lɛk'trɪsəti",
         "ukphone": "ɪˌlek'trɪsəti"
     },
     {
-        "name": "climate",
-        "trans": [
+         "en": "climate",
+         "zh": [
             "气候； 风土， 地带； 风气， 气氛"
         ],
         "usphone": "ˈklaɪmɪt",
         "ukphone": "'klaɪmət"
     },
     {
-        "name": "conductor",
-        "trans": [
+         "en": "conductor",
+         "zh": [
             "售票员， 列车长； 指挥； 导体"
         ],
         "usphone": "kən'dʌktɚ",
         "ukphone": "kən'dʌktə"
     },
     {
-        "name": "bore",
-        "trans": [
+         "en": "bore",
+         "zh": [
             "使厌烦；钻，挖",
             "令人讨厌的人"
         ],
@@ -15132,40 +15133,40 @@
         "ukphone": "bɔː"
     },
     {
-        "name": "crust",
-        "trans": [
+         "en": "crust",
+         "zh": [
             "面包皮， 硬外皮； 外壳， 地壳"
         ],
         "usphone": "krʌst",
         "ukphone": "krʌst"
     },
     {
-        "name": "disorder",
-        "trans": [
+         "en": "disorder",
+         "zh": [
             "混乱， 杂乱， 骚乱"
         ],
         "usphone": "dɪs'ɔrdɚ",
         "ukphone": "dɪs'ɔːdə"
     },
     {
-        "name": "criticize",
-        "trans": [
+         "en": "criticize",
+         "zh": [
             "批评； 评论； 非难"
         ],
         "usphone": "'krɪtə'saɪz",
         "ukphone": "'krɪtɪsaɪz"
     },
     {
-        "name": "organization",
-        "trans": [
+         "en": "organization",
+         "zh": [
             "组织， 团体， 机构"
         ],
         "usphone": ",ɔrɡənə'zeʃən",
         "ukphone": "ˌɔːgənaɪ'zeɪʃn"
     },
     {
-        "name": "rage",
-        "trans": [
+         "en": "rage",
+         "zh": [
             "狂吹； 汹涌； 激烈进行； 发怒， 发火",
             "狂怒，盛怒；风靡一时的事物，时尚"
         ],
@@ -15173,16 +15174,16 @@
         "ukphone": "reɪdʒ"
     },
     {
-        "name": "width",
-        "trans": [
+         "en": "width",
+         "zh": [
             "宽阔， 广阔； 宽度"
         ],
         "usphone": "wɪdθ",
         "ukphone": "wɪdθ"
     },
     {
-        "name": "dairy",
-        "trans": [
+         "en": "dairy",
+         "zh": [
             "乳制品的",
             "牛奶场；乳制品"
         ],
@@ -15190,8 +15191,8 @@
         "ukphone": "'deəri"
     },
     {
-        "name": "board",
-        "trans": [
+         "en": "board",
+         "zh": [
             "搭伙； 膳宿",
             "板，牌子；木板，纸板；委员会，董事会；伙食",
             "上"
@@ -15200,8 +15201,8 @@
         "ukphone": "bɔːd"
     },
     {
-        "name": "economic",
-        "trans": [
+         "en": "economic",
+         "zh": [
             "经济的，经济学的",
             "经济学； 经济状况"
         ],
@@ -15209,8 +15210,8 @@
         "ukphone": "ˌiːkə'nɒmɪk"
     },
     {
-        "name": "stuff",
-        "trans": [
+         "en": "stuff",
+         "zh": [
             "材料，东西",
             "装， 填， 塞； 让…吃饱"
         ],
@@ -15218,8 +15219,8 @@
         "ukphone": "stʌf"
     },
     {
-        "name": "arrest",
-        "trans": [
+         "en": "arrest",
+         "zh": [
             "逮捕，拘留；停止，阻止；吸引",
             "逮捕， 拘留， 扣留"
         ],
@@ -15227,24 +15228,24 @@
         "ukphone": "ə'rest"
     },
     {
-        "name": "widow",
-        "trans": [
+         "en": "widow",
+         "zh": [
             "寡妇"
         ],
         "usphone": "'wɪdo",
         "ukphone": "'wɪdəu"
     },
     {
-        "name": "distinction",
-        "trans": [
+         "en": "distinction",
+         "zh": [
             "差别， 不同， 区分"
         ],
         "usphone": "dɪ'stɪŋkʃən",
         "ukphone": "dɪ'stɪŋkʃn"
     },
     {
-        "name": "mature",
-        "trans": [
+         "en": "mature",
+         "zh": [
             "成熟的；成年人的；深思熟虑的；到期的，应支付的",
             "使成熟"
         ],
@@ -15252,32 +15253,32 @@
         "ukphone": "mə'tju; mə'tʃuə"
     },
     {
-        "name": "navy",
-        "trans": [
+         "en": "navy",
+         "zh": [
             "海军"
         ],
         "usphone": "'nevi",
         "ukphone": "'neɪvi"
     },
     {
-        "name": "fee",
-        "trans": [
+         "en": "fee",
+         "zh": [
             "费； 酬金， 赏金"
         ],
         "usphone": "fi",
         "ukphone": "fiː"
     },
     {
-        "name": "section",
-        "trans": [
+         "en": "section",
+         "zh": [
             "部分， 章节； 部门， 科； 截面， 剖面"
         ],
         "usphone": "'sɛkʃən",
         "ukphone": "'sekʃn"
     },
     {
-        "name": "influence",
-        "trans": [
+         "en": "influence",
+         "zh": [
             "影响，作用；影响力，势力；产生影响力的人",
             "影响"
         ],
@@ -15285,8 +15286,8 @@
         "ukphone": "'ɪnfluəns"
     },
     {
-        "name": "whip",
-        "trans": [
+         "en": "whip",
+         "zh": [
             "鞭笞；猛地移动；搅打成糊状",
             "鞭子"
         ],
@@ -15294,64 +15295,64 @@
         "ukphone": "wɪp"
     },
     {
-        "name": "protocol",
-        "trans": [
+         "en": "protocol",
+         "zh": [
             "礼仪， 礼节； 草案， 议定书"
         ],
         "usphone": "'protə'kɔl",
         "ukphone": "'prəutəkɒl"
     },
     {
-        "name": "whale",
-        "trans": [
+         "en": "whale",
+         "zh": [
             "鲸"
         ],
         "usphone": "wel",
         "ukphone": "weɪl"
     },
     {
-        "name": "provoke",
-        "trans": [
+         "en": "provoke",
+         "zh": [
             "对…挑衅， 激怒； 激起， 引起"
         ],
         "usphone": "prə'vok",
         "ukphone": "prə'vəuk"
     },
     {
-        "name": "threaten",
-        "trans": [
+         "en": "threaten",
+         "zh": [
             "威胁， 恐吓； 预示快要来临， 是…的征兆； 构成威胁； 可能发生"
         ],
         "usphone": "'θrɛtn",
         "ukphone": "'θretn"
     },
     {
-        "name": "talent",
-        "trans": [
+         "en": "talent",
+         "zh": [
             "天才， 才能； 人才"
         ],
         "usphone": "'tælənt",
         "ukphone": "'tælənt"
     },
     {
-        "name": "percentage",
-        "trans": [
+         "en": "percentage",
+         "zh": [
             "百分比， 百分率"
         ],
         "usphone": "pɚ'sɛntɪdʒ",
         "ukphone": "pə'sentɪdʒ"
     },
     {
-        "name": "negotiate",
-        "trans": [
+         "en": "negotiate",
+         "zh": [
             "洽谈， 协商； 顺利通过， 成功越过； 协商， 谈判"
         ],
         "usphone": "nɪ'ɡoʃɪet",
         "ukphone": "nɪ'gəuʃieɪt"
     },
     {
-        "name": "strain",
-        "trans": [
+         "en": "strain",
+         "zh": [
             "扭伤， 拉伤； 尽力； 拉紧",
             "拉紧；过劳；极度紧张；张力；扭伤，拉伤；旋律；品种，家系；气质，个性特点"
         ],
@@ -15359,32 +15360,32 @@
         "ukphone": "streɪn"
     },
     {
-        "name": "hunt",
-        "trans": [
+         "en": "hunt",
+         "zh": [
             "打猎； 搜寻； 驱逐"
         ],
         "usphone": "hʌnt",
         "ukphone": "hʌnt"
     },
     {
-        "name": "violin",
-        "trans": [
+         "en": "violin",
+         "zh": [
             "小提琴"
         ],
         "usphone": ",vaɪə'lɪn",
         "ukphone": "ˌvaɪə'lɪn"
     },
     {
-        "name": "remonstrate",
-        "trans": [
+         "en": "remonstrate",
+         "zh": [
             "抗议"
         ],
         "usphone": "rɪ'mɑnstret",
         "ukphone": "'remənstreɪt"
     },
     {
-        "name": "package",
-        "trans": [
+         "en": "package",
+         "zh": [
             "包裹，包装；一揽子交易",
             "把…打包； 包装"
         ],
@@ -15392,24 +15393,24 @@
         "ukphone": "'pækɪdʒ"
     },
     {
-        "name": "visible",
-        "trans": [
+         "en": "visible",
+         "zh": [
             "可见的， 看得见的， 有形的"
         ],
         "usphone": "'vɪzəbl",
         "ukphone": "'vɪzəbl"
     },
     {
-        "name": "crisis",
-        "trans": [
+         "en": "crisis",
+         "zh": [
             "危机， 存亡之际； 关键阶段"
         ],
         "usphone": "'kraɪsɪs",
         "ukphone": "'kraɪsɪs"
     },
     {
-        "name": "rail",
-        "trans": [
+         "en": "rail",
+         "zh": [
             "责骂， 抱怨",
             "栏杆，横杆；铁轨，轨道；铁路"
         ],
@@ -15417,48 +15418,48 @@
         "ukphone": "reɪl"
     },
     {
-        "name": "survival",
-        "trans": [
+         "en": "survival",
+         "zh": [
             "幸存； 幸存者， 残存物"
         ],
         "usphone": "sɚ'vaɪvl",
         "ukphone": "sə'vaɪvl"
     },
     {
-        "name": "germ",
-        "trans": [
+         "en": "germ",
+         "zh": [
             "微生物， 细菌； 幼芽"
         ],
         "usphone": "dʒɝm",
         "ukphone": "dʒɜːm"
     },
     {
-        "name": "inner",
-        "trans": [
+         "en": "inner",
+         "zh": [
             "内部的； 内心的"
         ],
         "usphone": "'ɪnɚ",
         "ukphone": "'ɪnə"
     },
     {
-        "name": "market",
-        "trans": [
+         "en": "market",
+         "zh": [
             "市场； 股市； 行情， 销路"
         ],
         "usphone": "'mɑrkɪt",
         "ukphone": "'mɑːkɪt"
     },
     {
-        "name": "keen",
-        "trans": [
+         "en": "keen",
+         "zh": [
             "热心的； 激烈的； 敏锐的， 敏捷的"
         ],
         "usphone": "kin",
         "ukphone": "kiːn"
     },
     {
-        "name": "glimpse",
-        "trans": [
+         "en": "glimpse",
+         "zh": [
             "看一眼，一瞥",
             "瞥见",
             "一瞥， 一看"
@@ -15467,48 +15468,48 @@
         "ukphone": "glɪmps"
     },
     {
-        "name": "detective",
-        "trans": [
+         "en": "detective",
+         "zh": [
             "侦探， 私人侦探"
         ],
         "usphone": "dɪ'tɛktɪv",
         "ukphone": "dɪ'tektɪv"
     },
     {
-        "name": "transfer",
-        "trans": [
+         "en": "transfer",
+         "zh": [
             "搬， 转移； 调动， 转学； 转让， 过户； 乘车， 转乘"
         ],
         "usphone": "træns'fɝ",
         "ukphone": "træns'fɜː"
     },
     {
-        "name": "footstep",
-        "trans": [
+         "en": "footstep",
+         "zh": [
             "脚步， 脚步声， 足迹"
         ],
         "usphone": "'fʊtstɛp",
         "ukphone": "'futstep"
     },
     {
-        "name": "veteran",
-        "trans": [
+         "en": "veteran",
+         "zh": [
             "老兵， 老手"
         ],
         "usphone": "'vɛtərən",
         "ukphone": "'vetərən"
     },
     {
-        "name": "indifferent",
-        "trans": [
+         "en": "indifferent",
+         "zh": [
             "冷漠的， 不积极的； 一般的， 平平的"
         ],
         "usphone": "ɪn'dɪfrənt",
         "ukphone": "ɪn'dɪfrənt"
     },
     {
-        "name": "outside",
-        "trans": [
+         "en": "outside",
+         "zh": [
             "外部的",
             "在…的外面； 向…的外面； 除…以外",
             "外部，外表"
@@ -15517,32 +15518,32 @@
         "ukphone": "ˌaut'saɪd"
     },
     {
-        "name": "nerve",
-        "trans": [
+         "en": "nerve",
+         "zh": [
             "神经； 勇敢， 胆量"
         ],
         "usphone": "nɝv",
         "ukphone": "nɜːv"
     },
     {
-        "name": "affection",
-        "trans": [
+         "en": "affection",
+         "zh": [
             "感情； 爱， 爱慕"
         ],
         "usphone": "ə'fɛkʃən",
         "ukphone": "ə'fekʃn"
     },
     {
-        "name": "eagle",
-        "trans": [
+         "en": "eagle",
+         "zh": [
             "鹰"
         ],
         "usphone": "'igl",
         "ukphone": "'iːgl"
     },
     {
-        "name": "cruise",
-        "trans": [
+         "en": "cruise",
+         "zh": [
             "航游，巡航；缓慢巡行",
             "航游， 游弋"
         ],
@@ -15550,104 +15551,104 @@
         "ukphone": "kruːz"
     },
     {
-        "name": "elementary",
-        "trans": [
+         "en": "elementary",
+         "zh": [
             "基本的， 初级的"
         ],
         "usphone": ",ɛlɪ'mɛntri",
         "ukphone": "ˌelɪ'mentri"
     },
     {
-        "name": "topic",
-        "trans": [
+         "en": "topic",
+         "zh": [
             "题目， 论题， 话题"
         ],
         "usphone": "'tɑpɪk",
         "ukphone": "'tɒpɪk"
     },
     {
-        "name": "solemn",
-        "trans": [
+         "en": "solemn",
+         "zh": [
             "庄严的， 隆重的； 严肃的"
         ],
         "usphone": "'sɑləm",
         "ukphone": "'sɒləm"
     },
     {
-        "name": "perceive",
-        "trans": [
+         "en": "perceive",
+         "zh": [
             "感知， 感觉， 察觉； 认识到， 意识到； 理解"
         ],
         "usphone": "pɚ'siv",
         "ukphone": "pə'siːv"
     },
     {
-        "name": "omit",
-        "trans": [
+         "en": "omit",
+         "zh": [
             "省略； 遗漏"
         ],
         "usphone": "ə'mɪt",
         "ukphone": "ə'mɪt"
     },
     {
-        "name": "embarrass",
-        "trans": [
+         "en": "embarrass",
+         "zh": [
             "使窘迫， 使为难"
         ],
         "usphone": "ɪm'bærəs",
         "ukphone": "ɪm'bærəs"
     },
     {
-        "name": "option",
-        "trans": [
+         "en": "option",
+         "zh": [
             "选择， 选择权， 选择自由； 选择的事物或人， 选课"
         ],
         "usphone": "'ɑpʃən",
         "ukphone": "'ɒpʃn"
     },
     {
-        "name": "erroneous",
-        "trans": [
+         "en": "erroneous",
+         "zh": [
             "错误的， 不正确的"
         ],
         "usphone": "ɪ'ronɪəs",
         "ukphone": "ɪ'rəuniəs"
     },
     {
-        "name": "raid",
-        "trans": [
+         "en": "raid",
+         "zh": [
             "袭击； 突入查抄， 突入搜捕； 劫掠"
         ],
         "usphone": "red",
         "ukphone": "reɪd"
     },
     {
-        "name": "politics",
-        "trans": [
+         "en": "politics",
+         "zh": [
             "政治， 政治学； 政纲， 政见"
         ],
         "usphone": "'pɑlətɪks",
         "ukphone": "'pɒlətɪks"
     },
     {
-        "name": "acute",
-        "trans": [
+         "en": "acute",
+         "zh": [
             "严重的； 急性的； 灵敏的， 敏锐的； 精明的"
         ],
         "usphone": "ə'kjut",
         "ukphone": "ə'kjuːt"
     },
     {
-        "name": "limitation",
-        "trans": [
+         "en": "limitation",
+         "zh": [
             "限制， 限度； 局限"
         ],
         "usphone": ",lɪmɪ'teʃən",
         "ukphone": "ˌlɪmɪ'teɪʃn"
     },
     {
-        "name": "sponsor",
-        "trans": [
+         "en": "sponsor",
+         "zh": [
             "发起者",
             "发起； 资助， 赞助； 支持"
         ],
@@ -15655,64 +15656,64 @@
         "ukphone": "'spɒnsə"
     },
     {
-        "name": "kindergarten",
-        "trans": [
+         "en": "kindergarten",
+         "zh": [
             "幼儿园"
         ],
         "usphone": "'kɪndɚɡɑrtn",
         "ukphone": "'kɪndəgɑːtn"
     },
     {
-        "name": "unexpected",
-        "trans": [
+         "en": "unexpected",
+         "zh": [
             "想不到的， 意外的"
         ],
         "usphone": "'ʌnɪk'spɛktɪd",
         "ukphone": "ˌʌnɪk'spektɪd"
     },
     {
-        "name": "crucial",
-        "trans": [
+         "en": "crucial",
+         "zh": [
             "至关重要的， 决定性的"
         ],
         "usphone": "'krʊʃəl",
         "ukphone": "'kruːʃl"
     },
     {
-        "name": "contribute",
-        "trans": [
+         "en": "contribute",
+         "zh": [
             "捐献， 捐款； 投稿"
         ],
         "usphone": "kən'trɪbjut",
         "ukphone": "kən'trɪbjuːt"
     },
     {
-        "name": "faith",
-        "trans": [
+         "en": "faith",
+         "zh": [
             "信任； 信心； 信仰， 信条； 忠诚"
         ],
         "usphone": "feθ",
         "ukphone": "feɪθ"
     },
     {
-        "name": "generator",
-        "trans": [
+         "en": "generator",
+         "zh": [
             "发电机； 发生器"
         ],
         "usphone": "'dʒɛnəretɚ",
         "ukphone": "'dʒenəreɪtə"
     },
     {
-        "name": "insert",
-        "trans": [
+         "en": "insert",
+         "zh": [
             "插入， 嵌入； 登载"
         ],
         "usphone": "'ɪnsɝt",
         "ukphone": "ɪn'sɜːt"
     },
     {
-        "name": "remark",
-        "trans": [
+         "en": "remark",
+         "zh": [
             "说；评论说",
             "话语； 谈论， 评论"
         ],
@@ -15720,32 +15721,32 @@
         "ukphone": "rɪ'mɑːk"
     },
     {
-        "name": "forbid",
-        "trans": [
+         "en": "forbid",
+         "zh": [
             "禁止， 不许， 阻止"
         ],
         "usphone": "fɚ'bɪd",
         "ukphone": "fə'bɪd"
     },
     {
-        "name": "microscope",
-        "trans": [
+         "en": "microscope",
+         "zh": [
             "显微镜"
         ],
         "usphone": "'maɪkrəskop",
         "ukphone": "'maɪkrəskəup"
     },
     {
-        "name": "necessarily",
-        "trans": [
+         "en": "necessarily",
+         "zh": [
             "必要地； 必然"
         ],
         "usphone": ",nɛsə'sɛrəli",
         "ukphone": "'nesəsərəli; ˌnesə'serəli"
     },
     {
-        "name": "highlight",
-        "trans": [
+         "en": "highlight",
+         "zh": [
             "强调，突出，使显著",
             "最精彩的部分； 最重要的事件"
         ],
@@ -15753,24 +15754,24 @@
         "ukphone": "'haɪlaɪt"
     },
     {
-        "name": "candidate",
-        "trans": [
+         "en": "candidate",
+         "zh": [
             "候选人； 投考者， 申请求职者"
         ],
         "usphone": "ˈkændɪˌdet, -dɪt",
         "ukphone": "'kændɪdeɪt; 'kændɪdət"
     },
     {
-        "name": "billion",
-        "trans": [
+         "en": "billion",
+         "zh": [
             "十亿"
         ],
         "usphone": "'bɪljən",
         "ukphone": "'bɪljən"
     },
     {
-        "name": "parallel",
-        "trans": [
+         "en": "parallel",
+         "zh": [
             "平行的；类似的；并列的，并联的",
             "可相比拟的事物；相似处；平行线，平行面；纬线",
             "与…平行； 与…相似， 与…相当， 比得上"
@@ -15779,8 +15780,8 @@
         "ukphone": "'pærəlel"
     },
     {
-        "name": "reject",
-        "trans": [
+         "en": "reject",
+         "zh": [
             "拒绝； 拒纳， 退回",
             "次品"
         ],
@@ -15788,8 +15789,8 @@
         "ukphone": "rɪ'dʒekt"
     },
     {
-        "name": "patient",
-        "trans": [
+         "en": "patient",
+         "zh": [
             "忍耐的，有耐心的",
             "病人"
         ],
@@ -15797,16 +15798,16 @@
         "ukphone": "'peɪʃnt"
     },
     {
-        "name": "cashier",
-        "trans": [
+         "en": "cashier",
+         "zh": [
             "出纳"
         ],
         "usphone": "kæ'ʃɪr",
         "ukphone": "kæ'ʃɪə"
     },
     {
-        "name": "sheer",
-        "trans": [
+         "en": "sheer",
+         "zh": [
             "垂直地，陡峭地",
             "急转向， 偏离",
             "完全的，十足的；陡峭的，垂直的；极薄的，透明的"
@@ -15815,16 +15816,16 @@
         "ukphone": "ʃɪə"
     },
     {
-        "name": "miracle",
-        "trans": [
+         "en": "miracle",
+         "zh": [
             "奇迹， 令人惊奇的人"
         ],
         "usphone": "'mɪrəkl",
         "ukphone": "'mɪrəkl"
     },
     {
-        "name": "profit",
-        "trans": [
+         "en": "profit",
+         "zh": [
             "受益",
             "益处；利润，收益",
             "有益于，有利于"
@@ -15833,8 +15834,8 @@
         "ukphone": "'prɒfɪt"
     },
     {
-        "name": "original",
-        "trans": [
+         "en": "original",
+         "zh": [
             "最初的；新颖的；原版的",
             "原件， 原作"
         ],
@@ -15842,40 +15843,40 @@
         "ukphone": "ə'rɪdʒənl"
     },
     {
-        "name": "wit",
-        "trans": [
+         "en": "wit",
+         "zh": [
             "风趣； 妙语； 智力， 才智， 智能"
         ],
         "usphone": "wɪt",
         "ukphone": "wɪt"
     },
     {
-        "name": "handful",
-        "trans": [
+         "en": "handful",
+         "zh": [
             "一把， 少数， 一小撮"
         ],
         "usphone": "'hænd,fʊl",
         "ukphone": "'hændful"
     },
     {
-        "name": "assignment",
-        "trans": [
+         "en": "assignment",
+         "zh": [
             "任务， 指定的作业； 分配， 指派"
         ],
         "usphone": "ə'saɪnmənt",
         "ukphone": "ə'saɪnmənt"
     },
     {
-        "name": "nylon",
-        "trans": [
+         "en": "nylon",
+         "zh": [
             "尼龙"
         ],
         "usphone": "'naɪlɑn",
         "ukphone": "'naɪlɒn"
     },
     {
-        "name": "yawn",
-        "trans": [
+         "en": "yawn",
+         "zh": [
             "打呵欠",
             "呵欠"
         ],
@@ -15883,16 +15884,16 @@
         "ukphone": "jɔːn"
     },
     {
-        "name": "electric",
-        "trans": [
+         "en": "electric",
+         "zh": [
             "电的， 电动的"
         ],
         "usphone": "ɪ'lɛktrɪk",
         "ukphone": "ɪ'lektrɪk"
     },
     {
-        "name": "terminal",
-        "trans": [
+         "en": "terminal",
+         "zh": [
             "晚期的，不治的；末端的，终点的，极限的",
             "终点； 终端； 接线端"
         ],
@@ -15900,64 +15901,64 @@
         "ukphone": "'tɜːmɪnl"
     },
     {
-        "name": "kingdom",
-        "trans": [
+         "en": "kingdom",
+         "zh": [
             "王国； 领域； 界"
         ],
         "usphone": "'kɪŋdəm",
         "ukphone": "'kɪŋdəm"
     },
     {
-        "name": "differ",
-        "trans": [
+         "en": "differ",
+         "zh": [
             "不同， 相异； 发生分歧"
         ],
         "usphone": "'dɪfɚ",
         "ukphone": "'dɪfə"
     },
     {
-        "name": "various",
-        "trans": [
+         "en": "various",
+         "zh": [
             "各种各样的， 不同的"
         ],
         "usphone": "'vɛrɪəs",
         "ukphone": "'veəriəs"
     },
     {
-        "name": "latter",
-        "trans": [
+         "en": "latter",
+         "zh": [
             "后者的； 后一半的"
         ],
         "usphone": "'lætɚ",
         "ukphone": "'lætə"
     },
     {
-        "name": "depression",
-        "trans": [
+         "en": "depression",
+         "zh": [
             "抑郁， 沮丧； 不景气， 萧条； 洼地， 凹陷"
         ],
         "usphone": "dɪ'prɛʃən",
         "ukphone": "dɪ'preʃn"
     },
     {
-        "name": "reduction",
-        "trans": [
+         "en": "reduction",
+         "zh": [
             "减少， 缩小； 下降， 降低"
         ],
         "usphone": "rɪ'dʌkʃən",
         "ukphone": "rɪ'dʌkʃn"
     },
     {
-        "name": "extent",
-        "trans": [
+         "en": "extent",
+         "zh": [
             "广度； 范围； 程度"
         ],
         "usphone": "ɪk'stɛnt",
         "ukphone": "ɪk'stent"
     },
     {
-        "name": "equivalent",
-        "trans": [
+         "en": "equivalent",
+         "zh": [
             "相等的，等量的",
             "相等物， 等价物"
         ],
@@ -15965,8 +15966,8 @@
         "ukphone": "ɪ'kwɪvələnt"
     },
     {
-        "name": "gaol",
-        "trans": [
+         "en": "gaol",
+         "zh": [
             "监禁",
             "监狱"
         ],
@@ -15974,24 +15975,24 @@
         "ukphone": "dʒeɪl"
     },
     {
-        "name": "conversely",
-        "trans": [
+         "en": "conversely",
+         "zh": [
             "相反"
         ],
         "usphone": "'kɑnvɝsli",
         "ukphone": "'kɒnvɜːsli"
     },
     {
-        "name": "sauce",
-        "trans": [
+         "en": "sauce",
+         "zh": [
             "调味汁， 作料"
         ],
         "usphone": "sɔs",
         "ukphone": "sɔːs"
     },
     {
-        "name": "ban",
-        "trans": [
+         "en": "ban",
+         "zh": [
             "取缔，查禁；禁止",
             "禁止， 禁令"
         ],
@@ -15999,8 +16000,8 @@
         "ukphone": "bæn"
     },
     {
-        "name": "fascinate",
-        "trans": [
+         "en": "fascinate",
+         "zh": [
             "有吸引力， 迷人",
             "迷住，强烈吸引"
         ],
@@ -16008,40 +16009,40 @@
         "ukphone": "'fæsɪneɪt"
     },
     {
-        "name": "suffer",
-        "trans": [
+         "en": "suffer",
+         "zh": [
             "遭受， 忍受， 容许； 受痛苦， 受损"
         ],
         "usphone": "'sʌfɚ",
         "ukphone": "'sʌfə"
     },
     {
-        "name": "diplomatic",
-        "trans": [
+         "en": "diplomatic",
+         "zh": [
             "外交的， 从事外交的； 策略的， 有手腕的"
         ],
         "usphone": ",dɪplə'mætɪk",
         "ukphone": "ˌdɪplə'mætɪk"
     },
     {
-        "name": "bat",
-        "trans": [
+         "en": "bat",
+         "zh": [
             "蝙蝠； 球棒， 球拍"
         ],
         "usphone": "bæt",
         "ukphone": "bæt"
     },
     {
-        "name": "neighbourhood",
-        "trans": [
+         "en": "neighbourhood",
+         "zh": [
             "四邻； 附近； 接近"
         ],
         "usphone": "nebɚˌhʊd",
         "ukphone": "'neɪbəhud"
     },
     {
-        "name": "draft",
-        "trans": [
+         "en": "draft",
+         "zh": [
             "草稿；汇票；征兵；通风",
             "起草； 征募"
         ],
@@ -16049,16 +16050,16 @@
         "ukphone": "drɑːft"
     },
     {
-        "name": "complex",
-        "trans": [
+         "en": "complex",
+         "zh": [
             "由许多部分组成的， 复合的； 复杂的， 难懂的"
         ],
         "usphone": "ˈkɑmplɛks;kəmˈplɛks",
         "ukphone": "'kɒmpleks"
     },
     {
-        "name": "rank",
-        "trans": [
+         "en": "rank",
+         "zh": [
             "给…评定等级； 列入， 占特定等级",
             "军衔，职衔；地位，社会阶层；排，行列"
         ],
@@ -16066,16 +16067,16 @@
         "ukphone": "ræŋk"
     },
     {
-        "name": "assumption",
-        "trans": [
+         "en": "assumption",
+         "zh": [
             "假定， 臆断； 担任， 承担"
         ],
         "usphone": "ə'sʌmpʃən",
         "ukphone": "ə'sʌmpʃn"
     },
     {
-        "name": "pension",
-        "trans": [
+         "en": "pension",
+         "zh": [
             "养老金，抚恤金",
             "发给…养老金"
         ],
@@ -16083,8 +16084,8 @@
         "ukphone": "'penʃn"
     },
     {
-        "name": "giant",
-        "trans": [
+         "en": "giant",
+         "zh": [
             "巨大的",
             "巨人，巨物；才智超群的人"
         ],
@@ -16092,8 +16093,8 @@
         "ukphone": "'dʒaɪənt"
     },
     {
-        "name": "fluid",
-        "trans": [
+         "en": "fluid",
+         "zh": [
             "流动的",
             "流体，液体"
         ],
@@ -16101,24 +16102,24 @@
         "ukphone": "'fluːɪd"
     },
     {
-        "name": "bay",
-        "trans": [
+         "en": "bay",
+         "zh": [
             "湾； 分隔间"
         ],
         "usphone": "be",
         "ukphone": "beɪ"
     },
     {
-        "name": "outlet",
-        "trans": [
+         "en": "outlet",
+         "zh": [
             "出口， 出路； 发泄途径"
         ],
         "usphone": "'aʊtlɛt",
         "ukphone": "'autlet"
     },
     {
-        "name": "neglect",
-        "trans": [
+         "en": "neglect",
+         "zh": [
             "疏于照料；疏忽",
             "疏忽"
         ],
@@ -16126,16 +16127,16 @@
         "ukphone": "nɪ'glekt"
     },
     {
-        "name": "addition",
-        "trans": [
+         "en": "addition",
+         "zh": [
             "加， 加法； 附加物"
         ],
         "usphone": "ə'dɪʃən",
         "ukphone": "ə'dɪʃn"
     },
     {
-        "name": "gang",
-        "trans": [
+         "en": "gang",
+         "zh": [
             "聚集， 结成一伙",
             "一帮，一伙"
         ],
@@ -16143,24 +16144,24 @@
         "ukphone": "gæŋ"
     },
     {
-        "name": "shrink",
-        "trans": [
+         "en": "shrink",
+         "zh": [
             "起皱； 收缩； 退缩， 畏缩"
         ],
         "usphone": "ʃrɪŋk",
         "ukphone": "ʃrɪŋk"
     },
     {
-        "name": "ancestor",
-        "trans": [
+         "en": "ancestor",
+         "zh": [
             "祖宗， 祖先； 原型； 先驱"
         ],
         "usphone": "'ænsɛstɚ",
         "ukphone": "'ænsestə"
     },
     {
-        "name": "textile",
-        "trans": [
+         "en": "textile",
+         "zh": [
             "纺织的",
             "纺织品；纺织业"
         ],
@@ -16168,8 +16169,8 @@
         "ukphone": "'tekstaɪl"
     },
     {
-        "name": "former",
-        "trans": [
+         "en": "former",
+         "zh": [
             "在前的",
             "前者"
         ],
@@ -16177,8 +16178,8 @@
         "ukphone": "'fɔːmə"
     },
     {
-        "name": "panic",
-        "trans": [
+         "en": "panic",
+         "zh": [
             "恐慌， 惊慌失措",
             "恐慌，惊慌，慌乱"
         ],
@@ -16186,16 +16187,16 @@
         "ukphone": "'pænɪk"
     },
     {
-        "name": "extend",
-        "trans": [
+         "en": "extend",
+         "zh": [
             "延长， 扩大； 提供， 给予； 伸展， 达到"
         ],
         "usphone": "ɪk'stɛnd",
         "ukphone": "ɪk'stend"
     },
     {
-        "name": "fold",
-        "trans": [
+         "en": "fold",
+         "zh": [
             "折叠，合拢",
             "褶， 折叠的部分"
         ],
@@ -16203,8 +16204,8 @@
         "ukphone": "fəuld"
     },
     {
-        "name": "plastic",
-        "trans": [
+         "en": "plastic",
+         "zh": [
             "塑料的；可塑的",
             "塑料， 塑料制品； 信用卡"
         ],
@@ -16212,16 +16213,16 @@
         "ukphone": "'plæstik"
     },
     {
-        "name": "globe",
-        "trans": [
+         "en": "globe",
+         "zh": [
             "地球， 世界； 地球仪； 球体"
         ],
         "usphone": "ɡlob",
         "ukphone": "gləub"
     },
     {
-        "name": "chemical",
-        "trans": [
+         "en": "chemical",
+         "zh": [
             "化学的",
             "化学制品"
         ],
@@ -16229,80 +16230,80 @@
         "ukphone": "'kemɪkl"
     },
     {
-        "name": "interpretation",
-        "trans": [
+         "en": "interpretation",
+         "zh": [
             "解释； 口译； 艺术处理"
         ],
         "usphone": "ɪn'tɝprɪ'teʃən",
         "ukphone": "ɪnˌtɜːprɪ'teɪʃn"
     },
     {
-        "name": "ax",
-        "trans": [
+         "en": "ax",
+         "zh": [
             "斧子"
         ],
         "usphone": "æks",
         "ukphone": "æks"
     },
     {
-        "name": "intermediate",
-        "trans": [
+         "en": "intermediate",
+         "zh": [
             "中间的； 中级的"
         ],
         "usphone": ",ɪntɚ'midɪət",
         "ukphone": "ˌɪntə'miːdiət"
     },
     {
-        "name": "folk",
-        "trans": [
+         "en": "folk",
+         "zh": [
             "人们； 家属， 亲属； 大伙儿， 各位"
         ],
         "usphone": "fok",
         "ukphone": "fəuk"
     },
     {
-        "name": "consideration",
-        "trans": [
+         "en": "consideration",
+         "zh": [
             "考虑， 思考， 要考虑的事； 体贴， 关心"
         ],
         "usphone": "kən,sɪdə'reʃən",
         "ukphone": "kənˌsɪdə'reɪʃn"
     },
     {
-        "name": "competitive",
-        "trans": [
+         "en": "competitive",
+         "zh": [
             "竞争的， 比赛的； 好竞争的， 求胜心切的； 有竞争力的"
         ],
         "usphone": "kəm'pɛtətɪv",
         "ukphone": "kəm'petətɪv"
     },
     {
-        "name": "enquiry",
-        "trans": [
+         "en": "enquiry",
+         "zh": [
             "询问"
         ],
         "usphone": "ɛnˈkwaɪri, ˈɛnkwəri",
         "ukphone": "ɪn'kwaɪəri"
     },
     {
-        "name": "applause",
-        "trans": [
+         "en": "applause",
+         "zh": [
             "鼓掌， 掌声"
         ],
         "usphone": "ə'plɔz",
         "ukphone": "ə'plɔːz"
     },
     {
-        "name": "frank",
-        "trans": [
+         "en": "frank",
+         "zh": [
             "坦白的， 直率的"
         ],
         "usphone": "fræŋk",
         "ukphone": "fræŋk"
     },
     {
-        "name": "abuse",
-        "trans": [
+         "en": "abuse",
+         "zh": [
             "滥用； 虐待， 伤害； 辱骂， 毁谤",
             "滥用； 虐待， 伤害； 辱骂， 毁谤"
         ],
@@ -16310,16 +16311,16 @@
         "ukphone": "ə'bjuːz"
     },
     {
-        "name": "prove",
-        "trans": [
+         "en": "prove",
+         "zh": [
             "证实， 证明； 结果是"
         ],
         "usphone": "pruv",
         "ukphone": "pruːv"
     },
     {
-        "name": "scheme",
-        "trans": [
+         "en": "scheme",
+         "zh": [
             "密谋， 策划",
             "计划，方案；阴谋"
         ],
@@ -16327,48 +16328,48 @@
         "ukphone": "skiːm"
     },
     {
-        "name": "affect",
-        "trans": [
+         "en": "affect",
+         "zh": [
             "影响； 感动"
         ],
         "usphone": "ə'fɛkt",
         "ukphone": "ə'fekt"
     },
     {
-        "name": "deaf",
-        "trans": [
+         "en": "deaf",
+         "zh": [
             "聋的； 不愿听的"
         ],
         "usphone": "dɛf",
         "ukphone": "def"
     },
     {
-        "name": "admire",
-        "trans": [
+         "en": "admire",
+         "zh": [
             "钦佩， 羡慕； 赞赏， 称赞， 夸奖"
         ],
         "usphone": "ədˈmaɪr",
         "ukphone": "əd'maɪə"
     },
     {
-        "name": "consequently",
-        "trans": [
+         "en": "consequently",
+         "zh": [
             "因此， 因而， 所以"
         ],
         "usphone": "'kɑnsəkwɛntli",
         "ukphone": "'kɒnsɪkwəntli"
     },
     {
-        "name": "virus",
-        "trans": [
+         "en": "virus",
+         "zh": [
             "病毒； 病毒性疾病， 病毒病"
         ],
         "usphone": "'vaɪrəs",
         "ukphone": "'vaɪərəs"
     },
     {
-        "name": "drain",
-        "trans": [
+         "en": "drain",
+         "zh": [
             "排去，放水",
             "耗竭； 排水沟， 排水管"
         ],
@@ -16376,32 +16377,32 @@
         "ukphone": "dreɪn"
     },
     {
-        "name": "isolate",
-        "trans": [
+         "en": "isolate",
+         "zh": [
             "使隔离， 使孤立"
         ],
         "usphone": "aɪslˌet",
         "ukphone": "'aɪsəleɪt"
     },
     {
-        "name": "sailor",
-        "trans": [
+         "en": "sailor",
+         "zh": [
             "水手， 海员"
         ],
         "usphone": "'selɚ",
         "ukphone": "'seɪlə"
     },
     {
-        "name": "amuse",
-        "trans": [
+         "en": "amuse",
+         "zh": [
             "逗…乐， 给…娱乐"
         ],
         "usphone": "ə'mjuz",
         "ukphone": "ə'mjuːz"
     },
     {
-        "name": "inward",
-        "trans": [
+         "en": "inward",
+         "zh": [
             "向内",
             "里面的；内心的"
         ],
@@ -16409,80 +16410,80 @@
         "ukphone": "'ɪnwəd"
     },
     {
-        "name": "responsibility",
-        "trans": [
+         "en": "responsibility",
+         "zh": [
             "责任， 责任心； 职责， 义务"
         ],
         "usphone": "rɪˌspɑːnsəˈbɪləti",
         "ukphone": "rɪˌspɒnsə'bɪləti"
     },
     {
-        "name": "enquire",
-        "trans": [
+         "en": "enquire",
+         "zh": [
             "询问"
         ],
         "usphone": "ɪn'kwaɪr",
         "ukphone": "ɪn'kwaɪə"
     },
     {
-        "name": "civil",
-        "trans": [
+         "en": "civil",
+         "zh": [
             "公民的； 文职的； 民用的； 民事的， 民法的； 文明的"
         ],
         "usphone": "'sɪvl",
         "ukphone": "'sɪvl"
     },
     {
-        "name": "popularity",
-        "trans": [
+         "en": "popularity",
+         "zh": [
             "普及， 流行； 声望"
         ],
         "usphone": ",pɑpju'lærəti",
         "ukphone": "ˌpɒpju'lærəti"
     },
     {
-        "name": "subsequent",
-        "trans": [
+         "en": "subsequent",
+         "zh": [
             "随后的， 后来的"
         ],
         "usphone": "'sʌbsɪkwənt",
         "ukphone": "'sʌbsɪkwənt"
     },
     {
-        "name": "indicate",
-        "trans": [
+         "en": "indicate",
+         "zh": [
             "标示， 表示， 表明"
         ],
         "usphone": "'ɪndɪket",
         "ukphone": "'ɪndɪkeɪt"
     },
     {
-        "name": "scarcely",
-        "trans": [
+         "en": "scarcely",
+         "zh": [
             "几乎不， 简直不； 决不； 刚刚， 才"
         ],
         "usphone": "'skɛrsli",
         "ukphone": "'skeəsli"
     },
     {
-        "name": "panel",
-        "trans": [
+         "en": "panel",
+         "zh": [
             "专门小组； 面， 板； 控制板， 仪表盘"
         ],
         "usphone": "'pænl",
         "ukphone": "'pænl"
     },
     {
-        "name": "outstanding",
-        "trans": [
+         "en": "outstanding",
+         "zh": [
             "突出的， 杰出的； 未解决的； 未偿付的"
         ],
         "usphone": "'aʊt'stændɪŋ",
         "ukphone": "ˌaut'stændɪŋ"
     },
     {
-        "name": "charge",
-        "trans": [
+         "en": "charge",
+         "zh": [
             "索价；控告；充电，充满；向前冲",
             "费用； 管理； 控告， 指责； 电荷， 充电"
         ],
@@ -16490,16 +16491,16 @@
         "ukphone": "tʃɑːdʒ"
     },
     {
-        "name": "sew",
-        "trans": [
+         "en": "sew",
+         "zh": [
             "缝制， 缝纫"
         ],
         "usphone": "so",
         "ukphone": "səu"
     },
     {
-        "name": "oval",
-        "trans": [
+         "en": "oval",
+         "zh": [
             "椭圆形的",
             "椭圆形"
         ],
@@ -16507,24 +16508,24 @@
         "ukphone": "'əuvl"
     },
     {
-        "name": "column",
-        "trans": [
+         "en": "column",
+         "zh": [
             "柱， 支柱， 圆柱； 纵队； 栏， 专栏"
         ],
         "usphone": "'kɑləm",
         "ukphone": "'kɒləm"
     },
     {
-        "name": "procedure",
-        "trans": [
+         "en": "procedure",
+         "zh": [
             "程序， 手续， 步骤"
         ],
         "usphone": "prə'sidʒɚ",
         "ukphone": "prə'siːdʒə"
     },
     {
-        "name": "sample",
-        "trans": [
+         "en": "sample",
+         "zh": [
             "样品，试样，样本",
             "从…抽样； 品尝， 体验"
         ],
@@ -16532,40 +16533,40 @@
         "ukphone": "'sɑːmpl"
     },
     {
-        "name": "integrate",
-        "trans": [
+         "en": "integrate",
+         "zh": [
             "成为一体， 合并"
         ],
         "usphone": "'ɪntɪɡret",
         "ukphone": "'ɪntɪgreɪt"
     },
     {
-        "name": "survivor",
-        "trans": [
+         "en": "survivor",
+         "zh": [
             "生还者； 残存物"
         ],
         "usphone": "sɚ'vaɪvɚ",
         "ukphone": "sə'vaɪvə"
     },
     {
-        "name": "applicant",
-        "trans": [
+         "en": "applicant",
+         "zh": [
             "申请人"
         ],
         "usphone": "'æplɪkənt",
         "ukphone": "'æplɪkənt"
     },
     {
-        "name": "tropical",
-        "trans": [
+         "en": "tropical",
+         "zh": [
             "热带的； 炎热的"
         ],
         "usphone": "'trɑpɪkl",
         "ukphone": "'trɒpɪkl"
     },
     {
-        "name": "partner",
-        "trans": [
+         "en": "partner",
+         "zh": [
             "做…的搭档",
             "伙伴，合伙人，搭档，配偶"
         ],
@@ -16573,24 +16574,24 @@
         "ukphone": "'pɑːtnə"
     },
     {
-        "name": "plunge",
-        "trans": [
+         "en": "plunge",
+         "zh": [
             "纵身投入， 猛冲； 猛跌"
         ],
         "usphone": "plʌndʒ",
         "ukphone": "plʌndʒ"
     },
     {
-        "name": "diagnose",
-        "trans": [
+         "en": "diagnose",
+         "zh": [
             "诊断"
         ],
         "usphone": ",daɪəɡ'nos",
         "ukphone": "'daɪəgnəuz"
     },
     {
-        "name": "somewhat",
-        "trans": [
+         "en": "somewhat",
+         "zh": [
             "有点儿",
             "一点儿"
         ],
@@ -16598,32 +16599,32 @@
         "ukphone": "'sʌmhwɒt"
     },
     {
-        "name": "earnest",
-        "trans": [
+         "en": "earnest",
+         "zh": [
             "认真的， 诚恳的"
         ],
         "usphone": "",
         "ukphone": "'ɜːnɪst"
     },
     {
-        "name": "spider",
-        "trans": [
+         "en": "spider",
+         "zh": [
             "蜘蛛"
         ],
         "usphone": "'spaɪdɚ",
         "ukphone": "'spaɪdə"
     },
     {
-        "name": "interview",
-        "trans": [
+         "en": "interview",
+         "zh": [
             "接见， 会见； 面谈， 面试； 采访"
         ],
         "usphone": "'ɪntɚvju",
         "ukphone": "'ɪntəvjuː"
     },
     {
-        "name": "essential",
-        "trans": [
+         "en": "essential",
+         "zh": [
             "必要的；本质的",
             "要素； 必需品"
         ],
@@ -16631,40 +16632,40 @@
         "ukphone": "ɪ'senʃl"
     },
     {
-        "name": "clarify",
-        "trans": [
+         "en": "clarify",
+         "zh": [
             "澄清， 阐明"
         ],
         "usphone": "'klærəfaɪ",
         "ukphone": "'klærəfaɪ"
     },
     {
-        "name": "furnace",
-        "trans": [
+         "en": "furnace",
+         "zh": [
             "炉子， 熔炉， 鼓风炉"
         ],
         "usphone": "'fɝnɪs",
         "ukphone": "'fɜːnɪs"
     },
     {
-        "name": "ditch",
-        "trans": [
+         "en": "ditch",
+         "zh": [
             "沟， 沟渠， 渠道"
         ],
         "usphone": "dɪtʃ",
         "ukphone": "dɪtʃ"
     },
     {
-        "name": "deck",
-        "trans": [
+         "en": "deck",
+         "zh": [
             "甲板， 舱面； 层面"
         ],
         "usphone": "dɛk",
         "ukphone": "dek"
     },
     {
-        "name": "scare",
-        "trans": [
+         "en": "scare",
+         "zh": [
             "吓， 使害怕； 受惊吓， 感到害怕",
             "惊恐，恐慌"
         ],
@@ -16672,8 +16673,8 @@
         "ukphone": "skeə"
     },
     {
-        "name": "thunder",
-        "trans": [
+         "en": "thunder",
+         "zh": [
             "打雷， 轰隆响； 大声喊， 吼",
             "雷，雷声；擂鼓般的响声，轰隆声"
         ],
@@ -16681,32 +16682,32 @@
         "ukphone": "'θʌndə"
     },
     {
-        "name": "observe",
-        "trans": [
+         "en": "observe",
+         "zh": [
             "注意到， 观察； 评说； 遵守"
         ],
         "usphone": "əb'zɝv",
         "ukphone": "əb'zɜːv"
     },
     {
-        "name": "humorous",
-        "trans": [
+         "en": "humorous",
+         "zh": [
             "幽默的， 诙谐的"
         ],
         "usphone": "'hjumərəs",
         "ukphone": "'hjuːmərəs"
     },
     {
-        "name": "furnish",
-        "trans": [
+         "en": "furnish",
+         "zh": [
             "供应， 提供； 装备"
         ],
         "usphone": "'fɝnɪʃ",
         "ukphone": "'fɜːnɪʃ"
     },
     {
-        "name": "bet",
-        "trans": [
+         "en": "bet",
+         "zh": [
             "打赌；敢说，确信",
             "打赌； 赌金， 赌注"
         ],
@@ -16714,8 +16715,8 @@
         "ukphone": "bet"
     },
     {
-        "name": "contact",
-        "trans": [
+         "en": "contact",
+         "zh": [
             "接触；联系，交往",
             "与…接触， 与…取得联系"
         ],
@@ -16723,16 +16724,16 @@
         "ukphone": "'kɒntækt"
     },
     {
-        "name": "rare",
-        "trans": [
+         "en": "rare",
+         "zh": [
             "稀有的， 冷僻的； 珍奇的； 出类拔萃的； 稀薄的； 煎得嫩的"
         ],
         "usphone": "rɛr",
         "ukphone": "reə"
     },
     {
-        "name": "discharge",
-        "trans": [
+         "en": "discharge",
+         "zh": [
             "释放， 排出； 卸货",
             "释放， 放电"
         ],
@@ -16740,32 +16741,32 @@
         "ukphone": "dɪs'tʃɑːdʒ"
     },
     {
-        "name": "exclude",
-        "trans": [
+         "en": "exclude",
+         "zh": [
             "把…排除在外"
         ],
         "usphone": "ɪk'sklʊd",
         "ukphone": "ɪk'skluːd"
     },
     {
-        "name": "scary",
-        "trans": [
+         "en": "scary",
+         "zh": [
             "引起惊慌的"
         ],
         "usphone": "'skɛri",
         "ukphone": "'skeəri"
     },
     {
-        "name": "criticism",
-        "trans": [
+         "en": "criticism",
+         "zh": [
             "批评， 批判； 评论， 评论文章"
         ],
         "usphone": "'krɪtə'sɪzəm",
         "ukphone": "'krɪtɪsɪzəm"
     },
     {
-        "name": "utmost",
-        "trans": [
+         "en": "utmost",
+         "zh": [
             "最远的",
             "极限"
         ],
@@ -16773,96 +16774,96 @@
         "ukphone": "'ʌtməust"
     },
     {
-        "name": "image",
-        "trans": [
+         "en": "image",
+         "zh": [
             "像； 形象； 映像； 形象的描述"
         ],
         "usphone": "'ɪmɪdʒ",
         "ukphone": "'ɪmɪdʒ"
     },
     {
-        "name": "consultancy",
-        "trans": [
+         "en": "consultancy",
+         "zh": [
             "咨询公司"
         ],
         "usphone": "kən'sʌltənsi",
         "ukphone": "kən'sʌltənsi"
     },
     {
-        "name": "ribbon",
-        "trans": [
+         "en": "ribbon",
+         "zh": [
             "缎带， 丝带； 色带"
         ],
         "usphone": "'rɪbən",
         "ukphone": "'rɪbən"
     },
     {
-        "name": "garbage",
-        "trans": [
+         "en": "garbage",
+         "zh": [
             "垃圾， 废物； 废话； 无用的资料"
         ],
         "usphone": "'ɡɑrbɪdʒ",
         "ukphone": "'gɑːbɪdʒ"
     },
     {
-        "name": "complain",
-        "trans": [
+         "en": "complain",
+         "zh": [
             "抱怨， 诉苦； 控告， 投诉"
         ],
         "usphone": "kəm'plen",
         "ukphone": "kəm'pleɪn"
     },
     {
-        "name": "mainland",
-        "trans": [
+         "en": "mainland",
+         "zh": [
             "大陆"
         ],
         "usphone": "'menlænd",
         "ukphone": "'meɪnlænd"
     },
     {
-        "name": "homogeneous",
-        "trans": [
+         "en": "homogeneous",
+         "zh": [
             "同种类的， 同性质的， 有相同特征的"
         ],
         "usphone": ",homə'dʒinɪəs",
         "ukphone": "ˌhɒmə'dʒiːniəs"
     },
     {
-        "name": "anxiety",
-        "trans": [
+         "en": "anxiety",
+         "zh": [
             "焦虑， 忧虑； 渴望， 热望"
         ],
         "usphone": "æŋ'zaɪəti",
         "ukphone": "æŋ'zaɪəti"
     },
     {
-        "name": "temptation",
-        "trans": [
+         "en": "temptation",
+         "zh": [
             "诱惑， 引诱"
         ],
         "usphone": "tɛmp'teʃən",
         "ukphone": "temp'teɪʃn"
     },
     {
-        "name": "adjust",
-        "trans": [
+         "en": "adjust",
+         "zh": [
             "调整， 调节， 校正"
         ],
         "usphone": "ə'dʒʌst",
         "ukphone": "ə'dʒʌst"
     },
     {
-        "name": "popularize",
-        "trans": [
+         "en": "popularize",
+         "zh": [
             "普及"
         ],
         "usphone": "'pɑpjələraɪz",
         "ukphone": "'pɒpjələraɪz"
     },
     {
-        "name": "burst",
-        "trans": [
+         "en": "burst",
+         "zh": [
             "爆裂，爆炸；挤满；突然打开；突然发作",
             "使爆炸；突然打开",
             "爆炸"
@@ -16871,48 +16872,48 @@
         "ukphone": "bɜːst"
     },
     {
-        "name": "vigorous",
-        "trans": [
+         "en": "vigorous",
+         "zh": [
             "朝气蓬勃的； 有力的， 用力的"
         ],
         "usphone": "'vɪɡərəs",
         "ukphone": "'vɪgərəs"
     },
     {
-        "name": "debt",
-        "trans": [
+         "en": "debt",
+         "zh": [
             "债， 债务， 欠债"
         ],
         "usphone": "dɛt",
         "ukphone": "det"
     },
     {
-        "name": "refrigerator",
-        "trans": [
+         "en": "refrigerator",
+         "zh": [
             "冰箱， 冷藏库"
         ],
         "usphone": "rɪ'frɪdʒəretɚ",
         "ukphone": "rɪ'frɪdʒəreɪtə"
     },
     {
-        "name": "necessity",
-        "trans": [
+         "en": "necessity",
+         "zh": [
             "必需品； 必要性， 需要"
         ],
         "usphone": "nə'sɛsəti",
         "ukphone": "nə'sesəti"
     },
     {
-        "name": "fog",
-        "trans": [
+         "en": "fog",
+         "zh": [
             "雾， 烟雾， 尘雾"
         ],
         "usphone": "fɔɡ",
         "ukphone": "fɒg"
     },
     {
-        "name": "frame",
-        "trans": [
+         "en": "frame",
+         "zh": [
             "框架，框子，构架",
             "给…镶框； 陷害， 诬告； 制定； 表达"
         ],
@@ -16920,32 +16921,32 @@
         "ukphone": "freɪm"
     },
     {
-        "name": "lucky",
-        "trans": [
+         "en": "lucky",
+         "zh": [
             "幸运的， 侥幸的； 吉利的"
         ],
         "usphone": "'lʌki",
         "ukphone": "'lʌki"
     },
     {
-        "name": "origin",
-        "trans": [
+         "en": "origin",
+         "zh": [
             "起源， 起因； 出身， 血统"
         ],
         "usphone": "'ɔrɪdʒɪn",
         "ukphone": "'ɒrɪdʒɪn"
     },
     {
-        "name": "industrialize",
-        "trans": [
+         "en": "industrialize",
+         "zh": [
             "工业化"
         ],
         "usphone": "ɪn'dʌstrɪəlaɪz",
         "ukphone": "ɪn'dʌstriəlaɪz"
     },
     {
-        "name": "clash",
-        "trans": [
+         "en": "clash",
+         "zh": [
             "发生冲突；不协调；砰地相撞，发出刺耳的撞击声",
             "冲突； 不协调； 刺耳的撞击声"
         ],
@@ -16953,32 +16954,32 @@
         "ukphone": "klæʃ"
     },
     {
-        "name": "compel",
-        "trans": [
+         "en": "compel",
+         "zh": [
             "强迫， 迫使屈服"
         ],
         "usphone": "kəm'pɛl",
         "ukphone": "kəm'pel"
     },
     {
-        "name": "capable",
-        "trans": [
+         "en": "capable",
+         "zh": [
             "有能力的， 有才能的"
         ],
         "usphone": "'kepəbl",
         "ukphone": "'keɪpəbl"
     },
     {
-        "name": "depress",
-        "trans": [
+         "en": "depress",
+         "zh": [
             "使沮丧； 使不景气； 削弱， 抑制"
         ],
         "usphone": "dɪ'prɛs",
         "ukphone": "dɪ'pres"
     },
     {
-        "name": "parade",
-        "trans": [
+         "en": "parade",
+         "zh": [
             "游行， 列队前进； 招摇而行",
             "游行；检阅"
         ],
@@ -16986,8 +16987,8 @@
         "ukphone": "pə'reɪd"
     },
     {
-        "name": "burden",
-        "trans": [
+         "en": "burden",
+         "zh": [
             "重担，精神负担",
             "加重压于， 烦扰； 负担， 装载"
         ],
@@ -16995,32 +16996,32 @@
         "ukphone": "'bɜːdn"
     },
     {
-        "name": "precaution",
-        "trans": [
+         "en": "precaution",
+         "zh": [
             "预防； 防备， 警惕"
         ],
         "usphone": "prɪ'kɔʃən",
         "ukphone": "prɪ'kɔːʃn"
     },
     {
-        "name": "lemon",
-        "trans": [
+         "en": "lemon",
+         "zh": [
             "柠檬； 柠檬树； 柠檬黄， 淡黄色"
         ],
         "usphone": "'lɛmən",
         "ukphone": "'lemən"
     },
     {
-        "name": "personality",
-        "trans": [
+         "en": "personality",
+         "zh": [
             "人格， 个性； 人物， 名人"
         ],
         "usphone": ",pɝsə'næləti",
         "ukphone": "ˌpɜːsə'næləti"
     },
     {
-        "name": "plot",
-        "trans": [
+         "en": "plot",
+         "zh": [
             "密谋， 计划； 绘制…的平面图， 在图上标绘…的位置",
             "故事情节；计划，密谋；小块土地"
         ],
@@ -17028,8 +17029,8 @@
         "ukphone": "plɒt"
     },
     {
-        "name": "sanction",
-        "trans": [
+         "en": "sanction",
+         "zh": [
             "批准，认可",
             "批准， 认可； 约束因素， 约束力；  国际制裁"
         ],
@@ -17037,8 +17038,8 @@
         "ukphone": "'sæŋkʃn"
     },
     {
-        "name": "rate",
-        "trans": [
+         "en": "rate",
+         "zh": [
             "被评价； 被列入特定级别",
             "速度，速率；比率；价格，费用；等级",
             "评估；给…定级，把…列为；值得，应得"
@@ -17047,8 +17048,8 @@
         "ukphone": "reɪt"
     },
     {
-        "name": "alert",
-        "trans": [
+         "en": "alert",
+         "zh": [
             "警觉的，留神的，注意的",
             "使认识到，使意识到",
             "警戒， 戒备； 警报"
@@ -17057,16 +17058,16 @@
         "ukphone": "ə'lɜːt"
     },
     {
-        "name": "await",
-        "trans": [
+         "en": "await",
+         "zh": [
             "等候； 期待； 将降临到…身上"
         ],
         "usphone": "ə'wet",
         "ukphone": "ə'weɪt"
     },
     {
-        "name": "sin",
-        "trans": [
+         "en": "sin",
+         "zh": [
             "犯戒律， 犯过失",
             "罪，罪孽"
         ],
@@ -17074,24 +17075,24 @@
         "ukphone": "sɪn"
     },
     {
-        "name": "client",
-        "trans": [
+         "en": "client",
+         "zh": [
             "委托人， 当事人， 顾客"
         ],
         "usphone": "'klaɪənt",
         "ukphone": "'klaɪənt"
     },
     {
-        "name": "prosperity",
-        "trans": [
+         "en": "prosperity",
+         "zh": [
             "繁荣， 兴旺"
         ],
         "usphone": "prɑ'spɛrəti",
         "ukphone": "prɒ'sperəti"
     },
     {
-        "name": "divide",
-        "trans": [
+         "en": "divide",
+         "zh": [
             "分，分开；分配，分享；除；产生分歧",
             "分歧； 分界线， 分水岭"
         ],
@@ -17099,8 +17100,8 @@
         "ukphone": "dɪ'vaɪd"
     },
     {
-        "name": "contrary",
-        "trans": [
+         "en": "contrary",
+         "zh": [
             "相反的",
             "相反"
         ],
@@ -17108,8 +17109,8 @@
         "ukphone": "'kɒntrəri"
     },
     {
-        "name": "lump",
-        "trans": [
+         "en": "lump",
+         "zh": [
             "结块； 将…归并在一起",
             "块，肿块"
         ],
@@ -17117,40 +17118,40 @@
         "ukphone": "lʌmp"
     },
     {
-        "name": "digital",
-        "trans": [
+         "en": "digital",
+         "zh": [
             "数字的， 数位的"
         ],
         "usphone": "'dɪdʒɪtl",
         "ukphone": "'dɪdʒɪtl"
     },
     {
-        "name": "brilliant",
-        "trans": [
+         "en": "brilliant",
+         "zh": [
             "光辉的； 卓越的"
         ],
         "usphone": "'brɪljənt",
         "ukphone": "'brɪliənt"
     },
     {
-        "name": "historic",
-        "trans": [
+         "en": "historic",
+         "zh": [
             "历史上著名的， 具有重大历史意义的"
         ],
         "usphone": "hɪ'stɔrɪk",
         "ukphone": "hɪ'stɒrɪk"
     },
     {
-        "name": "oven",
-        "trans": [
+         "en": "oven",
+         "zh": [
             "炉， 烤箱"
         ],
         "usphone": "ˈʌvən",
         "ukphone": "'ʌvn"
     },
     {
-        "name": "bound",
-        "trans": [
+         "en": "bound",
+         "zh": [
             "跳跃；弹回，反跃",
             "一定的；有义务的",
             "跳跃；弹回，反跃；成为…的界限，给…划界",
@@ -17160,24 +17161,24 @@
         "ukphone": "baund"
     },
     {
-        "name": "counter",
-        "trans": [
+         "en": "counter",
+         "zh": [
             "柜台； 计数器； 筹码"
         ],
         "usphone": "'kaʊntɚ",
         "ukphone": "'kauntə"
     },
     {
-        "name": "rhythm",
-        "trans": [
+         "en": "rhythm",
+         "zh": [
             "韵律， 节奏"
         ],
         "usphone": "'rɪðəm",
         "ukphone": "'rɪðəm"
     },
     {
-        "name": "stroke",
-        "trans": [
+         "en": "stroke",
+         "zh": [
             "中风；一举，一次努力；划桨，划水；击，敲；报时的钟声；笔画，一笔；抚摸",
             "抚摸"
         ],
@@ -17185,8 +17186,8 @@
         "ukphone": "strəuk"
     },
     {
-        "name": "breed",
-        "trans": [
+         "en": "breed",
+         "zh": [
             "繁殖； 养育， 培育； 酿成， 产生",
             "品种"
         ],
@@ -17194,56 +17195,56 @@
         "ukphone": "briːd"
     },
     {
-        "name": "management",
-        "trans": [
+         "en": "management",
+         "zh": [
             "管理； 处理； 管理部门； 管理人员"
         ],
         "usphone": "'mænɪdʒmənt",
         "ukphone": "'mænɪdʒmənt"
     },
     {
-        "name": "publish",
-        "trans": [
+         "en": "publish",
+         "zh": [
             "公布， 发表； 出版， 刊印"
         ],
         "usphone": "'pʌblɪʃ",
         "ukphone": "'pʌblɪʃ"
     },
     {
-        "name": "realm",
-        "trans": [
+         "en": "realm",
+         "zh": [
             "界， 领域， 范围； 王国， 国度"
         ],
         "usphone": "rɛlm",
         "ukphone": "relm"
     },
     {
-        "name": "correspondent",
-        "trans": [
+         "en": "correspondent",
+         "zh": [
             "通讯员， 记者"
         ],
         "usphone": ",kɔrə'spɑndənt",
         "ukphone": "ˌkɒrə'spɒndənt"
     },
     {
-        "name": "avoid",
-        "trans": [
+         "en": "avoid",
+         "zh": [
             "避免， 躲开； 撤销"
         ],
         "usphone": "ə'vɔɪd",
         "ukphone": "ə'vɔɪd"
     },
     {
-        "name": "renew",
-        "trans": [
+         "en": "renew",
+         "zh": [
             "重新开始， 继续； 更新； 恢复； 延长有效期"
         ],
         "usphone": "rɪ'nʊ",
         "ukphone": "rɪ'njuː"
     },
     {
-        "name": "bid",
-        "trans": [
+         "en": "bid",
+         "zh": [
             "企图，努力；喊价，出价，投标",
             "喊价， 投标， 出； 祝， 表示； 命令"
         ],
@@ -17251,8 +17252,8 @@
         "ukphone": "bɪd"
     },
     {
-        "name": "prompt",
-        "trans": [
+         "en": "prompt",
+         "zh": [
             "敏捷的，及时的",
             "促使，推动；提示",
             "提示台词， 提示"
@@ -17261,24 +17262,24 @@
         "ukphone": "prɒmpt"
     },
     {
-        "name": "astonish",
-        "trans": [
+         "en": "astonish",
+         "zh": [
             "使惊讶， 使吃惊"
         ],
         "usphone": "ə'stɑnɪʃ",
         "ukphone": "ə'stɒnɪʃ"
     },
     {
-        "name": "comprehensive",
-        "trans": [
+         "en": "comprehensive",
+         "zh": [
             "广泛的， 综合的； 理解的"
         ],
         "usphone": "ˌkɑːmprɪˈhensɪv",
         "ukphone": "ˌkɒmprɪ'hensɪv"
     },
     {
-        "name": "tunnel",
-        "trans": [
+         "en": "tunnel",
+         "zh": [
             "挖， 开",
             "隧道，坑道，地道"
         ],
@@ -17286,24 +17287,24 @@
         "ukphone": "'tʌnl"
     },
     {
-        "name": "withdraw",
-        "trans": [
+         "en": "withdraw",
+         "zh": [
             "收回， 撤回； 撤退"
         ],
         "usphone": "wɪð'drɔ",
         "ukphone": "wɪð'drɔː; wɪθ'drɔː"
     },
     {
-        "name": "assign",
-        "trans": [
+         "en": "assign",
+         "zh": [
             "指派， 分配， 布置； 指定"
         ],
         "usphone": "ə'saɪn",
         "ukphone": "ə'saɪn"
     },
     {
-        "name": "elaborate",
-        "trans": [
+         "en": "elaborate",
+         "zh": [
             "复杂的； 精心制作的",
             "详述， 详细制订"
         ],
@@ -17311,32 +17312,32 @@
         "ukphone": "ɪ'læb(ə)rət"
     },
     {
-        "name": "feather",
-        "trans": [
+         "en": "feather",
+         "zh": [
             "羽毛， 翎毛"
         ],
         "usphone": "'fɛðɚ",
         "ukphone": "'feðə"
     },
     {
-        "name": "corridor",
-        "trans": [
+         "en": "corridor",
+         "zh": [
             "走廊， 回廊， 通路"
         ],
         "usphone": "'kɔrɪdɔr",
         "ukphone": "'kɒrɪdɔː"
     },
     {
-        "name": "decade",
-        "trans": [
+         "en": "decade",
+         "zh": [
             "十年， 十年期"
         ],
         "usphone": "'dɛked",
         "ukphone": "'dekeɪd"
     },
     {
-        "name": "expert",
-        "trans": [
+         "en": "expert",
+         "zh": [
             "熟练的",
             "专家"
         ],
@@ -17344,8 +17345,8 @@
         "ukphone": "'ekspɜːt"
     },
     {
-        "name": "select",
-        "trans": [
+         "en": "select",
+         "zh": [
             "精选的， 挑选出来的； 优等的， 第一流的",
             "选择，挑选"
         ],
@@ -17353,16 +17354,16 @@
         "ukphone": "sɪ'lekt"
     },
     {
-        "name": "fulfill",
-        "trans": [
+         "en": "fulfill",
+         "zh": [
             "履行， 实现， 完成； 满足， 使满意"
         ],
         "usphone": "ful'fil",
         "ukphone": "ful'fɪl"
     },
     {
-        "name": "crowd",
-        "trans": [
+         "en": "crowd",
+         "zh": [
             "聚集； 挤满； 挤； 推",
             "群，一批"
         ],
@@ -17370,48 +17371,48 @@
         "ukphone": "kraud"
     },
     {
-        "name": "congress",
-        "trans": [
+         "en": "congress",
+         "zh": [
             "代表大会； [C-]国会， 议会"
         ],
         "usphone": "'kɑŋɡrəs",
         "ukphone": "'kɒŋgres"
     },
     {
-        "name": "advanced",
-        "trans": [
+         "en": "advanced",
+         "zh": [
             "先进的； 高级的； 年迈的； 后阶段的"
         ],
         "usphone": "əd'vænst",
         "ukphone": "əd'vɑːnst"
     },
     {
-        "name": "mechanical",
-        "trans": [
+         "en": "mechanical",
+         "zh": [
             "机械的， 机械制造的； 机械学的， 力学的； 呆板的"
         ],
         "usphone": "mɪ'kænɪkəl",
         "ukphone": "mə'kænɪkl"
     },
     {
-        "name": "recommendation",
-        "trans": [
+         "en": "recommendation",
+         "zh": [
             "推荐， 推荐信； 建议； 优点， 可取之处"
         ],
         "usphone": ",rɛkəmɛn'deʃən",
         "ukphone": "ˌrekəmen'deɪʃn"
     },
     {
-        "name": "welfare",
-        "trans": [
+         "en": "welfare",
+         "zh": [
             "幸福； 福利， 福利救济"
         ],
         "usphone": "'wɛl'fɛr",
         "ukphone": "'welfeə"
     },
     {
-        "name": "flourish",
-        "trans": [
+         "en": "flourish",
+         "zh": [
             "繁荣，茂盛，兴旺",
             "挥动"
         ],
@@ -17419,8 +17420,8 @@
         "ukphone": "'flʌrɪʃ"
     },
     {
-        "name": "output",
-        "trans": [
+         "en": "output",
+         "zh": [
             "产量；输出；输出功率",
             "输出"
         ],
@@ -17428,8 +17429,8 @@
         "ukphone": "'autput"
     },
     {
-        "name": "fatigue",
-        "trans": [
+         "en": "fatigue",
+         "zh": [
             "疲劳",
             "疲劳，劳累"
         ],
@@ -17437,32 +17438,32 @@
         "ukphone": "fə'tiːg"
     },
     {
-        "name": "striking",
-        "trans": [
+         "en": "striking",
+         "zh": [
             "显著的， 突出的； 惹人注目的， 容貌出众的"
         ],
         "usphone": "'straɪkɪŋ",
         "ukphone": "'straɪkɪŋ"
     },
     {
-        "name": "vessel",
-        "trans": [
+         "en": "vessel",
+         "zh": [
             "容器； 船； 飞船； 管"
         ],
         "usphone": "'vɛsl",
         "ukphone": "'vesl"
     },
     {
-        "name": "majority",
-        "trans": [
+         "en": "majority",
+         "zh": [
             "多数， 大多数"
         ],
         "usphone": "mə'dʒɔrəti",
         "ukphone": "mə'dʒɒrəti"
     },
     {
-        "name": "drag",
-        "trans": [
+         "en": "drag",
+         "zh": [
             "拖，拉；迫使，硬拉；拖着脚步走",
             "累赘； 一吸， 一抽"
         ],
@@ -17470,16 +17471,16 @@
         "ukphone": "dræg"
     },
     {
-        "name": "crown",
-        "trans": [
+         "en": "crown",
+         "zh": [
             "王冠， 冕"
         ],
         "usphone": "kraʊn",
         "ukphone": "kraun"
     },
     {
-        "name": "likely",
-        "trans": [
+         "en": "likely",
+         "zh": [
             "可能",
             "可能的；适合的"
         ],
@@ -17487,24 +17488,24 @@
         "ukphone": "'laɪkli"
     },
     {
-        "name": "inquire",
-        "trans": [
+         "en": "inquire",
+         "zh": [
             "打听， 询问； 调查"
         ],
         "usphone": "ɪn'kwaɪr",
         "ukphone": "ɪn'kwaɪə"
     },
     {
-        "name": "gymnasium",
-        "trans": [
+         "en": "gymnasium",
+         "zh": [
             "体育馆， 健身房"
         ],
         "usphone": "dʒɪm'nezɪəm",
         "ukphone": "dʒɪm'neɪziəm"
     },
     {
-        "name": "issue",
-        "trans": [
+         "en": "issue",
+         "zh": [
             "发行， 分发， 发出",
             "问题；发行，分发"
         ],
@@ -17512,16 +17513,16 @@
         "ukphone": "'ɪʃu:"
     },
     {
-        "name": "vain",
-        "trans": [
+         "en": "vain",
+         "zh": [
             "徒劳的； 自负的"
         ],
         "usphone": "ven",
         "ukphone": "veɪn"
     },
     {
-        "name": "lower",
-        "trans": [
+         "en": "lower",
+         "zh": [
             "较低的；下面的",
             "放下， 降低"
         ],
@@ -17529,64 +17530,64 @@
         "ukphone": "'ləuə"
     },
     {
-        "name": "index",
-        "trans": [
+         "en": "index",
+         "zh": [
             "索引； 指数， 指标"
         ],
         "usphone": "'ɪndɛks",
         "ukphone": "'ɪndeks"
     },
     {
-        "name": "fry",
-        "trans": [
+         "en": "fry",
+         "zh": [
             "油煎， 油炸， 油炒"
         ],
         "usphone": "fraɪ",
         "ukphone": "fraɪ"
     },
     {
-        "name": "youngster",
-        "trans": [
+         "en": "youngster",
+         "zh": [
             "青年， 年轻人， 孩子"
         ],
         "usphone": "'jʌŋstɚ",
         "ukphone": "'jʌŋstə"
     },
     {
-        "name": "odd",
-        "trans": [
+         "en": "odd",
+         "zh": [
             "奇特的； 临时的； 奇数的； 单只的； 剩余的， 挂零的"
         ],
         "usphone": "ɑd",
         "ukphone": "ɒd"
     },
     {
-        "name": "lung",
-        "trans": [
+         "en": "lung",
+         "zh": [
             "肺"
         ],
         "usphone": "lʌŋ",
         "ukphone": "lʌŋ"
     },
     {
-        "name": "conservation",
-        "trans": [
+         "en": "conservation",
+         "zh": [
             "保存； 保护； 守恒"
         ],
         "usphone": ",kɑnsɚ'veʃən",
         "ukphone": "ˌkɒnsə'veɪʃn"
     },
     {
-        "name": "distraction",
-        "trans": [
+         "en": "distraction",
+         "zh": [
             "分心的事； 心烦意乱； 精神错乱； 娱乐， 消遣"
         ],
         "usphone": "dɪ'strækʃən",
         "ukphone": "dɪ'strækʃn"
     },
     {
-        "name": "supplement",
-        "trans": [
+         "en": "supplement",
+         "zh": [
             "增补， 补充； 增刊， 副刊",
             "增补， 补充"
         ],
@@ -17594,8 +17595,8 @@
         "ukphone": "'sʌplɪm(ə)nt"
     },
     {
-        "name": "contrast",
-        "trans": [
+         "en": "contrast",
+         "zh": [
             "形成对比， 对比之下显出区别",
             "对比， 对照； 反差",
             "对比，对照"
@@ -17604,64 +17605,64 @@
         "ukphone": "'kɒntrɑːst"
     },
     {
-        "name": "paragraph",
-        "trans": [
+         "en": "paragraph",
+         "zh": [
             "段， 节"
         ],
         "usphone": "'pærəɡræf",
         "ukphone": "'pærəgrɑːf"
     },
     {
-        "name": "judgement",
-        "trans": [
+         "en": "judgement",
+         "zh": [
             "意见； 审判； 判断"
         ],
         "usphone": "'dʒʌdʒmənt",
         "ukphone": "'dʒʌdʒmənt"
     },
     {
-        "name": "proportion",
-        "trans": [
+         "en": "proportion",
+         "zh": [
             "比例； 部分， 份儿； 均衡， 相称"
         ],
         "usphone": "prə'pɔrʃən",
         "ukphone": "prə'pɔːʃn"
     },
     {
-        "name": "widen",
-        "trans": [
+         "en": "widen",
+         "zh": [
             "加宽， 变宽"
         ],
         "usphone": "'waɪdn",
         "ukphone": "'waɪdn"
     },
     {
-        "name": "crystal",
-        "trans": [
+         "en": "crystal",
+         "zh": [
             "水晶， 结晶体， 晶粒"
         ],
         "usphone": "'krɪstl",
         "ukphone": "'krɪstl"
     },
     {
-        "name": "occurrence",
-        "trans": [
+         "en": "occurrence",
+         "zh": [
             "发生， 出现； 发生的事件"
         ],
         "usphone": "ə'kʌrəns",
         "ukphone": "ə'kʌrəns"
     },
     {
-        "name": "inflation",
-        "trans": [
+         "en": "inflation",
+         "zh": [
             "通货膨胀； 膨胀"
         ],
         "usphone": "ɪn'fleʃən",
         "ukphone": "ɪn'fleɪʃn"
     },
     {
-        "name": "thinking",
-        "trans": [
+         "en": "thinking",
+         "zh": [
             "深思的， 有理性的",
             "想法，意见，见解"
         ],
@@ -17669,8 +17670,8 @@
         "ukphone": "'θɪŋkɪŋ"
     },
     {
-        "name": "cycle",
-        "trans": [
+         "en": "cycle",
+         "zh": [
             "循环（周期）",
             "骑自行车"
         ],
@@ -17678,24 +17679,24 @@
         "ukphone": "'saɪkl"
     },
     {
-        "name": "disposal",
-        "trans": [
+         "en": "disposal",
+         "zh": [
             "丢掉， 销毁； 处理； 排列， 布置"
         ],
         "usphone": "dɪ'spozl",
         "ukphone": "dɪ'spəuzl"
     },
     {
-        "name": "settlement",
-        "trans": [
+         "en": "settlement",
+         "zh": [
             "解决； 协议； 居留地"
         ],
         "usphone": "'sɛtlmənt",
         "ukphone": "'setlmənt"
     },
     {
-        "name": "delegate",
-        "trans": [
+         "en": "delegate",
+         "zh": [
             "代表， 代表团成员",
             "委派…为代表； 授 ， 把…委托给"
         ],
@@ -17703,32 +17704,32 @@
         "ukphone": "ˈdɛlɪˌɡeɪt; -ɡɪt; (for v.,) ˈdɛlɪˌɡeɪt"
     },
     {
-        "name": "literature",
-        "trans": [
+         "en": "literature",
+         "zh": [
             "文学， 文学作品； 文献， 图书资料"
         ],
         "usphone": "lɪtərəˌtʃʊr",
         "ukphone": "'lɪtrətʃə"
     },
     {
-        "name": "sphere",
-        "trans": [
+         "en": "sphere",
+         "zh": [
             "球， 球体； 范围"
         ],
         "usphone": "sfɪr",
         "ukphone": "sfɪə"
     },
     {
-        "name": "inquiry",
-        "trans": [
+         "en": "inquiry",
+         "zh": [
             "询问， 打听； 调查"
         ],
         "usphone": "ɪn'kwaɪri; 'ɪn,kwaɪri; 'ɪnkwəri; 'ɪŋkwaɪri",
         "ukphone": "ɪn'kwaɪəri"
     },
     {
-        "name": "prejudice",
-        "trans": [
+         "en": "prejudice",
+         "zh": [
             "偏见，成见",
             "使有偏见； 对…不利， 损害"
         ],
@@ -17736,16 +17737,16 @@
         "ukphone": "'predʒudɪs"
     },
     {
-        "name": "dissolve",
-        "trans": [
+         "en": "dissolve",
+         "zh": [
             "溶解； 解散； 消失， 减弱； 结束"
         ],
         "usphone": "dɪ'zɑlv",
         "ukphone": "dɪ'zɒlv"
     },
     {
-        "name": "digest",
-        "trans": [
+         "en": "digest",
+         "zh": [
             "消化； 领会",
             "文摘； 摘要"
         ],
@@ -17753,56 +17754,56 @@
         "ukphone": "daɪ'dʒest; dɪ-"
     },
     {
-        "name": "angle",
-        "trans": [
+         "en": "angle",
+         "zh": [
             "角， 角度； 观点， 立场"
         ],
         "usphone": "'æŋɡl",
         "ukphone": "'æŋgl"
     },
     {
-        "name": "immigrant",
-        "trans": [
+         "en": "immigrant",
+         "zh": [
             "移民， 侨民"
         ],
         "usphone": "'ɪmɪɡrənt",
         "ukphone": "'ɪmɪgrənt"
     },
     {
-        "name": "tradition",
-        "trans": [
+         "en": "tradition",
+         "zh": [
             "传统， 惯例"
         ],
         "usphone": "trə'dɪʃən",
         "ukphone": "trə'dɪʃn"
     },
     {
-        "name": "ability",
-        "trans": [
+         "en": "ability",
+         "zh": [
             "能力， 本领； 才能， 才智"
         ],
         "usphone": "əˈbɪlətɪ",
         "ukphone": "ə'bɪləti"
     },
     {
-        "name": "urgent",
-        "trans": [
+         "en": "urgent",
+         "zh": [
             "紧急的， 急迫的"
         ],
         "usphone": "'ɝdʒənt",
         "ukphone": "'ɜːdʒənt"
     },
     {
-        "name": "belief",
-        "trans": [
+         "en": "belief",
+         "zh": [
             "信任， 相信； 信念"
         ],
         "usphone": "bɪ'lif",
         "ukphone": "bɪ'liːf"
     },
     {
-        "name": "bundle",
-        "trans": [
+         "en": "bundle",
+         "zh": [
             "捆，包，束；包袱",
             "收集， 归拢； 把…塞入"
         ],
@@ -17810,128 +17811,128 @@
         "ukphone": "'bʌndl"
     },
     {
-        "name": "suggestion",
-        "trans": [
+         "en": "suggestion",
+         "zh": [
             "建议， 意见； 细微的迹象； 暗示"
         ],
         "usphone": "sə'dʒɛstʃən",
         "ukphone": "sə'dʒestʃən"
     },
     {
-        "name": "systematic",
-        "trans": [
+         "en": "systematic",
+         "zh": [
             "有系统的， 有计划的"
         ],
         "usphone": "'sɪstə'mætɪk",
         "ukphone": "ˌsɪstə'mætɪk(l)"
     },
     {
-        "name": "cupboard",
-        "trans": [
+         "en": "cupboard",
+         "zh": [
             "柜橱；  碗碟橱， 食橱"
         ],
         "usphone": "'kʌbɚd",
         "ukphone": "'kʌbəd"
     },
     {
-        "name": "generally",
-        "trans": [
+         "en": "generally",
+         "zh": [
             "一般地， 通常地； 普遍地"
         ],
         "usphone": "'dʒɛnrəli",
         "ukphone": "'dʒenərəli"
     },
     {
-        "name": "bacon",
-        "trans": [
+         "en": "bacon",
+         "zh": [
             "咸肉"
         ],
         "usphone": "'bekən",
         "ukphone": "'beɪkən"
     },
     {
-        "name": "likewise",
-        "trans": [
+         "en": "likewise",
+         "zh": [
             "同样地； 也， 又"
         ],
         "usphone": "'laɪkwaɪz",
         "ukphone": "'laɪkwaɪz"
     },
     {
-        "name": "slender",
-        "trans": [
+         "en": "slender",
+         "zh": [
             "细长的， 苗条的； 微薄的， 不足的"
         ],
         "usphone": "'slɛndɚ",
         "ukphone": "'slendə(r)"
     },
     {
-        "name": "troublesome",
-        "trans": [
+         "en": "troublesome",
+         "zh": [
             "令人烦恼的， 麻烦的"
         ],
         "usphone": "'trʌblsəm",
         "ukphone": "'trʌblsəm"
     },
     {
-        "name": "instruction",
-        "trans": [
+         "en": "instruction",
+         "zh": [
             "命令， 指示； 用法说明； 教学， 教导"
         ],
         "usphone": "ɪn'strʌkʃən",
         "ukphone": "ɪn'strʌkʃn"
     },
     {
-        "name": "oral",
-        "trans": [
+         "en": "oral",
+         "zh": [
             "口头的； 口的"
         ],
         "usphone": "'ɔrəl",
         "ukphone": "'ɔːrəl"
     },
     {
-        "name": "married",
-        "trans": [
+         "en": "married",
+         "zh": [
             "已婚的； 婚姻的"
         ],
         "usphone": "'mærɪd",
         "ukphone": "'mærid"
     },
     {
-        "name": "transaction",
-        "trans": [
+         "en": "transaction",
+         "zh": [
             "办理， 处理； 交易， 业务； 会报， 学报"
         ],
         "usphone": "træn'zækʃən",
         "ukphone": "træn'zækʃn"
     },
     {
-        "name": "conscious",
-        "trans": [
+         "en": "conscious",
+         "zh": [
             "意识到的， 自觉的； 神志清醒的； 有意的， 存心的"
         ],
         "usphone": "'kɑnʃəs",
         "ukphone": "'kɒnʃəs"
     },
     {
-        "name": "fur",
-        "trans": [
+         "en": "fur",
+         "zh": [
             "软毛， 毛皮， 裘皮； 毛皮衣服"
         ],
         "usphone": "fɝ",
         "ukphone": "fɜː"
     },
     {
-        "name": "auto",
-        "trans": [
+         "en": "auto",
+         "zh": [
             "汽车"
         ],
         "usphone": "'ɔto",
         "ukphone": "'ɔːtəu"
     },
     {
-        "name": "sigh",
-        "trans": [
+         "en": "sigh",
+         "zh": [
             "叹气， 叹息",
             "叹息"
         ],
@@ -17939,8 +17940,8 @@
         "ukphone": "saɪ"
     },
     {
-        "name": "constant",
-        "trans": [
+         "en": "constant",
+         "zh": [
             "经常的，不断的，连续发生的；永恒的；忠实的，忠诚的",
             "常数， 恒量"
         ],
@@ -17948,24 +17949,24 @@
         "ukphone": "'kɒnstənt"
     },
     {
-        "name": "pants",
-        "trans": [
+         "en": "pants",
+         "zh": [
             "长裤， 便裤； 内裤"
         ],
         "usphone": "pænts",
         "ukphone": "pænts"
     },
     {
-        "name": "mislead",
-        "trans": [
+         "en": "mislead",
+         "zh": [
             "给…错误印象， 使误解； 把…带错路； 使误入歧途"
         ],
         "usphone": "'mɪs'lid",
         "ukphone": "ˌmɪs'liːd"
     },
     {
-        "name": "split",
-        "trans": [
+         "en": "split",
+         "zh": [
             "分裂，分离；被撕裂，裂开；分担，分享",
             "裂口"
         ],
@@ -17973,32 +17974,32 @@
         "ukphone": "splɪt"
     },
     {
-        "name": "orchestra",
-        "trans": [
+         "en": "orchestra",
+         "zh": [
             "管弦乐队"
         ],
         "usphone": "'ɔrkɪstrə",
         "ukphone": "'ɔːkɪstrə"
     },
     {
-        "name": "publication",
-        "trans": [
+         "en": "publication",
+         "zh": [
             "出版， 发行； 公布， 发表"
         ],
         "usphone": ",pʌblɪ'keʃən",
         "ukphone": "ˌpʌblɪ'keɪʃn"
     },
     {
-        "name": "sufficient",
-        "trans": [
+         "en": "sufficient",
+         "zh": [
             "足够的， 充分的"
         ],
         "usphone": "səˈfɪʃənt",
         "ukphone": "sə'fɪʃnt"
     },
     {
-        "name": "claim",
-        "trans": [
+         "en": "claim",
+         "zh": [
             "声称，主张；对…提出要求，索取；以…为其成果；需要，值得",
             "要求， 认领， 索赔； 声称； 断言"
         ],
@@ -18006,8 +18007,8 @@
         "ukphone": "kleɪm"
     },
     {
-        "name": "antique",
-        "trans": [
+         "en": "antique",
+         "zh": [
             "古时的， 过时的",
             "古物，古董"
         ],
@@ -18015,80 +18016,80 @@
         "ukphone": "æn'tiːk"
     },
     {
-        "name": "sow",
-        "trans": [
+         "en": "sow",
+         "zh": [
             "播， 播种"
         ],
         "usphone": "so",
         "ukphone": "səu"
     },
     {
-        "name": "widespread",
-        "trans": [
+         "en": "widespread",
+         "zh": [
             "分布广的， 普遍的"
         ],
         "usphone": "ˈwʌɪdsprɛd",
         "ukphone": "'waɪdspred"
     },
     {
-        "name": "petroleum",
-        "trans": [
+         "en": "petroleum",
+         "zh": [
             "石油"
         ],
         "usphone": "pə'trolɪəm",
         "ukphone": "pə'trəuliəm"
     },
     {
-        "name": "communication",
-        "trans": [
+         "en": "communication",
+         "zh": [
             "通讯， 交流， 交际； 通信工具， 交通联系"
         ],
         "usphone": "kə,mjunɪ'keʃən",
         "ukphone": "kəˌmjuːnɪ'keɪʃn"
     },
     {
-        "name": "directly",
-        "trans": [
+         "en": "directly",
+         "zh": [
             "直接地； 正好地， 截然； 立即"
         ],
         "usphone": "dəˈrektli",
         "ukphone": "dɪ'rektli; daɪ'rektli"
     },
     {
-        "name": "tolerance",
-        "trans": [
+         "en": "tolerance",
+         "zh": [
             "忍受， 容忍， 忍耐力； 公差"
         ],
         "usphone": "'tɑlərəns",
         "ukphone": "'tɒlərəns"
     },
     {
-        "name": "kneel",
-        "trans": [
+         "en": "kneel",
+         "zh": [
             "跪， 跪下， 跪着"
         ],
         "usphone": "nil",
         "ukphone": "niːl"
     },
     {
-        "name": "porter",
-        "trans": [
+         "en": "porter",
+         "zh": [
             "搬运工人； 看门人， 大楼管理员"
         ],
         "usphone": "'pɔrtɚ",
         "ukphone": "'pɔːtə"
     },
     {
-        "name": "fasten",
-        "trans": [
+         "en": "fasten",
+         "zh": [
             "扎牢， 扣住"
         ],
         "usphone": "'fæsən",
         "ukphone": "'fɑːsn"
     },
     {
-        "name": "contest",
-        "trans": [
+         "en": "contest",
+         "zh": [
             "竞赛， 争夺",
             "争夺， 与…竞争； 对…提出质疑， 辩驳"
         ],
@@ -18096,48 +18097,48 @@
         "ukphone": "'kɒntest"
     },
     {
-        "name": "author",
-        "trans": [
+         "en": "author",
+         "zh": [
             "著作家， 作者"
         ],
         "usphone": "'ɔθɚ",
         "ukphone": "'ɔːθə"
     },
     {
-        "name": "dirt",
-        "trans": [
+         "en": "dirt",
+         "zh": [
             "灰尘， 土； 污物， 污垢"
         ],
         "usphone": "dɝt",
         "ukphone": "dɜːt"
     },
     {
-        "name": "astrophysics",
-        "trans": [
+         "en": "astrophysics",
+         "zh": [
             "天体物理学"
         ],
         "usphone": ",æstro'fɪzɪks",
         "ukphone": "ˌæstrəu'fɪzɪks"
     },
     {
-        "name": "greenhouse",
-        "trans": [
+         "en": "greenhouse",
+         "zh": [
             "温室， 暖房"
         ],
         "usphone": "'ɡrinhaʊs",
         "ukphone": "'griːnhaus"
     },
     {
-        "name": "preserve",
-        "trans": [
+         "en": "preserve",
+         "zh": [
             "保护， 维持； 保存； 腌制"
         ],
         "usphone": "prɪ'zɝv",
         "ukphone": "prɪ'zɜːv"
     },
     {
-        "name": "plus",
-        "trans": [
+         "en": "plus",
+         "zh": [
             "表示加的；正的",
             "加，加上",
             "加号， 正号"
@@ -18146,40 +18147,40 @@
         "ukphone": "plʌs"
     },
     {
-        "name": "establish",
-        "trans": [
+         "en": "establish",
+         "zh": [
             "建立， 设立； 确立； 证实"
         ],
         "usphone": "ɪˈstæblɪʃ",
         "ukphone": "ɪ'stæblɪʃ"
     },
     {
-        "name": "expansion",
-        "trans": [
+         "en": "expansion",
+         "zh": [
             "扩大， 扩充， 扩张， 膨胀"
         ],
         "usphone": "ɪk'spænʃən",
         "ukphone": "ɪk'spænʃn"
     },
     {
-        "name": "relevant",
-        "trans": [
+         "en": "relevant",
+         "zh": [
             "有关的， 切题的"
         ],
         "usphone": "'rɛləvənt",
         "ukphone": "'reləvənt"
     },
     {
-        "name": "entry",
-        "trans": [
+         "en": "entry",
+         "zh": [
             "入口处； 登记； 进入； 参赛者名单； 条目"
         ],
         "usphone": "'ɛntri",
         "ukphone": "'entri"
     },
     {
-        "name": "license",
-        "trans": [
+         "en": "license",
+         "zh": [
             "许可，执照",
             "准许"
         ],
@@ -18187,48 +18188,48 @@
         "ukphone": "'laɪsns"
     },
     {
-        "name": "synthetic",
-        "trans": [
+         "en": "synthetic",
+         "zh": [
             "综合的， 合成的； 虚假的"
         ],
         "usphone": "sɪn'θɛtɪk",
         "ukphone": "sɪn'θetɪk"
     },
     {
-        "name": "headquarters",
-        "trans": [
+         "en": "headquarters",
+         "zh": [
             "司令部， 总部"
         ],
         "usphone": "'hɛdkwɔrtɚz",
         "ukphone": "ˌhed'kwɔːtəz"
     },
     {
-        "name": "expand",
-        "trans": [
+         "en": "expand",
+         "zh": [
             "扩大， 使膨胀"
         ],
         "usphone": "ɪk'spænd",
         "ukphone": "ɪk'spænd"
     },
     {
-        "name": "gaze",
-        "trans": [
+         "en": "gaze",
+         "zh": [
             "凝视， 盯， 注视"
         ],
         "usphone": "ɡeɪz",
         "ukphone": "geɪz"
     },
     {
-        "name": "essay",
-        "trans": [
+         "en": "essay",
+         "zh": [
             "短文， 散文， 小品文"
         ],
         "usphone": "'ɛse",
         "ukphone": "'eseɪ"
     },
     {
-        "name": "survey",
-        "trans": [
+         "en": "survey",
+         "zh": [
             "俯瞰； 检查； 测量",
             "调查， 勘察； 测量， 勘测； 全面审视， 概括论述"
         ],
@@ -18236,8 +18237,8 @@
         "ukphone": "ˈsəːveɪ; (for v.) səˈveɪ"
     },
     {
-        "name": "plug",
-        "trans": [
+         "en": "plug",
+         "zh": [
             "插头，插座；塞子，栓",
             "把…塞住， 用…塞住"
         ],
@@ -18245,8 +18246,8 @@
         "ukphone": "plʌg"
     },
     {
-        "name": "bunch",
-        "trans": [
+         "en": "bunch",
+         "zh": [
             "集中， 挤在一起； 形成一束",
             "群，伙；束，串，捆",
             "使成一束"
@@ -18255,16 +18256,16 @@
         "ukphone": "bʌntʃ"
     },
     {
-        "name": "thermometer",
-        "trans": [
+         "en": "thermometer",
+         "zh": [
             "温度计， 寒暑表"
         ],
         "usphone": "θɚ'mɑmɪtɚ",
         "ukphone": "θə'mɒmɪtə"
     },
     {
-        "name": "tense",
-        "trans": [
+         "en": "tense",
+         "zh": [
             "拉紧的；紧张的",
             "拉紧， 绷紧",
             "时态"
@@ -18273,32 +18274,32 @@
         "ukphone": "tens"
     },
     {
-        "name": "postpone",
-        "trans": [
+         "en": "postpone",
+         "zh": [
             "延迟， 延期"
         ],
         "usphone": "po'spon",
         "ukphone": "pə'spəun"
     },
     {
-        "name": "bride",
-        "trans": [
+         "en": "bride",
+         "zh": [
             "新娘"
         ],
         "usphone": "braɪd",
         "ukphone": "braɪd"
     },
     {
-        "name": "favourable",
-        "trans": [
+         "en": "favourable",
+         "zh": [
             "有利的， 赞成的； 顺利的"
         ],
         "usphone": "'feivərəbl",
         "ukphone": "'feɪvərəbl"
     },
     {
-        "name": "hammer",
-        "trans": [
+         "en": "hammer",
+         "zh": [
             "锤击",
             "锤，榔头"
         ],
@@ -18306,16 +18307,16 @@
         "ukphone": "'hæmə"
     },
     {
-        "name": "candy",
-        "trans": [
+         "en": "candy",
+         "zh": [
             "糖果"
         ],
         "usphone": "ˈkændɪ",
         "ukphone": "'kændi"
     },
     {
-        "name": "seal",
-        "trans": [
+         "en": "seal",
+         "zh": [
             "封铅，封条；印，图章；海豹",
             "封"
         ],
@@ -18323,48 +18324,48 @@
         "ukphone": "siːl"
     },
     {
-        "name": "mental",
-        "trans": [
+         "en": "mental",
+         "zh": [
             "心理的， 精神的， 思想上的； 精神病的； 智力的"
         ],
         "usphone": "'mɛntl",
         "ukphone": "'mentl"
     },
     {
-        "name": "decent",
-        "trans": [
+         "en": "decent",
+         "zh": [
             "像样的， 过得去的， 体面的； 宽厚的， 大方的； 正派的； 合乎礼仪的， 得体的"
         ],
         "usphone": "'disnt",
         "ukphone": "'diːsnt"
     },
     {
-        "name": "storage",
-        "trans": [
+         "en": "storage",
+         "zh": [
             "贮藏； 贮藏量"
         ],
         "usphone": "'stɔrɪdʒ",
         "ukphone": "'stɔːrɪdʒ"
     },
     {
-        "name": "investigate",
-        "trans": [
+         "en": "investigate",
+         "zh": [
             "调查， 研究"
         ],
         "usphone": "ɪn'vɛstɪɡet",
         "ukphone": "ɪn'vestɪgeɪt"
     },
     {
-        "name": "racial",
-        "trans": [
+         "en": "racial",
+         "zh": [
             "种族的， 人种的"
         ],
         "usphone": "'reʃl",
         "ukphone": "'reɪʃl"
     },
     {
-        "name": "switch",
-        "trans": [
+         "en": "switch",
+         "zh": [
             "转换， 改变",
             "开关，电闸；转换，改变"
         ],
@@ -18372,32 +18373,32 @@
         "ukphone": "swɪtʃ"
     },
     {
-        "name": "niece",
-        "trans": [
+         "en": "niece",
+         "zh": [
             "侄女， 外甥女"
         ],
         "usphone": "nis",
         "ukphone": "niːs"
     },
     {
-        "name": "considerable",
-        "trans": [
+         "en": "considerable",
+         "zh": [
             "相当大的； 重要的"
         ],
         "usphone": "kən'sɪdərəbl",
         "ukphone": "kən'sɪdərəbl"
     },
     {
-        "name": "auxiliary",
-        "trans": [
+         "en": "auxiliary",
+         "zh": [
             "辅助的， 附属的； 后备的"
         ],
         "usphone": "ɔːɡ'zɪlɪəri",
         "ukphone": "ɔːg'zɪliəri"
     },
     {
-        "name": "heal",
-        "trans": [
+         "en": "heal",
+         "zh": [
             "愈合， 痊愈， 恢复健康",
             "使愈合，治愈，使康复；调停，消除"
         ],
@@ -18405,8 +18406,8 @@
         "ukphone": "hiːl"
     },
     {
-        "name": "reserve",
-        "trans": [
+         "en": "reserve",
+         "zh": [
             "保留，留存；预订",
             "储备； 保留； 拘谨， 矜持； 替补队员， 后备部队； 自然保护区"
         ],
@@ -18414,64 +18415,64 @@
         "ukphone": "rɪ'zɜːv"
     },
     {
-        "name": "somehow",
-        "trans": [
+         "en": "somehow",
+         "zh": [
             "由于某种原因， 不知怎么的； 以某种方式"
         ],
         "usphone": "'sʌmhaʊ",
         "ukphone": "'sʌmhau"
     },
     {
-        "name": "dive",
-        "trans": [
+         "en": "dive",
+         "zh": [
             "跳水； 潜水；  俯冲"
         ],
         "usphone": "daɪv",
         "ukphone": "daɪv"
     },
     {
-        "name": "brick",
-        "trans": [
+         "en": "brick",
+         "zh": [
             "砖， 砖块， 砖状物"
         ],
         "usphone": "brɪk",
         "ukphone": "brɪk"
     },
     {
-        "name": "sympathy",
-        "trans": [
+         "en": "sympathy",
+         "zh": [
             "同情； 一致， 支持， 赞同"
         ],
         "usphone": "'sɪmpəθi",
         "ukphone": "'sɪmpəθi"
     },
     {
-        "name": "heap",
-        "trans": [
+         "en": "heap",
+         "zh": [
             "堆， 大量"
         ],
         "usphone": "hip",
         "ukphone": "hiːp"
     },
     {
-        "name": "consumer",
-        "trans": [
+         "en": "consumer",
+         "zh": [
             "消费者， 用户， 消耗者"
         ],
         "usphone": "kən'sumɚ",
         "ukphone": "kən'sjuːmə"
     },
     {
-        "name": "rescue",
-        "trans": [
+         "en": "rescue",
+         "zh": [
             "营救， 救援"
         ],
         "usphone": "'rɛskju",
         "ukphone": "'reskjuː"
     },
     {
-        "name": "cripple",
-        "trans": [
+         "en": "cripple",
+         "zh": [
             "跛子；残疾人",
             "使跛； 使残疾"
         ],
@@ -18479,16 +18480,16 @@
         "ukphone": "'krɪpl"
     },
     {
-        "name": "highly",
-        "trans": [
+         "en": "highly",
+         "zh": [
             "高度地， 极， 非常赞许地"
         ],
         "usphone": "'haɪli",
         "ukphone": "'haɪli"
     },
     {
-        "name": "brief",
-        "trans": [
+         "en": "brief",
+         "zh": [
             "简短的，短暂的",
             "向…介绍基本情况，做…的提要",
             "概要， 摘要"
@@ -18497,32 +18498,32 @@
         "ukphone": "briːf"
     },
     {
-        "name": "keyboard",
-        "trans": [
+         "en": "keyboard",
+         "zh": [
             "键盘"
         ],
         "usphone": "'ki'bɔrd",
         "ukphone": "'kiːbɔːd"
     },
     {
-        "name": "initiative",
-        "trans": [
+         "en": "initiative",
+         "zh": [
             "主动性； 首创精神； 主动的行动， 倡议； 主动权"
         ],
         "usphone": "ɪ'nɪʃətɪv",
         "ukphone": "ɪ'nɪʃətɪv"
     },
     {
-        "name": "recover",
-        "trans": [
+         "en": "recover",
+         "zh": [
             "重新获得， 挽回； 恢复"
         ],
         "usphone": "rɪ'kʌvɚ",
         "ukphone": "rɪ'kʌvə"
     },
     {
-        "name": "determine",
-        "trans": [
+         "en": "determine",
+         "zh": [
             "决意",
             "决定；查明；使下决心"
         ],
@@ -18530,32 +18531,32 @@
         "ukphone": "dɪ'tɜːmɪn"
     },
     {
-        "name": "nature",
-        "trans": [
+         "en": "nature",
+         "zh": [
             "大自然； 本性； 性质"
         ],
         "usphone": "'netʃɚ",
         "ukphone": "'neɪtʃə"
     },
     {
-        "name": "social",
-        "trans": [
+         "en": "social",
+         "zh": [
             "社会的； 交际的， 社交的"
         ],
         "usphone": "'soʃl",
         "ukphone": "'səuʃl"
     },
     {
-        "name": "medication",
-        "trans": [
+         "en": "medication",
+         "zh": [
             "药物治疗； 药物"
         ],
         "usphone": "'mɛdɪ'keʃən",
         "ukphone": "ˌmedi'keɪʃn"
     },
     {
-        "name": "drill",
-        "trans": [
+         "en": "drill",
+         "zh": [
             "钻， 打； 训练",
             "钻头；操练，训练"
         ],
@@ -18563,32 +18564,32 @@
         "ukphone": "drɪl"
     },
     {
-        "name": "intelligent",
-        "trans": [
+         "en": "intelligent",
+         "zh": [
             "聪明的， 理智的"
         ],
         "usphone": "ɪn'tɛlɪdʒənt",
         "ukphone": "ɪn'telɪdʒənt"
     },
     {
-        "name": "whilst",
-        "trans": [
+         "en": "whilst",
+         "zh": [
             "当…的时候"
         ],
         "usphone": "hwailst",
         "ukphone": "waɪlst"
     },
     {
-        "name": "clerk",
-        "trans": [
+         "en": "clerk",
+         "zh": [
             "店员， 办事员， 职员"
         ],
         "usphone": "klɝk",
         "ukphone": "klɑːk"
     },
     {
-        "name": "lobby",
-        "trans": [
+         "en": "lobby",
+         "zh": [
             "向进行游说",
             "大厅；休息室；院外活动集团"
         ],
@@ -18596,32 +18597,32 @@
         "ukphone": "'lɒbi"
     },
     {
-        "name": "acknowledge",
-        "trans": [
+         "en": "acknowledge",
+         "zh": [
             "承认， 承认…的权威； 告知收到， 确认； 对…表示感谢， 报偿"
         ],
         "usphone": "ək'nɑlɪdʒ",
         "ukphone": "ək'nɒlɪdʒ"
     },
     {
-        "name": "equip",
-        "trans": [
+         "en": "equip",
+         "zh": [
             "装备， 配备； 使有准备"
         ],
         "usphone": "ɪ'kwɪp",
         "ukphone": "ɪ'kwɪp"
     },
     {
-        "name": "radiation",
-        "trans": [
+         "en": "radiation",
+         "zh": [
             "放射物， 辐射能； 辐射"
         ],
         "usphone": ",redɪ'eʃən",
         "ukphone": "ˌreɪdi'eɪʃn"
     },
     {
-        "name": "Christian",
-        "trans": [
+         "en": "Christian",
+         "zh": [
             "基督教的",
             "基督教徒，信徒"
         ],
@@ -18629,8 +18630,8 @@
         "ukphone": "'krɪstʃən"
     },
     {
-        "name": "pulse",
-        "trans": [
+         "en": "pulse",
+         "zh": [
             "搏动， 跳动",
             "脉搏；脉冲"
         ],
@@ -18638,32 +18639,32 @@
         "ukphone": "pʌls"
     },
     {
-        "name": "luxury",
-        "trans": [
+         "en": "luxury",
+         "zh": [
             "奢侈； 奢侈品"
         ],
         "usphone": "'lʌɡʒəri",
         "ukphone": "'lʌkʃəri"
     },
     {
-        "name": "spiritual",
-        "trans": [
+         "en": "spiritual",
+         "zh": [
             "精神的， 心灵的； 宗教的"
         ],
         "usphone": "'spɪrɪtʃʊəl",
         "ukphone": "'spɪrɪtʃuəl"
     },
     {
-        "name": "worthwhile",
-        "trans": [
+         "en": "worthwhile",
+         "zh": [
             "值得花时间的， 值得做的"
         ],
         "usphone": "'wɝθ'waɪl",
         "ukphone": "'wɜːθ'waɪl"
     },
     {
-        "name": "mould",
-        "trans": [
+         "en": "mould",
+         "zh": [
             "霉，霉菌；模型，铸模；性格，气质",
             "用模子做， 浇铸； 使形成， 把…铸造成"
         ],
@@ -18671,16 +18672,16 @@
         "ukphone": "məuld"
     },
     {
-        "name": "increasingly",
-        "trans": [
+         "en": "increasingly",
+         "zh": [
             "日益， 越来越多地"
         ],
         "usphone": "ɪn'krisɪŋli",
         "ukphone": "ɪn'krɪːsɪŋli"
     },
     {
-        "name": "elbow",
-        "trans": [
+         "en": "elbow",
+         "zh": [
             "肘，肘部",
             "用肘部， 用肘挤"
         ],
@@ -18688,40 +18689,40 @@
         "ukphone": "'elbəu"
     },
     {
-        "name": "salad",
-        "trans": [
+         "en": "salad",
+         "zh": [
             "色拉， 凉拌菜"
         ],
         "usphone": "'sæləd",
         "ukphone": "'sæləd"
     },
     {
-        "name": "strategic",
-        "trans": [
+         "en": "strategic",
+         "zh": [
             "对全局有重要意义的， 关键的； 战略的"
         ],
         "usphone": "strə'tidʒɪk",
         "ukphone": "strə'tiːdʒɪk"
     },
     {
-        "name": "vary",
-        "trans": [
+         "en": "vary",
+         "zh": [
             "改变； 多样化"
         ],
         "usphone": "ˈveri",
         "ukphone": "'veəri"
     },
     {
-        "name": "readily",
-        "trans": [
+         "en": "readily",
+         "zh": [
             "乐意地， 欣然地； 容易地； 很快地， 立即"
         ],
         "usphone": "'rɛdɪli",
         "ukphone": "'redɪli"
     },
     {
-        "name": "stoop",
-        "trans": [
+         "en": "stoop",
+         "zh": [
             "俯身，弯腰；堕落，自贬",
             "弯腰， 曲背"
         ],
@@ -18729,16 +18730,16 @@
         "ukphone": "stuːp"
     },
     {
-        "name": "upper",
-        "trans": [
+         "en": "upper",
+         "zh": [
             "上面的， 地位较高的"
         ],
         "usphone": "'ʌpɚ",
         "ukphone": "'ʌpə"
     },
     {
-        "name": "rocket",
-        "trans": [
+         "en": "rocket",
+         "zh": [
             "迅速上升， 猛涨",
             "火箭"
         ],
@@ -18746,56 +18747,56 @@
         "ukphone": "'rɒkɪt"
     },
     {
-        "name": "splendid",
-        "trans": [
+         "en": "splendid",
+         "zh": [
             "壮丽的； 极好的"
         ],
         "usphone": "'splɛndɪd",
         "ukphone": "'splendɪd"
     },
     {
-        "name": "county",
-        "trans": [
+         "en": "county",
+         "zh": [
             "郡， 县"
         ],
         "usphone": "'kaʊnti",
         "ukphone": "'kaunti"
     },
     {
-        "name": "respondent",
-        "trans": [
+         "en": "respondent",
+         "zh": [
             "回答者； 响应者； 被告"
         ],
         "usphone": "rɪ'spɑndənt",
         "ukphone": "rɪ'spɒndənt"
     },
     {
-        "name": "episode",
-        "trans": [
+         "en": "episode",
+         "zh": [
             "一个事件； 插曲， 片段； 连续剧的一集"
         ],
         "usphone": "'ɛpɪsod",
         "ukphone": "'epɪsəud"
     },
     {
-        "name": "convenience",
-        "trans": [
+         "en": "convenience",
+         "zh": [
             "方便； 便利设施"
         ],
         "usphone": "kən'vinɪəns",
         "ukphone": "kən'viːniəns"
     },
     {
-        "name": "determination",
-        "trans": [
+         "en": "determination",
+         "zh": [
             "决心， 决定； 确定"
         ],
         "usphone": "dɪˌtɜːrmɪˈneɪʃn",
         "ukphone": "dɪˌtɜːmɪ'neɪʃn"
     },
     {
-        "name": "discipline",
-        "trans": [
+         "en": "discipline",
+         "zh": [
             "纪律；训练；惩罚；学科",
             "训练； 惩罚， 处罚"
         ],
@@ -18803,24 +18804,24 @@
         "ukphone": "'dɪsəplɪn"
     },
     {
-        "name": "behalf",
-        "trans": [
+         "en": "behalf",
+         "zh": [
             "利益"
         ],
         "usphone": "bɪ'hæf",
         "ukphone": "bɪ'hɑːf"
     },
     {
-        "name": "evidently",
-        "trans": [
+         "en": "evidently",
+         "zh": [
             "明显地， 显然"
         ],
         "usphone": "'ɛvɪdəntli",
         "ukphone": "'evɪdəntli"
     },
     {
-        "name": "objective",
-        "trans": [
+         "en": "objective",
+         "zh": [
             "客观的， 无偏见的",
             "目标，目的"
         ],
@@ -18828,56 +18829,56 @@
         "ukphone": "əb'dʒektɪv"
     },
     {
-        "name": "injure",
-        "trans": [
+         "en": "injure",
+         "zh": [
             "伤害， 损害， 使遭受损伤"
         ],
         "usphone": "'ɪndʒɚ",
         "ukphone": "'ɪndʒə"
     },
     {
-        "name": "victimize",
-        "trans": [
+         "en": "victimize",
+         "zh": [
             "使受害， 使牺牲"
         ],
         "usphone": "'vɪktɪmaɪz",
         "ukphone": "'vɪktɪmaɪz"
     },
     {
-        "name": "exert",
-        "trans": [
+         "en": "exert",
+         "zh": [
             "尽； 运用"
         ],
         "usphone": "ɪɡ'zɝt",
         "ukphone": "ɪg'zɜːt"
     },
     {
-        "name": "province",
-        "trans": [
+         "en": "province",
+         "zh": [
             "省； 领域， 范围"
         ],
         "usphone": "'prɑvɪns",
         "ukphone": "'prɒvɪns"
     },
     {
-        "name": "scandal",
-        "trans": [
+         "en": "scandal",
+         "zh": [
             "丑事， 丑闻； 流言蜚语； 反感， 愤慨"
         ],
         "usphone": "'skændl",
         "ukphone": "'skændl"
     },
     {
-        "name": "horrible",
-        "trans": [
+         "en": "horrible",
+         "zh": [
             "令人恐惧的， 可怕的； 骇人听闻的； 极讨厌的， 使人不愉快的； 糟透的"
         ],
         "usphone": "ˈhɑːrəbl",
         "ukphone": "'hɒrəbl"
     },
     {
-        "name": "estimate",
-        "trans": [
+         "en": "estimate",
+         "zh": [
             "估计； 评价",
             "估计； 评价， 看法"
         ],
@@ -18885,16 +18886,16 @@
         "ukphone": "'estɪmeɪt"
     },
     {
-        "name": "strengthen",
-        "trans": [
+         "en": "strengthen",
+         "zh": [
             "加强， 巩固"
         ],
         "usphone": "'strɛŋθn",
         "ukphone": "'streŋθn"
     },
     {
-        "name": "drip",
-        "trans": [
+         "en": "drip",
+         "zh": [
             "滴下，漏水",
             "水滴； 滴水声"
         ],
@@ -18902,16 +18903,16 @@
         "ukphone": "drɪp"
     },
     {
-        "name": "injury",
-        "trans": [
+         "en": "injury",
+         "zh": [
             "损害， 伤害； 受伤处"
         ],
         "usphone": "'ɪndʒəri",
         "ukphone": "'ɪndʒəri"
     },
     {
-        "name": "exhibit",
-        "trans": [
+         "en": "exhibit",
+         "zh": [
             "显示；陈列，展览",
             "展览品"
         ],
@@ -18919,8 +18920,8 @@
         "ukphone": "ɪg'zɪbɪt"
     },
     {
-        "name": "brand",
-        "trans": [
+         "en": "brand",
+         "zh": [
             "品牌；烙印",
             "铭刻， 打烙印于； 加污名于， 谴责"
         ],
@@ -18928,8 +18929,8 @@
         "ukphone": "brænd"
     },
     {
-        "name": "mushroom",
-        "trans": [
+         "en": "mushroom",
+         "zh": [
             "迅速成长",
             "蘑菇"
         ],
@@ -18937,184 +18938,184 @@
         "ukphone": "'mʌʃruːm; 'mʌʃrum"
     },
     {
-        "name": "alcohol",
-        "trans": [
+         "en": "alcohol",
+         "zh": [
             "酒精， 乙醇"
         ],
         "usphone": "'ælkəhɔl",
         "ukphone": "'ælkəhɒl"
     },
     {
-        "name": "choke",
-        "trans": [
+         "en": "choke",
+         "zh": [
             "使窒息； 塞满， 塞住"
         ],
         "usphone": "tʃok",
         "ukphone": "tʃəuk"
     },
     {
-        "name": "proposal",
-        "trans": [
+         "en": "proposal",
+         "zh": [
             "提议， 建议； 求婚"
         ],
         "usphone": "prə'pozl",
         "ukphone": "prə'pəuzl"
     },
     {
-        "name": "inevitable",
-        "trans": [
+         "en": "inevitable",
+         "zh": [
             "不可避免的， 必然的"
         ],
         "usphone": "ɪn'ɛvɪtəbl",
         "ukphone": "ɪn'evɪtəbl"
     },
     {
-        "name": "deny",
-        "trans": [
+         "en": "deny",
+         "zh": [
             "否定， 否认； 拒绝…的要求"
         ],
         "usphone": "dɪ'nai",
         "ukphone": "dɪ'naɪ"
     },
     {
-        "name": "miserable",
-        "trans": [
+         "en": "miserable",
+         "zh": [
             "痛苦的； 悲惨的； 令人难受的"
         ],
         "usphone": "'mɪzrəbl",
         "ukphone": "'mɪzrəbl"
     },
     {
-        "name": "recreation",
-        "trans": [
+         "en": "recreation",
+         "zh": [
             "娱乐活动， 消遣"
         ],
         "usphone": ",rɛkrɪ'eʃən",
         "ukphone": "ˌrekri'eɪʃn"
     },
     {
-        "name": "subtract",
-        "trans": [
+         "en": "subtract",
+         "zh": [
             "减， 减去， 去掉"
         ],
         "usphone": "səb'trækt",
         "ukphone": "səb'trækt"
     },
     {
-        "name": "allowance",
-        "trans": [
+         "en": "allowance",
+         "zh": [
             "津贴， 补贴； 零用钱"
         ],
         "usphone": "ə'laʊəns",
         "ukphone": "ə'lauəns"
     },
     {
-        "name": "portable",
-        "trans": [
+         "en": "portable",
+         "zh": [
             "便于携带的， 手提式的"
         ],
         "usphone": "'pɔrtəbl",
         "ukphone": "'pɔːtəbl"
     },
     {
-        "name": "ancient",
-        "trans": [
+         "en": "ancient",
+         "zh": [
             "古代的， 古老的； 年老的， 看上去很老的"
         ],
         "usphone": "ˈenʃənt",
         "ukphone": "'eɪnʃənt"
     },
     {
-        "name": "glory",
-        "trans": [
+         "en": "glory",
+         "zh": [
             "光荣， 荣誉的事； 美丽"
         ],
         "usphone": "'ɡlɔri",
         "ukphone": "'glɔːri"
     },
     {
-        "name": "secondary",
-        "trans": [
+         "en": "secondary",
+         "zh": [
             "次要的， 第二的； 中等的； 辅助的， 从属的"
         ],
         "usphone": "'sɛkəndɛri",
         "ukphone": "'sekəndri"
     },
     {
-        "name": "mission",
-        "trans": [
+         "en": "mission",
+         "zh": [
             "使命， 任务； 使团"
         ],
         "usphone": "'mɪʃən",
         "ukphone": "'mɪʃn"
     },
     {
-        "name": "attorney",
-        "trans": [
+         "en": "attorney",
+         "zh": [
             "律师， 代理人"
         ],
         "usphone": "ə'tɝni",
         "ukphone": "ə'tɜːni"
     },
     {
-        "name": "wander",
-        "trans": [
+         "en": "wander",
+         "zh": [
             "漫游， 闲逛， 漫步； 偏离正道； 走神， 恍惚"
         ],
         "usphone": "'wɑndɚ",
         "ukphone": "'wɒndə"
     },
     {
-        "name": "adopt",
-        "trans": [
+         "en": "adopt",
+         "zh": [
             "收养； 采用， 采取； 正式通过， 批准"
         ],
         "usphone": "ə'dɑpt",
         "ukphone": "ə'dɒpt"
     },
     {
-        "name": "oppose",
-        "trans": [
+         "en": "oppose",
+         "zh": [
             "反对； 反抗"
         ],
         "usphone": "ə'poz",
         "ukphone": "ə'pəuz"
     },
     {
-        "name": "singular",
-        "trans": [
+         "en": "singular",
+         "zh": [
             "单数的； 非凡的， 奇特的； 独一无二的"
         ],
         "usphone": "'sɪŋɡjəlɚ",
         "ukphone": "'sɪŋgjələ"
     },
     {
-        "name": "device",
-        "trans": [
+         "en": "device",
+         "zh": [
             "器械， 装置， 设备； 手段， 策略"
         ],
         "usphone": "dɪ'vaɪs",
         "ukphone": "dɪ'vaɪs"
     },
     {
-        "name": "mainframe",
-        "trans": [
+         "en": "mainframe",
+         "zh": [
             "主机， 大型机"
         ],
         "usphone": "'menfrem",
         "ukphone": "'meɪnfreɪm"
     },
     {
-        "name": "motor",
-        "trans": [
+         "en": "motor",
+         "zh": [
             "发动机， 电动车"
         ],
         "usphone": "'motɚ",
         "ukphone": "'məutə"
     },
     {
-        "name": "minus",
-        "trans": [
+         "en": "minus",
+         "zh": [
             "负的",
             "减",
             "负数；减号"
@@ -19123,8 +19124,8 @@
         "ukphone": "'maɪnəs"
     },
     {
-        "name": "conservative",
-        "trans": [
+         "en": "conservative",
+         "zh": [
             "保守的，守旧的；不时兴的，传统的",
             "保守的人"
         ],
@@ -19132,8 +19133,8 @@
         "ukphone": "kən'sɜːvətɪv"
     },
     {
-        "name": "access",
-        "trans": [
+         "en": "access",
+         "zh": [
             "接近；通道，入口；接近的机会",
             "存取"
         ],
@@ -19141,24 +19142,24 @@
         "ukphone": "'ækses"
     },
     {
-        "name": "conference",
-        "trans": [
+         "en": "conference",
+         "zh": [
             "会议， 讨论会； 讨论， 商谈"
         ],
         "usphone": "'kɑnfərəns",
         "ukphone": "'kɒnfərəns"
     },
     {
-        "name": "activity",
-        "trans": [
+         "en": "activity",
+         "zh": [
             "活动； 活力； 行动"
         ],
         "usphone": "ækˈtɪvətɪ",
         "ukphone": "æk'tɪvəti"
     },
     {
-        "name": "primitive",
-        "trans": [
+         "en": "primitive",
+         "zh": [
             "原始的，早期的；简单的；粗糙的",
             "原人； 原始事物"
         ],
@@ -19166,48 +19167,48 @@
         "ukphone": "'prɪmətɪv"
     },
     {
-        "name": "advisable",
-        "trans": [
+         "en": "advisable",
+         "zh": [
             "明智的， 可取的"
         ],
         "usphone": "əd'vaɪzəbl",
         "ukphone": "əd'vaɪzəbl"
     },
     {
-        "name": "dormitory",
-        "trans": [
+         "en": "dormitory",
+         "zh": [
             "集体寝室， 宿舍"
         ],
         "usphone": "'dɔrmətɔri",
         "ukphone": "'dɔːmətri"
     },
     {
-        "name": "overcome",
-        "trans": [
+         "en": "overcome",
+         "zh": [
             "战胜， 克服； 压倒， 使受不了"
         ],
         "usphone": ",ovɚ'kʌm",
         "ukphone": "ˌəuvə'kʌm"
     },
     {
-        "name": "cooperate",
-        "trans": [
+         "en": "cooperate",
+         "zh": [
             "合作， 协作； 配合"
         ],
         "usphone": "koʊˈɑːpəreɪt",
         "ukphone": "kəu'ɒpəreɪt"
     },
     {
-        "name": "cabin",
-        "trans": [
+         "en": "cabin",
+         "zh": [
             "小屋； 船舱， 机舱"
         ],
         "usphone": "'kæbɪn",
         "ukphone": "'kæbɪn"
     },
     {
-        "name": "sum",
-        "trans": [
+         "en": "sum",
+         "zh": [
             "共计",
             "总数；金额；算术"
         ],
@@ -19215,72 +19216,72 @@
         "ukphone": "sʌm"
     },
     {
-        "name": "current",
-        "trans": [
+         "en": "current",
+         "zh": [
             "当前的， 通用的； 流行的， 流传的"
         ],
         "usphone": "kɝ​ənt",
         "ukphone": "'kʌrənt"
     },
     {
-        "name": "heel",
-        "trans": [
+         "en": "heel",
+         "zh": [
             "脚后跟， 踵； 后跟"
         ],
         "usphone": "hil",
         "ukphone": "hiːl"
     },
     {
-        "name": "variety",
-        "trans": [
+         "en": "variety",
+         "zh": [
             "多样化； 种类； 变种"
         ],
         "usphone": "və'raɪəti",
         "ukphone": "və'raɪəti"
     },
     {
-        "name": "disturb",
-        "trans": [
+         "en": "disturb",
+         "zh": [
             "打扰， 扰乱； 弄乱； 使不安"
         ],
         "usphone": "dɪ'stɝb",
         "ukphone": "dɪ'stɜːb"
     },
     {
-        "name": "copper",
-        "trans": [
+         "en": "copper",
+         "zh": [
             "铜； 铜币， 铜制器"
         ],
         "usphone": "'kɑpɚ",
         "ukphone": "'kɒpə"
     },
     {
-        "name": "persist",
-        "trans": [
+         "en": "persist",
+         "zh": [
             "坚持， 持续"
         ],
         "usphone": "pɚ'sɪst",
         "ukphone": "pə'sɪst"
     },
     {
-        "name": "audio",
-        "trans": [
+         "en": "audio",
+         "zh": [
             "听觉的， 声音的"
         ],
         "usphone": "'ɔdɪo",
         "ukphone": "'ɔːdiəu"
     },
     {
-        "name": "civilian",
-        "trans": [
+         "en": "civilian",
+         "zh": [
             "平民， 百姓"
         ],
         "usphone": "sə'vɪlɪən",
         "ukphone": "sə'vɪlɪən"
     },
     {
-        "name": "pump",
-        "trans": [
+         "en": "pump",
+         "zh": [
             "泵",
             "抽， 泵送， 打气"
         ],
@@ -19288,24 +19289,24 @@
         "ukphone": "pʌmp"
     },
     {
-        "name": "pierce",
-        "trans": [
+         "en": "pierce",
+         "zh": [
             "刺穿， 穿孔于"
         ],
         "usphone": "pɪrs",
         "ukphone": "pɪəs"
     },
     {
-        "name": "teenager",
-        "trans": [
+         "en": "teenager",
+         "zh": [
             "青少年"
         ],
         "usphone": "'tinedʒɚ",
         "ukphone": "'tiːneɪdʒə"
     },
     {
-        "name": "apart",
-        "trans": [
+         "en": "apart",
+         "zh": [
             "成距离，相间隔；分开，除去",
             "分离的， 分隔的"
         ],
@@ -19313,16 +19314,16 @@
         "ukphone": "ə'pɑːt"
     },
     {
-        "name": "calendar",
-        "trans": [
+         "en": "calendar",
+         "zh": [
             "日历， 历书， 历法"
         ],
         "usphone": "'kæləndɚ",
         "ukphone": "'kælɪndə"
     },
     {
-        "name": "offensive",
-        "trans": [
+         "en": "offensive",
+         "zh": [
             "冒犯的，无礼的；进攻的，攻击性的",
             "进攻， 攻势"
         ],
@@ -19330,24 +19331,24 @@
         "ukphone": "ə'fensɪv"
     },
     {
-        "name": "cartoon",
-        "trans": [
+         "en": "cartoon",
+         "zh": [
             "卡通画， 幽默画； 动画片， 卡通片"
         ],
         "usphone": "kɑr'tun",
         "ukphone": "kɑː'tuːn"
     },
     {
-        "name": "speculate",
-        "trans": [
+         "en": "speculate",
+         "zh": [
             "推测， 推断； 投机， 做投机买卖"
         ],
         "usphone": "'spɛkjə'let",
         "ukphone": "'spekjuleɪt"
     },
     {
-        "name": "launch",
-        "trans": [
+         "en": "launch",
+         "zh": [
             "发射，投射，发动；使下水",
             "发射； 下水"
         ],
@@ -19355,24 +19356,24 @@
         "ukphone": "lɔːntʃ"
     },
     {
-        "name": "amid",
-        "trans": [
+         "en": "amid",
+         "zh": [
             "在…中间， 在…之中， 被…围绕"
         ],
         "usphone": "ə'mɪd",
         "ukphone": "ə'mɪd"
     },
     {
-        "name": "beloved",
-        "trans": [
+         "en": "beloved",
+         "zh": [
             "所钟爱的， 所爱戴的"
         ],
         "usphone": "bɪ'lʌvd",
         "ukphone": "bɪ'lʌvd"
     },
     {
-        "name": "single",
-        "trans": [
+         "en": "single",
+         "zh": [
             "单一的；独身的；单程的",
             "单程票；"
         ],
@@ -19380,16 +19381,16 @@
         "ukphone": "'sɪŋgl"
     },
     {
-        "name": "confirm",
-        "trans": [
+         "en": "confirm",
+         "zh": [
             "证实， 肯定； 确认； 批准"
         ],
         "usphone": "kən'fɝm",
         "ukphone": "kən'fɜːm"
     },
     {
-        "name": "cement",
-        "trans": [
+         "en": "cement",
+         "zh": [
             "水泥，胶泥",
             "黏结； 巩固， 使团结"
         ],
@@ -19397,40 +19398,40 @@
         "ukphone": "sɪ'ment"
     },
     {
-        "name": "subway",
-        "trans": [
+         "en": "subway",
+         "zh": [
             "地道； 地铁"
         ],
         "usphone": "'sʌbwe",
         "ukphone": "'sʌbweɪ"
     },
     {
-        "name": "gallon",
-        "trans": [
+         "en": "gallon",
+         "zh": [
             "加仑"
         ],
         "usphone": "'ɡælən",
         "ukphone": "'gælən"
     },
     {
-        "name": "acquaint",
-        "trans": [
+         "en": "acquaint",
+         "zh": [
             "使认识， 使了解"
         ],
         "usphone": "ə'kwent",
         "ukphone": "ə'kweɪnt"
     },
     {
-        "name": "appoint",
-        "trans": [
+         "en": "appoint",
+         "zh": [
             "任命， 委任； 约定， 指定"
         ],
         "usphone": "ə'pɔɪnt",
         "ukphone": "ə'pɔɪnt"
     },
     {
-        "name": "elastic",
-        "trans": [
+         "en": "elastic",
+         "zh": [
             "有弹性的， 灵活的",
             "松紧带"
         ],
@@ -19438,56 +19439,56 @@
         "ukphone": "ɪ'læstɪk"
     },
     {
-        "name": "assist",
-        "trans": [
+         "en": "assist",
+         "zh": [
             "援助， 帮助， 协助"
         ],
         "usphone": "ə'sɪst",
         "ukphone": "ə'sɪst"
     },
     {
-        "name": "vast",
-        "trans": [
+         "en": "vast",
+         "zh": [
             "巨大的， 大量的； 浩瀚的"
         ],
         "usphone": "væst",
         "ukphone": "vɑːst"
     },
     {
-        "name": "intervene",
-        "trans": [
+         "en": "intervene",
+         "zh": [
             "干涉， 调停， 干预； 插入， 介入； 干扰， 打扰"
         ],
         "usphone": ",ɪntɚ'vin",
         "ukphone": "ˌɪntə'viːn"
     },
     {
-        "name": "undergraduate",
-        "trans": [
+         "en": "undergraduate",
+         "zh": [
             "大学本科生"
         ],
         "usphone": ",ʌndɚ'ɡrædʒuət",
         "ukphone": "ˌʌndə'grædʒuət"
     },
     {
-        "name": "symbol",
-        "trans": [
+         "en": "symbol",
+         "zh": [
             "象征； 符号， 标志"
         ],
         "usphone": "'sɪmbl",
         "ukphone": "'sɪmbl"
     },
     {
-        "name": "commercial",
-        "trans": [
+         "en": "commercial",
+         "zh": [
             "商业的， 商务的； 商品化的， 商业性的"
         ],
         "usphone": "kə'mɝʃəl",
         "ukphone": "kə'mɜːʃl"
     },
     {
-        "name": "joint",
-        "trans": [
+         "en": "joint",
+         "zh": [
             "连接的； 共同的",
             "接头，接缝；关节"
         ],
@@ -19495,32 +19496,32 @@
         "ukphone": "dʒɔɪnt"
     },
     {
-        "name": "reasonable",
-        "trans": [
+         "en": "reasonable",
+         "zh": [
             "通情达理的， 讲道理的； 合理的； 公道的； 尚好的， 过得去的"
         ],
         "usphone": "'riznəbl",
         "ukphone": "'riːznəbl"
     },
     {
-        "name": "available",
-        "trans": [
+         "en": "available",
+         "zh": [
             "现成可使用的， 通用的； 可取的； 联系的； 可得到的"
         ],
         "usphone": "ə'veləbl",
         "ukphone": "ə'veɪləbl"
     },
     {
-        "name": "confine",
-        "trans": [
+         "en": "confine",
+         "zh": [
             "限制， 使局限； 使不外出， 禁闭"
         ],
         "usphone": "kən'faɪn",
         "ukphone": "kən'faɪn"
     },
     {
-        "name": "advocate",
-        "trans": [
+         "en": "advocate",
+         "zh": [
             "拥护， 提倡， 主张",
             "拥护者， 提倡者； 辩护者， 律师"
         ],
@@ -19528,32 +19529,32 @@
         "ukphone": "'ædvəkeɪt；-ət"
     },
     {
-        "name": "frequency",
-        "trans": [
+         "en": "frequency",
+         "zh": [
             "屡次； 次数， 频率"
         ],
         "usphone": "'frikwənsi",
         "ukphone": "'friːkwənsi"
     },
     {
-        "name": "horizontal",
-        "trans": [
+         "en": "horizontal",
+         "zh": [
             "地平的， 水平的"
         ],
         "usphone": "'hɔrə'zɑntl",
         "ukphone": "ˌhɒrɪ'zɒntl"
     },
     {
-        "name": "luggage",
-        "trans": [
+         "en": "luggage",
+         "zh": [
             "行李"
         ],
         "usphone": "'lʌɡɪdʒ",
         "ukphone": "'lʌgɪdʒ"
     },
     {
-        "name": "lick",
-        "trans": [
+         "en": "lick",
+         "zh": [
             "舔，舔吃；打败，克服；轻拍，吞卷",
             "舔； 少量， 少许"
         ],
@@ -19561,16 +19562,16 @@
         "ukphone": "lɪk"
     },
     {
-        "name": "missile",
-        "trans": [
+         "en": "missile",
+         "zh": [
             "导弹， 飞弹， 投射物"
         ],
         "usphone": "'mɪsl",
         "ukphone": "'mɪsaɪl"
     },
     {
-        "name": "dynamic",
-        "trans": [
+         "en": "dynamic",
+         "zh": [
             "有活力的；动力的；不断变化的",
             "动力； 动力学"
         ],
@@ -19578,16 +19579,16 @@
         "ukphone": "daɪ'næmɪk"
     },
     {
-        "name": "satisfactory",
-        "trans": [
+         "en": "satisfactory",
+         "zh": [
             "令人满意的"
         ],
         "usphone": ",sætɪs'fæktəri",
         "ukphone": "ˌsætɪs'fæktəri"
     },
     {
-        "name": "military",
-        "trans": [
+         "en": "military",
+         "zh": [
             "军事的，军用的",
             "军队， 武装力量"
         ],
@@ -19595,48 +19596,48 @@
         "ukphone": "'mɪlətri"
     },
     {
-        "name": "reluctant",
-        "trans": [
+         "en": "reluctant",
+         "zh": [
             "不情愿的， 勉强的"
         ],
         "usphone": "rɪ'lʌktənt",
         "ukphone": "rɪ'lʌktənt"
     },
     {
-        "name": "generate",
-        "trans": [
+         "en": "generate",
+         "zh": [
             "发生， 引起； 生殖"
         ],
         "usphone": "'dʒɛnəret",
         "ukphone": "'dʒenəreɪt"
     },
     {
-        "name": "unusual",
-        "trans": [
+         "en": "unusual",
+         "zh": [
             "不平常的， 少有的； 独特的， 与众不同的"
         ],
         "usphone": "ʌnˈjuʒəl",
         "ukphone": "ˌʌn'juːʒuəl"
     },
     {
-        "name": "sector",
-        "trans": [
+         "en": "sector",
+         "zh": [
             "部门， 部分； 防御地段， 防区； 扇形"
         ],
         "usphone": "'sɛktɚ",
         "ukphone": "'sektə"
     },
     {
-        "name": "passion",
-        "trans": [
+         "en": "passion",
+         "zh": [
             "激情， 热情； 酷爱"
         ],
         "usphone": "'pæʃən",
         "ukphone": "'pæʃn"
     },
     {
-        "name": "extreme",
-        "trans": [
+         "en": "extreme",
+         "zh": [
             "极度的；末端的",
             "极端， 过分"
         ],
@@ -19644,8 +19645,8 @@
         "ukphone": "ɪk'striːm"
     },
     {
-        "name": "coil",
-        "trans": [
+         "en": "coil",
+         "zh": [
             "卷，圈；线圈",
             "卷"
         ],
@@ -19653,16 +19654,16 @@
         "ukphone": "kɔɪl"
     },
     {
-        "name": "ensure",
-        "trans": [
+         "en": "ensure",
+         "zh": [
             "保证； 保护"
         ],
         "usphone": "ɪn'ʃʊr",
         "ukphone": "ɪn'ʃuə"
     },
     {
-        "name": "coordinate",
-        "trans": [
+         "en": "coordinate",
+         "zh": [
             "同等的， 并列的",
             "协调， 调节",
             "坐标"
@@ -19671,24 +19672,24 @@
         "ukphone": "kəʊ'ɔ:dɪneɪt"
     },
     {
-        "name": "organism",
-        "trans": [
+         "en": "organism",
+         "zh": [
             "生物， 有机体； 机体， 有机组织"
         ],
         "usphone": "'ɔrɡənɪzəm",
         "ukphone": "'ɔːgənɪzəm"
     },
     {
-        "name": "athlete",
-        "trans": [
+         "en": "athlete",
+         "zh": [
             "运动员， 体育家"
         ],
         "usphone": "'æθlit",
         "ukphone": "'æθliːt"
     },
     {
-        "name": "epidemic",
-        "trans": [
+         "en": "epidemic",
+         "zh": [
             "流行性的；传染的",
             "流行病； 传播"
         ],
@@ -19696,16 +19697,16 @@
         "ukphone": "ˌepɪ'demɪk"
     },
     {
-        "name": "suppose",
-        "trans": [
+         "en": "suppose",
+         "zh": [
             "猜想， 假定， 让； [常用于被动语态]期望， 认为应该"
         ],
         "usphone": "sə'poz",
         "ukphone": "sə'pəuz"
     },
     {
-        "name": "upright",
-        "trans": [
+         "en": "upright",
+         "zh": [
             "挺直着， 竖立着",
             "垂直的；正直的，诚实的"
         ],
@@ -19713,16 +19714,16 @@
         "ukphone": "'ʌpraɪt"
     },
     {
-        "name": "remarkable",
-        "trans": [
+         "en": "remarkable",
+         "zh": [
             "值得注意的， 引人注目的； 异常的， 非凡的"
         ],
         "usphone": "rɪ'mɑrkəbl",
         "ukphone": "rɪ'mɑːkəbl"
     },
     {
-        "name": "brake",
-        "trans": [
+         "en": "brake",
+         "zh": [
             "制动； 刹住， 用闸使放慢速度",
             "闸，刹车"
         ],
@@ -19730,64 +19731,64 @@
         "ukphone": "breɪk"
     },
     {
-        "name": "tube",
-        "trans": [
+         "en": "tube",
+         "zh": [
             "管， 电子管， 显像管"
         ],
         "usphone": "tub",
         "ukphone": "tjuːb"
     },
     {
-        "name": "naval",
-        "trans": [
+         "en": "naval",
+         "zh": [
             "海军的"
         ],
         "usphone": "'nevl",
         "ukphone": "'neɪvl"
     },
     {
-        "name": "failure",
-        "trans": [
+         "en": "failure",
+         "zh": [
             "失败， 失败的人； 失灵， 故障； 不履行"
         ],
         "usphone": "'feljɚ",
         "ukphone": "'feɪljə"
     },
     {
-        "name": "accountancy",
-        "trans": [
+         "en": "accountancy",
+         "zh": [
             "会计工作； 会计学"
         ],
         "usphone": "ə'kaʊntənsi",
         "ukphone": "ə'kauntənsi"
     },
     {
-        "name": "forge",
-        "trans": [
+         "en": "forge",
+         "zh": [
             "打制， 锻造； 伪造"
         ],
         "usphone": "fɔrdʒ",
         "ukphone": "fɔːdʒ"
     },
     {
-        "name": "carpet",
-        "trans": [
+         "en": "carpet",
+         "zh": [
             "地毯"
         ],
         "usphone": "'kɑrpɪt",
         "ukphone": "'kɑːpɪt"
     },
     {
-        "name": "solve",
-        "trans": [
+         "en": "solve",
+         "zh": [
             "解答； 解释； 解决"
         ],
         "usphone": "sɑlv",
         "ukphone": "sɒlv"
     },
     {
-        "name": "hint",
-        "trans": [
+         "en": "hint",
+         "zh": [
             "暗示， 示意",
             "暗示，示意；细微的迹象；建议"
         ],
@@ -19795,8 +19796,8 @@
         "ukphone": "hɪnt"
     },
     {
-        "name": "knot",
-        "trans": [
+         "en": "knot",
+         "zh": [
             "打结",
             "结；节疤；节",
             "把…打成结"
@@ -19805,24 +19806,24 @@
         "ukphone": "nɒt"
     },
     {
-        "name": "demonstrate",
-        "trans": [
+         "en": "demonstrate",
+         "zh": [
             "说明； 论证； 表露"
         ],
         "usphone": "'dɛmən'stret",
         "ukphone": "'demənstreɪt"
     },
     {
-        "name": "region",
-        "trans": [
+         "en": "region",
+         "zh": [
             "地区， 地带， 区域； 范围， 幅度"
         ],
         "usphone": "'ridʒən",
         "ukphone": "'riːdʒən"
     },
     {
-        "name": "support",
-        "trans": [
+         "en": "support",
+         "zh": [
             "支撑；支持；供养；证实",
             "支持， 支撑物， 支持者"
         ],
@@ -19830,8 +19831,8 @@
         "ukphone": "sə'pɔːt"
     },
     {
-        "name": "yearly",
-        "trans": [
+         "en": "yearly",
+         "zh": [
             "一年一度地",
             "每年的"
         ],
@@ -19839,32 +19840,32 @@
         "ukphone": "'jɜːli;'jɪəli"
     },
     {
-        "name": "deceive",
-        "trans": [
+         "en": "deceive",
+         "zh": [
             "欺骗， 蒙蔽， 行骗"
         ],
         "usphone": "dɪ'siv",
         "ukphone": "dɪ'siːv"
     },
     {
-        "name": "saucer",
-        "trans": [
+         "en": "saucer",
+         "zh": [
             "茶托， 碟子"
         ],
         "usphone": "'sɔsɚ",
         "ukphone": "'sɔːsə"
     },
     {
-        "name": "hire",
-        "trans": [
+         "en": "hire",
+         "zh": [
             "租用； 雇用"
         ],
         "usphone": "'haɪɚ",
         "ukphone": "'haɪə"
     },
     {
-        "name": "kid",
-        "trans": [
+         "en": "kid",
+         "zh": [
             "戏弄， 开玩笑",
             "小孩；年轻人"
         ],
@@ -19872,56 +19873,56 @@
         "ukphone": "kɪd"
     },
     {
-        "name": "donkey",
-        "trans": [
+         "en": "donkey",
+         "zh": [
             "驴； 笨蛋"
         ],
         "usphone": "ˈdɑŋkɪ",
         "ukphone": "'dɔŋki"
     },
     {
-        "name": "destination",
-        "trans": [
+         "en": "destination",
+         "zh": [
             "目的地， 终点， 目标"
         ],
         "usphone": ",dɛstɪ'neʃən",
         "ukphone": "ˌdestɪ'neɪʃn"
     },
     {
-        "name": "vertical",
-        "trans": [
+         "en": "vertical",
+         "zh": [
             "垂直的， 竖式的"
         ],
         "usphone": "'vɝtɪkl",
         "ukphone": "'vɜːtɪkl"
     },
     {
-        "name": "learning",
-        "trans": [
+         "en": "learning",
+         "zh": [
             "学习； 学问， 知识"
         ],
         "usphone": "'lɝnɪŋ",
         "ukphone": "'lɜːnɪŋ"
     },
     {
-        "name": "monument",
-        "trans": [
+         "en": "monument",
+         "zh": [
             "纪念碑， 纪念馆； 历史遗迹"
         ],
         "usphone": "'mɑnjumənt",
         "ukphone": "'mɒnjumənt"
     },
     {
-        "name": "misconception",
-        "trans": [
+         "en": "misconception",
+         "zh": [
             "误解"
         ],
         "usphone": "'mɪskən'sɛpʃən",
         "ukphone": "ˌmɪskən'sepʃn"
     },
     {
-        "name": "damp",
-        "trans": [
+         "en": "damp",
+         "zh": [
             "潮湿的，微湿的",
             "潮湿，湿气",
             "使潮湿； 使沮丧； 抑制"
@@ -19930,24 +19931,24 @@
         "ukphone": "dæmp"
     },
     {
-        "name": "vivid",
-        "trans": [
+         "en": "vivid",
+         "zh": [
             "鲜艳的； 生动的， 栩栩如生的"
         ],
         "usphone": "'vɪvɪd",
         "ukphone": "'vɪvɪd"
     },
     {
-        "name": "honey",
-        "trans": [
+         "en": "honey",
+         "zh": [
             "蜜， 蜂蜜； 甜， 甜蜜； [常用于称呼] 宝贝儿"
         ],
         "usphone": "'hʌni",
         "ukphone": "'hʌni"
     },
     {
-        "name": "screw",
-        "trans": [
+         "en": "screw",
+         "zh": [
             "螺丝",
             "固定， 拧紧"
         ],
@@ -19955,64 +19956,64 @@
         "ukphone": "skruː"
     },
     {
-        "name": "gap",
-        "trans": [
+         "en": "gap",
+         "zh": [
             "缺口； 间隔； 差距； 缺陷"
         ],
         "usphone": "ɡæp",
         "ukphone": "gæp"
     },
     {
-        "name": "missing",
-        "trans": [
+         "en": "missing",
+         "zh": [
             "缺掉的， 失踪的"
         ],
         "usphone": "'mɪsɪŋ",
         "ukphone": "'mɪsɪŋ"
     },
     {
-        "name": "emphasize",
-        "trans": [
+         "en": "emphasize",
+         "zh": [
             "强调， 着重"
         ],
         "usphone": "'ɛmfəsaɪz",
         "ukphone": "'emfəsaɪz"
     },
     {
-        "name": "virtue",
-        "trans": [
+         "en": "virtue",
+         "zh": [
             "善， 美德； 优点， 长处"
         ],
         "usphone": "'vɝtʃʊ",
         "ukphone": "'vɜːtʃuː"
     },
     {
-        "name": "normal",
-        "trans": [
+         "en": "normal",
+         "zh": [
             "正常的， 平常的； 正规的， 规范的"
         ],
         "usphone": "'nɔrml",
         "ukphone": "'nɔːml"
     },
     {
-        "name": "socialist",
-        "trans": [
+         "en": "socialist",
+         "zh": [
             "社会主义者"
         ],
         "usphone": "'soʃəlɪst",
         "ukphone": "'səuʃəlɪst"
     },
     {
-        "name": "gradual",
-        "trans": [
+         "en": "gradual",
+         "zh": [
             "逐渐的， 渐进的； 坡度平缓的"
         ],
         "usphone": "'ɡrædʒuəl",
         "ukphone": "'grædʒuəl"
     },
     {
-        "name": "figure",
-        "trans": [
+         "en": "figure",
+         "zh": [
             "出现； 合乎情理； 计算； 认为， 猜想",
             "数字；人物；算术；体形，体态；轮廓；画像，塑像；图，图形"
         ],
@@ -20020,16 +20021,16 @@
         "ukphone": "'fɪgə"
     },
     {
-        "name": "ore",
-        "trans": [
+         "en": "ore",
+         "zh": [
             "矿， 矿石"
         ],
         "usphone": "ɔr",
         "ukphone": "ɔː"
     },
     {
-        "name": "slight",
-        "trans": [
+         "en": "slight",
+         "zh": [
             "轻微的，微小的",
             "侮慢；轻视，冷落"
         ],
@@ -20037,40 +20038,40 @@
         "ukphone": "slaɪt"
     },
     {
-        "name": "previous",
-        "trans": [
+         "en": "previous",
+         "zh": [
             "先的， 前的； 以前的"
         ],
         "usphone": "'privɪəs",
         "ukphone": "'priːviəs"
     },
     {
-        "name": "transmit",
-        "trans": [
+         "en": "transmit",
+         "zh": [
             "传送， 传递； 传染； 播送， 发射"
         ],
         "usphone": "trænzˈmɪt",
         "ukphone": "trænz'mɪt; træns'mɪt"
     },
     {
-        "name": "socialism",
-        "trans": [
+         "en": "socialism",
+         "zh": [
             "社会主义"
         ],
         "usphone": "'soʃəlɪzəm",
         "ukphone": "'səuʃəlɪzəm"
     },
     {
-        "name": "consumption",
-        "trans": [
+         "en": "consumption",
+         "zh": [
             "消耗， 消费"
         ],
         "usphone": "kən'sʌmpʃən",
         "ukphone": "kən'sʌmpʃn"
     },
     {
-        "name": "argue",
-        "trans": [
+         "en": "argue",
+         "zh": [
             "争辩， 争论",
             "争论，争辩，辩论；主张；说服"
         ],
@@ -20078,32 +20079,32 @@
         "ukphone": "'ɑːgjuː"
     },
     {
-        "name": "technology",
-        "trans": [
+         "en": "technology",
+         "zh": [
             "工艺学； 工艺， 技术"
         ],
         "usphone": "tɛkˈnɑlədʒɪ",
         "ukphone": "tek'nɒlədʒi"
     },
     {
-        "name": "weaken",
-        "trans": [
+         "en": "weaken",
+         "zh": [
             "削弱， 变弱"
         ],
         "usphone": "'wikən",
         "ukphone": "'wiːkən"
     },
     {
-        "name": "voltage",
-        "trans": [
+         "en": "voltage",
+         "zh": [
             "电压"
         ],
         "usphone": "'voltɪdʒ",
         "ukphone": "'vəultɪdʒ"
     },
     {
-        "name": "damn",
-        "trans": [
+         "en": "damn",
+         "zh": [
             "该死，见鬼〔表示很生气或失望〕",
             "非常，很",
             "该死的〔表示对某人或某事物生气〕"
@@ -20112,8 +20113,8 @@
         "ukphone": "dæm"
     },
     {
-        "name": "superior",
-        "trans": [
+         "en": "superior",
+         "zh": [
             "上级的，较高的；优越的；有优越感的，高傲的",
             "上级， 长官"
         ],
@@ -20121,48 +20122,48 @@
         "ukphone": "sjuː'pɪəriə"
     },
     {
-        "name": "location",
-        "trans": [
+         "en": "location",
+         "zh": [
             "位置， 场所； 外景拍摄地"
         ],
         "usphone": "lo'keʃən",
         "ukphone": "ləu'keɪʃn"
     },
     {
-        "name": "compensation",
-        "trans": [
+         "en": "compensation",
+         "zh": [
             "补偿， 赔偿"
         ],
         "usphone": ",kɑmpɛn'seʃən",
         "ukphone": "ˌkɒmpen'seɪʃn"
     },
     {
-        "name": "bankrupt",
-        "trans": [
+         "en": "bankrupt",
+         "zh": [
             "破产的"
         ],
         "usphone": "'bæŋkrʌpt",
         "ukphone": "'bæŋkrʌpt"
     },
     {
-        "name": "punctual",
-        "trans": [
+         "en": "punctual",
+         "zh": [
             "严守时刻的， 准时的"
         ],
         "usphone": "'pʌŋtʃʊəl",
         "ukphone": "'pʌŋktʃuəl"
     },
     {
-        "name": "advertise",
-        "trans": [
+         "en": "advertise",
+         "zh": [
             "为…做广告， 宣传； 公告； 登广告"
         ],
         "usphone": "'ædvɚtaɪz",
         "ukphone": "'ædvətaɪz"
     },
     {
-        "name": "compromise",
-        "trans": [
+         "en": "compromise",
+         "zh": [
             "妥协； 危及； 放弃",
             "妥协，和解，折中办法"
         ],
@@ -20170,8 +20171,8 @@
         "ukphone": "'kɒmprəmaɪz"
     },
     {
-        "name": "sack",
-        "trans": [
+         "en": "sack",
+         "zh": [
             "麻袋，包；解雇；洗劫，劫掠",
             "解雇； 洗劫， 劫掠"
         ],
@@ -20179,72 +20180,72 @@
         "ukphone": "sæk"
     },
     {
-        "name": "software",
-        "trans": [
+         "en": "software",
+         "zh": [
             "软件"
         ],
         "usphone": "'sɔftwɛr",
         "ukphone": "'sɒftweə"
     },
     {
-        "name": "seminar",
-        "trans": [
+         "en": "seminar",
+         "zh": [
             "研究班， 研讨会"
         ],
         "usphone": "'sɛmɪnɑr",
         "ukphone": "'semɪnɑː"
     },
     {
-        "name": "comparative",
-        "trans": [
+         "en": "comparative",
+         "zh": [
             "比较的， 相对的"
         ],
         "usphone": "kəm'pærətɪv",
         "ukphone": "kəm'pærətɪv"
     },
     {
-        "name": "competition",
-        "trans": [
+         "en": "competition",
+         "zh": [
             "竞争， 比赛"
         ],
         "usphone": ",kɑmpə'tɪʃən",
         "ukphone": "ˌkɒmpə'tɪʃn"
     },
     {
-        "name": "fruitful",
-        "trans": [
+         "en": "fruitful",
+         "zh": [
             "多产的， 肥沃的"
         ],
         "usphone": "'frutfl",
         "ukphone": "'fruːtful"
     },
     {
-        "name": "react",
-        "trans": [
+         "en": "react",
+         "zh": [
             "反应， 作出反应"
         ],
         "usphone": "ri'ækt",
         "ukphone": "ri'ækt"
     },
     {
-        "name": "dragon",
-        "trans": [
+         "en": "dragon",
+         "zh": [
             "龙"
         ],
         "usphone": "'dræɡən",
         "ukphone": "'drægən"
     },
     {
-        "name": "hesitant",
-        "trans": [
+         "en": "hesitant",
+         "zh": [
             "犹豫的； 吞吞吐吐的"
         ],
         "usphone": "'hɛzɪtənt",
         "ukphone": "'hezɪtənt"
     },
     {
-        "name": "beyond",
-        "trans": [
+         "en": "beyond",
+         "zh": [
             "在更远处， 再往后",
             "在…的那边，远于；迟于；越出"
         ],
@@ -20252,24 +20253,24 @@
         "ukphone": "bɪ'jɒnd"
     },
     {
-        "name": "hell",
-        "trans": [
+         "en": "hell",
+         "zh": [
             "地狱； 极大的痛苦"
         ],
         "usphone": "hɛl",
         "ukphone": "hel"
     },
     {
-        "name": "feedback",
-        "trans": [
+         "en": "feedback",
+         "zh": [
             "回授， 反馈， 反应"
         ],
         "usphone": "'fidbæk",
         "ukphone": "'fiːdbæk"
     },
     {
-        "name": "hazard",
-        "trans": [
+         "en": "hazard",
+         "zh": [
             "危险；公害",
             "尝试着做； 冒…风险"
         ],
@@ -20277,32 +20278,32 @@
         "ukphone": "'hæzəd"
     },
     {
-        "name": "justify",
-        "trans": [
+         "en": "justify",
+         "zh": [
             "证明…是正当的"
         ],
         "usphone": "'dʒʌstə'fai",
         "ukphone": "'dʒʌstɪfaɪ"
     },
     {
-        "name": "voluntary",
-        "trans": [
+         "en": "voluntary",
+         "zh": [
             "自愿的， 志愿的"
         ],
         "usphone": "'vɑləntɛri",
         "ukphone": "'vɒləntri"
     },
     {
-        "name": "connection",
-        "trans": [
+         "en": "connection",
+         "zh": [
             "联系， 关系； 连接， 衔接； 连贯性； 熟人， 关系"
         ],
         "usphone": "kə'nɛkʃən",
         "ukphone": "kə'nekʃn"
     },
     {
-        "name": "proof",
-        "trans": [
+         "en": "proof",
+         "zh": [
             "耐…的， 能防…的",
             "证据，证明；校样，样张"
         ],
@@ -20310,16 +20311,16 @@
         "ukphone": "pruːf"
     },
     {
-        "name": "timber",
-        "trans": [
+         "en": "timber",
+         "zh": [
             "木材， 原木； 大木料， 栋木"
         ],
         "usphone": "'tɪmbɚ",
         "ukphone": "'tɪmbə"
     },
     {
-        "name": "roar",
-        "trans": [
+         "en": "roar",
+         "zh": [
             "吼叫，怒号，咆哮；轰鸣；大声喊出，大声表示",
             "呐喊声， 咆哮声， 吼叫声； 轰鸣"
         ],
@@ -20327,40 +20328,40 @@
         "ukphone": "rɔː"
     },
     {
-        "name": "presence",
-        "trans": [
+         "en": "presence",
+         "zh": [
             "出席， 到场； 存在； 仪表， 仪态"
         ],
         "usphone": "'prɛzns",
         "ukphone": "'prezns"
     },
     {
-        "name": "phase",
-        "trans": [
+         "en": "phase",
+         "zh": [
             "阶段； 方面； 相， 相位"
         ],
         "usphone": "fez",
         "ukphone": "feɪz"
     },
     {
-        "name": "surrounding",
-        "trans": [
+         "en": "surrounding",
+         "zh": [
             "附近的；四周的"
         ],
         "usphone": "sə'raʊndɪŋ",
         "ukphone": "sə'raundɪŋ"
     },
     {
-        "name": "efficiency",
-        "trans": [
+         "en": "efficiency",
+         "zh": [
             "效率； 功效， 效能"
         ],
         "usphone": "ɪˈfɪʃənsɪ",
         "ukphone": "ɪ'fɪʃnsi"
     },
     {
-        "name": "overhead",
-        "trans": [
+         "en": "overhead",
+         "zh": [
             "在头顶上",
             "在头顶上的，架空的",
             "经常费用， 管理费用"
@@ -20369,8 +20370,8 @@
         "ukphone": "əʊvə'hed"
     },
     {
-        "name": "contract",
-        "trans": [
+         "en": "contract",
+         "zh": [
             "缩小； 订合同； 感染， 染上",
             "契约， 合同"
         ],
@@ -20378,24 +20379,24 @@
         "ukphone": "'kɒntrækt"
     },
     {
-        "name": "conclude",
-        "trans": [
+         "en": "conclude",
+         "zh": [
             "推断出， 推论出； 结束， 终了； 缔结， 议定"
         ],
         "usphone": "kən'klud",
         "ukphone": "kən'kluːd"
     },
     {
-        "name": "comprehension",
-        "trans": [
+         "en": "comprehension",
+         "zh": [
             "理解， 理解力， 领悟； 理解力测验"
         ],
         "usphone": ",kɑmprɪ'hɛnʃən",
         "ukphone": "ˌkɒmprɪ'henʃn"
     },
     {
-        "name": "beggar",
-        "trans": [
+         "en": "beggar",
+         "zh": [
             "乞丐",
             "使贫穷"
         ],
@@ -20403,16 +20404,16 @@
         "ukphone": "'begə"
     },
     {
-        "name": "leather",
-        "trans": [
+         "en": "leather",
+         "zh": [
             "皮革， 皮革制品"
         ],
         "usphone": "'lɛðɚ",
         "ukphone": "'leðə"
     },
     {
-        "name": "comb",
-        "trans": [
+         "en": "comb",
+         "zh": [
             "梳子；鸡冠，冠状物",
             "梳理； 在…搜寻； 彻底搜查"
         ],
@@ -20420,32 +20421,32 @@
         "ukphone": "kəum"
     },
     {
-        "name": "innovative",
-        "trans": [
+         "en": "innovative",
+         "zh": [
             "创新的， 革新的"
         ],
         "usphone": "'ɪnəvetɪv",
         "ukphone": "'ɪnəveɪtɪv"
     },
     {
-        "name": "insight",
-        "trans": [
+         "en": "insight",
+         "zh": [
             "洞察力； 洞悉； 深刻见解"
         ],
         "usphone": "'ɪn'saɪt",
         "ukphone": "'ɪnsaɪt"
     },
     {
-        "name": "fabric",
-        "trans": [
+         "en": "fabric",
+         "zh": [
             "织物， 纺织品； 结构"
         ],
         "usphone": "'fæbrɪk",
         "ukphone": "'fæbrɪk"
     },
     {
-        "name": "revolutionary",
-        "trans": [
+         "en": "revolutionary",
+         "zh": [
             "革命的，革新的",
             "革命者"
         ],
@@ -20453,8 +20454,8 @@
         "ukphone": "ˌrevə'luːʃənəri"
     },
     {
-        "name": "following",
-        "trans": [
+         "en": "following",
+         "zh": [
             "接着的，下列的",
             "一批追随者"
         ],
@@ -20462,8 +20463,8 @@
         "ukphone": "'fɒləuɪŋ"
     },
     {
-        "name": "exact",
-        "trans": [
+         "en": "exact",
+         "zh": [
             "确切的，精确的",
             "强求， 索取"
         ],
@@ -20471,8 +20472,8 @@
         "ukphone": "ɪg'zækt"
     },
     {
-        "name": "indoor",
-        "trans": [
+         "en": "indoor",
+         "zh": [
             "在室内， 在户内",
             "室内的"
         ],
@@ -20480,8 +20481,8 @@
         "ukphone": "'ɪndɔː"
     },
     {
-        "name": "force",
-        "trans": [
+         "en": "force",
+         "zh": [
             "强迫；用力推动，用力打开",
             "军队， 兵力； 暴力， 武力； 力， 力气； 影响力， 效力"
         ],
@@ -20489,32 +20490,32 @@
         "ukphone": "fɔːs"
     },
     {
-        "name": "centigrade",
-        "trans": [
+         "en": "centigrade",
+         "zh": [
             "百分度的； 摄氏的"
         ],
         "usphone": "'sɛntɪɡred",
         "ukphone": "'sentɪgreɪd"
     },
     {
-        "name": "sexual",
-        "trans": [
+         "en": "sexual",
+         "zh": [
             "性的， 两性的； 性别的"
         ],
         "usphone": "sɛkʃʊəl",
         "ukphone": "'sekʃuəl"
     },
     {
-        "name": "sympathetic",
-        "trans": [
+         "en": "sympathetic",
+         "zh": [
             "同情的； 和谐的； 赞同的， 支持的； 合意的"
         ],
         "usphone": ",sɪmpə'θɛtɪk",
         "ukphone": "ˌsɪmpə'θetɪk"
     },
     {
-        "name": "freight",
-        "trans": [
+         "en": "freight",
+         "zh": [
             "货运；货物；运费",
             "运送"
         ],
@@ -20522,8 +20523,8 @@
         "ukphone": "freɪt"
     },
     {
-        "name": "range",
-        "trans": [
+         "en": "range",
+         "zh": [
             "变动； 漫游， 四处搜索； 使排列成行",
             "一系列；范围；射程，距离；脉；射击场"
         ],
@@ -20531,48 +20532,48 @@
         "ukphone": "reɪndʒ"
     },
     {
-        "name": "distribution",
-        "trans": [
+         "en": "distribution",
+         "zh": [
             "分发， 分配； 分布"
         ],
         "usphone": "'dɪstrə'bjʊʃən",
         "ukphone": "ˌdɪstrɪ'bjuːʃn"
     },
     {
-        "name": "tyre",
-        "trans": [
+         "en": "tyre",
+         "zh": [
             "轮胎， 车胎"
         ],
         "usphone": "'taɪɚ",
         "ukphone": "'taɪə"
     },
     {
-        "name": "derive",
-        "trans": [
+         "en": "derive",
+         "zh": [
             "取得； 起源"
         ],
         "usphone": "dɪ'raɪv",
         "ukphone": "dɪ'raɪv"
     },
     {
-        "name": "capacity",
-        "trans": [
+         "en": "capacity",
+         "zh": [
             "容量； 能力， 才能； 能量； 身份， 地位"
         ],
         "usphone": "kə'pæsəti",
         "ukphone": "kə'pæsəti"
     },
     {
-        "name": "cope",
-        "trans": [
+         "en": "cope",
+         "zh": [
             "应付， 处理"
         ],
         "usphone": "kop",
         "ukphone": "kəup"
     },
     {
-        "name": "overseas",
-        "trans": [
+         "en": "overseas",
+         "zh": [
             "在海外",
             "在海外的"
         ],
@@ -20580,8 +20581,8 @@
         "ukphone": "ˌəuvə'siːz"
     },
     {
-        "name": "impress",
-        "trans": [
+         "en": "impress",
+         "zh": [
             "给人印象，引人注目",
             "给…深刻印象；印，压印",
             "印记； 特征"
@@ -20590,16 +20591,16 @@
         "ukphone": "ɪm'pres"
     },
     {
-        "name": "confess",
-        "trans": [
+         "en": "confess",
+         "zh": [
             "供认， 坦白； 承认"
         ],
         "usphone": "kən'fɛs",
         "ukphone": "kən'fes"
     },
     {
-        "name": "leak",
-        "trans": [
+         "en": "leak",
+         "zh": [
             "漏；泄露",
             "漏洞"
         ],
@@ -20607,16 +20608,16 @@
         "ukphone": "liːk"
     },
     {
-        "name": "ghost",
-        "trans": [
+         "en": "ghost",
+         "zh": [
             "鬼， 灵魂， 鬼魂"
         ],
         "usphone": "ɡost",
         "ukphone": "gəust"
     },
     {
-        "name": "feature",
-        "trans": [
+         "en": "feature",
+         "zh": [
             "起重要作用",
             "特征，特色；面貌；特写，专题节目；故事片",
             "突出；由…主演"
@@ -20625,8 +20626,8 @@
         "ukphone": "'fiːtʃə"
     },
     {
-        "name": "lean",
-        "trans": [
+         "en": "lean",
+         "zh": [
             "倾斜；屈身；靠",
             "瘦的； 贫瘠的"
         ],
@@ -20634,8 +20635,8 @@
         "ukphone": "liːn"
     },
     {
-        "name": "flat",
-        "trans": [
+         "en": "flat",
+         "zh": [
             "平直地； 直截了当地",
             "平的；固定的；漏气的；平淡的；沉闷的；浅的",
             "一套房间，单元住宅"
@@ -20644,16 +20645,16 @@
         "ukphone": "flæt"
     },
     {
-        "name": "recall",
-        "trans": [
+         "en": "recall",
+         "zh": [
             "回忆； 召回， 叫回； 收回， 撤销"
         ],
         "usphone": "'rikɔl",
         "ukphone": "rɪ'kɔːl"
     },
     {
-        "name": "leap",
-        "trans": [
+         "en": "leap",
+         "zh": [
             "跳，跃",
             "跳跃； 骤变"
         ],
@@ -20661,48 +20662,48 @@
         "ukphone": "liːp"
     },
     {
-        "name": "waterproof",
-        "trans": [
+         "en": "waterproof",
+         "zh": [
             "不透水的， 防水的"
         ],
         "usphone": "'wɔtɚpruf",
         "ukphone": "'wɔːtəpruːf"
     },
     {
-        "name": "barber",
-        "trans": [
+         "en": "barber",
+         "zh": [
             "理发师"
         ],
         "usphone": "'bɑrbɚ",
         "ukphone": "'bɑːbə"
     },
     {
-        "name": "precise",
-        "trans": [
+         "en": "precise",
+         "zh": [
             "精确的， 准确的； 严谨的"
         ],
         "usphone": "prɪ'saɪs",
         "ukphone": "prɪ'saɪs"
     },
     {
-        "name": "sensible",
-        "trans": [
+         "en": "sensible",
+         "zh": [
             "明智的； 合情理的； 有知觉的"
         ],
         "usphone": "'sɛnsəbl",
         "ukphone": "'sensəbl"
     },
     {
-        "name": "objection",
-        "trans": [
+         "en": "objection",
+         "zh": [
             "反对， 异议； 反对的理由"
         ],
         "usphone": "əb'dʒɛkʃən",
         "ukphone": "əb'dʒekʃn"
     },
     {
-        "name": "dispute",
-        "trans": [
+         "en": "dispute",
+         "zh": [
             "争论， 争执； 对…表示异议",
             "争论"
         ],
@@ -20710,24 +20711,24 @@
         "ukphone": "dɪ'spjuːt; 'dɪspjuːt"
     },
     {
-        "name": "precious",
-        "trans": [
+         "en": "precious",
+         "zh": [
             "珍贵的， 宝贵的"
         ],
         "usphone": "'prɛʃəs",
         "ukphone": "'preʃəs"
     },
     {
-        "name": "observation",
-        "trans": [
+         "en": "observation",
+         "zh": [
             "注意， 观察； 言论， 评论； 观察资料"
         ],
         "usphone": ",ɑbzɚ'veʃən",
         "ukphone": "ˌɒbzə'veɪʃn"
     },
     {
-        "name": "tremble",
-        "trans": [
+         "en": "tremble",
+         "zh": [
             "发抖，哆嗦；摇动",
             "颤抖； 摇晃， 摇动"
         ],
@@ -20735,8 +20736,8 @@
         "ukphone": "'trembl"
     },
     {
-        "name": "suspect",
-        "trans": [
+         "en": "suspect",
+         "zh": [
             "可疑的， 不信任的",
             "疑有；推测；对…表示怀疑",
             "嫌疑犯，可疑分子"
@@ -20745,32 +20746,32 @@
         "ukphone": "sə'spekt"
     },
     {
-        "name": "apologize",
-        "trans": [
+         "en": "apologize",
+         "zh": [
             "道歉， 谢罪， 认错"
         ],
         "usphone": "ə'pɑlədʒaɪz",
         "ukphone": "ə'pɒlədʒaɪz"
     },
     {
-        "name": "inhabitant",
-        "trans": [
+         "en": "inhabitant",
+         "zh": [
             "居民， 住户"
         ],
         "usphone": "ɪn'hæbɪtənt",
         "ukphone": "ɪn'hæbɪtənt"
     },
     {
-        "name": "fraction",
-        "trans": [
+         "en": "fraction",
+         "zh": [
             "小部分； 片断； 分数"
         ],
         "usphone": "'frækʃən",
         "ukphone": "'frækʃn"
     },
     {
-        "name": "filter",
-        "trans": [
+         "en": "filter",
+         "zh": [
             "过滤，透；走漏",
             "滤纸， 过滤嘴"
         ],
@@ -20778,16 +20779,16 @@
         "ukphone": "'fɪltə"
     },
     {
-        "name": "sunlight",
-        "trans": [
+         "en": "sunlight",
+         "zh": [
             "日光， 阳光"
         ],
         "usphone": "'sʌnlaɪt",
         "ukphone": "'sʌnlaɪt"
     },
     {
-        "name": "site",
-        "trans": [
+         "en": "site",
+         "zh": [
             "地点，场所",
             "使坐落在； 设置"
         ],
@@ -20795,64 +20796,64 @@
         "ukphone": "saɪt"
     },
     {
-        "name": "emotion",
-        "trans": [
+         "en": "emotion",
+         "zh": [
             "情感， 感情； 激动"
         ],
         "usphone": "ɪ'moʃən",
         "ukphone": "ɪ'məuʃn"
     },
     {
-        "name": "massive",
-        "trans": [
+         "en": "massive",
+         "zh": [
             "大的， 大而重的； 大块的； 大量的， 大规模的"
         ],
         "usphone": "'mæsɪv",
         "ukphone": "'mæsɪv"
     },
     {
-        "name": "cease",
-        "trans": [
+         "en": "cease",
+         "zh": [
             "停止， 终止"
         ],
         "usphone": "sis",
         "ukphone": "siːs"
     },
     {
-        "name": "assess",
-        "trans": [
+         "en": "assess",
+         "zh": [
             "对估价； 评价， 评论"
         ],
         "usphone": "ə'sɛs",
         "ukphone": "ə'ses"
     },
     {
-        "name": "asset",
-        "trans": [
+         "en": "asset",
+         "zh": [
             "资产， 财产； 有价值的特性或技能， 优点"
         ],
         "usphone": "'æsɛt",
         "ukphone": "'æset"
     },
     {
-        "name": "owe",
-        "trans": [
+         "en": "owe",
+         "zh": [
             "欠； 应把…归功于； 感激， 感恩"
         ],
         "usphone": "o",
         "ukphone": "əu"
     },
     {
-        "name": "scarce",
-        "trans": [
+         "en": "scarce",
+         "zh": [
             "缺乏的， 不足的； 稀少的， 罕见的"
         ],
         "usphone": "skɛrs",
         "ukphone": "skeəs"
     },
     {
-        "name": "minimum",
-        "trans": [
+         "en": "minimum",
+         "zh": [
             "最低的， 最小的",
             "最低限度；最小量"
         ],
@@ -20860,8 +20861,8 @@
         "ukphone": "'mɪnɪməm"
     },
     {
-        "name": "queue",
-        "trans": [
+         "en": "queue",
+         "zh": [
             "排队等候",
             "长队，行列"
         ],
@@ -20869,24 +20870,24 @@
         "ukphone": "kjuː"
     },
     {
-        "name": "mathematical",
-        "trans": [
+         "en": "mathematical",
+         "zh": [
             "数学的"
         ],
         "usphone": ",mæθə'mætɪkl",
         "ukphone": "ˌmæθə'mætɪkl"
     },
     {
-        "name": "apology",
-        "trans": [
+         "en": "apology",
+         "zh": [
             "道歉， 认错， 谢罪"
         ],
         "usphone": "ə'pɑlədʒi",
         "ukphone": "ə'pɒlədʒi"
     },
     {
-        "name": "magic",
-        "trans": [
+         "en": "magic",
+         "zh": [
             "有魔力的； 魔术的",
             "魔法，魅力"
         ],
@@ -20894,48 +20895,48 @@
         "ukphone": "'mædʒɪk"
     },
     {
-        "name": "argument",
-        "trans": [
+         "en": "argument",
+         "zh": [
             "争论， 辩论； 理由； 说理， 论证"
         ],
         "usphone": "'ɑrɡjumənt",
         "ukphone": "'ɑːgjumənt"
     },
     {
-        "name": "reveal",
-        "trans": [
+         "en": "reveal",
+         "zh": [
             "揭露， 泄露； 展现， 显示"
         ],
         "usphone": "rɪ'vil",
         "ukphone": "rɪ'viːl"
     },
     {
-        "name": "data",
-        "trans": [
+         "en": "data",
+         "zh": [
             "资料，数据"
         ],
         "usphone": "'detə",
         "ukphone": "'deɪtə"
     },
     {
-        "name": "theoretical",
-        "trans": [
+         "en": "theoretical",
+         "zh": [
             "理论的"
         ],
         "usphone": ",θiə'rɛtɪkəl",
         "ukphone": "ˌθɪə'retɪkl"
     },
     {
-        "name": "adequate",
-        "trans": [
+         "en": "adequate",
+         "zh": [
             "足够的； 可以胜任的"
         ],
         "usphone": "ˈædɪkwət",
         "ukphone": "'ædɪkwət"
     },
     {
-        "name": "utter",
-        "trans": [
+         "en": "utter",
+         "zh": [
             "完全的，彻底的",
             "发出， 说， 讲"
         ],
@@ -20943,24 +20944,24 @@
         "ukphone": "'ʌtə"
     },
     {
-        "name": "onion",
-        "trans": [
+         "en": "onion",
+         "zh": [
             "洋葱； 洋葱类植物"
         ],
         "usphone": "'ʌnjən",
         "ukphone": "'ʌnjən"
     },
     {
-        "name": "vibrate",
-        "trans": [
+         "en": "vibrate",
+         "zh": [
             "颤动"
         ],
         "usphone": "vaɪ'breɪt",
         "ukphone": "vaɪ'breɪt"
     },
     {
-        "name": "drum",
-        "trans": [
+         "en": "drum",
+         "zh": [
             "有节奏地敲击",
             "鼓，鼓状物；圆桶"
         ],
@@ -20968,72 +20969,72 @@
         "ukphone": "drʌm"
     },
     {
-        "name": "sausage",
-        "trans": [
+         "en": "sausage",
+         "zh": [
             "香肠， 腊肠"
         ],
         "usphone": "'sɔsɪdʒ",
         "ukphone": "'sɒsɪdʒ"
     },
     {
-        "name": "hopeful",
-        "trans": [
+         "en": "hopeful",
+         "zh": [
             "有希望的"
         ],
         "usphone": "'hopfl",
         "ukphone": "'həupfl"
     },
     {
-        "name": "tremendous",
-        "trans": [
+         "en": "tremendous",
+         "zh": [
             "极大的， 非常的； 精彩的， 了不起的"
         ],
         "usphone": "trə'mɛndəs",
         "ukphone": "trə'mendəs"
     },
     {
-        "name": "condense",
-        "trans": [
+         "en": "condense",
+         "zh": [
             "冷凝， 凝结； 浓缩， 压缩， 简缩"
         ],
         "usphone": "kən'dɛns",
         "ukphone": "kən'dens"
     },
     {
-        "name": "barrier",
-        "trans": [
+         "en": "barrier",
+         "zh": [
             "栅栏； 检票口； 屏障； 障碍， 隔阂"
         ],
         "usphone": "'bærɪɚ",
         "ukphone": "'bæriə"
     },
     {
-        "name": "realistic",
-        "trans": [
+         "en": "realistic",
+         "zh": [
             "现实的； 实际可行的； 现实主义的； 逼真的"
         ],
         "usphone": ",riə'lɪstɪk",
         "ukphone": "ˌriːə'lɪstɪk"
     },
     {
-        "name": "justice",
-        "trans": [
+         "en": "justice",
+         "zh": [
             "正义， 公正； 司法"
         ],
         "usphone": "'dʒʌstɪs",
         "ukphone": "'dʒʌstɪs"
     },
     {
-        "name": "create",
-        "trans": [
+         "en": "create",
+         "zh": [
             "创造； 引起， 产生"
         ],
         "usphone": "krɪ'et",
         "ukphone": "kri'eɪt"
     },
     {
-        "name": "criminal",
-        "trans": [
+         "en": "criminal",
+         "zh": [
             "犯罪的， 刑事的",
             "犯人，罪犯，刑事犯"
         ],
@@ -21041,8 +21042,8 @@
         "ukphone": "'krɪmɪnl"
     },
     {
-        "name": "tag",
-        "trans": [
+         "en": "tag",
+         "zh": [
             "尾随",
             "附加语；标签",
             "给…加上标签"
@@ -21051,32 +21052,32 @@
         "ukphone": "tæg"
     },
     {
-        "name": "notebook",
-        "trans": [
+         "en": "notebook",
+         "zh": [
             "笔记本"
         ],
         "usphone": "'notbʊk",
         "ukphone": "'nəutbuk"
     },
     {
-        "name": "curious",
-        "trans": [
+         "en": "curious",
+         "zh": [
             "好奇的； 奇怪的"
         ],
         "usphone": "'kjʊrɪəs",
         "ukphone": "'kjuəriəs"
     },
     {
-        "name": "indirect",
-        "trans": [
+         "en": "indirect",
+         "zh": [
             "间接的， 婉转的"
         ],
         "usphone": ",ɪndə'rɛkt",
         "ukphone": "ˌɪndə'rekt; ˌɪndaɪ'rekt"
     },
     {
-        "name": "individual",
-        "trans": [
+         "en": "individual",
+         "zh": [
             "个别的；独特的",
             "个人， 个体"
         ],
@@ -21084,32 +21085,32 @@
         "ukphone": "ˌɪndɪ'vɪdʒuəl"
     },
     {
-        "name": "resource",
-        "trans": [
+         "en": "resource",
+         "zh": [
             "资源； 财力； 应付办法， 谋略"
         ],
         "usphone": "'risɔrs",
         "ukphone": "rɪ'sɔːs; rɪ'zɔːs"
     },
     {
-        "name": "ugly",
-        "trans": [
+         "en": "ugly",
+         "zh": [
             "丑陋的； 可怕的"
         ],
         "usphone": "'ʌɡli",
         "ukphone": "'ʌgli"
     },
     {
-        "name": "nuisance",
-        "trans": [
+         "en": "nuisance",
+         "zh": [
             "讨厌的东西"
         ],
         "usphone": "'nusns",
         "ukphone": "'njuːsns"
     },
     {
-        "name": "tax",
-        "trans": [
+         "en": "tax",
+         "zh": [
             "税，税款；负担",
             "对…征税； 使负担重， 使费尽力气"
         ],
@@ -21117,88 +21118,88 @@
         "ukphone": "tæks"
     },
     {
-        "name": "earthquake",
-        "trans": [
+         "en": "earthquake",
+         "zh": [
             "地震， 大震荡"
         ],
         "usphone": "'ɝθ'kwek",
         "ukphone": "'ɜːθkweɪk"
     },
     {
-        "name": "excitement",
-        "trans": [
+         "en": "excitement",
+         "zh": [
             "刺激， 激动， 兴奋； 令人兴奋的事， 刺激的因素"
         ],
         "usphone": "ɪk'saɪtmənt",
         "ukphone": "ɪk'saɪtmənt"
     },
     {
-        "name": "nightmare",
-        "trans": [
+         "en": "nightmare",
+         "zh": [
             "噩梦； 可怕的事物， 无法摆脱的恐惧"
         ],
         "usphone": "'naɪt'mɛr",
         "ukphone": "'naɪtmeə"
     },
     {
-        "name": "cord",
-        "trans": [
+         "en": "cord",
+         "zh": [
             "细绳， 粗线， 索； 灯芯绒裤"
         ],
         "usphone": "kɔrd",
         "ukphone": "kɔːd"
     },
     {
-        "name": "ending",
-        "trans": [
+         "en": "ending",
+         "zh": [
             "结尾， 结局； 死亡"
         ],
         "usphone": "'ɛndɪŋ",
         "ukphone": "'endɪŋ"
     },
     {
-        "name": "core",
-        "trans": [
+         "en": "core",
+         "zh": [
             "果实的心； 核心， 要点"
         ],
         "usphone": "kɔr",
         "ukphone": "kɔː"
     },
     {
-        "name": "council",
-        "trans": [
+         "en": "council",
+         "zh": [
             "理事会， 委员会"
         ],
         "usphone": "'kaʊnsl",
         "ukphone": "'kaunsl"
     },
     {
-        "name": "enforce",
-        "trans": [
+         "en": "enforce",
+         "zh": [
             "实施， 执行； 强制， 强迫， 迫使"
         ],
         "usphone": "ɪn'fɔrs",
         "ukphone": "ɪn'fɔːs"
     },
     {
-        "name": "embassy",
-        "trans": [
+         "en": "embassy",
+         "zh": [
             "大使馆； 大使馆全体成员"
         ],
         "usphone": "'ɛmbəsi",
         "ukphone": "'embəsi"
     },
     {
-        "name": "departure",
-        "trans": [
+         "en": "departure",
+         "zh": [
             "离开， 起程， 出发； 背离， 违背"
         ],
         "usphone": "dɪ'pɑrtʃɚ",
         "ukphone": "dɪ'pɑːtʃə"
     },
     {
-        "name": "dash",
-        "trans": [
+         "en": "dash",
+         "zh": [
             "猛冲，击碎",
             "使猛撞，飞奔；溅",
             "猛冲； 破折号"
@@ -21207,8 +21208,8 @@
         "ukphone": "dæʃ"
     },
     {
-        "name": "concrete",
-        "trans": [
+         "en": "concrete",
+         "zh": [
             "实在的， 具体的",
             "混凝土；具体物"
         ],
@@ -21216,24 +21217,24 @@
         "ukphone": "'kɒŋkriːt"
     },
     {
-        "name": "penalty",
-        "trans": [
+         "en": "penalty",
+         "zh": [
             "处罚， 惩罚； 罚金"
         ],
         "usphone": "'pɛnəlti",
         "ukphone": "'penəlti"
     },
     {
-        "name": "sociology",
-        "trans": [
+         "en": "sociology",
+         "zh": [
             "社会学"
         ],
         "usphone": ",sosɪ'ɑlədʒi",
         "ukphone": "ˌsəusi'ɒlədʒi"
     },
     {
-        "name": "link",
-        "trans": [
+         "en": "link",
+         "zh": [
             "连接，联系",
             "环节， 联系， 纽带"
         ],
@@ -21241,24 +21242,24 @@
         "ukphone": "lɪŋk"
     },
     {
-        "name": "flee",
-        "trans": [
+         "en": "flee",
+         "zh": [
             "逃走， 逃掉， 逃离； 避开， 逃避"
         ],
         "usphone": "fli",
         "ukphone": "fliː"
     },
     {
-        "name": "distinct",
-        "trans": [
+         "en": "distinct",
+         "zh": [
             "与其他不同的； 清楚的， 明显的"
         ],
         "usphone": "dɪ'stɪŋkt",
         "ukphone": "dɪ'stɪŋkt"
     },
     {
-        "name": "scale",
-        "trans": [
+         "en": "scale",
+         "zh": [
             "大小，规模；等级，级别；天平，磅秤；比例；刻度，标度；鳞",
             "攀登， 爬越"
         ],
@@ -21266,16 +21267,16 @@
         "ukphone": "skeɪl"
     },
     {
-        "name": "recovery",
-        "trans": [
+         "en": "recovery",
+         "zh": [
             "恢复， 痊愈； 追回， 寻回， 收复"
         ],
         "usphone": "rɪ'kʌvəri",
         "ukphone": "rɪ'kʌvəri"
     },
     {
-        "name": "hedge",
-        "trans": [
+         "en": "hedge",
+         "zh": [
             "用篱笆围； 避免直接回答",
             "篱笆，树篱；障碍物"
         ],
@@ -21283,8 +21284,8 @@
         "ukphone": "hedʒ"
     },
     {
-        "name": "tune",
-        "trans": [
+         "en": "tune",
+         "zh": [
             "调子；和谐",
             "调整， 调节； 为调音"
         ],
@@ -21292,40 +21293,40 @@
         "ukphone": "tjuːn"
     },
     {
-        "name": "weep",
-        "trans": [
+         "en": "weep",
+         "zh": [
             "哭泣， 流泪； 渗出"
         ],
         "usphone": "wip",
         "ukphone": "wiːp"
     },
     {
-        "name": "aware",
-        "trans": [
+         "en": "aware",
+         "zh": [
             "知道的， 意识到的"
         ],
         "usphone": "ə'wɛr",
         "ukphone": "ə'weə"
     },
     {
-        "name": "drama",
-        "trans": [
+         "en": "drama",
+         "zh": [
             "戏剧， 剧本； 戏剧性事件"
         ],
         "usphone": "'drɑmə",
         "ukphone": "'drɑːmə"
     },
     {
-        "name": "security",
-        "trans": [
+         "en": "security",
+         "zh": [
             "安全， 保障； 抵押品； 证券"
         ],
         "usphone": "sə'kjʊrəti",
         "ukphone": "sɪ'kjuərəti"
     },
     {
-        "name": "limp",
-        "trans": [
+         "en": "limp",
+         "zh": [
             "软的；不强壮的",
             "〔因一腿受伤而〕跛行，一瘸一拐地走",
             "跛行"
@@ -21334,8 +21335,8 @@
         "ukphone": "lɪmp"
     },
     {
-        "name": "award",
-        "trans": [
+         "en": "award",
+         "zh": [
             "奖，奖品；判定",
             "授予， 给予； 判给， 裁定"
         ],
@@ -21343,32 +21344,32 @@
         "ukphone": "ə'wɔːd"
     },
     {
-        "name": "organize",
-        "trans": [
+         "en": "organize",
+         "zh": [
             "组织， 把…编组； 使有条理"
         ],
         "usphone": "ɔrɡənˌaɪz",
         "ukphone": "'ɔːgənaɪz"
     },
     {
-        "name": "marriage",
-        "trans": [
+         "en": "marriage",
+         "zh": [
             "结婚， 婚姻； 婚礼"
         ],
         "usphone": "'mærɪdʒ",
         "ukphone": "'mærɪdʒ"
     },
     {
-        "name": "stove",
-        "trans": [
+         "en": "stove",
+         "zh": [
             "炉， 火炉， 电炉"
         ],
         "usphone": "stov",
         "ukphone": "stəuv"
     },
     {
-        "name": "alarm",
-        "trans": [
+         "en": "alarm",
+         "zh": [
             "惊恐；忧虑；警报",
             "使惊恐； 使担心"
         ],
@@ -21376,8 +21377,8 @@
         "ukphone": "ə'lɑːm"
     },
     {
-        "name": "weed",
-        "trans": [
+         "en": "weed",
+         "zh": [
             "除草",
             "杂草，野草"
         ],
@@ -21385,16 +21386,16 @@
         "ukphone": "wiːd"
     },
     {
-        "name": "continual",
-        "trans": [
+         "en": "continual",
+         "zh": [
             "连续的； 频频的"
         ],
         "usphone": "kən'tɪnjuəl",
         "ukphone": "kən'tɪnjuəl"
     },
     {
-        "name": "herd",
-        "trans": [
+         "en": "herd",
+         "zh": [
             "兽群，牧群",
             "放牧"
         ],
@@ -21402,24 +21403,24 @@
         "ukphone": "hɜːd"
     },
     {
-        "name": "limb",
-        "trans": [
+         "en": "limb",
+         "zh": [
             "肢， 臂， 腿； 树枝"
         ],
         "usphone": "lɪm",
         "ukphone": "lɪm"
     },
     {
-        "name": "balloon",
-        "trans": [
+         "en": "balloon",
+         "zh": [
             "气球， 玩具气球"
         ],
         "usphone": "bə'lun",
         "ukphone": "bə'luːn"
     },
     {
-        "name": "motion",
-        "trans": [
+         "en": "motion",
+         "zh": [
             "打手势， 示意",
             "运动；手势，眼色，动作；提议"
         ],
@@ -21427,16 +21428,16 @@
         "ukphone": "'məuʃn"
     },
     {
-        "name": "limited",
-        "trans": [
+         "en": "limited",
+         "zh": [
             "有限的"
         ],
         "usphone": "'lɪmɪtɪd",
         "ukphone": "'lɪmɪtɪd"
     },
     {
-        "name": "idle",
-        "trans": [
+         "en": "idle",
+         "zh": [
             "空闲的，懒散的；无用的",
             "虚度， 无所事事"
         ],
@@ -21444,72 +21445,72 @@
         "ukphone": "'aɪdl"
     },
     {
-        "name": "confidence",
-        "trans": [
+         "en": "confidence",
+         "zh": [
             "信任， 信赖； 信心， 自信"
         ],
         "usphone": "'kɑnfɪdəns",
         "ukphone": "'kɒnfɪdəns"
     },
     {
-        "name": "arbitrary",
-        "trans": [
+         "en": "arbitrary",
+         "zh": [
             "随心所欲的， 专断的"
         ],
         "usphone": "ˈɑːrbətreri",
         "ukphone": "'ɑːbɪtrəri"
     },
     {
-        "name": "fearful",
-        "trans": [
+         "en": "fearful",
+         "zh": [
             "害怕的， 可怕的； 不安的， 忧虑的"
         ],
         "usphone": "'fɪrfəl",
         "ukphone": "'fɪəfl"
     },
     {
-        "name": "accent",
-        "trans": [
+         "en": "accent",
+         "zh": [
             "口音， 腔调； 重音"
         ],
         "usphone": "'æksɛnt",
         "ukphone": "'æksənt"
     },
     {
-        "name": "passive",
-        "trans": [
+         "en": "passive",
+         "zh": [
             "被动的， 消极的"
         ],
         "usphone": "'pæsɪv",
         "ukphone": "'pæsɪv"
     },
     {
-        "name": "fertilizer",
-        "trans": [
+         "en": "fertilizer",
+         "zh": [
             "肥料"
         ],
         "usphone": "'fɝtəlaɪzɚ",
         "ukphone": "'fɜːtəlaɪzə"
     },
     {
-        "name": "lorry",
-        "trans": [
+         "en": "lorry",
+         "zh": [
             "运货汽车， 卡车"
         ],
         "usphone": "'lɔri",
         "ukphone": "'lɒri"
     },
     {
-        "name": "carrier",
-        "trans": [
+         "en": "carrier",
+         "zh": [
             "运输工具， 运载工具； 带菌者； 载重架， 置物架"
         ],
         "usphone": "'kærɪɚ",
         "ukphone": "'kæriə"
     },
     {
-        "name": "fragment",
-        "trans": [
+         "en": "fragment",
+         "zh": [
             "成碎片",
             "碎片，破片，碎块"
         ],
@@ -21517,48 +21518,48 @@
         "ukphone": "'frægmənt"
     },
     {
-        "name": "corresponding",
-        "trans": [
+         "en": "corresponding",
+         "zh": [
             "相应的， 符合的"
         ],
         "usphone": ",kɔrə'spɑndɪŋ",
         "ukphone": "ˌkɒrə'spɒndɪŋ"
     },
     {
-        "name": "response",
-        "trans": [
+         "en": "response",
+         "zh": [
             "回答， 答复； 反应， 响应"
         ],
         "usphone": "rɪ'spɑns",
         "ukphone": "rɪ'spɒns"
     },
     {
-        "name": "treaty",
-        "trans": [
+         "en": "treaty",
+         "zh": [
             "条约， 协议， 协定"
         ],
         "usphone": "'triti",
         "ukphone": "'triːti"
     },
     {
-        "name": "responsive",
-        "trans": [
+         "en": "responsive",
+         "zh": [
             "响应的； 敏感的， 易受影响的"
         ],
         "usphone": "rɪ'spɑnsɪv",
         "ukphone": "rɪ'spɒnsɪv"
     },
     {
-        "name": "ounce",
-        "trans": [
+         "en": "ounce",
+         "zh": [
             "盎司"
         ],
         "usphone": "aʊns",
         "ukphone": "auns"
     },
     {
-        "name": "challenge",
-        "trans": [
+         "en": "challenge",
+         "zh": [
             "挑战；邀请比赛；艰巨的任务；怀疑，质问",
             "反对， 公然反抗； 向…挑战； 对…质疑"
         ],
@@ -21566,24 +21567,24 @@
         "ukphone": "'tʃælɪndʒ"
     },
     {
-        "name": "emit",
-        "trans": [
+         "en": "emit",
+         "zh": [
             "散发； 发射； 发表"
         ],
         "usphone": "ɪ'mɪt",
         "ukphone": "i'mɪt"
     },
     {
-        "name": "category",
-        "trans": [
+         "en": "category",
+         "zh": [
             "种类， 类， 类别"
         ],
         "usphone": "'kætəɡɔri",
         "ukphone": "'kætəgəri"
     },
     {
-        "name": "rival",
-        "trans": [
+         "en": "rival",
+         "zh": [
             "竞争的，对抗的",
             "竞争对手，敌手；可与匹敌的人",
             "与 …竞争； 与…匹敌， 比得上"
@@ -21592,16 +21593,16 @@
         "ukphone": "'raɪvl"
     },
     {
-        "name": "intend",
-        "trans": [
+         "en": "intend",
+         "zh": [
             "想要， 打算； 意思是； 打算使"
         ],
         "usphone": "ɪn'tɛnd",
         "ukphone": "ɪn'tend"
     },
     {
-        "name": "snap",
-        "trans": [
+         "en": "snap",
+         "zh": [
             "咔嚓折断，啪地绷断；吧嗒一声；猛咬；厉声说话，怒声责骂",
             "仓促的， 突然的",
             "吧嗒声；快照"
