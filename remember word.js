@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         摸鱼克星：全网强制背单词解锁网站
-// @version      1.0.0
+// @version      1.0.1
 // @description  【自律神器】严格拦截B站、知乎等摸鱼网站！打开网页选择正确的单词，才能解锁浏览。① 自定义拦截名单：在脚本开头代码的 @match 自由添加/删除想要封锁的网站；② 自定义每日词量
 // @author       linkgp
 // @license      MIT
@@ -78,7 +78,7 @@
         }
         if (isDataChanged) GM_setValue('memoryData', memoryData);
 
-        // 生成今日新任务池（如果没有任务，或者天数变了，重新生成 10 个词）
+        // 生成今日新任务池（如果没有任务，或者天数变了，重新生成 DAILY_WORD_COUNT 个词）
         if (dailyPool.date !== TODAY || !dailyPool.words || dailyPool.words.length === 0) {
             let newWords = [];
             const wordKeys = new Set(wordList.map(w => w.en));
@@ -91,12 +91,12 @@
             }
 
             overdueWords.sort((a, b) => memoryData[a].nextReview - memoryData[b].nextReview);
-            newWords = overdueWords.slice(0, 10);
+            newWords = overdueWords.slice(0, DAILY_WORD_COUNT);
 
-            if (wordList.length >= 4 && newWords.length < 10) {
+            if (wordList.length >= 4 && newWords.length < DAILY_WORD_COUNT) {
                 let shuffledList = fisherYatesShuffle([...wordList]);
                 for (let w of shuffledList) {
-                    if (newWords.length >= 10) break;
+                    if (newWords.length >= DAILY_WORD_COUNT) break;
                     if (!memoryData[w.en] && !newWords.includes(w.en)) newWords.push(w.en);
                 }
             }
