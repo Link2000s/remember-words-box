@@ -4,7 +4,7 @@ chcp 65001 >nul
 cls
 
 echo ====================================================
-echo 🚀 【摸鱼克星】开始全自动同步词库至 GitHub...
+echo 🚀 【摸鱼克星】开始全自动激活并同步词库至 GitHub...
 echo ====================================================
 echo.
 
@@ -16,20 +16,22 @@ if %errorlevel% neq 0 goto error
 :: 2. 提交更新，并带上当前时间戳作为备注
 echo.
 echo 📝 正在提交本地记录 (git commit) ...
-git commit -m "update: 自动化更新词库 ( %date% %time% )"
-if %errorlevel% neq 0 (
-    echo ℹ️ 没有检测到任何文件变动，无需提交。
-)
+git commit -m "update: 自动化同步词库 ( %date% %time% )"
 
-:: 3. 强推上云
+:: 3. 强行将本地当前虚拟分支重命名为统一的 main 分支（核心激活步骤）
+echo.
+echo 🔧 正在规范本地分支命名为 main ...
+git branch -M main
+
+:: 4. 强推上云
 echo.
 echo 📤 正在通过 CDN 渠道全速推送至 GitHub (git push) ...
-git push github master -f
+git push github main -f
 if %errorlevel% neq 0 goto error
 
 echo.
 echo ====================================================
-echo 🎉 【大功告成】云端词库已完美合龙！jsDelivr CDN 将在不久后无感同步。
+echo 🎉 【大功告成】本地分支已成功激活，云端词库完美合龙！
 echo ====================================================
 goto end
 
