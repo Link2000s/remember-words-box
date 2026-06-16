@@ -11,3 +11,4 @@
 ## 🛠️ 用户高度自定义指南
 * **修改每日词量**：打开主脚本代码第 14 行，将 `const DAILY_WORD_COUNT = 15;` 中的数字改为你想要的任意词量。
 * **增加拦截网站**：在脚本顶部的 `// @match` 区域，照猫画虎添加你想戒断的网址即可（如贴吧、小红书）。
+点击安装脚本[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-安装脚本-green.svg?style=for-the-badge&logo=tampermonkey)](https://greasyfork.org/zh-CN/scripts/582778-%E6%91%B8%E9%B1%BC%E5%85%8B%E6%98%9F-%E5%85%A8%E7%BD%91%E5%BC%BA%E5%88%B6%E8%83%8C%E5%8D%95%E8%AF%8D%E8%A7%A3%E9%94%81%E7%BD%91%E7%AB%99)
